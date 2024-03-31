@@ -39,7 +39,7 @@ def get_links(starturl):
             print(f"\033[91m[Error]\033[0m Filed to get {cur_url}: {e}")
 
         res = requests.get(cur_url).text
-        rule = re.compile(r"<a href=\"(?P<url>/wiki/%.*?)\" (title|class)")
+        rule = re.compile(r"<a href=\"(?P<url>\/wiki\/(%[A-F0-9]{2})+)\" (title|class)")
         urls = rule.finditer(res)
 
         for url in urls:
