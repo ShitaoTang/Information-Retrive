@@ -1,6 +1,8 @@
 import os
 import re
 import requests
+import sys
+import time
 from bs4 import BeautifulSoup
 from collections import deque
 import threading
@@ -10,14 +12,16 @@ from email.header import Header
 
 header = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "Accept-Language": "zh-CN,zh;q=0.9"
 } 
 
+cert_path = "~/Documents/ISRG Root X1.cer"
 
 class Crawler_en:
     start_url = "https://www.ietf.org/rfc/"
 
     def get_urls(self, rule):
-        urls = rule.finditer(requests.get(self.start_url, headers = header).text)
+        urls = rule.finditer(requests.get(self.start_url, headers = header, verify = False).text)
         return urls
 
     def get_url(self, urls):
@@ -27,7 +31,7 @@ class Crawler_en:
 
     def get_pages(self, url):
         try:
-            res = requests.get(url, headers = header)
+            res = requests.get(url, headers = header, verify = False)
         except requests.exceptions.RequestException:
             return None
         return BeautifulSoup(res.text, 'html.parser')
@@ -73,11 +77,7 @@ def run_en_crawler():
 
 class Crawler_cn:
 
-    # start_url = "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"
-
-    # start_url = "https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E"
-
-    start_url = "https://zh.wikipedia.org/wiki/%E9%83%B4%E5%B7%9E%E5%B8%82"
+    start_url = "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"
 
     add_urls = set()
     queue = deque([start_url])
@@ -100,13 +100,13 @@ class Crawler_cn:
             if cur_url in self.add_urls:
                 continue
             else:
-                print(f"\033[92m[Success]\033[0m {cur_url}")
+                # print(f"\033[92m[Success]\033[0m {cur_url}")
                 self.add_urls.add(cur_url)
                 self.count += 1
             
             try:
                 res = requests.get(cur_url, headers = header, verify = False)
-                res.raise_for_status()
+                # res.raise_for_status()
             except requests.exceptions.RequestException as e:
                 print(f"\033[91m[Error]\033[0m Filed to get {cur_url}: {e}")
 
@@ -137,7 +137,7 @@ def run_cn_crawler():
 def send_email():
     sender = '744317484@qq.com'  
     receivers = ['tst17@my.swjtu.edu.cn']  
-    # auth_code = ""  
+    auth_code = "uslovcpsshmjbfbc"  
 
     message = MIMEText('webpages download successfully!', 'plain', 'utf-8')
     message['From'] = Header("Sender<%s>" % sender) 
@@ -157,18 +157,35 @@ def send_email():
         print("\033[91m[Error]\033[0m Failed to send email!")
 
 
-# if __name__ == "__main__":
-#     thread1 = threading.Thread(target=run_en_crawler)
-#     thread2 = threading.Thread(target=run_cn_crawler)
+def spinning_cursor():
+    while True:
+        for cursor in '|/-\\':
+            sys.stdout.write(cursor)
+            sys.stdout.flush()
+            time.sleep(0.1)
+            sys.stdout.write('\b')
 
-#     thread1.start()
-#     thread2.start()
+def start_spinner():
+    spinner_thread = threading.Thread(target=spinning_cursor)
+    spinner_thread.daemon = True  # 设置为守护线程，以便在程序退出时自动关闭
+    spinner_thread.start()
 
-#     thread1.join()
-#     thread2.join()
+
+
+if __name__ == "__main__":
+    thread1 = threading.Thread(target=run_en_crawler)
+    thread2 = threading.Thread(target=run_cn_crawler)
+    # thread3 = threading.Thread(target=spinning_cursor)
+
+    thread1.start()
+    thread2.start()
+    # thread3.start()
+
+    thread1.join()
+    thread2.join()
+    # thread3.join()
     
-#     send_email()
+    # file_count = len(os.listdir("downloaded/cn"))
+    # if file_count >= 600:
+    #     send_email()
 
-
-run_cn_crawler()
-send_email()

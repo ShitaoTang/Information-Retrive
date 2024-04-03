@@ -70,29 +70,38 @@
 # beep(duration)
    
 
-import smtplib
-from email.mime.text import MIMEText
-from email.header import Header
+# import smtplib
+# from email.mime.text import MIMEText
+# from email.header import Header
 
 
-sender = '744317484@qq.com'  # 发送邮箱
-receivers = ['tst17@my.swjtu.edu.cn']  # 接收邮箱
-# auth_code = uslovcpsshmjbfbc"  # 授权码
+# sender = '744317484@qq.com'  # 发送邮箱
+# receivers = ['tst17@my.swjtu.edu.cn']  # 接收邮箱
+# # auth_code = uslovcpsshmjbfbc"  # 授权码
 
-message = MIMEText('Python发送邮件', 'plain', 'utf-8')
-message['From'] = Header("Sender<%s>" % sender)  # 发送者
-message['To'] = Header("Receiver<%s>" % receivers[0])  # 接收者
+# message = MIMEText('Python发送邮件', 'plain', 'utf-8')
+# message['From'] = Header("Sender<%s>" % sender)  # 发送者
+# message['To'] = Header("Receiver<%s>" % receivers[0])  # 接收者
 
-subject = 'Python SMTP 邮件测试'
-message['Subject'] = Header(subject, 'utf-8')
+# subject = 'Python SMTP 邮件测试'
+# message['Subject'] = Header(subject, 'utf-8')
 
 
-try:
-    server = smtplib.SMTP_SSL('smtp.qq.com', 465)
-    server.login(sender, auth_code)
-    server.sendmail(sender, receivers, message.as_string())
-    print("邮件发送成功")
-    server.close()
-except smtplib.SMTPException:
-    print("Error: 无法发送邮件")
+# try:
+#     server = smtplib.SMTP_SSL('smtp.qq.com', 465)
+#     server.login(sender, auth_code)
+#     server.sendmail(sender, receivers, message.as_string())
+#     print("邮件发送成功")
+#     server.close()
+# except smtplib.SMTPException:
+#     print("Error: 无法发送邮件")
 
+import requests
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+}
+res = requests.get("https://zh.wikipedia.org/wiki/操作系统", headers = headers)
+
+print(res.text)
