@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>信息安全 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"5f435245-9f54-4ce5-b013-078aec1f80bc","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"信息安全","wgTitle":"信息安全","wgCurRevisionId":79112508,"wgRevisionId":79112508,"wgArticleId":16768,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2010年12月需要专业人士关注的页面","所有需要專家關注的頁面","其他需要專家關注的頁面","含有英語的條目","包含LNB标识符的维基百科条目","包含NKC标识符的维基百科条目","資訊安全","電腦安全","信息治理"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"信息安全","wgRelevantArticleId":16768,"wgUserVariant":"zh-cn",
+"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q189900","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI",
+"ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/1200px-CIAJMK1209-en.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1200">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/800px-CIAJMK1209-en.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/640px-CIAJMK1209-en.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="信息安全 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-信息安全 rootpage-信息安全 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-名詞區分"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#名詞區分">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>名词区分</div>
+		</a>
+		
+		<ul id="toc-名詞區分-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-历史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#历史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>历史</div>
+		</a>
+		
+		<ul id="toc-历史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-基本原理"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#基本原理">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>基本原理</div>
+		</a>
+		
+			<button aria-controls="toc-基本原理-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关基本原理子章节</span>
+			</button>
+		
+		<ul id="toc-基本原理-sublist" class="vector-toc-list">
+			<li id="toc-關鍵概念"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#關鍵概念">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>关键概念</div>
+			</a>
+			
+			<ul id="toc-關鍵概念-sublist" class="vector-toc-list">
+				<li id="toc-机密性"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#机密性">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1</span>机密性</div>
+			</a>
+			
+			<ul id="toc-机密性-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-完整性"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#完整性">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2</span>完整性</div>
+			</a>
+			
+			<ul id="toc-完整性-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-可用性"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#可用性">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.3</span>可用性</div>
+			</a>
+			
+			<ul id="toc-可用性-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-其他特性"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#其他特性">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.4</span>其他特性</div>
+			</a>
+			
+			<ul id="toc-其他特性-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-3A"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#3A">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>3A</div>
+			</a>
+			
+			<ul id="toc-3A-sublist" class="vector-toc-list">
+				<li id="toc-認證（Authentication）"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#認證（Authentication）">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.1</span>认证（Authentication）</div>
+			</a>
+			
+			<ul id="toc-認證（Authentication）-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-授權（Authorization）"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#授權（Authorization）">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2</span>授权（Authorization）</div>
+			</a>
+			
+			<ul id="toc-授權（Authorization）-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-紀錄（Accounting）"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#紀錄（Accounting）">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.3</span>纪录（Accounting）</div>
+			</a>
+			
+			<ul id="toc-紀錄（Accounting）-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-过程控制"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#过程控制">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>过程控制</div>
+		</a>
+		
+			<button aria-controls="toc-过程控制-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关过程控制子章节</span>
+			</button>
+		
+		<ul id="toc-过程控制-sublist" class="vector-toc-list">
+			<li id="toc-突发事件控制"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#突发事件控制">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>突发事件控制</div>
+			</a>
+			
+			<ul id="toc-突发事件控制-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-各國法律、法规与标准"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#各國法律、法规与标准">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>各国法律、法规与标准</div>
+		</a>
+		
+		<ul id="toc-各國法律、法规与标准-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">信息安全</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。48种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-48" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">48种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA" title="أمن المعلومات – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Segurid%C3%A1_de_la_informaci%C3%B3n" title="Seguridá de la información – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C4%B0nformasiya_t%C9%99hl%C3%BCk%C9%99sizliyi" title="İnformasiya təhlükəsizliyi – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0_%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%82" title="Информационна сигурност – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE" title="তথ্য নিরাপত্তা – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Seguretat_de_la_informaci%C3%B3" title="Seguretat de la informació – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_bezpe%C4%8Dnost" title="Informační bezpečnost – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Informationssikkerhed" title="Informationssikkerhed – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Informationssicherheit" title="Informationssicherheit – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%83%CF%86%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1_%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CF%8E%CE%BD_%CF%83%CF%85%CF%83%CF%84%CE%B7%CE%BC%CE%AC%CF%84%CF%89%CE%BD" title="Ασφάλεια πληροφοριακών συστημάτων – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Information_security" title="Information security – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n" title="Seguridad de la información – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Andmeturve" title="Andmeturve – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Informazioaren_segurtasun" title="Informazioaren segurtasun – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA" title="امنیت اطلاعات – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tietoturva" title="Tietoturva – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_de_l%27information" title="Sécurité de l&#039;information – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%98%D7%97%D7%AA_%D7%9E%D7%99%D7%93%D7%A2" title="אבטחת מידע – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE_%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE" title="सूचना सुरक्षा – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Inform%C3%A1ci%C3%B3biztons%C3%A1g" title="Információbiztonság – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8F%D5%A5%D5%B2%D5%A5%D5%AF%D5%A1%D5%BF%D5%BE%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%BE%D5%BF%D5%A1%D5%B6%D5%A3%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Տեղեկատվական անվտանգություն – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Keamanan_informasi" title="Keamanan informasi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3" title="情報セキュリティ – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%90%D2%9B%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D2%9B_%D2%9B%D0%B0%D1%83%D1%96%D0%BF%D1%81%D1%96%D0%B7%D0%B4%D1%96%D0%BA" title="Ақпараттық қауіпсіздік – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B3%B4_%EB%B3%B4%EC%95%88" title="정보 보안 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Inform%C4%81cijas_dro%C5%A1%C4%ABba" title="Informācijas drošība – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%81%D0%BA%D0%B0_%D0%B1%D0%B5%D0%B7%D0%B1%D0%B5%D0%B4%D0%BD%D0%BE%D1%81%D1%82" title="Информациска безбедност – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D0%BB%D0%B8%D0%B9%D0%BD_%D0%B0%D1%8E%D1%83%D0%BB%D0%B3%D2%AF%D0%B9_%D0%B1%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB" title="Мэдээллийн аюулгүй байдал – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Keselamatan_maklumat" title="Keselamatan maklumat – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Informatiebeveiliging" title="Informatiebeveiliging – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Informasjonssikkerhet" title="Informasjonssikkerhet – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%A4%E0%AC%A5%E0%AD%8D%E0%AD%9F_%E0%AC%A8%E0%AC%BF%E0%AC%B0%E0%AC%BE%E0%AC%AA%E0%AC%A4%E0%AD%8D%E0%AC%A4%E0%AC%BE" title="ତଥ୍ୟ ନିରାପତ୍ତା – 奥里亚语" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A8%BE%E0%A8%A3%E0%A8%95%E0%A8%BE%E0%A8%B0%E0%A9%80_%E0%A8%A6%E0%A9%80_%E0%A8%B8%E0%A9%81%E0%A8%B0%E0%A9%B1%E0%A8%96%E0%A8%BF%E0%A8%86" title="ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA%D9%8A_%D8%AE%D9%88%D9%86%D8%AF%DB%8C%D8%AA%D9%88%D8%A8" title="اطلاعاتي خوندیتوب – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o" title="Segurança da informação – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Securitatea_informa%C8%9Biei" title="Securitatea informației – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Информационная безопасность – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Information_security" title="Information security – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Informacijska_varnost" title="Informacijska varnost – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Siguria_e_informacionit" title="Siguria e informacionit – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Bezbednost_informacija" title="Bezbednost informacija – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Informationss%C3%A4kerhet" title="Informationssäkerhet – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="தகவல் பாதுகாப்பு – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5" title="การรักษาความปลอดภัยทางข้อมูล – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Bilgi_g%C3%BCvenli%C4%9Fi" title="Bilgi güvenliği – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0" title="Інформаційна безпека – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Axborot_xavfsizligi" title="Axborot xavfsizligi – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/An_to%C3%A0n_th%C3%B4ng_tin" title="An toàn thông tin – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q189900#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;oldid=79112508" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;id=79112508&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BF%25A1%25E6%2581%25AF%25E5%25AE%2589%25E5%2585%25A8"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BF%25A1%25E6%2581%25AF%25E5%25AE%2589%25E5%2585%25A8"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q189900" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Information_security" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-1175cab0" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目需要<b>精通或熟悉相关主题的编者</b>参与及协助编辑。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2010年12月18日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a href="/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84" title="Wikipedia:专家邀请工作小组">邀请</a>适合的人士<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit">改善本条目</a>。更多的细节与详情请参见<a href="/wiki/Talk:%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="Talk:信息安全">讨论页</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-1175cab0" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-hans:安全; zh-hant:安全; zh-tw:資安"></div><div data-noteta-code="zh-hans:信安; zh-hant:資安; zh-tw:資安"></div><div data-noteta-code="zh-hans:信息安全; zh-hant:資訊保安; zh-tw:資訊安全"></div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r78559700">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:100%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar nomobile nowraplinks hlist"><tbody><tr><td class="sidebar-pretitle">系列条目</td></tr><tr><th class="sidebar-title-with-pretitle"><a class="mw-selflink selflink">信息安全</a></th></tr><tr><td class="sidebar-image"><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:CIAJMK1209-en.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/150px-CIAJMK1209-en.svg.png" decoding="async" width="150" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/225px-CIAJMK1209-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CIAJMK1209-en.svg/300px-CIAJMK1209-en.svg.png 2x" data-file-width="496" data-file-height="496" /></a><figcaption></figcaption></figure></td></tr><tr><th class="sidebar-heading">
+相关安全分类</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">计算机安全</a></li>
+<li><a href="/wiki/%E6%B1%BD%E8%BB%8A%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8" title="汽车网络安全">汽车网络安全</a></li>
+<li><span class="ilh-all" data-orig-title="網路犯罪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cybercrime"><span class="ilh-page"><a href="/wiki/%E7%BD%91%E7%BB%9C%E7%8A%AF%E7%BD%AA" class="mw-redirect" title="网络犯罪">网络犯罪</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cybercrime" class="extiw" title="en:Cybercrime"><span lang="en" dir="auto">Cybercrime</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="網路性交易" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cybersex trafficking"><span class="ilh-page"><a href="/w/index.php?title=%E7%B6%B2%E8%B7%AF%E6%80%A7%E4%BA%A4%E6%98%93&amp;action=edit&amp;redlink=1" class="new" title="网络性交易（页面不存在）">网络性交易</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cybersex_trafficking" class="extiw" title="en:Cybersex trafficking"><span lang="en" dir="auto">Cybersex trafficking</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%94%B5%E8%84%91%E8%AF%88%E9%AA%97" title="电脑诈骗">电脑诈骗</a></li></ul></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E6%9C%AB%E6%97%A5%E6%88%B0" title="网络末日战">网络末日战</a></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9" title="网络恐怖主义">网络恐怖主义</a></li>
+<li><a href="/wiki/%E7%B6%B2%E7%B5%A1%E6%88%B0" title="网络战">网络战</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E4%BD%9C%E6%88%B0" title="电子作战">电子作战</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E6%88%98" title="信息战">信息战</a></li>
+<li><span class="ilh-all" data-orig-title="互联网安全" data-lang-code="en" data-lang-name="英语" data-foreign-title="Internet security"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%92%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="互联网安全（页面不存在）">互联网安全</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Internet_security" class="extiw" title="en:Internet security"><span lang="en" dir="auto">Internet security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A7%BB%E5%8B%95%E5%AE%89%E5%85%A8" title="移动安全">移动安全</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" title="网络安全">网络安全</a>、<a href="/wiki/%E5%85%AC%E5%BC%80%E6%9D%A5%E6%BA%90%E6%83%85%E6%8A%A5" title="公开来源情报">公开来源情报</a>与反制(<span lang="en">Open Source Intelligence</span>,OSINT）</li>
+<li><a href="/wiki/%E5%A4%8D%E5%88%B6%E4%BF%9D%E6%8A%A4" title="复制保护">复制保护</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E7%89%88%E6%9D%83%E7%AE%A1%E7%90%86" title="数字版权管理">数字版权管理</a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+威胁</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E5%BB%A3%E5%91%8A%E8%BB%9F%E9%AB%94" title="广告软件">广告软件</a></li>
+<li><a href="/wiki/%E9%AB%98%E7%BA%A7%E9%95%BF%E6%9C%9F%E5%A8%81%E8%83%81" title="高级长期威胁">高级长期威胁</a></li>
+<li><a href="/wiki/%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C" title="任意代码执行">任意代码执行</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E5%BE%8C%E9%96%80" title="软件后门">软件后门</a></li>
+<li><span class="ilh-all" data-orig-title="硬體後門" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hardware backdoors"><span class="ilh-page"><a href="/w/index.php?title=%E7%A1%AC%E9%AB%94%E5%BE%8C%E9%96%80&amp;action=edit&amp;redlink=1" class="new" title="硬件后门（页面不存在）">硬件后门</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hardware_backdoors" class="extiw" title="en:Hardware backdoors"><span lang="en" dir="auto">Hardware backdoors</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BB%A3%E7%A2%BC%E6%B3%A8%E5%85%A5" title="代码注入">代码注入</a></li>
+<li><a href="/wiki/%E7%8A%AF%E7%BD%AA%E8%BD%AF%E4%BB%B6" title="犯罪软件">犯罪软件</a></li>
+<li><a href="/wiki/%E8%B7%A8%E7%B6%B2%E7%AB%99%E6%8C%87%E4%BB%A4%E7%A2%BC" title="跨网站脚本">跨网站脚本</a></li>
+<li><a href="/wiki/%E9%A8%8E%E5%8A%AB%E6%8C%96%E7%A4%A6" title="骑劫挖矿">骑劫挖矿</a></li>
+<li><a href="/wiki/%E6%AE%AD%E5%B1%8D%E7%B6%B2%E7%B5%A1" title="僵尸网络">僵尸网络</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2" title="数据泄露">数据泄露</a></li>
+<li><a href="/wiki/%E8%B7%AF%E8%BF%87%E5%BC%8F%E4%B8%8B%E8%BD%BD" title="路过式下载">路过式下载</a></li>
+<li><a href="/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BE%85%E5%8A%A9%E5%AF%B9%E8%B1%A1" title="浏览器辅助对象">浏览器辅助对象</a></li>
+<li><a href="/wiki/%E7%94%B5%E8%84%91%E7%8A%AF%E7%BD%AA" title="电脑犯罪">电脑犯罪</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92" title="计算机病毒">计算机病毒</a></li>
+<li><span class="ilh-all" data-orig-title="資料抓取" data-lang-code="en" data-lang-name="英语" data-foreign-title="Data scraping"><span class="ilh-page"><a href="/w/index.php?title=%E8%B3%87%E6%96%99%E6%8A%93%E5%8F%96&amp;action=edit&amp;redlink=1" class="new" title="资料抓取（页面不存在）">资料抓取</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Data_scraping" class="extiw" title="en:Data scraping"><span lang="en" dir="auto">Data scraping</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%98%BB%E6%96%B7%E6%9C%8D%E5%8B%99%E6%94%BB%E6%93%8A" title="拒绝服务攻击">拒绝服务攻击</a></li>
+<li><a href="/wiki/%E7%AB%8A%E8%81%BD" title="窃听">窃听</a></li>
+<li><span class="ilh-all" data-orig-title="郵件詐騙" data-lang-code="en" data-lang-name="英语" data-foreign-title="Email fraud"><span class="ilh-page"><a href="/w/index.php?title=%E9%83%B5%E4%BB%B6%E8%A9%90%E9%A8%99&amp;action=edit&amp;redlink=1" class="new" title="邮件诈骗（页面不存在）">邮件诈骗</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Email_fraud" class="extiw" title="en:Email fraud"><span lang="en" dir="auto">Email fraud</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="郵件混淆" data-lang-code="en" data-lang-name="英语" data-foreign-title="Email spoofing"><span class="ilh-page"><a href="/w/index.php?title=%E9%83%B5%E4%BB%B6%E6%B7%B7%E6%B7%86&amp;action=edit&amp;redlink=1" class="new" title="邮件混淆（页面不存在）">邮件混淆</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Email_spoofing" class="extiw" title="en:Email spoofing"><span lang="en" dir="auto">Email spoofing</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8" title="漏洞利用">漏洞利用</a></li>
+<li><a href="/wiki/%E9%94%AE%E7%9B%98%E8%AE%B0%E5%BD%95" title="键盘记录">键盘记录</a></li>
+<li><a href="/wiki/%E9%82%8F%E8%BC%AF%E7%82%B8%E5%BD%88" title="逻辑炸弹">逻辑炸弹</a></li>
+<li><span class="ilh-all" data-orig-title="定時炸彈 (軟體)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Time bomb (software)"><span class="ilh-page"><a href="/wiki/%E5%AE%9A%E6%97%B6%E7%82%B8%E5%BC%B9_(%E8%BD%AF%E4%BB%B6)" title="定时炸弹 (软件)">定时炸弹</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Time_bomb_(software)" class="extiw" title="en:Time bomb (software)"><span lang="en" dir="auto">Time bomb (software)</span></a></span>）</span></span></li>
+<li><a href="/wiki/Fork%E7%82%B8%E5%BC%B9" title="Fork炸弹">Fork炸弹</a></li>
+<li><a href="/wiki/Zip_%E7%82%B8%E5%BC%B9" title="Zip 炸弹">Zip 炸弹</a></li>
+<li><span class="ilh-all" data-orig-title="撥號器" data-lang-code="en" data-lang-name="英语" data-foreign-title="dialer"><span class="ilh-page"><a href="/w/index.php?title=%E6%92%A5%E8%99%9F%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="拨号器（页面不存在）">欺诈拨号器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/dialer" class="extiw" title="en:dialer"><span lang="en" dir="auto">dialer</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6" title="恶意软件">恶意软件</a></li>
+<li><a href="/wiki/%E8%B4%9F%E8%BD%BD_(%E8%AE%A1%E7%AE%97%E6%9C%BA)" title="负载 (计算机)">负载</a></li>
+<li><a href="/wiki/%E9%92%93%E9%B1%BC%E5%BC%8F%E6%94%BB%E5%87%BB" title="钓鱼式攻击">钓鱼式攻击</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%9E%8B%E5%BC%95%E6%93%8E" title="多态引擎">多态引擎</a></li>
+<li><a href="/wiki/%E7%89%B9%E6%9D%83%E6%8F%90%E5%8D%87" title="特权提升">特权提升</a></li>
+<li><a href="/wiki/%E5%8B%92%E7%B4%A2%E8%BB%9F%E9%AB%94" title="勒索软件">勒索软件</a></li>
+<li><a href="/wiki/Rootkit" title="Rootkit">Rootkit</a></li>
+<li><a href="/wiki/%E6%81%90%E5%9A%87%E8%BB%9F%E9%AB%94" title="恐吓软件">恐吓软件</a></li>
+<li><a href="/wiki/Shellcode" title="Shellcode">Shellcode</a></li>
+<li><a href="/wiki/%E6%BF%AB%E7%99%BC%E9%9B%BB%E5%AD%90%E8%A8%8A%E6%81%AF" title="滥发电子消息">滥发电子消息</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6" title="社会工程学">社会工程学</a></li>
+<li><span class="ilh-all" data-orig-title="屏幕抓取" data-lang-code="en" data-lang-name="英语" data-foreign-title="Screen scrape"><span class="ilh-page"><a href="/w/index.php?title=%E5%B1%8F%E5%B9%95%E6%8A%93%E5%8F%96&amp;action=edit&amp;redlink=1" class="new" title="屏幕抓取（页面不存在）">屏幕抓取</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Screen_scrape" class="extiw" title="en:Screen scrape"><span lang="en" dir="auto">Screen scrape</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%97%B4%E8%B0%8D%E8%BD%AF%E4%BB%B6" title="间谍软件">间谍软件</a></li>
+<li><a href="/wiki/%E7%A8%8B%E5%BA%8F%E9%94%99%E8%AF%AF" title="程序错误">程序错误</a></li>
+<li><a href="/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E6%9C%A8%E9%A9%AC_(%E7%94%B5%E8%84%91)" title="特洛伊木马 (电脑)">特洛伊木马</a></li>
+<li><span class="ilh-all" data-orig-title="硬體木馬" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hardware Trojan"><span class="ilh-page"><a href="/w/index.php?title=%E7%A1%AC%E9%AB%94%E6%9C%A8%E9%A6%AC&amp;action=edit&amp;redlink=1" class="new" title="硬件木马（页面不存在）">硬件木马</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hardware_Trojan" class="extiw" title="en:Hardware Trojan"><span lang="en" dir="auto">Hardware Trojan</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BD%AF%E4%BB%B6" title="远程桌面软件">远程桌面软件</a></li>
+<li><a href="/wiki/%E6%BC%8F%E6%B4%9E" title="漏洞">漏洞</a></li>
+<li><a href="/wiki/%E5%BE%8C%E9%96%80%E6%AE%BC%E5%B1%A4" title="后门壳层">后门壳层</a></li>
+<li><span class="ilh-all" data-orig-title="刪除器 (惡意程式)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Wiper (malware)"><span class="ilh-page"><a href="/w/index.php?title=%E5%88%AA%E9%99%A4%E5%99%A8_(%E6%83%A1%E6%84%8F%E7%A8%8B%E5%BC%8F)&amp;action=edit&amp;redlink=1" class="new" title="删除器 (恶意程序)（页面不存在）">删除器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Wiper_(malware)" class="extiw" title="en:Wiper (malware)"><span lang="en" dir="auto">Wiper (malware)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E8%A0%95%E8%9F%B2" title="电脑蠕虫">电脑蠕虫</a></li>
+<li><a href="/wiki/SQL%E6%B3%A8%E5%85%A5" title="SQL注入">SQL注入</a></li>
+<li><a href="/wiki/%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6" title="恶意软件">流氓软件</a></li>
+<li><a href="/wiki/%E6%AE%AD%E5%B1%8D%E9%9B%BB%E8%85%A6" title="僵尸电脑">僵尸电脑</a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+防御</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%AE%89%E5%85%A8" title="应用程序安全">应用程序安全</a>
+<ul><li><a href="/wiki/%E5%AE%89%E5%85%A8%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB" title="安全代码撰写">安全代码撰写</a></li>
+<li><a href="/wiki/%E9%A0%90%E8%A8%AD%E5%AE%89%E5%85%A8" title="默认安全">默认安全</a></li>
+<li><a href="/wiki/%E5%9F%BA%E6%96%BC%E5%AE%89%E5%85%A8%E7%9A%84%E8%A8%AD%E8%A8%88" title="基于安全的设计">基于安全的设计</a>
+<ul><li><span class="ilh-all" data-orig-title="誤用案例" data-lang-code="en" data-lang-name="英语" data-foreign-title="Misuse case"><span class="ilh-page"><a href="/w/index.php?title=%E8%AA%A4%E7%94%A8%E6%A1%88%E4%BE%8B&amp;action=edit&amp;redlink=1" class="new" title="误用案例（页面不存在）">误用案例</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Misuse_case" class="extiw" title="en:Misuse case"><span lang="en" dir="auto">Misuse case</span></a></span>）</span></span></li></ul></li></ul></li>
+<li><span class="ilh-all" data-orig-title="電腦存取控制" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer access control"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E8%85%A6%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="电脑访问控制（页面不存在）">电脑访问控制</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer_access_control" class="extiw" title="en:Computer access control"><span lang="en" dir="auto">Computer access control</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81" title="身份验证">身份验证</a>
+<ul><li><a href="/wiki/%E5%A4%9A%E9%87%8D%E8%A6%81%E7%B4%A0%E9%A9%97%E8%AD%89" title="多重要素验证">多重要素验证</a></li></ul></li>
+<li><a href="/wiki/%E6%8E%88%E6%AC%8A_(%E8%B3%87%E5%AE%89)" title="授权 (信安)">授权</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="電腦安全軟體" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer security software"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E8%85%A6%E5%AE%89%E5%85%A8%E8%BB%9F%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="电脑安全软件（页面不存在）">电脑安全软件</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer_security_software" class="extiw" title="en:Computer security software"><span lang="en" dir="auto">Computer security software</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6" title="杀毒软件">杀毒软件</a></li>
+<li><span class="ilh-all" data-orig-title="安全作業系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security-focused operating system"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="安全操作系统（页面不存在）">安全操作系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security-focused_operating_system" class="extiw" title="en:Security-focused operating system"><span lang="en" dir="auto">Security-focused operating system</span></a></span>）</span></span></li></ul></li>
+<li><span class="ilh-all" data-orig-title="以資料為中心的安全" data-lang-code="en" data-lang-name="英语" data-foreign-title="Data-centric security"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%A5%E8%B3%87%E6%96%99%E7%82%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%AE%89%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="以资料为中心的安全（页面不存在）">以资料为中心的安全</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Data-centric_security" class="extiw" title="en:Data-centric security"><span lang="en" dir="auto">Data-centric security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86" title="代码混淆">代码混淆</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F" title="数据脱敏">数据脱敏</a></li>
+<li><a href="/wiki/%E5%8A%A0%E5%AF%86" title="加密">加密</a></li>
+<li><a href="/wiki/%E9%98%B2%E7%81%AB%E5%A2%99" title="防火墙">防火墙</a></li>
+<li><a href="/wiki/%E5%AE%89%E5%85%A8%E5%BC%B7%E5%8C%96" title="安全强化">安全强化</a></li>
+<li><a href="/wiki/%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F" title="入侵检测系统">入侵检测系统</a>
+<ul><li><a href="/wiki/%E4%B8%BB%E6%A9%9F%E5%85%A5%E4%BE%B5%E6%AA%A2%E6%B8%AC%E7%B3%BB%E7%B5%B1" title="主机入侵检测系统">主机入侵检测系统</a> (HIDS)</li>
+<li><a href="/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B" title="异常检测">异常检测</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="安全性資訊與事件管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security information and event management"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E6%80%A7%E8%B3%87%E8%A8%8A%E8%88%87%E4%BA%8B%E4%BB%B6%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="安全性信息与事件管理（页面不存在）">安全性信息与事件管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security_information_and_event_management" class="extiw" title="en:Security information and event management"><span lang="en" dir="auto">Security information and event management</span></a></span>）</span></span> (SIEM)</li>
+<li><a href="/wiki/%E8%B3%87%E5%AE%89%E5%8D%94%E4%BD%9C%E8%87%AA%E5%8B%95%E5%8C%96%E6%87%89%E8%AE%8A" title="信安协作自动化应变">信安协作自动化应变</a> (SOAR)</li>
+<li><span class="ilh-all" data-orig-title="安全行動閘道" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mobile secure gateway"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E8%A1%8C%E5%8B%95%E9%96%98%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="安全行动网关（页面不存在）">安全行动网关</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mobile_secure_gateway" class="extiw" title="en:Mobile secure gateway"><span lang="en" dir="auto">Mobile secure gateway</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="應用程式執行期保護" data-lang-code="en" data-lang-name="英语" data-foreign-title="Runtime application self-protection"><span class="ilh-page"><a href="/w/index.php?title=%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C%E6%9C%9F%E4%BF%9D%E8%AD%B7&amp;action=edit&amp;redlink=1" class="new" title="应用程序执行期保护（页面不存在）">应用程序执行期保护</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Runtime_application_self-protection" class="extiw" title="en:Runtime application self-protection"><span lang="en" dir="auto">Runtime application self-protection</span></a></span>）</span></span></li></ul></td>
+</tr><tr><td class="sidebar-navbar" style="line-height:1.6"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="Template:信息安全"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="Template talk:信息安全"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:2010-T10-ArchitectureDiagram.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/2010-T10-ArchitectureDiagram.png/280px-2010-T10-ArchitectureDiagram.png" decoding="async" width="280" height="106" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/2010-T10-ArchitectureDiagram.png/420px-2010-T10-ArchitectureDiagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/2010-T10-ArchitectureDiagram.png/560px-2010-T10-ArchitectureDiagram.png 2x" data-file-width="947" data-file-height="360" /></a><figcaption>电脑网络入侵</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Tab_log.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tab_log.png/280px-Tab_log.png" decoding="async" width="280" height="237" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tab_log.png/420px-Tab_log.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/eb/Tab_log.png 2x" data-file-width="459" data-file-height="389" /></a><figcaption><a href="/wiki/%E9%98%B2%E7%81%AB%E7%89%86" class="mw-redirect" title="防火墙">防火墙</a>的视察软件接口示例，记录<a href="/wiki/IP%E5%9C%B0%E5%9D%80" title="IP地址">IP</a>进出情况与对应事件</figcaption></figure>
+<table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:88%;line-height:1.5em;margin: 0 0 1em 1em; float: right;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:;">“信息安全”的各地常用名称</th></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">中国大陆</th><td style="white-space: nowrap; font-size: 1rem;;">信息安全 </td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">台湾</th><td style="white-space: nowrap; font-size: 1rem;;">资讯安全 </td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">港澳</th><td style="white-space: nowrap; font-size: 1rem;;">资讯保安 </td></tr></tbody></table>
+<p><b>信息安全</b>，意为保护<a href="/wiki/%E4%BF%A1%E6%81%AF" title="信息">信息</a>及<a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a>免受未经授权的进入、使用、披露、破坏、修改、检视、记录及销毁。政府、军队、公司、金融机构、医院、私人企业积累大量与雇员、顾客、产品、研究、金融数据有关的机密信息，而绝大部分的信息现在被收集、产生、存储在<a href="/wiki/%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="电子计算机">电子计算机</a>内，并通过<a href="/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2" class="mw-redirect" title="互联网">网络</a>传送到别的计算机。如果企业的顾客、财政状况、新产品线的机密信息落入竞争对手的掌握，这种安全性的丧失可能会导致经济上的损失、法律诉讼甚至该企业的破产。保护机密的信息是商业上的需求，而在许多情况中也是道德和法律上的需求。
+</p><p>对于个人来说，信息安全对于<a href="/wiki/%E5%80%8B%E4%BA%BA%E7%A7%81%E9%9A%B1" class="mw-redirect" title="个人隐私">个人隐私</a>具有重大的影响，但这在不同的文化中的看法差异很大。信息安全在最近这些年经历巨大变化。有很多方式进入这一领域，并将之作为一项事业。它提供了许多专门的研究领域，包括：安全的网络和公共基础设施、安全的应用<a href="/wiki/%E8%BD%AF%E4%BB%B6" title="软件">软件</a>和<a href="/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93" title="数据库">数据库</a>、安全测试、信息系统评估、企业安全规划以及数字取证技术等等。为保障信息安全，要求有信息源认证、访问控制，不能有非法软件驻留，不能有未授权的操作等行为。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.90.8D.E8.A9.9E.E5.8D.80.E5.88.86"></span><span class="mw-headline" id="名詞區分">名词区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=1" title="编辑章节：名词区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:CIAJMK1209.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CIAJMK1209.png/250px-CIAJMK1209.png" decoding="async" width="250" height="245" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CIAJMK1209.png/375px-CIAJMK1209.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CIAJMK1209.png/500px-CIAJMK1209.png 2x" data-file-width="1216" data-file-height="1193" /></a><figcaption>信安概念</figcaption></figure>
+<p>信息安全这一术语，与<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">计算机安全</a>和<a href="/wiki/%E4%BF%A1%E6%81%AF%E4%BF%9D%E9%9A%9C" title="信息保障">信息保障</a>（information assurance）等术语经常被不正确地互相替换使用。这些领域经常相互关联，并且拥有一些共同的目标：保护信息的机密性、完整性、可用性；然而，它们之间仍然有一些微妙的区别。
+</p><p>区别主要存在于达到这些目标所使用的方法及策略，以及所关心的领域。信息安全主要涉及数据的机密性、完整性、可用性，而不管数据的存在形式是电子的、印刷的还是其它的形式；计算机安全可以指：关注计算机系统的可用性及正确的操作，而并不关心计算机内存储或产生的信息。为保障信息安全，要求有信息源认证、访问控制，不能有非法软件驻留，不能有未授权的操作等行为。
+</p>
+<h2><span id=".E5.8E.86.E5.8F.B2"></span><span class="mw-headline" id="历史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=2" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>自从人类有了书写<a href="/wiki/%E6%96%87%E5%AD%97" title="文字">文字</a>之后，<a href="/wiki/%E5%9B%BD%E5%AE%B6" title="国家">国家</a>首脑和<a href="/wiki/%E5%86%9B%E9%98%9F" class="mw-redirect" title="军队">军队</a>指挥官就已经明白，使用一些技巧来保证<a href="/wiki/%E9%80%9A%E4%BF%A1" title="通信">通信</a>的机密以及获知其是否被篡改是非常有必要的。<a href="/wiki/%E5%87%AF%E6%92%92" class="mw-redirect" title="凯撒">凯撒</a>被认为在公元前50年发明了<a href="/wiki/%E5%87%AF%E6%92%92%E5%AF%86%E7%A0%81" class="mw-redirect" title="凯撒密码">凯撒密码</a>，它被用来防止秘密的消息落入错误的人手中时被读取。<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98" title="第二次世界大战">第二次世界大战</a>使得信息安全研究获取许多进展，并且标志着其开始成为一门专业的学问。
+</p><p>20世纪末以及21世纪初见证通信、计算机硬件和软件以及数据加密领域的巨大发展。小巧、功能强大、价格低廉的计算设备使得对电子数据的加工处理能为小公司和家庭用户所负担和掌握。这些计算机很快被通常称为<a href="/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91" class="mw-redirect" title="因特网">因特网</a>或者<a href="/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91" title="万维网">万维网</a>的网络连接起来。在因特网上快速增长的电子数据处理和<a href="/wiki/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1" title="电子商务">电子商务</a>应用，以及不断出现的国际<a href="/wiki/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89" title="恐怖主义">恐怖主义</a>事件，增加了对更好地保护计算机及其存储、加工和传输的信息的需求。计算机安全、信息安全、以及信息保障等学科，是和许多专业的组织一起出现的。他们都持有共同的目标，即确保信息系统的安全和可靠。
+</p>
+<h2><span id=".E5.9F.BA.E6.9C.AC.E5.8E.9F.E7.90.86"></span><span class="mw-headline" id="基本原理">基本原理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=3" title="编辑章节：基本原理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E9.97.9C.E9.8D.B5.E6.A6.82.E5.BF.B5"></span><span class="mw-headline" id="關鍵概念">关键概念</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=4" title="编辑章节：关键概念"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>信息安全的内容可以简化为下列三个基本点，称为<b>CIA三要素</b>，此观点似乎最早在<a href="/wiki/NIST" class="mw-redirect" title="NIST">NIST</a>于1977年所发行的出版品中提到。<sup id="cite_ref-NIST1977_1-0" class="reference"><a href="#cite_note-NIST1977-1">&#91;1&#93;</a></sup>
+</p>
+<h4><span id=".E6.9C.BA.E5.AF.86.E6.80.A7"></span><span class="mw-headline" id="机密性">机密性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=5" title="编辑章节：机密性"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%E4%BF%9D%E5%AF%86%E6%80%A7" class="mw-redirect" title="保密性">机密性</a>（Confidentiality）确保资料传递与存储的隐密性，避免未经授权的用户有意或无意的揭露资料内容。<sup id="cite_ref-BeckersPattern15_2-0" class="reference"><a href="#cite_note-BeckersPattern15-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span id=".E5.AE.8C.E6.95.B4.E6.80.A7"></span><span class="mw-headline" id="完整性">完整性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=6" title="编辑章节：完整性"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%E6%95%B0%E6%8D%AE%E5%AE%8C%E6%95%B4%E6%80%A7" title="数据完整性">数据完整性</a>（Integrity）代表确保资料无论是在传输或存储的生命周期中，保有其正确性与一致性。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span id=".E5.8F.AF.E7.94.A8.E6.80.A7"></span><span class="mw-headline" id="可用性">可用性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=7" title="编辑章节：可用性"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>在信息安全领域，<a href="/wiki/%E5%8F%AF%E7%94%A8%E6%80%A7" title="可用性">可用性</a>（Availability）是成功的信息安全项目应具备的需求，意及当用户需透过信息系统进行操作时，资料与服务须保持可用状况(能用)，并能满足使用需求(够用)。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span id=".E5.85.B6.E4.BB.96.E7.89.B9.E6.80.A7"></span><span class="mw-headline" id="其他特性">其他特性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=8" title="编辑章节：其他特性"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>可鉴别性（Authenticity）：能证明主体或资源之识别就是所声明者的特性。</li>
+<li>可归责性（Accountability）：确保实体之行为可唯一追溯到该实体的性质。</li>
+<li><a href="/wiki/%E4%B8%8D%E5%8F%AF%E5%90%A6%E8%AA%8D" title="不可否认">不可否认性</a>（Non-repudiation）：对已发生的动作或事件的证明，使发起该动作或事件的实体，往后无法否认其行为。实务上做法采用数字签名技术。</li></ul>
+<h3><span class="mw-headline" id="3A">3A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=9" title="编辑章节：3A"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E8.AA.8D.E8.AD.89.EF.BC.88Authentication.EF.BC.89"></span><span class="mw-headline" id="認證（Authentication）">认证（Authentication）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=10" title="编辑章节：认证（Authentication）"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>识别信息用户的身份，可记录信息被谁所访问使用，例如：透过密码或证书方式验证用户身份。
+</p><p>实务做法：
+</p>
+<ul><li>你所知道的（Something you know）：账号／密码</li>
+<li>你所拥有的（Something you have）：IC卡、数字设备、数字签名、一次性密码(OTP)</li>
+<li>你所具备的（Something you are）：指纹、虹膜、声纹、脸部特征、静脉脉纹、DNA</li></ul>
+<h4><span id=".E6.8E.88.E6.AC.8A.EF.BC.88Authorization.EF.BC.89"></span><span class="mw-headline" id="授權（Authorization）">授权（Authorization）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=11" title="编辑章节：授权（Authorization）"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>依照实际需求给予实体适当的权限，一般建议采最小权限（Least privilege），意即仅给予实际作业所需要的权限，避免过度授权可能造成的信息暴露或泄漏。
+</p><p>信息系统层面的实务访问控制方法分类如下：
+</p>
+<ul><li><a href="/wiki/%E5%BC%B7%E5%88%B6%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6" class="mw-redirect" title="强制访问控制">强制访问控制</a>（Mandatory Access Control）</li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E9%81%B8%E5%AE%9A%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6" class="mw-redirect" title="自由选定访问控制">自由选定访问控制</a>（Discretionary Access Control）</li>
+<li><a href="/wiki/%E4%BB%A5%E8%A7%92%E8%89%B2%E7%82%BA%E5%9F%BA%E7%A4%8E%E7%9A%84%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6" title="以角色为基础的访问控制">以角色为基础的访问控制</a>（Role-Based Access Control）</li>
+<li><a href="/w/index.php?title=%E4%BB%A5%E8%A6%8F%E5%89%87%E7%82%BA%E5%9F%BA%E7%A4%8E%E7%9A%84%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="以规则为基础的访问控制（页面不存在）">以规则为基础的访问控制</a>（Rule-Based Access Control）</li></ul>
+<h4><span id=".E7.B4.80.E9.8C.84.EF.BC.88Accounting.EF.BC.89"></span><span class="mw-headline" id="紀錄（Accounting）">纪录（Accounting）</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=12" title="编辑章节：纪录（Accounting）"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内容项目包含量测（Measuring）、监控（Monitoring）、报告（Reporting）与日志案（Logging），以便提供未来作为审核（Auditing）、计费（Billing）、分析（Analysis）与管理之用，主要精神在于收集用户与系统之间交互的资料，并留下轨迹纪录。
+</p><p>信息安全三要素之间存在互相牵制的关系，例如：过度强化机密性时，将造成完整性与可用性的降低，需要高可用性的系统则会造成机密性与完整性的降低，因此在有限资源的前提下，在信息安全三要素中获取适当的平衡是信息安全管理层次结构的重要课题。
+</p><p>对信息安全的认识经历了的数据安全阶段（强调保密通信）、网络信息安全时代（强调网络环境）和目前的信息保障时代（强调不能被动地保护，需要有保护——检测——反应——恢复四个环节）。
+</p><p>安全技术严格地讲仅包含3类：隐藏、<a href="/wiki/%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6" class="mw-redirect" title="访问控制">访问控制</a>和<a href="/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6" title="密码学">密码学</a>。
+</p><p>典型的安全应用有：
+</p>
+<ol><li><a href="/wiki/%E6%95%B0%E5%AD%97%E6%B0%B4%E5%8D%B0" class="mw-redirect" title="数字水印">数字水印</a>属于隐藏；</li>
+<li>网络<a href="/wiki/%E9%98%B2%E7%81%AB%E5%A2%99" title="防火墙">防火墙</a>属于访问控制；</li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D" class="mw-redirect" title="数字签名">数字签名</a>属于密码学。</li></ol>
+<h2><span id=".E8.BF.87.E7.A8.8B.E6.8E.A7.E5.88.B6"></span><span class="mw-headline" id="过程控制">过程控制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=13" title="编辑章节：过程控制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E7.AA.81.E5.8F.91.E4.BA.8B.E4.BB.B6.E6.8E.A7.E5.88.B6"></span><span class="mw-headline" id="突发事件控制">突发事件控制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=14" title="编辑章节：突发事件控制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>“网络与消息安全事件”（Network &amp; Information Security Incident）是<a href="/wiki/%E7%AA%81%E7%99%BC%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="突发事件">突发事件</a>的一种，也被称为“消息安全事件”（Information Security Incident）。网络与消息安全事件在业界尚未有统一的<a href="/wiki/%E5%AE%9A%E4%B9%89" title="定义">定义</a>，<a href="/wiki/%E6%94%BF%E5%BA%9C" title="政府">政府</a>管理、<a href="/wiki/%E7%A7%91%E5%AD%A6" title="科学">科学</a>研究、<a href="/wiki/%E4%BC%81%E4%B8%9A" title="企业">企业</a>根据各自的关注点对其的理解也存在一定的差异。至于<a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="中华人民共和国">中华人民共和国</a><a href="/wiki/%E5%9B%BD%E5%AE%B6%E8%B4%A8%E9%87%8F%E7%9B%91%E7%9D%A3%E6%A3%80%E9%AA%8C%E6%A3%80%E7%96%AB%E6%80%BB%E5%B1%80" title="国家质量监督检验检疫总局">国家质量监督检验检疫总局</a>和<a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8C%96%E7%AE%A1%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A" title="中国国家标准化管理委员会">中国国家标准化管理委员会</a>制定发布的两个现行技术标准中，对该<a href="/wiki/%E6%9C%AF%E8%AF%AD" title="术语">术语</a>的定义如下：
+</p>
+<ul><li>在《讯息技术 安全技术 讯息安全事件管理指南》（GB/Z 20985-2007）中被定义为“由单个或一系列意外或有害的讯息安全事态所组成的，极有可能危害业务运行和威胁<a href="/wiki/%E8%A8%8A%E6%81%AF" title="讯息">讯息</a>安全。”</li>
+<li>在《讯息安全技术 讯息安全事件分类分级指南》（GB/Z 20986-2007）中被定义为“</li></ul>
+<h2><span id=".E5.90.84.E5.9C.8B.E6.B3.95.E5.BE.8B.E3.80.81.E6.B3.95.E8.A7.84.E4.B8.8E.E6.A0.87.E5.87.86"></span><span class="mw-headline" id="各國法律、法规与标准">各国法律、法规与标准</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=15" title="编辑章节：各国法律、法规与标准"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>中国大陆最重要的信息安全标准体系是“信息安全等级保护体系”，该体系在所有主要行业进行推广，并对信息安全行业的发展产生了重要影响。台湾由行政院颁布“资通安全管理法”主要涵盖对象为中央、地方机关与公法人，及金融、能源、交通等关键基础建设提供者，并影响前述单位的组织架构、信息安全方针及预算分配。
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=16" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-NIST1977-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-NIST1977_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">A. J. Neumann, N. Statland and R. D. Webb. <a rel="nofollow" class="external text" href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-19.pdf">Post-processing audit tools and techniques</a> <span style="font-size:85%;">(PDF)</span>. US Department of Commerce, National Bureau of Standards: 11–3––11–4. 1977 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210427011100/https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication500-19.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2021-04-27）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;rft.au=A.+J.+Neumann%2C+N.+Statland+and+R.+D.+Webb&amp;rft.btitle=Post-processing+audit+tools+and+techniques&amp;rft.date=1977&amp;rft.genre=unknown&amp;rft.pages=11-3--11-4&amp;rft.pub=US+Department+of+Commerce%2C+National+Bureau+of+Standards&amp;rft_id=https%3A%2F%2Fnvlpubs.nist.gov%2Fnistpubs%2FLegacy%2FSP%2Fnbsspecialpublication500-19.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-BeckersPattern15-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-BeckersPattern15_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Beckers, K. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DvdICAAAQBAJ&amp;pg=PA100">Pattern and Security Requirements: Engineering-Based Establishment of Security Standards</a>. Springer. 2015: 100 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-16</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9783319166643" title="Special:网络书源/9783319166643"><span title="国际标准书号">ISBN</span>&#160;9783319166643</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210427191114/https://books.google.com/books?id=DvdICAAAQBAJ&amp;pg=PA100">存档</a>于2021-04-27）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;rft.au=Beckers%2C+K.&amp;rft.btitle=Pattern+and+Security+Requirements%3A+Engineering-Based+Establishment+of+Security+Standards&amp;rft.date=2015&amp;rft.genre=book&amp;rft.isbn=9783319166643&amp;rft.pages=100&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDvdICAAAQBAJ%26pg%3DPA100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Boritz, J. Efrim. IS Practitioners' Views on Core Concepts of Information Integrity. International Journal of Accounting Information Systems (Elsevier). 2005, <b>6</b> (4): 260–279. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1016%2Fj.accinf.2005.07.001"><span title="数字对象识别号">doi:10.1016/j.accinf.2005.07.001</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;rft.atitle=IS+Practitioners%27+Views+on+Core+Concepts+of+Information+Integrity&amp;rft.aufirst=J.+Efrim&amp;rft.aulast=Boritz&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=International+Journal+of+Accounting+Information+Systems&amp;rft.pages=260-279&amp;rft.volume=6&amp;rft_id=info%3Adoi%2F10.1016%2Fj.accinf.2005.07.001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Csapo, Nancy; Featheringham, Richard. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.48009/1_iis_2005_311-317">COMMUNICATION SKILLS USED BY INFORMATION SYSTEMS GRADUATES</a>. Issues In Information Systems. 2005. <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1529-7314"><span title="国际标准连续出版物号">ISSN&#160;1529-7314</span></a>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.48009%2F1_iis_2005_311-317"><span title="数字对象识别号">doi:10.48009/1_iis_2005_311-317</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;rft.atitle=COMMUNICATION+SKILLS+USED+BY+INFORMATION+SYSTEMS+GRADUATES&amp;rft.au=Featheringham%2C+Richard&amp;rft.aufirst=Nancy&amp;rft.aulast=Csapo&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issn=1529-7314&amp;rft.jtitle=Issues+In+Information+Systems&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.48009%2F1_iis_2005_311-317&amp;rft_id=info%3Adoi%2F10.48009%2F1_iis_2005_311-317&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;action=edit&amp;section=17" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3" class="mw-redirect" title="计算机安全隐患">计算机安全隐患</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" title="网络安全">网络安全</a></li>
+<li><a href="/wiki/%E6%88%B0%E8%A1%93%E6%95%B8%E4%BD%8D%E8%B3%87%E8%A8%8A%E9%8F%88%E8%B7%AF" title="战术数字信息链路">战术数字信息链路</a></li>
+<li><a href="/wiki/%E6%94%9C%E5%B8%B6%E8%87%AA%E6%9C%89%E8%A3%9D%E7%BD%AE" class="mw-redirect" title="携带自有设备">携带自有设备</a>（BYOD）</li>
+<li><a href="/wiki/%E8%B3%87%E8%A8%8A%E8%B3%87%E7%94%A2" title="信息资产">信息资产</a></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E6%A8%99%E6%BA%96" title="网络安全标准">网络安全标准</a></li>
+<li><a href="/wiki/%E5%86%85%E5%AE%B9%E5%AE%89%E5%85%A8" title="内容安全">内容安全</a></li>
+<li><a href="/wiki/%E7%B4%85%E7%B6%A0%E7%87%88%E5%8D%94%E8%AD%B0" title="红绿灯协议">红绿灯协议</a></li>
+<li><a href="/wiki/%E6%88%88%E7%99%BB-%E6%B4%9B%E5%B8%83%E6%A8%A1%E5%9E%8B" title="戈登-洛布模型">戈登-洛布模型</a></li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template:计算机科学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template talk:计算机科学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a>的主要领域</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>注：该模板大致遵循<a href="/wiki/ACM_%E7%94%B5%E8%84%91%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F" title="ACM 电脑分类系统">ACM 电脑分类系统</a>。</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" title="计算机硬件">计算机硬件</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF" class="mw-redirect" title="印刷电路板">印刷电路板</a></li>
+<li><a href="/wiki/%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87" title="外部设备">外部设备</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a></li>
+<li><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="超大规模集成电路">超大规模集成电路</a></li>
+<li><a href="/wiki/%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97" title="绿色计算">绿色计算</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84" title="系统架构">系统架构</a>组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">电脑系统架构</a></li>
+<li><a href="/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F" title="嵌入式系统">嵌入式系统</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97" title="实时计算">实时计算</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">网络</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="网络传输协议">网络传输协议</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1" title="路由">路由</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" class="mw-redirect" title="网络服务">网络服务</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">软件组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%B4%E8%AD%AF%E5%99%A8" title="解释器">解释器</a></li>
+<li><a href="/wiki/%E4%B8%AD%E9%97%B4%E4%BB%B6" title="中间件">中间件</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虚拟机">虚拟机</a></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F" title="软件质量">软件质量</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96" title="编程语言理论">软件符号</a>和<a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" title="软件开发工具">工具</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B" title="编程范型">编程范型</a></li>
+<li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80" title="编程语言">编程语言</a></li>
+<li><a href="/wiki/%E7%B7%A8%E8%AD%AF%E5%99%A8" title="编译器">编译器</a></li>
+<li><a href="/wiki/%E9%A2%86%E5%9F%9F%E7%89%B9%E5%AE%9A%E8%AF%AD%E8%A8%80" title="领域特定语言">领域特定语言</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E6%A1%86%E6%9E%B6" title="软件框架">软件框架</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83" title="集成开发环境">集成开发环境</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86" title="软件配置管理">软件配置管理</a></li>
+<li><a href="/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB" title="函式库">函式库</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91" title="软件开发">软件开发</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B" title="软件开发过程">软件开发过程</a></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" title="需求分析">需求分析</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1" title="软件设计">软件设计</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%83%A8%E7%BD%B2" title="软件部署">软件部署</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E7%B6%AD%E8%AD%B7" title="软件维护">软件维护</a></li>
+<li><a href="/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6" title="开源软件">开源模式</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA" title="计算理论">计算理论</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%9C%BA" class="mw-redirect" title="自动机">自动机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7" title="可计算性">可计算性理论</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%9C%E6%80%A7%E7%90%86%E8%AB%96" title="计算复杂性理论">计算复杂性理论</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="量子计算机">量子计算</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值计算方法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%BB%E8%BE%91" title="计算机逻辑">计算机逻辑</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89%E5%AD%A6" title="形式语义学">形式语义学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%AE%97%E6%B3%95" title="算法">算法</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90" title="算法分析">算法分析</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1" title="算法设计">算法设计</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87" title="算法效率">算法效率</a></li>
+<li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E5%8C%96%E7%AE%97%E6%B3%95" title="随机化算法">随机化算法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95" title="计算几何">计算几何</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">计算数学</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6" title="离散数学">离散数学</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" title="信息与计算科学">信息与计算科学</a></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6" title="数学软件">数学软件</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91" title="数理逻辑">数理逻辑</a></li>
+<li><a href="/wiki/%E9%9B%86%E5%90%88%E8%AE%BA" title="集合论">集合论</a></li>
+<li><a href="/wiki/%E6%95%B0%E8%AE%BA" title="数论">数论</a></li>
+<li><a href="/wiki/%E5%9B%BE%E8%AE%BA" title="图论">图论</a></li>
+<li><a href="/wiki/%E7%B1%BB%E5%9E%8B%E8%AE%BA" title="类型论">类型论</a></li>
+<li><a href="/wiki/%E8%8C%83%E7%95%B4%E8%AE%BA" title="范畴论">范畴论</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA" title="信息论">信息论</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值分析</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90" title="数学分析">数学分析</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F" title="数据库管理系统">数据库管理系统</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E6%95%B8%E6%93%9A%E5%AD%98%E8%B2%AF%E5%99%A8" title="电脑数据存贮器">电脑数据</a></li>
+<li><span class="ilh-all" data-orig-title="企业信息系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Enterprise information system"><span class="ilh-page"><a href="/w/index.php?title=%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="企业信息系统（页面不存在）">企业信息系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Enterprise_information_system" class="extiw" title="en:Enterprise information system"><span lang="en" dir="auto">Enterprise information system</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E6%80%A7%E8%BD%AF%E4%BB%B6" title="社会性软件">社会性软件</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="地理信息系统">地理信息系统</a></li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F" title="决策支持系统">决策支持系统</a></li>
+<li><a href="/wiki/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6" title="过程控制">过程控制</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" title="数据挖掘">数据挖掘</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E5%9C%96%E6%9B%B8%E9%A4%A8" title="数字图书馆">数字图书馆</a></li>
+<li><a href="/wiki/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0" title="系统平台">系统平台</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7" title="数字营销">数字营销</a></li>
+<li><a href="/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91" title="万维网">万维网</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E6%AA%A2%E7%B4%A2" title="信息检索">信息检索</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">安全</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6" title="密码学">密码学</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95" title="形式化方法">形式化方法</a></li>
+<li><a href="/wiki/%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F" title="入侵检测系统">入侵检测系统</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" title="网络安全">网络安全</a></li>
+<li><a class="mw-selflink selflink">信息安全</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92" title="人机交互">人机交互</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%8A%9F%E8%83%BD" title="计算机辅助功能">计算机辅助功能</a></li>
+<li><a href="/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="用户界面">用户界面</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%A1%E7%AE%97%E6%9C%BA" class="mw-redirect" title="可穿戴计算机">可穿戴计算机</a></li>
+<li><a href="/wiki/%E6%99%AE%E9%80%82%E8%AE%A1%E7%AE%97" title="普适计算">普适计算</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="聊天机器人">聊天机器人</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%B9%B6%E5%8F%91%E6%80%A7" title="并发性">并发性</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B6%E5%8F%91%E8%AE%A1%E7%AE%97" title="并发计算">并发计算</a></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="并行计算">并行计算</a></li>
+<li><a href="/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97" title="分布式计算">分布式计算</a></li>
+<li><a href="/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8B" title="多线程">多线程</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多元处理</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%8E%A8%E7%90%86" title="自动推理">自动推理</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E8%AF%AD%E8%A8%80%E5%AD%A6" title="计算语言学">计算语言学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89" title="计算机视觉">计算机视觉</a></li>
+<li><a href="/wiki/%E8%BF%9B%E5%8C%96%E8%AE%A1%E7%AE%97" title="进化计算">进化计算</a></li>
+<li><a href="/wiki/%E4%B8%93%E5%AE%B6%E7%B3%BB%E7%BB%9F" title="专家系统">专家系统</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="自然语言处理">自然语言处理</a></li>
+<li><a href="/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6" title="机器人学">机器人学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督式学习</a></li>
+<li><a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">无监督学习</a></li>
+<li><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="强化学习">强化学习</a></li>
+<li><a href="/wiki/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89" title="交叉验证">交叉验证</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="计算机图形学">计算机图形学</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8A%A8%E7%94%BB" title="计算机动画">计算机动画</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%A7%86%E5%8C%96" title="可视化">可视化</a></li>
+<li><a href="/wiki/%E6%B8%B2%E6%9F%93" title="渲染">渲染</a></li>
+<li><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="修饰照片">修饰照片</a></li>
+<li><a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E7%8E%B0%E5%AE%9E" title="混合现实">混合现实</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86" title="图像处理">图像处理</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9" title="图像压缩">图像压缩</a></li>
+<li><a href="/wiki/%E5%AE%9E%E4%BD%93%E9%80%A0%E5%9E%8B" title="实体造型">实体造型</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">应用计算</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1" title="电子商务">电子商务</a></li>
+<li><a href="/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BD%AF%E4%BB%B6" title="企业级软件">企业级软件</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%95%B0%E5%AD%A6" class="mw-redirect" title="计算数学">计算数学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="计算物理学">计算物理学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6" title="计算化学">计算化学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%94%9F%E7%89%A9%E5%AD%A6" title="计算生物学">计算生物学</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8" title="计算社会科学">计算社会科学</a></li>
+<li><a href="/wiki/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6" title="医学信息学">医学信息学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF" title="数字艺术">数字艺术</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88" title="电子出版">电子出版</a></li>
+<li><a href="/wiki/%E7%B6%B2%E7%B5%A1%E6%88%B0" title="网络战">网络战</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">电子游戏</a></li>
+<li><a href="/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86%E5%99%A8" title="文字处理器">文字处理器</a></li>
+<li><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="运筹学">运筹学</a></li>
+<li><a href="/wiki/%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF%E5%AD%A6" title="教育技术学">教育技术学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6" title="生物信息学">生物信息学</a></li>
+<li><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a></li>
+<li><span class="ilh-all" data-orig-title="文件管理系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Document management system"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="文件管理系统（页面不存在）">文件管理系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Document_management_system" class="extiw" title="en:Document management system"><span lang="en" dir="auto">Document management system</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="Category:计算机科学">分类</a></b></li>
+<li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Portal:%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80" title="Portal:信息技术">主题</a></b></li>
+<li><span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span><b><a href="/wiki/WikiProject:%E7%94%B5%E8%84%91%E5%92%8C%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF" title="WikiProject:电脑和信息技术">专题</a></b></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">维基共享</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B" title="Template:安全类型"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B&amp;action=edit&amp;redlink=1" class="new" title="Template talk:安全类型（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><span class="ilh-all" data-orig-title="安全类型" data-lang-code="d" data-lang-name="維基數據" data-foreign-title="Q96264607"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E7%B1%BB%E5%9E%8B&amp;action=edit&amp;redlink=1" class="new" title="安全类型（页面不存在）">保安类型</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">维基数据所列</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://www.wikidata.org/wiki/Q96264607" class="extiw" title="d:Q96264607"><span lang="d" dir="auto">Q96264607</span></a></span>）</span></span></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%AE%89%E5%85%A8" title="应用程序安全">应用程序安全</a>
+<ul><li><span class="ilh-all" data-orig-title="Web安全" data-lang-code="en" data-lang-name="英语" data-foreign-title="Web application security"><span class="ilh-page"><a href="/w/index.php?title=Web%E5%AE%89%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="Web安全（页面不存在）">Web安全</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Web_application_security" class="extiw" title="en:Web application security"><span lang="en" dir="auto">Web application security</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8" title="生物安全">生物安全</a></li>
+<li><a href="/wiki/%E9%9B%86%E4%BD%93%E5%AE%89%E5%85%A8" title="集体安全">集体安全</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">计算机安全</a></li>
+<li><a href="/wiki/%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%B5%B1%E5%AE%89%E5%85%A8%E6%80%A7" title="控制系统安全性">控制系统安全</a></li>
+<li><span class="ilh-all" data-orig-title="corporate security" data-lang-code="en" data-lang-name="英语" data-foreign-title="Corporate security"><span class="ilh-page"><a href="/w/index.php?title=Corporate_security&amp;action=edit&amp;redlink=1" class="new" title="Corporate security（页面不存在）">corporate security</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Corporate_security" class="extiw" title="en:Corporate security"><span lang="en" dir="auto">Corporate security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E5%AE%89%E5%85%A8" title="经济安全">经济安全</a></li>
+<li><span class="ilh-all" data-orig-title="不安全感" data-lang-code="en" data-lang-name="英语" data-foreign-title="Emotional security"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%8D%E5%AE%89%E5%85%A8%E6%84%9F&amp;action=edit&amp;redlink=1" class="new" title="不安全感（页面不存在）">不安全感</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Emotional_security" class="extiw" title="en:Emotional security"><span lang="en" dir="auto">Emotional security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8" title="能源安全">能源安全</a></li>
+<li><span class="ilh-all" data-orig-title="event security" data-lang-code="nl" data-lang-name="荷兰语" data-foreign-title="Evenementenbeveiliging"><span class="ilh-page"><a href="/w/index.php?title=Event_security&amp;action=edit&amp;redlink=1" class="new" title="Event security（页面不存在）">event security</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">荷兰语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://nl.wikipedia.org/wiki/Evenementenbeveiliging" class="extiw" title="nl:Evenementenbeveiliging"><span lang="nl" dir="auto">Evenementenbeveiliging</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8" title="粮食安全">粮食</a>与<a href="/wiki/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8" title="食品安全">食品安全</a></li>
+<li><span class="ilh-all" data-orig-title="health security" data-lang-code="en" data-lang-name="英语" data-foreign-title="Health security"><span class="ilh-page"><a href="/w/index.php?title=Health_security&amp;action=edit&amp;redlink=1" class="new" title="Health security（页面不存在）">health security</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Health_security" class="extiw" title="en:Health security"><span lang="en" dir="auto">Health security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BA%BA%E9%A1%9E%E5%AE%89%E5%85%A8" title="人类安全">人类安全</a></li>
+<li><a class="mw-selflink selflink">信息安全</a></li>
+<li><a href="/wiki/%E5%86%85%E9%83%A8%E4%BF%9D%E5%AE%89" title="内部保安">内部保安</a></li>
+<li><a href="/wiki/%E5%9C%8B%E9%9A%9B%E5%AE%89%E5%85%A8" title="国际安全">国际安全</a></li>
+<li><span class="ilh-all" data-orig-title="職業穩定性" data-lang-code="en" data-lang-name="英语" data-foreign-title="Job security"><span class="ilh-page"><a href="/w/index.php?title=%E8%81%B7%E6%A5%AD%E7%A9%A9%E5%AE%9A%E6%80%A7&amp;action=edit&amp;redlink=1" class="new" title="职业稳定性（页面不存在）">职业稳定性</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Job_security" class="extiw" title="en:Job security"><span lang="en" dir="auto">Job security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8" class="mw-redirect" title="国家安全">国家安全</a></li>
+<li><span class="ilh-all" data-orig-title="运营安全" data-lang-code="en" data-lang-name="英语" data-foreign-title="Operations security"><span class="ilh-page"><a href="/w/index.php?title=%E8%BF%90%E8%90%A5%E5%AE%89%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="运营安全（页面不存在）">运营安全</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Operations_security" class="extiw" title="en:Operations security"><span lang="en" dir="auto">Operations security</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="物理安全" data-lang-code="en" data-lang-name="英语" data-foreign-title="Physical security"><span class="ilh-page"><a href="/w/index.php?title=%E7%89%A9%E7%90%86%E5%AE%89%E5%85%A8&amp;action=edit&amp;redlink=1" class="new" title="物理安全（页面不存在）">物理安全</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Physical_security" class="extiw" title="en:Physical security"><span lang="en" dir="auto">Physical security</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8" title="公共安全">公共安全</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C" title="社会保障">社会保障</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span class="ilh-all" data-orig-title="保安工程" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security engineering"><span class="ilh-page"><a href="/w/index.php?title=%E4%BF%9D%E5%AE%89%E5%B7%A5%E7%A8%8B&amp;action=edit&amp;redlink=1" class="new" title="保安工程（页面不存在）">保安工程</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security_engineering" class="extiw" title="en:Security engineering"><span lang="en" dir="auto">Security engineering</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q189900" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%8B%89%E6%89%98%E7%BB%B4%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="拉托维亚国家图书馆">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000340184&amp;P_CON_LNG=ENG">000340184</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph136652&amp;CON_LNG=ENG">ph136652</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐x578c
+Cached time: 20240401191500
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.683 seconds
+Real time usage: 0.880 seconds
+Preprocessor visited node count: 2364/1000000
+Post‐expand include size: 332678/2097152 bytes
+Template argument size: 1594/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 47/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19605/5000000 bytes
+Lua time usage: 0.310/10.000 seconds
+Lua memory usage: 6477594/52428800 bytes
+Number of Wikibase entities loaded: 11/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  567.878      1 -total
+ 25.75%  146.245      2 Template:Navbox
+ 25.31%  143.723      1 Template:信息安全
+ 24.93%  141.559      1 Template:Sidebar
+ 22.13%  125.657      1 Template:安全类型
+ 15.92%   90.402      9 Template:WikidataLink
+ 13.63%   77.423      1 Template:Reflist
+ 13.20%   74.943      1 Template:Expert
+ 10.73%   60.929      1 Template:NoteTA
+  9.56%   54.268     22 Template:Le
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:16768-0!userlang=zh-cn!zh-cn and timestamp 20240401191500 and revision id 79112508. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=信息安全&amp;oldid=79112508">https://zh.wikipedia.org/w/index.php?title=信息安全&amp;oldid=79112508</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8" title="Category:資訊安全">资讯安全</a></li><li><a href="/wiki/Category:%E9%9B%BB%E8%85%A6%E5%AE%89%E5%85%A8" title="Category:電腦安全">电脑安全</a></li><li><a href="/wiki/Category:%E4%BF%A1%E6%81%AF%E6%B2%BB%E7%90%86" title="Category:信息治理">信息治理</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2010%E5%B9%B412%E6%9C%88%E9%9C%80%E8%A6%81%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:自2010年12月需要专业人士关注的页面">自2010年12月需要专业人士关注的页面</a></li><li><a href="/wiki/Category:%E6%89%80%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:所有需要專家關注的頁面">所有需要专家关注的页面</a></li><li><a href="/wiki/Category:%E5%85%B6%E4%BB%96%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:其他需要專家關注的頁面">其他需要专家关注的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLNB%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LNB标识符的维基百科条目">包含LNB标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年9月27日 (星期三) 14:55。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2275","wgBackendResponseTime":201,"wgPageParseReport":{"limitreport":{"cputime":"0.683","walltime":"0.880","ppvisitednodes":{"value":2364,"limit":1000000},"postexpandincludesize":{"value":332678,"limit":2097152},"templateargumentsize":{"value":1594,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":47,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":19605,"limit":5000000},"entityaccesscount":{"value":11,"limit":400},"timingprofile":["100.00%  567.878      1 -total"," 25.75%  146.245      2 Template:Navbox"," 25.31%  143.723      1 Template:信息安全"," 24.93%  141.559      1 Template:Sidebar"," 22.13%  125.657      1 Template:安全类型"," 15.92%   90.402      9 Template:WikidataLink"," 13.63%   77.423      1 Template:Reflist"," 13.20%   74.943      1 Template:Expert"," 10.73%   60.929      1 Template:NoteTA","  9.56%   54.268     22 Template:Le"]},"scribunto":{"limitreport-timeusage":{"value":"0.310","limit":"10.000"},"limitreport-memusage":{"value":6477594,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-x578c","timestamp":"20240401191500","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u4fe1\u606f\u5b89\u5168","url":"https:\/\/zh.wikipedia.org\/wiki\/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q189900","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q189900","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-08T06:49:50Z","dateModified":"2023-09-27T14:55:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/CIAJMK1209-en.svg","headline":"\u901a\u8fc7\u964d\u4f4e\u7535\u8111\u4e0e\u7f51\u7edc\u98ce\u9669\u6765\u4fdd\u62a4\u4fe1\u606f"}</script>
+</body>
+</html>

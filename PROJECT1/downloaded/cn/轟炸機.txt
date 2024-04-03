@@ -1,0 +1,1267 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>轰炸机 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"fd330b6d-bd6f-4180-9735-d4040017c199","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"轰炸机","wgTitle":"轰炸机","wgCurRevisionId":81847600,"wgRevisionId":81847600,"wgArticleId":20223,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["包含AAT标识符的维基百科条目","包含BNE标识符的维基百科条目","包含GND标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","轰炸机","军用飞机"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"轰炸机","wgRelevantArticleId":20223,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"轟炸機","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q170877","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform",
+"platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas",
+"ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/1200px-Avro_Lancaster_parked.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/800px-Avro_Lancaster_parked.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="533">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/640px-Avro_Lancaster_parked.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="427">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="轰炸机 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-轰炸机 rootpage-轰炸机 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%BD%B0%E7%82%B8%E6%9C%BA" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%BD%B0%E7%82%B8%E6%9C%BA" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%BD%B0%E7%82%B8%E6%9C%BA" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%BD%B0%E7%82%B8%E6%9C%BA" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-發展歷史"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#發展歷史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>发展历史</div>
+		</a>
+		
+			<button aria-controls="toc-發展歷史-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关发展历史子章节</span>
+			</button>
+		
+		<ul id="toc-發展歷史-sublist" class="vector-toc-list">
+			<li id="toc-第一次世界大戰"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#第一次世界大戰">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>第一次世界大战</div>
+			</a>
+			
+			<ul id="toc-第一次世界大戰-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-第二次世界大戰"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#第二次世界大戰">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>第二次世界大战</div>
+			</a>
+			
+			<ul id="toc-第二次世界大戰-sublist" class="vector-toc-list">
+				<li id="toc-俯衝轟炸機"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#俯衝轟炸機">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.1</span>俯冲轰炸机</div>
+			</a>
+			
+			<ul id="toc-俯衝轟炸機-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-魚雷轟炸機"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#魚雷轟炸機">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.2</span>鱼雷轰炸机</div>
+			</a>
+			
+			<ul id="toc-魚雷轟炸機-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc--{水平}-轟炸機"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#-{水平}-轟炸機">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.3</span>水平轰炸机</div>
+			</a>
+			
+			<ul id="toc--{水平}-轟炸機-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-二戰之後到現代"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#二戰之後到現代">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>二战之后到现代</div>
+			</a>
+			
+			<ul id="toc-二戰之後到現代-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-未來發展"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#未來發展">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>未来发展</div>
+			</a>
+			
+			<ul id="toc-未來發展-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-分類"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#分類">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>分类</div>
+		</a>
+		
+			<button aria-controls="toc-分類-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关分类子章节</span>
+			</button>
+		
+		<ul id="toc-分類-sublist" class="vector-toc-list">
+			<li id="toc-以體型重量區分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以體型重量區分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>以体型重量区分</div>
+			</a>
+			
+			<ul id="toc-以體型重量區分-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-任務型態區分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#任務型態區分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>任务型态区分</div>
+			</a>
+			
+			<ul id="toc-任務型態區分-sublist" class="vector-toc-list">
+				<li id="toc-戰略轟炸機"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#戰略轟炸機">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.1</span>战略轰炸机</div>
+			</a>
+			
+			<ul id="toc-戰略轟炸機-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-戰術轟炸機"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#戰術轟炸機">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2.2</span>战术轰炸机</div>
+			</a>
+			
+			<ul id="toc-戰術轟炸機-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-各國轟炸機"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#各國轟炸機">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>各国轰炸机</div>
+		</a>
+		
+			<button aria-controls="toc-各國轟炸機-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关各国轰炸机子章节</span>
+			</button>
+		
+		<ul id="toc-各國轟炸機-sublist" class="vector-toc-list">
+			<li id="toc-戰略轟炸機_2"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#戰略轟炸機_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>战略轰炸机</div>
+			</a>
+			
+			<ul id="toc-戰略轟炸機_2-sublist" class="vector-toc-list">
+				<li id="toc-二戰時期"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#二戰時期">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1</span>二战时期</div>
+			</a>
+			
+			<ul id="toc-二戰時期-sublist" class="vector-toc-list">
+				<li id="toc-英國"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#英國">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.1</span>英国</div>
+			</a>
+			
+			<ul id="toc-英國-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-法國"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#法國">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.2</span>法国</div>
+			</a>
+			
+			<ul id="toc-法國-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-美國"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#美國">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.3</span>美国</div>
+			</a>
+			
+			<ul id="toc-美國-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-德國"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#德國">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.4</span>德国</div>
+			</a>
+			
+			<ul id="toc-德國-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-蘇聯"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#蘇聯">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.5</span>苏联</div>
+			</a>
+			
+			<ul id="toc-蘇聯-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-日本"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#日本">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.1.6</span>日本</div>
+			</a>
+			
+			<ul id="toc-日本-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-二战后"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#二战后">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2</span>二战后</div>
+			</a>
+			
+			<ul id="toc-二战后-sublist" class="vector-toc-list">
+				<li id="toc-英國_2"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#英國_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2.1</span>英国</div>
+			</a>
+			
+			<ul id="toc-英國_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-美國_2"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#美國_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2.2</span>美国</div>
+			</a>
+			
+			<ul id="toc-美國_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-前蘇聯/俄羅斯"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#前蘇聯/俄羅斯">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2.3</span>前苏联/俄罗斯</div>
+			</a>
+			
+			<ul id="toc-前蘇聯/俄羅斯-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-法國_2"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#法國_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2.4</span>法国</div>
+			</a>
+			
+			<ul id="toc-法國_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-中国"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#中国">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1.2.5</span>中国</div>
+			</a>
+			
+			<ul id="toc-中国-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-戰術轟炸機_2"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#戰術轟炸機_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>战术轰炸机</div>
+			</a>
+			
+			<ul id="toc-戰術轟炸機_2-sublist" class="vector-toc-list">
+				<li id="toc-二戰時期_2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#二戰時期_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.1</span>二战时期</div>
+			</a>
+			
+			<ul id="toc-二戰時期_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-二战后_2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#二战后_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2</span>二战后</div>
+			</a>
+			
+			<ul id="toc-二战后_2-sublist" class="vector-toc-list">
+				<li id="toc-英國_3"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#英國_3">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2.1</span>英国</div>
+			</a>
+			
+			<ul id="toc-英國_3-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-美國_3"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#美國_3">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2.2</span>美国</div>
+			</a>
+			
+			<ul id="toc-美國_3-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-前蘇聯/俄羅斯_2"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#前蘇聯/俄羅斯_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2.3</span>前苏联/俄罗斯</div>
+			</a>
+			
+			<ul id="toc-前蘇聯/俄羅斯_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-中国_2"
+			class="vector-toc-list-item vector-toc-level-4">
+			<a class="vector-toc-link" href="#中国_2">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2.2.4</span>中国</div>
+			</a>
+			
+			<ul id="toc-中国_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考資料"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#參考資料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-參考資料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">轰炸机</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。72种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-72" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">72种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Bomwerper" title="Bomwerper – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Bombardero" title="Bombardero – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B0%D9%81%D8%A9_%D9%82%D9%86%D8%A7%D8%A8%D9%84" title="قاذفة قنابل – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Bombarderu" title="Bombarderu – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Bombardman%C3%A7%C4%B1" title="Bombardmançı – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B7%D1%96%D1%80%D0%BE%D1%9E%D1%88%D1%87%D1%8B%D0%BA" title="Бамбардзіроўшчык – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%87" title="Бомбардировач – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Bombarder" title="Bombarder – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Bombarder" title="Bombarder – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Bombard%C3%A9r" title="Bombardér – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Bombefly" title="Bombefly – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Bomber" title="Bomber – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%BF%CE%BC%CE%B2%CE%B1%CF%81%CE%B4%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%B1%CE%B5%CF%81%CE%BF%CF%83%CE%BA%CE%AC%CF%86%CE%BF%CF%82" title="Βομβαρδιστικό αεροσκάφος – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Bomber" title="Bomber – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Bombaviadilo" title="Bombaviadilo – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Bombardero" title="Bombardero – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Pommitaja" title="Pommitaja – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Bonbaketari" title="Bonbaketari – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%85%D8%A8%E2%80%8C%D8%A7%D9%81%DA%A9%D9%86" title="بمب‌افکن – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Pommikone" title="Pommikone – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Bombardier_(avion)" title="Bombardier (avion) – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Bommesmiter" title="Bommesmiter – 西弗里西亚语" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Bombardeiro" title="Bombardeiro – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%A6%D7%99%D7%A5" title="מפציץ – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%AE%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%95" title="बमवर्षक – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Bombarder" title="Bombarder – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Bomb%C3%A1z%C3%B3" title="Bombázó – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Pesawat_pengebom" title="Pesawat pengebom – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Bombardaviono" title="Bombardaviono – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Sprengjuflugv%C3%A9l" title="Sprengjuflugvél – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Bombardiere" title="Bombardiere – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%88%86%E6%92%83%E6%A9%9F" title="爆撃機 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D0%BB%D0%B0%D1%83%D1%88%D1%8B" title="Бомбалаушы – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AD%EA%B2%A9%EA%B8%B0" title="폭격기 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Bombarder" title="Bombarder – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Bombone%C5%A1is" title="Bombonešis – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Bumbved%C4%93js" title="Bumbvedējs – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80" title="Бомбардер – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8B%E0%B4%82%E0%B4%AC%E0%B5%BC_%E0%B4%B5%E0%B4%BF%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B4%82" title="ബോംബർ വിമാനം – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%91%D3%A9%D0%BC%D0%B1%D3%A9%D0%B3%D0%B4%D3%A9%D0%B3%D1%87_%D0%BE%D0%BD%D0%B3%D0%BE%D1%86" title="Бөмбөгдөгч онгоц – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pesawat_pengebom" title="Pesawat pengebom – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%97%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%80%E1%80%BC%E1%80%B2%E1%80%9C%E1%80%B1%E1%80%9A%E1%80%AC%E1%80%89%E1%80%BA" title="ဗုံးကြဲလေယာဉ် – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Bommenwerper" title="Bommenwerper – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Bombefly" title="Bombefly – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Bombefly" title="Bombefly – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nv mw-list-item"><a href="https://nv.wikipedia.org/wiki/Chid%C3%AD_naat%CA%BCa%CA%BC%C3%ADtsoh_bee%CA%BCeld%C7%AB%C7%ABh_bik%C7%AB%CA%BC_neiy%C3%A9h%C3%A9" title="Chidí naatʼaʼítsoh beeʼeldǫǫh bikǫʼ neiyéhé – 纳瓦霍语" lang="nv" hreflang="nv" class="interlanguage-link-target"><span>Diné bizaad</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Bombardier" title="Bombardier – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%B0%E0%A8%AC%E0%A8%B0" title="ਬੰਬਰ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Samolot_bombowy" title="Samolot bombowy – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D9%85%D8%A8%D8%B1_(%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%AC%DB%81%D8%A7%D8%B2)" title="بمبر (ہوائی جہاز) – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/1:_%D8%A8%D9%85_%D8%A7%DA%86%D9%88%D9%86%DA%A9%DB%90_%D8%A7%D9%84%D9%88%D8%AA%DA%A9%DB%90" title="1: بم اچونکې الوتکې – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Bombardeiro" title="Bombardeiro – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Bombardier" title="Bombardier – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA" title="Бомбардировщик – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Bombarder" title="Bombarder – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%9D%E0%B6%B8%E0%B7%8A%E0%B6%B6_%E0%B7%84%E0%B7%99%E0%B6%BD%E0%B6%B1_%E0%B6%9C%E0%B7%94%E0%B7%80%E0%B6%B1%E0%B7%8A_%E0%B6%BA%E0%B7%8F%E0%B6%B1%E0%B7%8F" title="බෝම්බ හෙලන ගුවන් යානා – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Bomber" title="Bomber – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Bombardovacie_lietadlo" title="Bombardovacie lietadlo – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Bombnik" title="Bombnik – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Bombarduesi" title="Bombarduesi – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8_%D0%B0%D0%B2%D0%B8%D0%BE%D0%BD" title="Бомбардерски авион – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Bombflygplan" title="Bombflygplan – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B5%E0%AF%80%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%BF" title="குண்டுவீச்சு வானூர்தி – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%B0%D1%84%D0%BA%D0%B0%D0%BD" title="Бумбафкан – 塔吉克语" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94" title="เครื่องบินทิ้งระเบิด – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Bombard%C4%B1man_u%C3%A7a%C4%9F%C4%B1" title="Bombardıman uçağı – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/Bomba%C4%9Fa_totu%C3%A7%C4%B1" title="Bombağa totuçı – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Бомбардувальник – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/M%C3%A1y_bay_n%C3%A9m_bom" title="Máy bay ném bom – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA" title="轰炸机 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Po%CC%8Dk-kek-ki" title="Po̍k-kek-ki – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%BD%9F%E7%82%B8%E6%A9%9F" title="轟炸機 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q170877#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%BD%B0%E7%82%B8%E6%9C%BA" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%BD%B0%E7%82%B8%E6%9C%BA" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%BD%B0%E7%82%B8%E6%9C%BA"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%BD%B0%E7%82%B8%E6%9C%BA" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%BD%B0%E7%82%B8%E6%9C%BA" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;oldid=81847600" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;id=81847600&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25BD%25B0%25E7%2582%25B8%25E6%259C%25BA"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25BD%25B0%25E7%2582%25B8%25E6%259C%25BA"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q170877" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Bomber_aircraft" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-2e17dd2c" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;redirect=no" class="mw-redirect" title="轟炸機">轟炸機</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-2e17dd2c" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Unit"></div><div data-noteta-group-source="module" data-noteta-group="Military"></div></div></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Avro_Lancaster_parked.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/200px-Avro_Lancaster_parked.jpg" decoding="async" width="200" height="133" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/300px-Avro_Lancaster_parked.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avro_Lancaster_parked.jpg/400px-Avro_Lancaster_parked.jpg 2x" data-file-width="3038" data-file-height="2025" /></a><figcaption><a href="/wiki/%E8%8B%B1%E5%9C%8B" class="mw-redirect" title="英国">英国</a><a href="/wiki/%E8%98%AD%E9%96%8B%E6%96%AF%E7%89%B9%E8%BD%9F%E7%82%B8%E6%A9%9F" title="兰开斯特轰炸机">兰开斯特轰炸机</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:B5201.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/B5201.jpg/200px-B5201.jpg" decoding="async" width="200" height="91" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/B5201.jpg/300px-B5201.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/B5201.jpg/400px-B5201.jpg 2x" data-file-width="685" data-file-height="310" /></a><figcaption><a href="/wiki/B-52%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="B-52轰炸机">B-52轰炸机</a></figcaption></figure><p><b>轰炸机</b>，是一种从高空对地面、水面或水下目标投掷<a href="/wiki/%E8%88%AA%E7%A9%BA%E7%82%B8%E5%BD%88" class="mw-redirect" title="航空炸弹">航空炸弹</a>用的<a href="/wiki/%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA" class="mw-redirect" title="军用飞机">军用飞机</a>。世界上第一款具备上述特征的轰炸机是1915年<a href="/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B8%9D%E5%9C%8B" class="mw-redirect" title="俄罗斯帝国">俄罗斯帝国</a><a href="/wiki/%E6%B3%A2%E7%BD%97%E7%9A%84%E6%B5%B7" title="波罗的海">波罗的海</a>铁路工厂生产的伊利亚·慕罗梅茨-V型。它是一款装备四具发动机和双翼的大型飞机，可携带522千克的炸弹以120公里的最大时速飞行。
+</p><meta property="mw:PageProp/toc" />
+<h2><span id=".E7.99.BC.E5.B1.95.E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="發展歷史">发展历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=1" title="编辑章节：发展历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E7.AC.AC.E4.B8.80.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.B0"></span><span class="mw-headline" id="第一次世界大戰">第一次世界大战</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=2" title="编辑章节：第一次世界大战"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0" class="mw-redirect" title="第一次世界大战">第一次世界大战</a>期间轰炸机成为攻击敌人各类目标的主要投射工具，攻击的目标包括地面部队，作战物资等<a href="/wiki/%E6%88%B0%E8%A1%93" class="mw-redirect" title="战术">战术</a>目标，或者是工厂，城市等<a href="/wiki/%E6%88%B0%E7%95%A5" class="mw-redirect" title="战略">战略</a>目标，从这两种不同类型的任务需求有衍生出<a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战略轰炸机">战略轰炸机</a>和<a href="/wiki/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战术轰炸机">战术轰炸机</a>的分支。最早发明轰炸机的是俄国机械工程师<a href="/wiki/%E4%BC%8A%E6%88%88%E5%B0%94%C2%B7%E4%BC%8A%E4%B8%87%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E8%A5%BF%E7%A7%91%E5%B0%94%E6%96%AF%E5%9F%BA" title="伊戈尔·伊万诺维奇·西科尔斯基">伊戈尔·伊万诺维奇·西科尔斯基</a>（Igor Sikorsky）发明双翼轰炸机，曾经造成德军伤亡；<a href="/wiki/%E5%BE%B7%E5%9C%8B" class="mw-redirect" title="德国">德国</a>戈塔型轰炸机曾经对<a href="/wiki/%E8%8B%B1%E5%9C%8B" class="mw-redirect" title="英国">英国</a>的城市进行过轰炸，1917年6月13日轰炸<a href="/wiki/%E5%80%AB%E6%95%A6" class="mw-redirect" title="伦敦">伦敦</a>造成200人伤亡，算是<a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8" title="战略轰炸">战略轰炸</a>的先河。
+</p><p>第一次世界大战时期的轰炸机，即使是较为大型的设计，基本型态都很相似：木材或者是金属与布料蒙皮的结构，开放式座舱，少量的自卫火力，譬如<a href="/wiki/%E6%AD%A5%E6%A7%8D" class="mw-redirect" title="步枪">步枪</a>口径的机枪，炸弹是由后座飞行员至目的地上空以双手搬炸弹丢掷，换句话说，当时的轰炸机设计可以粗略的看作是战斗机的放大概念。
+</p>
+<h3><span id=".E7.AC.AC.E4.BA.8C.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.B0"></span><span class="mw-headline" id="第二次世界大戰">第二次世界大战</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=3" title="编辑章节：第二次世界大战"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E6%9D%9C%E9%BB%91" class="mw-redirect" title="杜黑">杜黑</a>撰述的<a href="/w/index.php?title=%E7%A9%BA%E6%AC%8A%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="空权论（页面不存在）">空权论</a>对两次大战期间的轰炸机发展与思想有很深远的影响，<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0" class="mw-redirect" title="第二次世界大战">第二次世界大战</a>期间对轰炸机的使用进行一次广泛的发展验证，无论是轰炸机的设计与性能需求，任务的规划和执行，目标的选择与效果评估等方面，对现代的发展确定了大致的方向与架构。
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Flying_Fortress_Cartoon.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flying_Fortress_Cartoon.jpg/220px-Flying_Fortress_Cartoon.jpg" decoding="async" width="220" height="130" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flying_Fortress_Cartoon.jpg/330px-Flying_Fortress_Cartoon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flying_Fortress_Cartoon.jpg/440px-Flying_Fortress_Cartoon.jpg 2x" data-file-width="1793" data-file-height="1056" /></a><figcaption>二战中<a href="/wiki/B-17" class="mw-redirect" title="B-17">B-17</a>的漫画，比喻其固若金汤</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:G10N_JapanNavy-1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/zh/thumb/6/63/G10N_JapanNavy-1.jpg/220px-G10N_JapanNavy-1.jpg" decoding="async" width="220" height="155" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/zh/thumb/6/63/G10N_JapanNavy-1.jpg/330px-G10N_JapanNavy-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/zh/thumb/6/63/G10N_JapanNavy-1.jpg/440px-G10N_JapanNavy-1.jpg 2x" data-file-width="525" data-file-height="371" /></a><figcaption>二战日本巨型<a href="/wiki/%E5%AF%8C%E5%B6%BD%E8%BD%9F%E7%82%B8%E6%A9%9F" title="富岳轰炸机">富岳轰炸机</a>的设计图，该机最后未能建成</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Ki-74-1s.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ki-74-1s.jpg/220px-Ki-74-1s.jpg" decoding="async" width="220" height="81" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ki-74-1s.jpg/330px-Ki-74-1s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ki-74-1s.jpg/440px-Ki-74-1s.jpg 2x" data-file-width="1005" data-file-height="370" /></a><figcaption>美军虏获日军Ki-74侦察轰炸机，留意后面有美军二战时期识别标志</figcaption></figure>
+<p>二战爆发前的轰炸机发展的趋势大致上是以金属作为大部分或者是全部的结构，成员在封闭的座舱内操作，自卫火力的数量和威力增加，无线电与导航系统使用开始普及，中型以上轰炸机大多数将炸弹携带在机体内部。
+</p><p>虽然<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>很早就于<a href="/wiki/%E4%B8%AD%E5%9C%8B" title="中国">中国</a>战区进行远程轰炸任务，对二战轰炸机发展经验累积与冲击最大的还是首推<a href="/wiki/%E6%AD%90%E6%B4%B2" class="mw-redirect" title="欧洲">欧洲</a>战区，尤其是<a href="/wiki/%E8%8B%B1%E5%9C%8B" class="mw-redirect" title="英国">英国</a>与<a href="/wiki/%E5%BE%B7%E5%9C%8B" class="mw-redirect" title="德国">德国</a>之间的轰炸机运用与得失经验。这些经验产生的影响有：
+</p>
+<ol><li>更复杂的轰炸瞄准系统，包括使用<a href="/wiki/%E9%9B%B7%E9%81%94" class="mw-redirect" title="雷达">雷达</a>，提高轰炸精确度。</li>
+<li>特别是战略轰炸机的操作高度进一步的升高。<a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美国">美国</a>的<a href="/wiki/B-17" class="mw-redirect" title="B-17">B-17</a>和<a href="/wiki/B-24" class="mw-redirect mw-disambig" title="B-24">B-24</a>多在两万英尺以上高度飞行，以减低防空炮火的影响。</li>
+<li>强化轰炸机的防御能力，在使用口径较大枪炮时，动力驱动的炮塔也成为中型以上轰炸机的标准配备。</li>
+<li>增加轰炸机夜间与视线不佳时的操作能力，包括使用辅助导航系统。</li></ol>
+<p>二次大战期间，除了执行战略与战术轰炸任务的区分之外，还有其他型态的轰炸机出现，这些发展在战争结束之后也很快被其他机种或者是武器系统所取代。
+</p>
+<h4><span id=".E4.BF.AF.E8.A1.9D.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="俯衝轟炸機">俯冲轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=4" title="编辑章节：俯冲轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E4%BF%AF%E5%86%B2%E8%BD%B0%E7%82%B8%E6%9C%BA" title="俯冲轰炸机">俯冲轰炸机</a></div>
+<p>俯冲轰炸的概念是让轰炸机以与地面超过45度夹角的方式，由高空往下俯冲飞行，在到达一个距离后将炸弹投掷下去，这种轰炸方式能够有效提高投弹命中率。<a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美国">美国</a>是第一个发展与采用俯冲轰炸机的国家，这个概念稍后传到<a href="/wiki/%E5%BE%B7%E5%9C%8B" class="mw-redirect" title="德国">德国</a>，成就了二战最有名的<a href="/wiki/Ju_87" class="mw-redirect" title="Ju 87">Ju-87斯图卡俯冲轰炸机</a>。不过美国在二战期间只有<a href="/wiki/%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B" class="mw-redirect" title="美国海军">海军</a>大量使用俯冲轰炸机，<a href="/wiki/%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B" title="美国陆军">陆军</a>航空队只有象征性的使用少量改装自<a href="/wiki/P-51%E6%88%98%E6%96%97%E6%9C%BA" class="mw-redirect" title="P-51战斗机">P-51战斗机</a>的<a href="/wiki/A-36" class="mw-redirect" title="A-36">A-36</a>及改装自<a href="/wiki/SB2C" class="mw-redirect" title="SB2C">SB2C</a>的<a href="/w/index.php?title=A-25&amp;action=edit&amp;redlink=1" class="new" title="A-25（页面不存在）">A-25</a>。
+</p><p>二战之后，由于喷气机的速度愈来愈快，不适合大角度俯冲且危险性高，因此专门的俯冲轰炸机渐成历史名词。
+</p>
+<h4><span id=".E9.AD.9A.E9.9B.B7.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="魚雷轟炸機">鱼雷轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=5" title="编辑章节：鱼雷轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Tbf-1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tbf-1.jpg/200px-Tbf-1.jpg" decoding="async" width="200" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tbf-1.jpg/300px-Tbf-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tbf-1.jpg/400px-Tbf-1.jpg 2x" data-file-width="800" data-file-height="600" /></a><figcaption>TBF鱼雷轰炸机</figcaption></figure>
+<p><a href="/wiki/%E9%AD%9A%E9%9B%B7" title="鱼雷">鱼雷</a>是攻击水面船舰的重要武器，许多国家海军都有专门携带鱼雷的轰炸机担任此类任务。有些国家也尝试改装现有的作战飞机来携带鱼雷，然而在作战效果上未必与专门设计的机种相近。鱼雷轰炸机的任务危险性很高，在投掷鱼雷之前需要于低空维持固定高度，航向与速率飞行一段时间，这段时间让鱼雷轰炸机成为相当明显且容易瞄准攻击的目标。<a href="/wiki/%E4%B8%AD%E9%80%94%E5%B3%B6%E6%88%B0%E5%BD%B9" class="mw-redirect" title="中途岛战役">中途岛战役</a>时有12架美国海军<a href="/wiki/%E9%81%93%E6%A0%BC%E6%8B%89%E6%96%AF%E9%A3%9E%E8%A1%8C%E5%99%A8%E5%85%AC%E5%8F%B8" title="道格拉斯飞行器公司">道格拉斯</a><a href="/wiki/TBD%E8%B9%82%E8%BA%AA%E8%80%85%E5%BC%8F%E9%AD%9A%E9%9B%B7%E8%BD%9F%E7%82%B8%E6%A9%9F" title="TBD蹂躏者式鱼雷轰炸机">TBD蹂躏者式鱼雷轰炸机</a>在没有战斗机护航下，迅速的被日本机队的<a href="/wiki/%E9%9B%B6%E5%BC%8F%E6%88%98%E6%96%97%E6%9C%BA" class="mw-redirect" title="零式战斗机">零式战斗机</a>击落，仅有一人生还获救。
+</p><p>二次大战末期，美国海军的<a href="/wiki/%E6%A0%BC%E9%AD%AF%E6%9B%BC" class="mw-redirect" title="格鲁曼">格鲁曼</a><a href="/wiki/TBF%E5%A4%8D%E4%BB%87%E8%80%85%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="TBF复仇者式轰炸机">TBF复仇者式鱼雷轰炸机</a>几乎都转为携带炸弹的任务。战争结束之后，鱼雷对付水面船舰的重要地位逐渐转手给<a href="/wiki/%E5%8F%8D%E8%89%A6%E9%A3%9B%E5%BD%88" title="反舰导弹">反舰导弹</a>，潜艇取而代之为鱼雷的主要攻击对象，因此鱼雷轰炸机也逐渐转型为<a href="/wiki/%E5%8F%8D%E6%BD%9B%E6%A9%9F" title="反潜机">反潜机</a>，而不再以专门设计的机型出现。
+</p>
+<h4><span id="-.7B.E6.B0.B4.E5.B9.B3.7D-.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="-{水平}-轟炸機">水平轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=6" title="编辑章节：水平轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>水平轰炸机其实是相对于俯冲轰炸机的描述法，绝大多数的轰炸机都是以水平或者是浅角度俯冲的方式轰炸。当俯冲轰炸机消失之后，这种分类也就不需要继续存在。
+</p>
+<h3><span id=".E4.BA.8C.E6.88.B0.E4.B9.8B.E5.BE.8C.E5.88.B0.E7.8F.BE.E4.BB.A3"></span><span class="mw-headline" id="二戰之後到現代">二战之后到现代</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=7" title="编辑章节：二战之后到现代"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>二次大战之后随着<a href="/wiki/%E6%88%B0%E9%AC%A5%E6%A9%9F" class="mw-redirect" title="战斗机">战斗机</a>与<a href="/wiki/%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="攻击机">攻击机</a>的体型与载弹量逐渐增大趋势，加上<a href="/wiki/%E7%A9%BA%E4%B8%AD%E5%8A%A0%E6%B2%B9" title="空中加油">空中加油</a>技术的成熟与普遍运用，携带炸弹进行轰炸任务已经不再是轰炸机，尤其是战术轰炸机独有的任务了，战术轰炸机在发展上逐渐趋向采用多用途设计的<a href="/wiki/%E6%88%B0%E9%AC%A5%E6%A9%9F" class="mw-redirect" title="战斗机">战斗机</a>或者是<a href="/wiki/%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="攻击机">攻击机</a>来取代。现在极少有专门设计的战术轰炸机服役，代之以战斗机改进的战斗轰炸机或者是兼具部分战斗机能力的设计，如美国的<a href="/wiki/F-15E%E6%89%93%E6%93%8A%E9%B7%B9%E5%BC%8F%E6%88%B0%E9%AC%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" title="F-15E打击鹰式战斗轰炸机">F-15E</a>，俄罗斯的<a href="/wiki/Su-32" class="mw-redirect" title="Su-32">Su-32</a>等。俄罗斯的<a href="/wiki/Su-24" class="mw-redirect" title="Su-24">Su-24</a>与欧洲国家的<a href="/wiki/%E6%97%8B%E9%A2%A8%E6%88%B0%E9%AC%A5%E6%A9%9F" class="mw-redirect" title="旋风战斗机">狂风</a>（Tornado）IDS算是少有的特例。
+</p><p>中小型轰炸机逐渐与其他机种合并的时候，大型战略轰炸机开始以<a href="/wiki/%E5%99%B4%E5%B0%84%E7%99%BC%E5%8B%95%E6%A9%9F" class="mw-redirect" title="喷气发动机">喷气动力</a>取代<a href="/wiki/%E8%9E%BA%E6%97%8B%E6%A7%B3" title="螺旋桨">螺旋桨</a>，并且强调携带<a href="/wiki/%E6%A0%B8%E5%AD%90%E6%AD%A6%E5%99%A8" class="mw-redirect" title="核武器">核武器</a>的能力，大幅度提升每一架轰炸机对目标的毁灭力量，这种发展促成大型警戒雷达网、高速拦截机、携带核子战斗部的<a href="/wiki/%E9%98%B2%E7%A9%BA%E9%A3%9B%E5%BD%88" class="mw-redirect" title="防空导弹">防空导弹</a>或者是空对空<a href="/wiki/%E7%81%AB%E7%AE%AD" title="火箭">火箭</a>等系统的部署与研发。而核武器的运用也左右<a href="/wiki/%E5%86%B7%E6%88%B0" class="mw-redirect" title="冷战">冷战</a>前半期双方阵营<a href="/wiki/%E6%88%B0%E7%95%A5" class="mw-redirect" title="战略">战略</a>与<a href="/wiki/%E6%88%B0%E8%A1%93" class="mw-redirect" title="战术">战术</a>空军的发展与建军思想。
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:G4M-30.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/G4M-30.jpg/200px-G4M-30.jpg" decoding="async" width="200" height="80" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/G4M-30.jpg/300px-G4M-30.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/G4M-30.jpg/400px-G4M-30.jpg 2x" data-file-width="893" data-file-height="359" /></a><figcaption><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>海军<a href="/wiki/%E4%B8%80%E5%BC%8F%E9%99%B8%E4%B8%8A%E6%94%BB%E6%93%8A%E6%A9%9F" title="一式陆上攻击机">一式陆上攻击机</a></figcaption></figure>
+<p><a href="/wiki/%E6%B4%B2%E9%9A%9B%E5%BD%88%E9%81%93%E9%A3%9B%E5%BD%88" title="洲际弹道导弹">洲际弹道导弹</a>的开发危及战略轰炸机的传统地位，也导致美国与<a href="/wiki/%E8%98%87%E8%81%AF" class="mw-redirect" title="苏联">苏联</a>取消以高空高速为设计目标的发展计划。而<a href="/wiki/%E8%B6%8A%E6%88%B0" class="mw-redirect" title="越战">越战</a>的经验显示，投掷传统<a href="/wiki/%E7%82%B8%E5%BD%88" class="mw-redirect" title="炸弹">炸弹</a>的能力还是不可忽视，轰炸机，尤其是战略轰炸机不会只运用在核子大战的场合。1970年代开始，战略轰炸机又开始将过去认为不会再度使用到的传统炸弹携带能力加以恢复。
+</p><p><a href="/wiki/%E5%B7%A1%E5%BC%8B%E9%A3%9B%E5%BD%88" class="mw-redirect" title="巡航导弹">巡航导弹</a>与其他<a href="/wiki/%E5%B0%8E%E5%BC%95" class="mw-disambig" title="制导">制导</a>武器的开发与使用，近一步的改变轰炸机的任务型态与面貌。1991年美国利用<a href="/wiki/B-52" class="mw-redirect" title="B-52">B-52</a>轰炸机发射传统战斗部的巡航导弹攻击<a href="/wiki/%E4%BC%8A%E6%8B%89%E5%85%8B" title="伊拉克">伊拉克</a>境内目标。到了2003年的时候，<a href="/wiki/B-1%E6%A7%8D%E9%A8%8E%E5%85%B5%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-1枪骑兵战略轰炸机">B-1B</a>轰炸机在担任24小时滞空待命任务时，于11分钟左右利用<a href="/wiki/%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%B5%B1" class="mw-redirect" title="全球定位系统">全球定位系统</a>，将<a href="/wiki/%E8%81%AF%E5%90%88%E7%9B%B4%E6%8E%A5%E6%94%BB%E6%93%8A%E5%BD%88%E8%97%A5" title="联合直接攻击弹药">联合直接攻击弹药</a>准确的投掷指定的目标上。携带<a href="/w/index.php?title=%E5%85%89%E5%AD%B8%E7%AD%B4%E8%89%99&amp;action=edit&amp;redlink=1" class="new" title="光学䇲舱（页面不存在）">光学䇲舱</a>B-52轰炸机还能够担任<a href="/wiki/%E5%AF%86%E6%8E%A5%E6%94%AF%E6%8F%B4" title="密接支援">密接支援</a>任务，成为超大型的<a href="/wiki/%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="攻击机">攻击机</a>。这些变化都代表冷战结束之后，战略轰炸机重新寻找定位的企图与尝试。
+</p>
+<h3><span id=".E6.9C.AA.E4.BE.86.E7.99.BC.E5.B1.95"></span><span class="mw-headline" id="未來發展">未来发展</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=8" title="编辑章节：未来发展"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E5%86%B7%E6%88%B0" class="mw-redirect" title="冷战">冷战</a>结束之后，两大强权与附属势力的对抗不复存在，轰炸机担任核子武力投射的地位出现很大的变化。当<a href="/wiki/%E5%BD%88%E9%81%93%E9%A3%9B%E5%BD%88" class="mw-redirect" title="弹道导弹">弹道导弹</a>出现的时候曾经一度威胁到轰炸机的需求与地位，在<a href="/wiki/%E5%B7%A1%E5%BC%8B%E9%A3%9B%E5%BD%88" class="mw-redirect" title="巡航导弹">巡航导弹</a>成熟之后，美国与俄国的战略轰炸机基本上也成为导弹的投射载具，传统的<a href="/wiki/%E6%A0%B8%E5%AD%90%E7%82%B8%E5%BD%88" class="mw-redirect" title="核子炸弹">核子炸弹</a>并不适用，也成为比过去更具象征性的威吓力量。
+</p><p>目前美俄两国对于下一代的战略轰炸机尚未有明显的计划，英国与法国则放弃相关的发展。其他国家也没有跟进的迹象。加上<a href="/wiki/%E7%A9%BA%E4%B8%AD%E5%8A%A0%E6%B2%B9" title="空中加油">空中加油</a>技术与远程空载导弹的普遍化，大型且昂贵的战略轰炸机将会逐渐被中小型的机种与导弹加以取代。
+</p><p>专门的战术轰炸机也逐渐被多用途的<a href="/wiki/%E6%88%B0%E9%AC%A5%E6%A9%9F" class="mw-redirect" title="战斗机">战斗机</a>或者是新一代<a href="/wiki/%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="攻击机">攻击机</a>配合<a href="/wiki/%E7%B2%BE%E7%A2%BA%E5%88%B6%E5%B0%8E%E6%AD%A6%E5%99%A8" class="mw-redirect" title="精确制导武器">精确制导武器</a>替代。冷战之后的空中打击非常强调降低非战斗人员与物资的损毁，各国纷纷发展精确度更高，但是减小战斗部重量的新型炸弹，使得外型较小的飞机的轰炸效率比过去中大型轰炸机使用无制导炸弹高出很多。
+</p><p>降低轰炸机的<a href="/wiki/%E4%BD%8E%E5%8F%AF%E5%81%B5%E6%B8%AC%E6%80%A7" class="mw-redirect" title="低可侦测性">可侦测性</a>，也就是减少轰炸机散发的各种电磁讯号是目前设计的主流，限于各国拥有的技术，生产工艺能力以及可运用的成本，实际上能够达到的效果会有很大的不同。为了达到这个目标，高速飞行能力将不再是强调的设计重点，除了高速下机体摩擦会散发大量的<a href="/wiki/%E7%B4%85%E5%A4%96%E7%B7%9A" class="mw-redirect" title="红外线">红外线</a>讯号以外，<a href="/wiki/%E6%9D%90%E6%96%99" title="材料">材料</a>与制造的问题也会限制这方面的需求。
+</p><p>以<a href="/wiki/%E7%84%A1%E4%BA%BA%E9%A3%9B%E6%A9%9F" class="mw-redirect" title="无人飞机">无人飞机</a>取代有人轰炸机将会是未来发展的另一个趋势，除了降低操作成本，减少人员伤亡以外，机体得以缩小并且提高运动能力，同时也有助于减少被侦测的距离与几率。只是纯粹自动化的无人轰炸机还需要不少时间才会到达系统成熟的阶段。
+</p>
+<h2><span id=".E5.88.86.E9.A1.9E"></span><span class="mw-headline" id="分類">分类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=9" title="编辑章节：分类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Hp.victor.arp.750pix.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hp.victor.arp.750pix.jpg/200px-Hp.victor.arp.750pix.jpg" decoding="async" width="200" height="143" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hp.victor.arp.750pix.jpg/300px-Hp.victor.arp.750pix.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hp.victor.arp.750pix.jpg/400px-Hp.victor.arp.750pix.jpg 2x" data-file-width="750" data-file-height="536" /></a><figcaption><a href="/wiki/%E8%8B%B1%E5%9C%8B" class="mw-redirect" title="英国">英国</a>3V轰炸机之一：胜利轰炸机</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:B17g_and_b52h_in_flight.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/B17g_and_b52h_in_flight.jpg/200px-B17g_and_b52h_in_flight.jpg" decoding="async" width="200" height="128" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/B17g_and_b52h_in_flight.jpg/300px-B17g_and_b52h_in_flight.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/B17g_and_b52h_in_flight.jpg/400px-B17g_and_b52h_in_flight.jpg 2x" data-file-width="4149" data-file-height="2652" /></a><figcaption>一架B-17纪念机和B-52并飞</figcaption></figure>
+<h3><span id=".E4.BB.A5.E9.AB.94.E5.9E.8B.E9.87.8D.E9.87.8F.E5.8D.80.E5.88.86"></span><span class="mw-headline" id="以體型重量區分">以体型重量区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=10" title="编辑章节：以体型重量区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>以体型重量来区分大致可分为<b>轻型轰炸机</b>、<b>中型轰炸机</b>与<b>重型轰炸机</b>，但实际这三种轰炸机的区分并没有一定的标准，以下是以<a href="/wiki/%E4%BA%8C%E6%88%B0" class="mw-redirect" title="二战">二战</a>时的标准分类。
+</p>
+<ul><li>轻型轰炸机</li></ul>
+<dl><dd>发动机一具或两具，挂弹重不超过1<a href="/wiki/%E5%85%AC%E5%99%B8" title="公吨">公吨</a>（或2000<a href="/wiki/%E7%A3%85" title="磅">磅</a>），采用接近<a href="/wiki/%E6%88%98%E6%96%97%E6%9C%BA" title="战斗机">战斗机</a>的小型机体设计，有些轻型轰炸机也能充当战斗机使用，多半为<a href="/wiki/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战术轰炸机">战术轰炸机</a>。</dd></dl>
+<ul><li>中型轰炸机</li></ul>
+<dl><dd>发动机两具，挂弹重1<a href="/wiki/%E5%85%AC%E5%99%B8" title="公吨">公吨</a>（或2000<a href="/wiki/%E7%A3%85" title="磅">磅</a>）到2<a href="/wiki/%E5%85%AC%E5%99%B8" title="公吨">公吨</a>（或4000<a href="/wiki/%E7%A3%85" title="磅">磅</a>），采用接近<span class="ilh-all" data-orig-title="重型戰鬥機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Heavy_fighter"><span class="ilh-page"><a href="/w/index.php?title=%E9%87%8D%E5%9E%8B%E6%88%B0%E9%AC%A5%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="重型战斗机（页面不存在）">重型战斗机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Heavy_fighter" class="extiw" title="en:Heavy fighter"><span lang="en" dir="auto">Heavy_fighter</span></a></span>）</span></span>与<a href="/wiki/%E6%94%BB%E5%87%BB%E6%9C%BA" title="攻击机">攻击机</a>的中型机体设计，部分中型轰炸机能充当重型战斗机使用，部分则能充当<a href="/wiki/%E9%81%8B%E8%BC%B8%E6%A9%9F" title="运输机">运输机</a>使用。</dd></dl>
+<ul><li>重型轰炸机</li></ul>
+<dl><dd>发动机两具或两具以上，挂弹重至少2<a href="/wiki/%E5%85%AC%E5%99%B8" title="公吨">公吨</a>（或4000<a href="/wiki/%E7%A3%85" title="磅">磅</a>），采用接近运输机的大型机体设计，有些重型轰炸机也能充当运输机使用，多半为<a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战略轰炸机">战略轰炸机</a>。</dd></dl>
+<h3><span id=".E4.BB.BB.E5.8B.99.E5.9E.8B.E6.85.8B.E5.8D.80.E5.88.86"></span><span class="mw-headline" id="任務型態區分">任务型态区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=11" title="编辑章节：任务型态区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>战略与战术轰炸机的分类有的时候并不明显。原因包括：
+</p>
+<ol><li>战略轰炸机也可以执行战术轰炸任务。</li>
+<li>随着时间的改变，战略轰炸机也可能被更大型的轰炸机取代而成为战术轰炸机。譬如，<a href="/wiki/B-29" class="mw-redirect" title="B-29">B-29</a>到了<a href="/wiki/%E9%9F%93%E6%88%B0" class="mw-redirect" title="朝鲜战争">朝鲜战争</a>时期被归类为战术轰炸机。</li>
+<li>近代的战术轰炸机或者是<a href="/wiki/%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" title="战斗轰炸机">战斗轰炸机</a>往往也可以执行<a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8" title="战略轰炸">战略轰炸</a>的任务。譬如，<a href="/wiki/%E8%B6%8A%E6%88%B0" class="mw-redirect" title="越战">越战</a>时期，<a href="/wiki/F-4" class="mw-redirect" title="F-4">F-4</a>也对北越的战略目标进行轰炸。</li></ol>
+<h4><span id=".E6.88.B0.E7.95.A5.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="戰略轟炸機">战略轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=12" title="编辑章节：战略轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战略轰炸机">战略轰炸机</a></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:B-17-2.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B-17-2.jpg/220px-B-17-2.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B-17-2.jpg/330px-B-17-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B-17-2.jpg/440px-B-17-2.jpg 2x" data-file-width="600" data-file-height="800" /></a><figcaption>B-17战略轰炸机</figcaption></figure>
+<p>战略轰炸机的兴起与<a href="/wiki/%E6%9D%9C%E9%BB%91" class="mw-redirect" title="杜黑">杜黑</a>所提出的<a href="/w/index.php?title=%E7%A9%BA%E6%AC%8A%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="空权论（页面不存在）">空权论</a>有密不可分的关系。战略轰炸机的目标是敌对国家的战争机器与生产力量，透过战略轰炸机摧毁敌国维系战争能力以及持续进行战争的意愿。战略轰炸机针对的目标多半距离较远，因此飞机体型较大，以携带足够的炸弹和燃料。二战时期的战略轰炸机多半具有有强大的自卫火力，然而实战经验证明，这些自卫火力无法让战略轰炸机有效达成任务。代表机型有<a href="/wiki/%E7%BE%8E%E5%9B%BD" title="美国">美国</a>在二战时期的<a href="/wiki/B-17" class="mw-redirect" title="B-17">B-17</a>、<a href="/wiki/B-24" class="mw-redirect mw-disambig" title="B-24">B-24</a>、<a href="/wiki/B-29" class="mw-redirect" title="B-29">B-29</a>、英国的<a href="/wiki/%E8%98%AD%E5%8D%A1%E6%96%AF%E7%89%B9" class="mw-disambig" title="兰开斯特">兰开斯特</a>，近代的<a href="/wiki/B-52" class="mw-redirect" title="B-52">B-52</a>、<a href="/wiki/B-1%E6%A7%8D%E9%A8%8E%E5%85%B5%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-1枪骑兵战略轰炸机">B-1B</a>、<a href="/wiki/B-2" class="mw-redirect" title="B-2">B-2</a>，英国的3款<a href="/w/index.php?title=V%E5%9E%8B%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="V型轰炸机（页面不存在）">V型轰炸机</a>，法国的<a href="/wiki/%E5%B9%BB%E5%BD%B1IV%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" title="幻影IV式轰炸机">幻影IV式轰炸机</a>和<a href="/wiki/%E8%8B%8F%E8%81%94" title="苏联">苏联</a>的<a href="/wiki/Tu-16" class="mw-redirect" title="Tu-16">Tu-16</a>、<a href="/wiki/Tu-22M" class="mw-redirect" title="Tu-22M">Tu-22M</a>“逆火”、<a href="/wiki/Tu-95" class="mw-redirect" title="Tu-95">Tu-95</a>“熊”和<a href="/wiki/Tu-160" class="mw-redirect" title="Tu-160">Tu-160</a>“海盗旗”战略轰炸机。
+</p>
+<h4><span id=".E6.88.B0.E8.A1.93.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="戰術轟炸機">战术轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=13" title="编辑章节：战术轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战术轰炸机">战术轰炸机</a></div>
+<p>战术轰炸机的主要任务是支援前线作战，攻击敌人在战场上或者是接近战场的目标。战术轰炸机的体型较小，多半是中型或者是轻型轰炸机设计。载弹量与航程远低于战略轰炸机，二战时期的战术轰炸机具有少量的自卫武装。代表机型有二战时期美国的<a href="/wiki/B-25" class="mw-redirect" title="B-25">B-25</a>、<a href="/wiki/B-26" class="mw-redirect mw-disambig" title="B-26">B-26</a>，英国的<a href="/wiki/%E8%9A%8A%E5%BC%8F" class="mw-redirect" title="蚊式">蚊式</a>，德国的<a href="/wiki/He_111" class="mw-redirect" title="He 111">He 111</a>、<a href="/wiki/Ju_88" class="mw-redirect" title="Ju 88">Ju 88</a>，前苏联的<a href="/wiki/Pe-2" class="mw-redirect" title="Pe-2">Pe-2</a>等。近代的代表机型有美国的<a href="/w/index.php?title=B-45&amp;action=edit&amp;redlink=1" class="new" title="B-45（页面不存在）">B-45</a>、<a href="/wiki/F-105" class="mw-redirect" title="F-105">F-105</a>、<a href="/wiki/F-111" class="mw-redirect" title="F-111">F-111</a>“土豚”、<a href="/wiki/F-117" class="mw-redirect" title="F-117">F-117</a>，英国的<a href="/wiki/B-57%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-57轰炸机">堪培拉</a>和前苏联的<a href="/wiki/Su-24%E5%BC%8F%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="Su-24式战斗轰炸机">Su-24</a>“击剑手”战术轰炸机。
+</p>
+<h2><span id=".E5.90.84.E5.9C.8B.E8.BD.9F.E7.82.B8.E6.A9.9F"></span><span class="mw-headline" id="各國轟炸機">各国轰炸机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=14" title="编辑章节：各国轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.88.B0.E7.95.A5.E8.BD.9F.E7.82.B8.E6.A9.9F_2"></span><span class="mw-headline" id="戰略轟炸機_2"><a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战略轰炸机">战略轰炸机</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=15" title="编辑章节：战略轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E4.BA.8C.E6.88.B0.E6.99.82.E6.9C.9F"></span><span class="mw-headline" id="二戰時期">二战时期</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=16" title="编辑章节：二战时期"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span id=".E8.8B.B1.E5.9C.8B"></span><span class="mw-headline" id="英國">英国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=17" title="编辑章节：英国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E8%98%AD%E9%96%8B%E6%96%AF%E7%89%B9%E8%BD%9F%E7%82%B8%E6%A9%9F" title="兰开斯特轰炸机">兰开斯特</a></li>
+<li><a href="/wiki/%E6%96%AF%E7%89%B9%E6%9E%97%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="斯特林轰炸机">史特林</a></li>
+<li><a href="/wiki/%E5%93%88%E5%88%A9%E6%B3%95%E5%85%8B%E6%96%AF%E8%BD%9F%E7%82%B8%E6%A9%9F" title="哈利法克斯轰炸机">哈里法克斯</a></li></ul>
+<h5><span id=".E6.B3.95.E5.9C.8B"></span><span class="mw-headline" id="法國">法国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=18" title="编辑章节：法国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/F.222%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" title="F.222式轰炸机">F.222式轰炸机</a></li></ul>
+<h5><span id=".E7.BE.8E.E5.9C.8B"></span><span class="mw-headline" id="美國">美国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=19" title="编辑章节：美国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/B-17" class="mw-redirect" title="B-17">B-17</a></li>
+<li><a href="/wiki/B-25" class="mw-redirect" title="B-25">B-25</a></li>
+<li><a href="/wiki/B-24%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-24轰炸机">B-24</a></li>
+<li><a href="/wiki/B-29%E8%B6%85%E7%B4%9A%E5%A0%A1%E5%A3%98%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-29超级堡垒轰炸机">B-29</a></li>
+<li><a href="/w/index.php?title=B-32&amp;action=edit&amp;redlink=1" class="new" title="B-32（页面不存在）">B-32</a></li>
+<li><a href="/wiki/B-26%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-26轰炸机">B-26</a></li></ul>
+<h5><span id=".E5.BE.B7.E5.9C.8B"></span><span class="mw-headline" id="德國">德国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=20" title="编辑章节：德国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/He_177" class="mw-redirect" title="He 177">He 177</a></li>
+<li><a href="/wiki/Fw_200" class="mw-redirect" title="Fw 200">Fw 200</a></li></ul>
+<h5><span id=".E8.98.87.E8.81.AF"></span><span class="mw-headline" id="蘇聯">苏联</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=21" title="编辑章节：苏联"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/TB-3" class="mw-redirect" title="TB-3">TB-3</a></li>
+<li><a href="/wiki/Pe-8" class="mw-redirect" title="Pe-8">Pe-8</a></li>
+<li><a href="/wiki/%E5%8A%A0%E9%87%8C%E5%AE%81K-7" title="加里宁K-7">加里宁K-7</a></li></ul>
+<h5><span id=".E6.97.A5.E6.9C.AC"></span><span class="mw-headline" id="日本">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=22" title="编辑章节：日本"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E6%B7%B1%E5%B1%B1%E8%BD%9F%E7%82%B8%E6%A9%9F" title="深山轰炸机">深山轰炸机</a></li>
+<li><a href="/wiki/%E9%80%A3%E5%B1%B1%E8%BD%9F%E7%82%B8%E6%A9%9F" title="连山轰炸机">连山轰炸机</a></li></ul>
+<h4><span id=".E4.BA.8C.E6.88.98.E5.90.8E"></span><span class="mw-headline" id="二战后">二战后</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=23" title="编辑章节：二战后"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>21世纪第一天，只有中美俄和伊拉克四个国家还拥有战略轰炸机（埃及是在2000年退役了所有图-16和轰-6，<a href="/wiki/%E4%BC%8A%E6%8B%89%E5%85%8B" title="伊拉克">伊拉克</a>是在2003年的战事中被摧毁了海湾战争中幸存的最后一架轰-6<sup id="cite_ref-Goebel_1-0" class="reference"><a href="#cite_note-Goebel-1">&#91;1&#93;</a></sup>）。
+</p>
+<h5><span id=".E8.8B.B1.E5.9C.8B_2"></span><span class="mw-headline" id="英國_2">英国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=24" title="编辑章节：英国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>英国的三种战略轰炸机至1993年均已退役。
+</p>
+<ul><li><a href="/w/index.php?title=%E5%8B%87%E6%B0%A3%E5%BC%8F%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="勇气式轰炸机（页面不存在）">勇气式轰炸机</a></li>
+<li><a href="/wiki/%E7%81%AB%E7%A5%9E%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" title="火神式轰炸机">火神式轰炸机</a></li>
+<li><a href="/wiki/%E8%83%9C%E5%88%A9%E8%80%85%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" title="胜利者式轰炸机">胜利者式轰炸机</a></li></ul>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:USAF_B-2_Spirit.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/USAF_B-2_Spirit.jpg/200px-USAF_B-2_Spirit.jpg" decoding="async" width="200" height="195" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/USAF_B-2_Spirit.jpg/300px-USAF_B-2_Spirit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/USAF_B-2_Spirit.jpg/400px-USAF_B-2_Spirit.jpg 2x" data-file-width="711" data-file-height="695" /></a><figcaption><a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美国">美国</a><a href="/wiki/B-2" class="mw-redirect" title="B-2">B-2</a>轰炸机</figcaption></figure>
+<h5><span id=".E7.BE.8E.E5.9C.8B_2"></span><span class="mw-headline" id="美國_2">美国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=25" title="编辑章节：美国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/B-47%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-47轰炸机">B-47</a></li>
+<li><a href="/wiki/B-50" class="mw-redirect" title="B-50">B-50</a></li>
+<li><a href="/wiki/B-52" class="mw-redirect" title="B-52">B-52</a></li>
+<li><a href="/w/index.php?title=B-58&amp;action=edit&amp;redlink=1" class="new" title="B-58（页面不存在）">B-58</a></li>
+<li><a href="/wiki/XB-70" class="mw-redirect" title="XB-70">XB-70</a></li>
+<li><a href="/wiki/B-1%E6%A7%8D%E9%A8%8E%E5%85%B5%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" title="B-1枪骑兵战略轰炸机">B-1B</a></li>
+<li><a href="/wiki/B-2%E5%B9%BD%E9%9D%88%E9%9A%B1%E5%BD%A2%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="B-2幽灵隐身战略轰炸机">B-2</a></li></ul>
+<h5><span id=".E5.89.8D.E8.98.87.E8.81.AF.2F.E4.BF.84.E7.BE.85.E6.96.AF"></span><span class="mw-headline" id="前蘇聯/俄羅斯">前苏联/俄罗斯</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=26" title="编辑章节：前苏联/俄罗斯"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E5%9C%96-4" class="mw-redirect" title="图-4">Tu-4</a></li>
+<li><a href="/wiki/%E7%B1%B3%E4%BA%9A-4" class="mw-redirect" title="米亚-4">米亚-4</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Tu-95" class="mw-redirect" title="Tu-95">Tu-95</a></li>
+<li><a href="/wiki/Tu-22%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="Tu-22轰炸机">Tu-22</a></li>
+<li><a href="/wiki/Tu-22M" class="mw-redirect" title="Tu-22M">Tu-22M</a></li>
+<li><a href="/wiki/Tu-160" class="mw-redirect" title="Tu-160">Tu-160</a></li></ul>
+<h5><span id=".E6.B3.95.E5.9C.8B_2"></span><span class="mw-headline" id="法國_2">法国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=27" title="编辑章节：法国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E5%B9%BB%E5%BD%B1IV%E5%BC%8F%E8%BD%B0%E7%82%B8%E6%9C%BA" title="幻影IV式轰炸机">幻影IV</a></li></ul>
+<h5><span id=".E4.B8.AD.E5.9B.BD"></span><span class="mw-headline" id="中国">中国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=28" title="编辑章节：中国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E8%BD%B0-6" title="轰-6">轰-6K/N</a></li></ul>
+<h3><span id=".E6.88.B0.E8.A1.93.E8.BD.9F.E7.82.B8.E6.A9.9F_2"></span><span class="mw-headline" id="戰術轟炸機_2"><a href="/wiki/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="战术轰炸机">战术轰炸机</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=29" title="编辑章节：战术轰炸机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E4.BA.8C.E6.88.B0.E6.99.82.E6.9C.9F_2"></span><span class="mw-headline" id="二戰時期_2">二战时期</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=30" title="编辑章节：二战时期"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_(CV-6)_in_April_1942.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg/250px-Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg" decoding="async" width="250" height="195" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg/375px-Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg/500px-Aircraft_spotted_on_the_forward_flight_deck_of_USS_Enterprise_%28CV-6%29_in_April_1942.jpg 2x" data-file-width="600" data-file-height="467" /></a><figcaption>在<a href="/wiki/%E4%BC%81%E6%A5%AD%E8%99%9F%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%89%A6_(CV-6)" title="企业号航空母舰 (CV-6)">企业号航空母舰</a>上准备起飞的SBD无畏式，摄于1942年</figcaption></figure>
+<ul><li><a href="/wiki/%E5%A8%81%E9%9D%88%E9%A0%93%E8%BD%9F%E7%82%B8%E6%A9%9F" title="威灵顿轰炸机">威灵顿轰炸机</a> (英国)</li>
+<li><a href="/wiki/%E8%9A%8A%E5%BC%8F" class="mw-redirect" title="蚊式">蚊式轰炸机</a> (英国)</li>
+<li><a href="/wiki/%E5%B8%83%E5%80%AB%E4%BA%A8%E5%BC%8F%E8%BD%9F%E7%82%B8%E6%A9%9F" title="布伦亨式轰炸机">布伦亨轰炸机</a> (英国)</li>
+<li><span class="ilh-all" data-orig-title="布里斯托尔博福特轟炸機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bristol Beaufort"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%83%E9%87%8C%E6%96%AF%E6%89%98%E5%B0%94%E5%8D%9A%E7%A6%8F%E7%89%B9%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="布里斯托尔博福特轰炸机（页面不存在）">博福特轰炸机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bristol_Beaufort" class="extiw" title="en:Bristol Beaufort"><span lang="en" dir="auto">Bristol Beaufort</span></a></span>）</span></span> (英国)</li>
+<li><span class="ilh-all" data-orig-title="布里斯托標緻战士轟炸機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bristol Beaufighter"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%83%E9%87%8C%E6%96%AF%E6%89%98%E6%A8%99%E7%B7%BB%E6%88%98%E5%A3%AB%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="布里斯托标致战士轰炸机（页面不存在）">标致战士轰炸机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bristol_Beaufighter" class="extiw" title="en:Bristol Beaufighter"><span lang="en" dir="auto">Bristol Beaufighter</span></a></span>）</span></span> (英国)</li>
+<li><a href="/wiki/%E8%B4%BC%E9%B8%A5%E5%BC%8F%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" title="贼鸥式战斗轰炸机">贼鸥</a> (英国)</li>
+<li><a href="/wiki/%E7%AE%A1%E9%BC%BB%E9%B8%8C%E5%BC%8F%E6%88%B0%E9%AC%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="管鼻鹱式战斗轰炸机">管鼻鹱</a> (英国)</li>
+<li><a href="/wiki/%E5%B8%83%E8%8E%B1%E5%85%8B%E6%9C%AC%E5%A4%A7%E9%B9%8F%E8%88%B0%E8%BD%BD%E6%88%98%E6%96%97%E6%9C%BA" class="mw-redirect" title="布莱克本大鹏舰载战斗机">大鹏</a>  (英国)</li>
+<li><a href="/wiki/%E5%89%91%E9%B1%BC%E5%BC%8F%E9%B1%BC%E9%9B%B7%E8%BD%B0%E7%82%B8%E6%9C%BA" title="剑鱼式鱼雷轰炸机">剑鱼式鱼雷轰炸机</a>  (英国)</li>
+<li><a href="/wiki/%E9%9D%92%E8%8A%B1%E9%AD%9A%E5%BC%8F%E9%AD%9A%E9%9B%B7%E8%BD%9F%E7%82%B8%E6%A9%9F" title="青花鱼式鱼雷轰炸机">青花鱼式鱼雷轰炸机</a>  (英国)</li>
+<li><a href="/wiki/%E6%A2%AD%E9%AD%9A%E5%BC%8F%E9%AD%9A%E9%9B%B7%E8%BD%9F%E7%82%B8%E6%A9%9F" title="梭鱼式鱼雷轰炸机">梭鱼式鱼雷轰炸机</a>  (英国)</li>
+<li><a href="/w/index.php?title=%E4%BA%A8%E5%BE%B7%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87%E6%BC%A2%E6%99%AE%E7%99%BB%E4%B8%AD%E5%9E%8B%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="亨德里·佩奇汉普登中型轰炸机（页面不存在）">亨德里·佩奇汉普登中型轰炸机</a>  (英国)</li>
+<li><a href="/wiki/A-20%E6%B5%A9%E5%8A%AB%E6%94%BB%E6%93%8A%E6%A9%9F" title="A-20浩劫攻击机"> DB-7/A-20浩劫攻击机</a> (英国)  （美国)</li>
+<li><a href="/w/index.php?title=B-34%E8%BD%9F%E7%82%B8%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="B-34轰炸机（页面不存在）">B-34轰炸机</a>  （美国)</li>
+<li><a href="/wiki/B-25%E7%B1%B3%E5%88%87%E5%B0%94%E5%9E%8B%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-25米切尔型轰炸机">B-25轰炸机</a>  （美国)</li>
+<li><a href="/wiki/B-26%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-26轰炸机">B-26轰炸机</a>  （美国)</li>
+<li><a href="/wiki/TBD%E8%B9%82%E8%BA%AA%E8%80%85%E5%BC%8F%E9%AD%9A%E9%9B%B7%E8%BD%9F%E7%82%B8%E6%A9%9F" title="TBD蹂躏者式鱼雷轰炸机">TBD</a>            （美国)</li>
+<li><a href="/wiki/TBF%E5%BE%A9%E4%BB%87%E8%80%85%E5%BC%8F%E8%BD%9F%E7%82%B8%E6%A9%9F" title="TBF复仇者式轰炸机">TBF轰炸机</a>  （美国)</li>
+<li><a href="/wiki/SBD%E7%84%A1%E7%95%8F%E5%BC%8F%E4%BF%AF%E8%A1%9D%E8%BD%9F%E7%82%B8%E6%A9%9F" title="SBD无畏式俯冲轰炸机">SBD轰炸机</a>  （美国)</li>
+<li><a href="/wiki/SB2C%E4%BF%AF%E5%86%B2%E8%BD%B0%E7%82%B8%E6%9C%BA" title="SB2C俯冲轰炸机">SB2C轰炸机</a>  （美国)</li>
+<li><a href="/wiki/%E5%93%88%E5%BE%B7%E9%81%9C%E5%BC%8F%E8%BD%9F%E7%82%B8%E6%A9%9F#型號" title="哈德逊式轰炸机">A-28轰炸机</a>  （美国)</li>
+<li><a href="/wiki/%E5%93%88%E5%BE%B7%E9%81%9C%E5%BC%8F%E8%BD%9F%E7%82%B8%E6%A9%9F#型號" title="哈德逊式轰炸机">A-29轰炸机</a>  （美国)</li>
+<li><a href="/wiki/Do_17%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="Do 17轰炸机">Do 17轰炸机</a>  (德国)</li>
+<li><a href="/wiki/Do_217%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="Do 217轰炸机">Do 217轰炸机</a>  (德国)</li>
+<li><a href="/wiki/He_111" class="mw-redirect" title="He 111">He 111轰炸机</a>  (德国)</li>
+<li><a href="/wiki/Ju_87" class="mw-redirect" title="Ju 87">Ju 87轰炸机</a>  (德国)</li>
+<li><a href="/wiki/Ju_88" class="mw-redirect" title="Ju 88">Ju 88轰炸机</a>   (德国)</li>
+<li><a href="/wiki/Ar_234" class="mw-redirect" title="Ar 234">Ar 234轰炸机</a>  (德国)</li>
+<li><a href="/wiki/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB" class="mw-redirect" title="一式陆攻">一式陆攻</a>  (日本)</li>
+<li><a href="/wiki/%E5%9B%9B%E5%BC%8F%E9%87%8D%E5%9E%8B%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="四式重型轰炸机">“飞龙”轰炸机</a>  (日本)</li>
+<li><a href="/wiki/%E5%90%9E%E9%BE%8D%E9%87%8D%E8%BD%9F%E7%82%B8%E6%A9%9F" title="吞龙重轰炸机">Ki-49轰炸机</a>  (日本)</li>
+<li><a href="/wiki/%E6%B5%81%E6%98%9F%E8%89%A6%E4%B8%8A%E6%94%BB%E6%93%8A%E6%A9%9F" title="流星舰上攻击机">“流星”轰炸机</a>  (日本)</li>
+<li><a href="/wiki/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E4%B8%8A%E6%94%BB%E6%93%8A%E6%A9%9F" title="九六式陆上攻击机">G3M轰炸机</a>  (日本)</li>
+<li><a href="/wiki/CANT_Z.1007" class="mw-redirect" title="CANT Z.1007">Z.1007轰炸机</a>  (意大利)</li>
+<li><a href="/wiki/%E5%9C%96-2%E8%BD%9F%E7%82%B8%E6%A9%9F" title="图-2轰炸机">Tu-2轰炸机</a>  (苏联)</li>
+<li><a href="/wiki/%E5%9C%96%E6%B3%A2%E5%88%97%E5%A4%ABSB%E8%BD%9F%E7%82%B8%E6%A9%9F" class="mw-redirect" title="图波列夫SB轰炸机">SB-2轰炸机</a>  (苏联)</li>
+<li><a href="/wiki/IL-4" class="mw-disambig" title="IL-4">IL-4轰炸机</a>  (苏联)</li>
+<li><a href="/wiki/Pe-2" class="mw-redirect" title="Pe-2">Pe-2轰炸机</a>  (苏联)</li>
+<li><a href="/wiki/Il-2" class="mw-redirect mw-disambig" title="Il-2">Il-2轰炸机</a>  (苏联)</li>
+<li><a href="/wiki/Il-10" class="mw-redirect" title="Il-10">Il-10轰炸机</a>  (苏联)</li></ul>
+<h4><span id=".E4.BA.8C.E6.88.98.E5.90.8E_2"></span><span class="mw-headline" id="二战后_2">二战后</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=31" title="编辑章节：二战后"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span id=".E8.8B.B1.E5.9C.8B_3"></span><span class="mw-headline" id="英國_3">英国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=32" title="编辑章节：英国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/B-57%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-57轰炸机">堪培拉</a></li></ul>
+<h5><span id=".E7.BE.8E.E5.9C.8B_3"></span><span class="mw-headline" id="美國_3">美国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=33" title="编辑章节：美国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/w/index.php?title=B-45&amp;action=edit&amp;redlink=1" class="new" title="B-45（页面不存在）">B-45</a></li>
+<li><a href="/wiki/B-57%E8%BD%B0%E7%82%B8%E6%9C%BA" title="B-57轰炸机">B-57</a></li>
+<li><a href="/wiki/F-105" class="mw-redirect" title="F-105">F-105</a></li>
+<li><a href="/wiki/F-111" class="mw-redirect" title="F-111">F-111</a></li>
+<li><a href="/wiki/F-15E%E6%89%93%E6%93%8A%E9%B7%B9%E5%BC%8F%E6%88%B0%E9%AC%A5%E8%BD%9F%E7%82%B8%E6%A9%9F" title="F-15E打击鹰式战斗轰炸机">F-15E</a></li>
+<li><a href="/wiki/F-117" class="mw-redirect" title="F-117">F-117</a></li>
+<li><a href="/w/index.php?title=B-66&amp;action=edit&amp;redlink=1" class="new" title="B-66（页面不存在）">B-66</a>/<a href="/wiki/A-3%E6%94%BB%E6%93%8A%E6%A9%9F" title="A-3攻击机">A-3</a></li>
+<li><a href="/wiki/A-5%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="A-5攻击机">A-5</a></li></ul>
+<h5><span id=".E5.89.8D.E8.98.87.E8.81.AF.2F.E4.BF.84.E7.BE.85.E6.96.AF_2"></span><span class="mw-headline" id="前蘇聯/俄羅斯_2">前苏联/俄罗斯</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=34" title="编辑章节：前苏联/俄罗斯"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/Il-28" class="mw-redirect" title="Il-28">Il-28</a></li>
+<li><a href="/wiki/Tu-16" class="mw-redirect" title="Tu-16">Tu-16</a></li>
+<li><a href="/wiki/Su-24%E5%BC%8F%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" class="mw-redirect" title="Su-24式战斗轰炸机">Su-24</a></li>
+<li><a href="/wiki/M-50" class="mw-redirect" title="M-50">M-50</a></li></ul>
+<h5><span id=".E4.B8.AD.E5.9B.BD_2"></span><span class="mw-headline" id="中国_2">中国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=35" title="编辑章节：中国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><a href="/wiki/%E4%BC%8A%E5%B0%94-28" class="mw-redirect" title="伊尔-28">轰-5</a></li>
+<li><a href="/wiki/%E8%BD%B0-6" title="轰-6">轰-6</a></li>
+<li><a href="/wiki/%E6%AD%BC%E8%BD%B0-7" class="mw-redirect" title="歼轰-7">歼轰-7</a></li></ul>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=36" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" title="战斗轰炸机">战斗轰炸机</a></li>
+<li><a href="/wiki/%E6%94%BB%E6%93%8A%E6%A9%9F" class="mw-redirect" title="攻击机">攻击机</a></li>
+<li><a href="/wiki/%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8" title="战略轰炸">战略轰炸</a></li>
+<li><a href="/wiki/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8" class="mw-redirect" title="战术轰炸">战术轰炸</a></li>
+<li><a href="/wiki/%E7%A9%BA%E7%94%A8%E7%82%B8%E5%BD%88" class="mw-redirect" title="空用炸弹">空用炸弹</a></li></ul>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=37" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-Goebel-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Goebel_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vectorsite.net/avtu16.html">VectorSite</a>. The Tupolev Tu-16 "Badger".  <span class="reference-accessdate"> &#91;<span class="nowrap">2007-01-12</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://www.webcitation.org/671NR8R96?url=http://www.vectorsite.net/avtu16.html">存档</a>于2012-04-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;rft.atitle=VectorSite&amp;rft.genre=unknown&amp;rft.jtitle=The+Tupolev+Tu-16+%22Badger%22&amp;rft_id=http%3A%2F%2Fwww.vectorsite.net%2Favtu16.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">One Hundred Years of World Military Aircraft P369</span>
+</li>
+</ol>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;action=edit&amp;section=38" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellspacing="0" class="navbox" style="border-spacing:0;wide"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Military_aircraft_types_(roles)" title="Template:Military aircraft types (roles)"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:Military_aircraft_types_(roles)" title="Template talk:Military aircraft types (roles)"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Military_aircraft_types_(roles)&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%">现代<a href="/wiki/%E5%86%9B%E7%94%A8%E8%88%AA%E7%A9%BA%E5%99%A8" title="军用航空器">军用航空器</a>的任务和类型</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">按任务</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="line-height:120%; text-align:center; font-weight:normal; background-color:#DCDCDC;">作战</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:150%;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%88%98%E6%96%97%E6%9C%BA" title="战斗机">战斗机</a>
+<ul><li><span class="ilh-all" data-orig-title="空优战斗机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Air superiority fighter"><span class="ilh-page"><a href="/w/index.php?title=%E7%A9%BA%E4%BC%98%E6%88%98%E6%96%97%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="空优战斗机（页面不存在）">空优战斗机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Air_superiority_fighter" class="extiw" title="en:Air superiority fighter"><span lang="en" dir="auto">Air superiority fighter</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AD%B7%E8%88%AA%E6%88%B0%E9%AC%A5%E6%A9%9F" title="护航战斗机">护航战斗机</a></li>
+<li><a href="/wiki/%E6%88%AA%E5%87%BB%E6%9C%BA" class="mw-redirect" title="截击机">截击机</a></li>
+<li><a href="/wiki/%E5%A4%9C%E9%96%93%E6%88%B0%E9%AC%A5%E6%A9%9F" title="夜间战斗机">夜间战斗机</a></li></ul></li>
+<li><a href="/wiki/%E6%94%BB%E5%87%BB%E6%9C%BA" title="攻击机">攻击机</a>
+<ul><li><a href="/wiki/%E6%94%BB%E5%87%BB%E7%9B%B4%E5%8D%87%E6%9C%BA" title="攻击直升机">攻击直升机</a></li>
+<li><a href="/wiki/%E7%A0%B2%E8%89%A6%E6%A9%9F" title="炮舰机">炮舰</a></li></ul></li>
+<li><a href="/wiki/%E5%A4%9A%E7%94%A8%E9%80%94%E6%88%B0%E6%A9%9F" title="多用途战机">多用途战机</a>
+<ul><li><a href="/wiki/%E6%94%BB%E6%93%8A%E6%88%B0%E9%AC%A5%E6%A9%9F" title="攻击战斗机">攻击战斗机</a></li></ul></li>
+<li><a class="mw-selflink selflink">轰炸机</a>
+<ul><li><a href="/wiki/%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA" title="战略轰炸机">战略轰炸机</a></li>
+<li><a href="/wiki/%E6%88%98%E6%96%97%E8%BD%B0%E7%82%B8%E6%9C%BA" title="战斗轰炸机">战斗轰炸机</a></li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E4%BD%9C%E6%88%B0%E9%A3%9B%E6%A9%9F" title="电子作战飞机">电子作战飞机</a></li>
+<li><a href="/wiki/%E5%8F%8D%E6%BD%9B%E6%A9%9F" title="反潜机">海上巡逻机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="line-height:120%; text-align:center; font-weight:normal; background-color:#DCDCDC;">非作战</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:150%;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A9%BA%E4%B8%AD%E9%A2%84%E8%AD%A6%E6%9C%BA" title="空中预警机">空中预警机</a></li>
+<li><a href="/wiki/%E8%A9%A6%E9%A9%97%E6%A9%9F" title="试验机">试验机</a></li>
+<li><a href="/wiki/%E9%9D%B6%E6%A9%9F" title="靶机">靶机</a></li>
+<li><a href="/w/index.php?title=%E5%B0%8D%E7%A9%BA%E4%BE%A6%E5%AF%9F%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="对空侦察机（页面不存在）">对空侦察机</a></li>
+<li><a href="/wiki/%E4%BE%A6%E5%AF%9F%E6%9C%BA" title="侦察机">侦察机</a></li>
+<li><a href="/wiki/%E7%A9%BA%E4%B8%AD%E5%8A%A0%E6%B2%B9%E6%A9%9F" title="空中加油机">空中加油机</a></li>
+<li><a href="/wiki/%E6%95%99%E7%B7%B4%E6%A9%9F" title="教练机">教练机</a></li>
+<li><a href="/wiki/%E9%81%8B%E8%BC%B8%E6%A9%9F" title="运输机">运输机</a></li>
+<li><a href="/wiki/%E5%86%9B%E7%94%A8%E8%88%AA%E7%A9%BA%E5%99%A8" title="军用航空器">军用飞机</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">按类型</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E8%BB%8D%E7%94%A8%E6%B0%A3%E7%90%83&amp;action=edit&amp;redlink=1" class="new" title="军用气球（页面不存在）">军用气球</a></li>
+<li><a href="/w/index.php?title=%E8%BB%8D%E7%94%A8%E6%BB%91%E7%BF%94%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="军用滑翔机（页面不存在）">军用滑翔机</a></li>
+<li><a href="/wiki/%E7%9B%B4%E5%8D%87%E6%A9%9F#軍用" title="直升机">军用直升机</a>
+<ul><li><a href="/wiki/%E6%94%BB%E5%87%BB%E7%9B%B4%E5%8D%87%E6%9C%BA" title="攻击直升机">攻击直升机</a></li>
+<li><a href="/wiki/%E8%BF%90%E8%BE%93%E7%9B%B4%E5%8D%87%E6%9C%BA" title="运输直升机">运输直升机</a></li>
+<li><a href="/wiki/%E5%81%B5%E5%AF%9F%E7%9B%B4%E5%8D%87%E6%A9%9F" title="侦察直升机">侦察直升机</a></li>
+<li><a href="/wiki/%E5%8F%8D%E6%BD%9C%E7%9B%B4%E5%8D%87%E6%9C%BA" title="反潜直升机">反潜直升机</a></li>
+<li><a href="/wiki/%E5%A4%9A%E7%94%A8%E9%80%94%E7%9B%B4%E5%8D%87%E6%A9%9F" title="多用途直升机">通用直升机</a></li></ul></li>
+<li><a href="/wiki/%E5%AF%BC%E5%BC%B9" title="导弹">导弹</a></li>
+<li><a href="/wiki/%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E8%BC%89%E5%85%B7" title="无人航空载具">无人飞机</a></li>
+<li><a href="/wiki/%E9%9A%B1%E5%BD%A2%E6%88%B0%E6%A9%9F" title="隐身战机">隐身战机</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q170877" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E8%97%9D%E8%A1%93%E8%88%87%E5%BB%BA%E7%AF%89%E7%B4%A2%E5%BC%95%E5%85%B8" title="艺术与建筑索引典">AAT</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://vocab.getty.edu/page/aat/300213027">300213027</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="西班牙国家图书馆">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX533033">XX533033</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4069587-6">4069587-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00560489">00560489</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph118962&amp;CON_LNG=ENG">ph118962</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2414
+Cached time: 20240402025820
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.264 seconds
+Real time usage: 0.377 seconds
+Preprocessor visited node count: 730/1000000
+Post‐expand include size: 91660/2097152 bytes
+Template argument size: 336/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4461/5000000 bytes
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 3339938/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  233.918      1 -total
+ 27.69%   64.764      2 Template:Navbox
+ 26.12%   61.107      1 Template:NoteTA
+ 23.87%   55.841      1 Template:Military_aircraft_types_(roles)
+ 16.84%   39.389      1 Template:Authority_control
+ 16.83%   39.366      1 Template:Cite_web
+  8.23%   19.261      4 Template:Tsl
+  5.49%   12.848      3 Template:Main
+  2.83%    6.610      1 Template:WPMILHIST_Infobox_style
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:20223-0!userlang=zh-cn!zh-cn and timestamp 20240402025820 and revision id 81847600. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=轰炸机&amp;oldid=81847600">https://zh.wikipedia.org/w/index.php?title=轰炸机&amp;oldid=81847600</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%BD%B0%E7%82%B8%E6%9C%BA" title="Category:轰炸机">轰炸机</a></li><li><a href="/wiki/Category:%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA" title="Category:军用飞机">军用飞机</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABAAT%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含AAT标识符的维基百科条目">包含AAT标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNE%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNE标识符的维基百科条目">包含BNE标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月10日 (星期日) 16:15。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%BD%B0%E7%82%B8%E6%9C%BA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2329","wgBackendResponseTime":152,"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.377","ppvisitednodes":{"value":730,"limit":1000000},"postexpandincludesize":{"value":91660,"limit":2097152},"templateargumentsize":{"value":336,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4461,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  233.918      1 -total"," 27.69%   64.764      2 Template:Navbox"," 26.12%   61.107      1 Template:NoteTA"," 23.87%   55.841      1 Template:Military_aircraft_types_(roles)"," 16.84%   39.389      1 Template:Authority_control"," 16.83%   39.366      1 Template:Cite_web","  8.23%   19.261      4 Template:Tsl","  5.49%   12.848      3 Template:Main","  2.83%    6.610      1 Template:WPMILHIST_Infobox_style"]},"scribunto":{"limitreport-timeusage":{"value":"0.117","limit":"10.000"},"limitreport-memusage":{"value":3339938,"limit":52428800}},"cachereport":{"origin":"mw2414","timestamp":"20240402025820","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8f70\u70b8\u673a","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%BD%B0%E7%82%B8%E6%9C%BA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q170877","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q170877","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-01T14:31:44Z","dateModified":"2024-03-10T16:15:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/Avro_Lancaster_parked.jpg","headline":"\u6a5f\u7a2e"}</script>
+</body>
+</html>

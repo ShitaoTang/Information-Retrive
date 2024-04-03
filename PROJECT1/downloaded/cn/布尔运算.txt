@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>布尔逻辑 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"cd333cfa-59eb-480b-ab16-e57edb8400b5","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"布尔逻辑","wgTitle":"布尔逻辑","wgCurRevisionId":76912914,"wgRevisionId":76912914,"wgArticleId":167371,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有英語的條目","使用过时的math标签格式的页面","邏輯","代数逻辑","布尔代数","形式逻辑系统"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"布尔逻辑","wgRelevantArticleId":167371,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"布尔运算",
+"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q11059585","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher",
+"ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="布尔逻辑 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-布尔逻辑 rootpage-布尔逻辑 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-术语"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#术语">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>术语</div>
+		</a>
+		
+		<ul id="toc-术语-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-例子"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#例子">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>例子</div>
+		</a>
+		
+		<ul id="toc-例子-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-把运算连接起来"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#把运算连接起来">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>把运算连接起来</div>
+		</a>
+		
+			<button aria-controls="toc-把运算连接起来-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关把运算连接起来子章节</span>
+			</button>
+		
+		<ul id="toc-把运算连接起来-sublist" class="vector-toc-list">
+			<li id="toc-使用圆括号"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#使用圆括号">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>使用圆括号</div>
+			</a>
+			
+			<ul id="toc-使用圆括号-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-性质"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#性质">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>性质</div>
+		</a>
+		
+		<ul id="toc-性质-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-真值表"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#真值表">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>真值表</div>
+		</a>
+		
+		<ul id="toc-真值表-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-其他记号"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#其他记号">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>其他记号</div>
+		</a>
+		
+		<ul id="toc-其他记号-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-布尔术语的基本数学使用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#布尔术语的基本数学使用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>布尔术语的基本数学使用</div>
+		</a>
+		
+		<ul id="toc-布尔术语的基本数学使用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-布尔术语的英语使用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#布尔术语的英语使用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>布尔术语的英语使用</div>
+		</a>
+		
+		<ul id="toc-布尔术语的英语使用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-应用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#应用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>应用</div>
+		</a>
+		
+			<button aria-controls="toc-应用-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关应用子章节</span>
+			</button>
+		
+		<ul id="toc-应用-sublist" class="vector-toc-list">
+			<li id="toc-数字电子电路设计"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#数字电子电路设计">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.1</span>数字电子电路设计</div>
+			</a>
+			
+			<ul id="toc-数字电子电路设计-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-数据库应用"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#数据库应用">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.2</span>数据库应用</div>
+			</a>
+			
+			<ul id="toc-数据库应用-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-搜索引擎查询"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#搜索引擎查询">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.3</span>搜索引擎查询</div>
+			</a>
+			
+			<ul id="toc-搜索引擎查询-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">布尔逻辑</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。1种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">1种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Boolean_logic" title="Boolean logic – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11059585#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;oldid=76912914" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;id=76912914&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B8%2583%25E5%25B0%2594%25E9%2580%25BB%25E8%25BE%2591"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B8%2583%25E5%25B0%2594%25E9%2580%25BB%25E8%25BE%2591"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11059585" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-3375ad5c" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E8%BF%90%E7%AE%97&amp;redirect=no" class="mw-redirect" title="布尔运算">布尔运算</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-3375ad5c" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div><div data-noteta-group-source="module" data-noteta-group="Math"></div><div data-noteta-group-source="module" data-noteta-group="Communication"></div></div><div class="noteTA-local"><div data-noteta-code="zh-cn:数码; zh-tw:數位; zh-hk:數碼;"></div></div></div>
+<table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:88%;line-height:1.5em;margin: 0 0 1em 1em; float: right;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:;">“布尔逻辑”的各地常用名称</th></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">中国大陆</th><td style="white-space: nowrap; font-size: 1rem;;">布尔逻辑 </td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">台湾</th><td style="white-space: nowrap; font-size: 1rem;;">布林运算 </td></tr></tbody></table>
+<p><b>布尔逻辑</b>（英语：<span lang="en">Boolean algebra</span>）得名于<a href="/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%B8%83%E5%B0%94" title="乔治·布尔">乔治·布尔</a>，他是<a href="/wiki/%E7%88%B1%E5%B0%94%E5%85%B0" title="爱尔兰">爱尔兰</a><a href="/wiki/%E7%A7%91%E5%85%8B_(%E7%88%B1%E5%B0%94%E5%85%B0)" title="科克 (爱尔兰)">科克</a>的皇后学院的英国数学家，他在<a href="/wiki/%E5%8D%81%E4%B9%9D%E4%B8%96%E7%B4%80" class="mw-redirect" title="十九世纪">十九世纪</a>中叶首次定义了逻辑的代数系统。现在，布尔逻辑在电子学、计算机硬件和软件中有很多应用。在1937年，<a href="/wiki/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E8%89%BE%E5%B0%94%E4%BC%8D%E5%BE%B7%C2%B7%E9%A6%99%E5%86%9C" class="mw-redirect" title="克劳德·艾尔伍德·香农">克劳德·艾尔伍德·香农</a>展示了布尔逻辑如何在<a href="/wiki/%E7%94%B5%E5%AD%90%E5%AD%A6" title="电子学">电子学</a>中使用。
+</p><p>使用<a href="/wiki/%E9%9B%86%E5%90%88%E4%BB%A3%E6%95%B0" title="集合代数">集合代数</a>作为介绍布尔逻辑的一种方式。还使用<a href="/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE" title="文氏图">文氏图</a>来展示各种布尔逻辑陈述所描述的集合联系。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E6.9C.AF.E8.AF.AD"></span><span class="mw-headline" id="术语">术语</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=1" title="编辑章节：术语"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Venn_A_intersect_B.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/290px-Venn_A_intersect_B.svg.png" decoding="async" width="290" height="207" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/435px-Venn_A_intersect_B.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/580px-Venn_A_intersect_B.svg.png 2x" data-file-width="350" data-file-height="250" /></a><figcaption>文氏图，展示A AND B（紫罗兰色）的集合交集，A OR B（所有着色区域）的集合并集，和A XOR B的集合（除了紫罗兰色的所有着色区域）。方框表示"全集"。</figcaption></figure>
+<p>设<i>X</i>是一个集合：
+</p>
+<ul><li><b>元素</b>是一个集合的成员。表示为<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \in }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2208;<!-- ∈ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \in }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6fe4d5b0a594c1da89b5e78e7dfbeed90bdcc32f" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:1.843ex;" alt="{\displaystyle \in }"></span>。如果它不是这个集合的元素，表示为<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \notin }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2209;<!-- ∉ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \notin }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33dea9a3a3f311cc734ffd570e8f697ea1560a90" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.55ex; height:2.676ex;" alt="{\displaystyle \notin }"></span>。</li></ul>
+<ul><li><b><a href="/wiki/%E5%85%A8%E9%9B%86" title="全集">全集</a></b>是集合<i>X</i>，有时表示为1。注意使用全集这个词意味着“虑及的所有元素”，不必然的同“现有的所有元素”一样。</li></ul>
+<ul><li><b><a href="/wiki/%E7%A9%BA%E9%9B%86" title="空集">空集</a></b>或<b>null集合</b>是没有元素的集合，表示为<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \varnothing }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi class="MJX-variant">&#x2205;<!-- ∅ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \varnothing }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00595c5e33692e724937fdcc8870496acce1ac74" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:2.009ex;" alt="{\displaystyle \varnothing }"></span>，有时表示为0。</li></ul>
+<ul><li><b>一元算符</b>应用于一个单一的集合。有一个一元算符叫做逻辑<b>非</b>（NOT）。它的作用是采用<a href="/wiki/%E8%A1%A5%E9%9B%86" title="补集">补集</a>。</li></ul>
+<ul><li><b>二元算符</b>应用于两个集合。基本的二元算符是逻辑<b>或</b>（OR）和逻辑<b>与</b>（AND）。它们进行集合的<a href="/wiki/%E5%B9%B6%E9%9B%86" title="并集">并集</a>和<a href="/wiki/%E4%BA%A4%E9%9B%86" title="交集">交集</a>。还有其他派生的二元算符，比如逻辑<b>异或</b>（XOR，排他的或）。</li></ul>
+<ul><li><b><a href="/wiki/%E5%AD%90%E9%9B%86" title="子集">子集</a></b>表示为A <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \subseteq }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2286;<!-- ⊆ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \subseteq }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a924f8dcb2847bb8871edfdbf4c6b5cca0669228" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \subseteq }"></span> B，意味这在集合A中所有元素都在集合B中。</li></ul>
+<ul><li><b>真子集</b>表示为A <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \subset }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2282;<!-- ⊂ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \subset }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f51f0eeff0c2a9dcb9c856f87ca0359e701ef01" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:1.843ex;" alt="{\displaystyle \subset }"></span> B，意味着在集合A中的所有元素都在集合B中，并且两个集合不等同。</li></ul>
+<ul><li><b>超集</b>表示为A <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \supseteq }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2287;<!-- ⊇ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \supseteq }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c8a31abf11074afa03a75eba80bfce6b98020e4" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \supseteq }"></span> B，意味着在集合B中的所有元素都在集合A中。</li></ul>
+<ul><li><b>真超集</b>表示为A <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \supset }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2283;<!-- ⊃ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \supset }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/27bfe0828a2ed4c9c6b70987a85c02a1f005843c" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:1.843ex;" alt="{\displaystyle \supset }"></span> B，意味着在集合B中的所有元素都在集合A中，并且两个集合不等同。</li></ul>
+<h2><span id=".E4.BE.8B.E5.AD.90"></span><span class="mw-headline" id="例子">例子</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=2" title="编辑章节：例子"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File"><a href="/wiki/File:Boolean_Multiples_of_2_3_5_cn.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Boolean_Multiples_of_2_3_5_cn.jpg/480px-Boolean_Multiples_of_2_3_5_cn.jpg" decoding="async" width="480" height="357" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/2/28/Boolean_Multiples_of_2_3_5_cn.jpg 1.5x" data-file-width="536" data-file-height="399" /></a><figcaption></figcaption></figure>
+<p>设图像为集合A包含"全集"中所有偶数（二的倍数），集合B包含"全集"中所有三的倍数。则两个集合的<b>交集</b>（在集合A AND B中所有的元素）将是"全集"中所有六的倍数。
+</p><p>集合A的补集（所有不在集合A中的元素）是"全集"中所有的奇数。
+</p>
+<h2><span id=".E6.8A.8A.E8.BF.90.E7.AE.97.E8.BF.9E.E6.8E.A5.E8.B5.B7.E6.9D.A5"></span><span class="mw-headline" id="把运算连接起来">把运算连接起来</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=3" title="编辑章节：把运算连接起来"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>尽管在任何布尔运算中都最多有两个集合参与，从这个运算所形成的新集合可以接着与其他集合联合起来实现另外的布尔运算。使用前面的例子，我们可以定义一个新集合C作为"全集"中所有五的倍数的集合。所以"集合A AND B AND C"将是"全集"中所有30的倍数。如果为了更方便，我们可以把集合AB当作集合A和B的交集，或者说"全集"中所有六的倍数的集合。那么我们可以称"集合AB AND C"是"全集"中所有30的倍数的集合。我们接着进一步的把这个结果叫做集合ABC。 
+</p>
+<h3><span id=".E4.BD.BF.E7.94.A8.E5.9C.86.E6.8B.AC.E5.8F.B7"></span><span class="mw-headline" id="使用圆括号">使用圆括号</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=4" title="编辑章节：使用圆括号"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>尽管任何数目的逻辑AND（或任何数目的逻辑OR）可以被连接在一起而没有歧义，AND和OR和NOT的组合可以导致歧义的情况。在这种情况下，可以使用圆括号来分清运算的次序。永远是最内的括号内的运算先进行，随后是外层的括号以此类推，直到在所有的括号内运算都完成。接着进行括号外的运算。
+</p>
+<h2><span id=".E6.80.A7.E8.B4.A8"></span><span class="mw-headline" id="性质">性质</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=5" title="编辑章节：性质"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>为两个主要的二元运算的符号定义为<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \land /\cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \land /\cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77b927a3cfe82b7335609631a447f48d83adf003" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:4.263ex; height:2.843ex;" alt="{\displaystyle \land /\cap }"></span>(逻辑与/交集）和<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lor /\cup }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo>&#x222A;<!-- ∪ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lor /\cup }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5666028447e8eeca457dd853d75b1716eb43029" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:4.263ex; height:2.843ex;" alt="{\displaystyle \lor /\cup }"></span>(逻辑或/并集），把单一的一元运算的符号定义为<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/099107443792f5fec9bebe39b919a690db7198c1" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: 0.204ex; margin-bottom: -0.376ex; width:1.55ex; height:1.176ex;" alt="{\displaystyle \lnot }"></span> / ~(逻辑非/补集）。我们还使用值0（逻辑假/空集）和1（逻辑真/全集）。下列性质适用于<a href="/wiki/%E5%B8%83%E5%B0%94%E4%BB%A3%E6%95%B0" title="布尔代数">布尔代数</a>和布尔逻辑二者：
+</p>
+<dl><dd><table cellpadding="5">
+<tbody><tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor (b\lor c)=(a\lor b)\lor c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor (b\lor c)=(a\lor b)\lor c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de29f59a522f4e46f01e318a3360327aa92424a2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:23.516ex; height:2.843ex;" alt="{\displaystyle a\lor (b\lor c)=(a\lor b)\lor c}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land (b\land c)=(a\land b)\land c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land (b\land c)=(a\land b)\land c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e80f3236791cddb20844f0f2c4ae2d17bfcc4c32" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:23.516ex; height:2.843ex;" alt="{\displaystyle a\land (b\land c)=(a\land b)\land c}"></span>
+</td>
+<td><a href="/wiki/%E7%BB%93%E5%90%88%E5%BE%8B" title="结合律">结合律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor b=b\lor a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>b</mi>
+        <mo>=</mo>
+        <mi>b</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor b=b\lor a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c667fd125343e1040d3e9720cc9b11b57aa72fc" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:12.718ex; height:2.176ex;" alt="{\displaystyle a\lor b=b\lor a}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land b=b\land a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>b</mi>
+        <mo>=</mo>
+        <mi>b</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land b=b\land a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fe1def17ab431529915da41ae07e25ada77fa82" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:12.718ex; height:2.176ex;" alt="{\displaystyle a\land b=b\land a}"></span>
+</td>
+<td><a href="/wiki/%E4%BA%A4%E6%8D%A2%E5%BE%8B" class="mw-redirect" title="交换律">交换律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor (a\land b)=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor (a\land b)=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf6d72148fbb065632557beb01401df218091d07" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:14.76ex; height:2.843ex;" alt="{\displaystyle a\lor (a\land b)=a}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land (a\lor b)=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land (a\lor b)=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9aabf1bc4aa530b4243da83d1676e9c6fbb83b46" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:14.76ex; height:2.843ex;" alt="{\displaystyle a\land (a\lor b)=a}"></span>
+</td>
+<td><a href="/wiki/%E5%90%B8%E6%94%B6%E5%BE%8B" title="吸收律">吸收律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor (b\land c)=(a\lor b)\land (a\lor c)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor (b\land c)=(a\lor b)\land (a\lor c)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c9c372cc0d1eccdefd57aa503b28574a39aef01" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:29.138ex; height:2.843ex;" alt="{\displaystyle a\lor (b\land c)=(a\lor b)\land (a\lor c)}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land (b\lor c)=(a\land b)\lor (a\land c)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land (b\lor c)=(a\land b)\lor (a\land c)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eff9ab68dfe58822c0855bb4b9584198c611a310" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:29.138ex; height:2.843ex;" alt="{\displaystyle a\land (b\lor c)=(a\land b)\lor (a\land c)}"></span>
+</td>
+<td><a href="/wiki/%E5%88%86%E9%85%8D%E5%BE%8B" title="分配律">分配律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor \lnot a=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor \lnot a=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358d393c22db8a3953c2dca91d63122508b1d1dc" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:10.853ex; height:2.176ex;" alt="{\displaystyle a\lor \lnot a=1}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land \lnot a=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land \lnot a=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd3ef2ca73182d33192ddf94da06c2daf15d51b1" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:10.853ex; height:2.176ex;" alt="{\displaystyle a\land \lnot a=0}"></span>
+</td>
+<td><a href="/wiki/%E4%BA%92%E8%A1%A5%E5%BE%8B" class="mw-redirect" title="互补律">互补律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor a=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor a=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac39b8c4c22b23a5879bda1a36ed332710767983" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.37ex; height:2.009ex;" alt="{\displaystyle a\lor a=a}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land a=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land a=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9f3b5ce231efde5fae06fb27d03e70aa7a05350" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.37ex; height:2.009ex;" alt="{\displaystyle a\land a=a}"></span>
+</td>
+<td><a href="/wiki/%E5%B9%82%E7%AD%89%E5%BE%8B" class="mw-redirect" title="幂等律">幂等律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor 0=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor 0=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb89da9180e140439a488ce8c951f76ad3dcc12d" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.303ex; height:2.176ex;" alt="{\displaystyle a\lor 0=a}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land 1=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land 1=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b3c9499965eda2e66b8312a44b9a6bb24f4df081" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.303ex; height:2.176ex;" alt="{\displaystyle a\land 1=a}"></span>
+</td>
+<td rowspan="2"><a href="/wiki/%E6%9C%89%E7%95%8C%E5%BE%8B" class="mw-redirect" title="有界律">有界律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\lor 1=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\lor 1=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7150d4387b21fda191243b329e36725f8ce1724a" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.236ex; height:2.176ex;" alt="{\displaystyle a\lor 1=1}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a\land 0=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\land 0=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16fe775087757d7dbab3ee2e3b4146d3d708df30" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:9.236ex; height:2.176ex;" alt="{\displaystyle a\land 0=0}"></span>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot 0=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot 0=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e36dfce320e2c4b7315d1c9390c56ff272fd378b" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:6.974ex; height:2.176ex;" alt="{\displaystyle \lnot 0=1}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot 1=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot 1=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e736e090dbd10dea22ad7bb85fb314f878aaf8b4" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:6.974ex; height:2.176ex;" alt="{\displaystyle \lnot 1=0}"></span>
+</td>
+<td>0和1是互补的
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot (a\lor b)=\lnot a\land \lnot b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot (a\lor b)=\lnot a\land \lnot b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6e45a3456f40e980ec4d8a077fca97a336878af" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:19.179ex; height:2.843ex;" alt="{\displaystyle \lnot (a\lor b)=\lnot a\land \lnot b}"></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot (a\land b)=\lnot a\lor \lnot b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>&#x2227;<!-- ∧ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>a</mi>
+        <mo>&#x2228;<!-- ∨ --></mo>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot (a\land b)=\lnot a\lor \lnot b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7808f32b1ae118dd6debdbb396e821bef7a4ae0c" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:19.179ex; height:2.843ex;" alt="{\displaystyle \lnot (a\land b)=\lnot a\lor \lnot b}"></span>
+</td>
+<td><a href="/wiki/%E5%BE%B7%C2%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B" class="mw-redirect" title="德·摩根定律">德·摩根定律</a>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lnot \lnot a=a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi mathvariant="normal">&#x00AC;<!-- ¬ --></mi>
+        <mi>a</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lnot \lnot a=a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/991f54ccde08677473c8e6f14b57e32356790586" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:8.659ex; height:1.676ex;" alt="{\displaystyle \lnot \lnot a=a}"></span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%E5%AF%B9%E5%90%88%E5%BE%8B" class="mw-redirect" title="对合律">对合律</a>
+</td></tr></tbody></table></dd></dl>
+<h2><span id=".E7.9C.9F.E5.80.BC.E8.A1.A8"></span><span class="mw-headline" id="真值表">真值表</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=6" title="编辑章节：真值表"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>布尔逻辑只使用两个值0和1，这两个值的交集和并集可以使用<a href="/wiki/%E7%9C%9F%E5%80%BC%E8%A1%A8" title="真值表">真值表</a>定义如下：
+</p>
+<table>
+
+<tbody><tr>
+<td width="80">
+</td>
+<td>
+<table class="wikitable">
+
+<tbody><tr>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \cap }"></span></th>
+<th>0</th>
+<th>1
+</th></tr>
+<tr>
+<th>0
+</th>
+<td>0</td>
+<td>0
+</td></tr>
+<tr>
+<th>1
+</th>
+<td>0</td>
+<td>1
+</td></tr></tbody></table>
+</td>
+<td width="40">
+</td>
+<td>
+<table class="wikitable">
+
+<tbody><tr>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cup }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x222A;<!-- ∪ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cup }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8ff7d0293ad19b43524a133ae5129f3d71f2040" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \cup }"></span></th>
+<th>0</th>
+<th>1
+</th></tr>
+<tr>
+<th>0
+</th>
+<td>0</td>
+<td>1
+</td></tr>
+<tr>
+<th>1
+</th>
+<td>1</td>
+<td>1
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<ul><li>也可以建立涉及多个输入和其他布尔运算的更复杂的真值表。</li></ul>
+<ul><li>真值表应用在<a href="/wiki/%E9%80%BB%E8%BE%91" title="逻辑">逻辑</a>中，解释0为假，1为真，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cap }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2229;<!-- ∩ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cap }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d4e886e6f5a28a33e073fb108440c152ecfe2d3" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \cap }"></span>为与，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cup }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x222A;<!-- ∪ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cup }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8ff7d0293ad19b43524a133ae5129f3d71f2040" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \cup }"></span>为或，而¬为非。</li></ul>
+<h2><span id=".E5.85.B6.E4.BB.96.E8.AE.B0.E5.8F.B7"></span><span class="mw-headline" id="其他记号">其他记号</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=7" title="编辑章节：其他记号"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>可以使用各种样式的基本算符来表达布尔逻辑。AND（与）、OR（或）、NOT（非）是最直觉的。<a href="/wiki/%E6%95%B0%E5%AD%A6%E5%AE%B6" title="数学家">数学家</a>、<a href="/wiki/%E5%B7%A5%E7%A8%8B%E5%B8%88" title="工程师">工程师</a>和<a href="/wiki/%E7%A8%8B%E5%BA%8F%E5%91%98" title="程序员">程序员</a>经常使用 +表示或，<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \cdot }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cdot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2c023bad1bd39ed49080f729cbf26bc448c9ba" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: 0.439ex; margin-bottom: -0.61ex; width:0.647ex; height:1.176ex;" alt="{\displaystyle \cdot }"></span>表示与（因为在某些方面这些运算类似于在其他<a href="/wiki/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84" title="代数结构">代数结构</a>中的加法和乘法，并且这种记号使熟悉普通代数的人易于得到<a href="/wiki/%E7%A7%AF%E4%B9%8B%E5%92%8C%E8%8C%83%E5%BC%8F" class="mw-redirect" title="积之和范式">积之和范式</a>）。非也表示为在要否定的表达式顶上的一个横线。
+</p><p>另一种记号使用"交"表示与使用"并"表示或。但是这会导致混淆，因为术语"并"也经常用于合并集合的另一个布尔运算，它包括了与和或二者。
+</p>
+<h2><span id=".E5.B8.83.E5.B0.94.E6.9C.AF.E8.AF.AD.E7.9A.84.E5.9F.BA.E6.9C.AC.E6.95.B0.E5.AD.A6.E4.BD.BF.E7.94.A8"></span><span class="mw-headline" id="布尔术语的基本数学使用">布尔术语的基本数学使用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=8" title="编辑章节：布尔术语的基本数学使用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>在联立方程的情况下，被联立的方程暗含逻辑<b>与</b>：</li></ul>
+<dl><dd><dl><dd>x + y = 2</dd></dl></dd></dl>
+<dl><dd><dl><dd>AND</dd></dl></dd></dl>
+<dl><dd><dl><dd>x - y = 2</dd></dl></dd></dl>
+<p>同样适用于联立不等式：
+</p>
+<dl><dd><dl><dd>x + y &lt; 2</dd></dl></dd></dl>
+<dl><dd><dl><dd>AND</dd></dl></dd></dl>
+<dl><dd><dl><dd>x - y &lt; 2</dd></dl></dd></dl>
+<ul><li>大于等于号（<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \geq }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2265;<!-- ≥ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \geq }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bcef7c0e95bb77a35fd1a874ca91f425215f3c26" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \geq }"></span>）和小于等于号（<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \leq }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2264;<!-- ≤ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \leq }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/440568a09c3bfdf0e1278bfa79eb137c04e94035" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \leq }"></span>），可以认为是暗含逻辑<b>或</b>的一对等式与不等式的联立：</li></ul>
+<dl><dd><dl><dd>X &lt; 2</dd></dl></dd></dl>
+<dl><dd><dl><dd>OR</dd></dl></dd></dl>
+<dl><dd><dl><dd>X = 2</dd></dl></dd></dl>
+<ul><li>加/减号（<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \pm }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x00B1;<!-- ± --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \pm }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/869e366caf596564de4de06cb0ba124056d4064b" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \pm }"></span>），在表示“平方根的解”情况下，可以被看作暗含逻辑<b>或</b>的一对联立等式：</li></ul>
+<dl><dd><dl><dd>WIDTH = 3</dd></dl></dd></dl>
+<dl><dd><dl><dd>OR</dd></dl></dd></dl>
+<dl><dd><dl><dd>WIDTH = -3</dd></dl></dd></dl>
+<h2><span id=".E5.B8.83.E5.B0.94.E6.9C.AF.E8.AF.AD.E7.9A.84.E8.8B.B1.E8.AF.AD.E4.BD.BF.E7.94.A8"></span><span class="mw-headline" id="布尔术语的英语使用">布尔术语的英语使用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=9" title="编辑章节：布尔术语的英语使用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>在把英语句子转换成形式的布尔语句的时候要小心。很多英语词语不精确的意义可能导致多种逻辑结果，例如英语单词NOT（非）：“所有闪光的东西不是金子。”可以解析为以下不同的逻辑表达：
+</p>
+<ul><li>“没有闪光的东西是金子”</li>
+<li>“有些闪光的东西不是金子”</li></ul>
+<p>作为英语单词的AND（与）和OR（或）在特定情况下是可以互换使用的：
+</p>
+<ul><li>"在下雨<b>与</b>下雪的时候我总是带伞。"</li>
+<li>"在下雨<b>或</b>下雪的时候我总是带伞。"</li></ul>
+<p>还要注意在英语中单词OR（或）可以分别对应于逻辑表达中的<b>或（OR）</b>（此亦彼亦）和<b>异或（XOR）</b>（此即彼非），具体意思要依赖于上下文进行判断：
+</p>
+<ul><li>"我在潮湿<b>或</b>高温的时候出汗。"（此亦彼亦，判定为逻辑<b>或</b>）</li>
+<li>"我午饭打算吃鸡肉<b>或</b>牛肉。"（此即彼非，判定为逻辑<b>异或</b>）</li></ul>
+<p>在规定计算机程序或者电子电路时，如何使用英语准确描述其功能逻辑是个关键问题。例如，对于功能“程序应校验申请者已经选择取了男性<b>或</b>女性单选框”，应当被当作一个<b>异或</b>（非此即彼）逻辑（即“程序应校验申请者已经选择取了男性或女性选项，并且此二选项互相排他”），则程序语句须特别限定“二者之间只有一个能被选择”来确保校验功能的实现；假如将其混为<b>或</b>逻辑（此亦彼亦），则该校验功能有可能被错误地实现，造成申请者同时选择两个选项、而校验依然通过。
+</p><p>在其他非技术语言的情况下，对于一段英语文字的解释可能包含更多的不确定性，可能需要深入探讨、以确保明晰该段文字背后所含的逻辑意义的多种可能性。
+</p>
+<h2><span id=".E5.BA.94.E7.94.A8"></span><span class="mw-headline" id="应用">应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=10" title="编辑章节：应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.95.B0.E5.AD.97.E7.94.B5.E5.AD.90.E7.94.B5.E8.B7.AF.E8.AE.BE.E8.AE.A1"></span><span class="mw-headline" id="数字电子电路设计">数字电子电路设计</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=11" title="编辑章节：数字电子电路设计"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>布尔逻辑还在<a href="/wiki/%E7%94%B5%E5%AD%90%E5%B7%A5%E7%A8%8B" title="电子工程">电子工程</a>中的电路设计中使用；这里的0和1表示在<a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF" title="数字电路">数字电路</a>中某一个<a href="/wiki/%E4%BD%8D" class="mw-redirect" title="位">位</a>的不同状态，典型的是高和低<a href="/wiki/%E7%94%B5%E5%8E%8B" class="mw-redirect" title="电压">电压</a>。使用包含变量的表达式描述电路，并且对于这些变量的所有的值两个这种表达式是等价的，当且仅当对应的电路有相同的输入-输出行为。进一步的说，每种可能的输入-输出行为都被建模为适合的布尔表达式。
+</p><p>基本的<a href="/wiki/%E9%80%BB%E8%BE%91%E9%97%B8" class="mw-redirect" title="逻辑闸">逻辑闸</a>比如<a href="/wiki/%E8%88%87%E9%96%98" class="mw-redirect" title="与闸">与闸</a>、<a href="/wiki/%E6%88%96%E9%96%98" class="mw-redirect" title="或闸">或闸</a>、<a href="/wiki/%E9%9D%9E%E9%96%98" class="mw-redirect" title="非闸">非闸</a>可以单独使用，或者联合成<a href="/wiki/%E8%88%87%E9%9D%9E%E9%96%98" class="mw-redirect" title="与非闸">与非闸</a>、<a href="/wiki/%E6%88%96%E9%9D%9E%E9%96%98" class="mw-redirect" title="或非闸">或非闸</a>和<a href="/wiki/%E7%95%B0%E6%88%96%E9%96%98" class="mw-redirect" title="异或闸">异或闸</a>来控制数字电子和电路。这些闸的<a href="/wiki/%E4%B8%B2%E8%81%AF" class="mw-redirect" title="串联">串联</a>或<a href="/wiki/%E4%B8%A6%E8%81%AF" class="mw-redirect" title="并联">并联</a>控制了运算的优先级。
+</p>
+<h3><span id=".E6.95.B0.E6.8D.AE.E5.BA.93.E5.BA.94.E7.94.A8"></span><span class="mw-headline" id="数据库应用">数据库应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=12" title="编辑章节：数据库应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93" title="关系数据库">关系数据库</a>使用<a href="/wiki/SQL" title="SQL">SQL</a>语言，或者其他特定于数据库的语言，来进行查询，它可以包含布尔逻辑。对于这种应用，在表中每个记录都可以被当作"集合"的"元素"。例如，在SQL中，下列SELECT语句被用来从在数据库中的表格中检索数据：
+</p>
+<ul><li>SELECT * FROM EMPLOYEES WHERE LAST_NAME = 'Smith' AND FIRST_NAME = 'John'&#160;;</li></ul>
+<ul><li>SELECT * FROM EMPLOYEES WHERE LAST_NAME = 'Smith' OR  FIRST_NAME = 'John'&#160;;</li></ul>
+<ul><li>SELECT * FROM EMPLOYEES WHERE NOT LAST_NAME = 'Smith'&#160;;</li></ul>
+<p>在有多个运算出现的时候，可以使用圆括号来明确的指定布尔运算发生的次序：
+</p>
+<ul><li>SELECT * FROM EMPLOYEES WHERE（NOT LAST_NAME = 'Smith'）AND（FIRST_NAME = 'John' OR FIRST_NAME = 'Mary'）;</li></ul>
+<p>在需要的时候可以使用嵌套的圆括号。
+</p><p>联合两个（或更多）表格的任何布尔运算在关系数据库术语中都被称为<b>连接</b>。
+</p>
+<h3><span id=".E6.90.9C.E7.B4.A2.E5.BC.95.E6.93.8E.E6.9F.A5.E8.AF.A2"></span><span class="mw-headline" id="搜索引擎查询">搜索引擎查询</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=13" title="编辑章节：搜索引擎查询"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>对于这种应用，在互联网上的每个web页面都被当作是"集合"的"元素"。各种在线搜索引擎使用各自不同的语法。下面描述<a href="/wiki/Google" title="Google">Google</a>使用的语法。
+</p>
+<ul><li>逻辑与不使用符号。所以，它是连接两个搜索项的缺省方式：</li></ul>
+<dl><dd><dl><dd>"搜索项1" "搜索项2"</dd></dl></dd></dl>
+<ul><li>使用关键字OR表示逻辑或：</li></ul>
+<dl><dd><dl><dd>"搜索项1" OR "搜索项2"</dd></dl></dd></dl>
+<ul><li>使用减号表示逻辑非：</li></ul>
+<dl><dd><dl><dd>-"搜索项1"</dd></dl></dd></dl>
+<ul><li>不支持使用圆括号来明确指定运算的次序。</li></ul>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=14" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%B8%83%E5%B0%94%E4%BB%A3%E6%95%B0%E4%B8%BB%E9%A2%98%E5%88%97%E8%A1%A8" title="布尔代数主题列表">布尔代数主题列表</a></li>
+<li><a href="/wiki/%E5%B8%83%E5%B0%94%E4%BB%A3%E6%95%B0" title="布尔代数">布尔代数</a></li>
+<li><a href="/wiki/%E5%B8%83%E5%B0%94%E5%87%BD%E6%95%B0" title="布尔函数">布尔函数</a></li>
+<li><a href="/wiki/%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91" title="命题逻辑">命题逻辑</a></li>
+<li><a href="/wiki/%E9%80%BB%E8%BE%91%E9%97%A8" class="mw-redirect" title="逻辑门">逻辑门</a></li>
+<li><a href="/wiki/%E6%96%87%E6%B0%8F%E5%9B%BE" title="文氏图">文氏图</a></li>
+<li><a href="/wiki/%E5%B9%B6%E9%9B%86" title="并集">并集</a></li>
+<li><a href="/wiki/%E8%A1%A5%E9%9B%86" title="补集">补集</a></li>
+<li><a href="/wiki/%E4%BA%A4%E9%9B%86" title="交集">交集</a></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;action=edit&amp;section=15" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.maths.tcd.ie/pub/HistMath/People/Boole/CalcLogic/CalcLogic.html">逻辑的演算</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080430040155/http://www.maths.tcd.ie/pub/HistMath/People/Boole/CalcLogic/CalcLogic.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）, George Boole著, Cambridge and Dublin Mathematical Journal Vol. III (1848), pp. 183-98.</li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/logicaleval/">Logical Formula Evaluator</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080225072100/http://sourceforge.net/projects/logicaleval/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）（for Windows）, a software which calculates all possible values of a logical formula</li>
+<li><a rel="nofollow" class="external text" href="http://computer.howstuffworks.com/boolean.htm">How Stuff Works - Boolean Logic</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110412132134/http://computer.howstuffworks.com/boolean.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li>Maiki &amp; Boaz <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120617185252/http://bdd-project.com/">BDD-PROJECT</a>, a Web Application for BDD reduction and visualization.</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F" title="Template:数字系统"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F" title="Template talk:数字系统"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%95%B8%E7%A2%BC%E8%B3%87%E6%96%99" title="数码资料">数字</a>系统</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">组件</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E9%82%8F%E8%BC%AF%E9%96%98" title="逻辑门">逻辑门</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF" title="数字电路">数字电路</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a> (IC)</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">理论</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-selflink selflink">布尔逻辑</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" title="数字信号处理">数字信号处理</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">计算机系统结构</a></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">应用</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E6%95%B8%E4%BD%8D%E9%9F%B3%E8%A8%8A" title="数码音频">数码音频</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E6%95%B0%E7%A0%81%E6%91%84%E5%BD%B1" title="数码摄影">数码摄影</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span>  <a href="/wiki/%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91" title="数字视频">数字视频</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐hsd8l
+Cached time: 20240331142029
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.396 seconds
+Real time usage: 0.493 seconds
+Preprocessor visited node count: 732/1000000
+Post‐expand include size: 259114/2097152 bytes
+Template argument size: 301/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4510/5000000 bytes
+Lua time usage: 0.181/10.000 seconds
+Lua memory usage: 16136461/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.573      1 -total
+ 41.51%  104.416      1 Template:Lang-en
+ 30.50%   76.737      1 Template:NoteTA
+ 16.78%   42.215      1 Template:数字系统
+ 16.19%   40.738      1 Template:Navbox
+  9.52%   23.944      1 Template:各地中文名
+  8.44%   21.227      1 Template:各地中文名/infobox
+  7.37%   18.549      1 Template:Infobox
+  0.51%    1.291      3 Template:Wayback
+  0.30%    0.745      6 Template:·
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:167371-0!canonical!zh-cn and timestamp 20240331142029 and revision id 76912914. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=布尔逻辑&amp;oldid=76912914">https://zh.wikipedia.org/w/index.php?title=布尔逻辑&amp;oldid=76912914</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%82%8F%E8%BC%AF" title="Category:邏輯">逻辑</a></li><li><a href="/wiki/Category:%E4%BB%A3%E6%95%B0%E9%80%BB%E8%BE%91" title="Category:代数逻辑">代数逻辑</a></li><li><a href="/wiki/Category:%E5%B8%83%E5%B0%94%E4%BB%A3%E6%95%B0" title="Category:布尔代数">布尔代数</a></li><li><a href="/wiki/Category:%E5%BD%A2%E5%BC%8F%E9%80%BB%E8%BE%91%E7%B3%BB%E7%BB%9F" title="Category:形式逻辑系统">形式逻辑系统</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8%E8%BF%87%E6%97%B6%E7%9A%84math%E6%A0%87%E7%AD%BE%E6%A0%BC%E5%BC%8F%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用过时的math标签格式的页面">使用过时的math标签格式的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年4月21日 (星期五) 13:37。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-2ptwr","wgBackendResponseTime":161,"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.493","ppvisitednodes":{"value":732,"limit":1000000},"postexpandincludesize":{"value":259114,"limit":2097152},"templateargumentsize":{"value":301,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4510,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  251.573      1 -total"," 41.51%  104.416      1 Template:Lang-en"," 30.50%   76.737      1 Template:NoteTA"," 16.78%   42.215      1 Template:数字系统"," 16.19%   40.738      1 Template:Navbox","  9.52%   23.944      1 Template:各地中文名","  8.44%   21.227      1 Template:各地中文名/infobox","  7.37%   18.549      1 Template:Infobox","  0.51%    1.291      3 Template:Wayback","  0.30%    0.745      6 Template:·"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":16136461,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-hsd8l","timestamp":"20240331142029","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5e03\u5c14\u903b\u8f91","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11059585","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11059585","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-03T01:57:03Z","dateModified":"2023-04-21T13:37:39Z"}</script>
+</body>
+</html>

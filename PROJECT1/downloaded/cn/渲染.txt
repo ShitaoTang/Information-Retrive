@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>渲染 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"38a49bd2-d02d-4c4a-9f26-987727c1542d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"渲染","wgTitle":"渲染","wgCurRevisionId":80568473,"wgRevisionId":80568473,"wgArticleId":386498,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2015年2月缺少注脚的条目","自2020年9月需要校對的頁面","自2020年9月需要清理的內容瑣碎條目","自2020年9月维基百科来源清理","含有多个问题的条目","含有英語的條目","使用ISBN魔术链接的页面","计算机图形学","三维计算机图形学"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"渲染","wgRelevantArticleId":386498,"wgUserVariant":
+"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q176953","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink",
+"ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/1200px-Glasses_800_edit.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/800px-Glasses_800_edit.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/640px-Glasses_800_edit.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="渲染 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E6%B8%B2%E6%9F%93">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E6%B8%B2%E6%9F%93">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-渲染 rootpage-渲染 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%B8%B2%E6%9F%93" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%B8%B2%E6%9F%93" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%B8%B2%E6%9F%93" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%B8%B2%E6%9F%93" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-使用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#使用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>使用</div>
+		</a>
+		
+		<ul id="toc-使用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-特性"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#特性">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>特性</div>
+		</a>
+		
+		<ul id="toc-特性-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-技术"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#技术">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>技术</div>
+		</a>
+		
+			<button aria-controls="toc-技术-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关技术子章节</span>
+			</button>
+		
+		<ul id="toc-技术-sublist" class="vector-toc-list">
+			<li id="toc-扫描线渲染与栅格化"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#扫描线渲染与栅格化">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>扫描线渲染与栅格化</div>
+			</a>
+			
+			<ul id="toc-扫描线渲染与栅格化-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-光线投射"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#光线投射">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>光线投射</div>
+			</a>
+			
+			<ul id="toc-光线投射-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-辐射着色"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#辐射着色">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>辐射着色</div>
+			</a>
+			
+			<ul id="toc-辐射着色-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-光线跟踪"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#光线跟踪">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>光线跟踪</div>
+			</a>
+			
+			<ul id="toc-光线跟踪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-优化"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#优化">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>优化</div>
+		</a>
+		
+			<button aria-controls="toc-优化-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关优化子章节</span>
+			</button>
+		
+		<ul id="toc-优化-sublist" class="vector-toc-list">
+			<li id="toc-艺术家构建场景的时候所用的优化方法"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#艺术家构建场景的时候所用的优化方法">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>艺术家构建场景的时候所用的优化方法</div>
+			</a>
+			
+			<ul id="toc-艺术家构建场景的时候所用的优化方法-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-实时渲染中常用的优化方法"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#实时渲染中常用的优化方法">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>实时渲染中常用的优化方法</div>
+			</a>
+			
+			<ul id="toc-实时渲染中常用的优化方法-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-采样与滤波"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#采样与滤波">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>采样与滤波</div>
+		</a>
+		
+		<ul id="toc-采样与滤波-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-电影渲染"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#电影渲染">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>电影渲染</div>
+		</a>
+		
+		<ul id="toc-电影渲染-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-理论基础"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#理论基础">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>理论基础</div>
+		</a>
+		
+			<button aria-controls="toc-理论基础-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关理论基础子章节</span>
+			</button>
+		
+		<ul id="toc-理论基础-sublist" class="vector-toc-list">
+			<li id="toc-渲染方程"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#渲染方程">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>渲染方程</div>
+			</a>
+			
+			<ul id="toc-渲染方程-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-双向反射分布函数"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#双向反射分布函数">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>双向反射分布函数</div>
+			</a>
+			
+			<ul id="toc-双向反射分布函数-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-几何光学"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#几何光学">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.3</span>几何光学</div>
+			</a>
+			
+			<ul id="toc-几何光学-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-视觉"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#视觉">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.4</span>视觉</div>
+			</a>
+			
+			<ul id="toc-视觉-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-重要思想出现的年代表"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#重要思想出现的年代表">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>重要思想出现的年代表</div>
+		</a>
+		
+		<ul id="toc-重要思想出现的年代表-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-图书资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#图书资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>图书资料</div>
+		</a>
+		
+		<ul id="toc-图书资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">渲染</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。39种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-39" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">39种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%8A%D9%8A%D8%B1_(%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA_%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D9%8A%D8%A9)" title="تصيير (رسوميات حاسوبية) – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Render" title="Render – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D1%8A%D1%80%D0%B8%D0%BD%D0%B3" title="Рендъринг – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8_(%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%97%E0%A6%A3%E0%A6%95_%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%A8)" title="চিত্রায়ন (পরিগণক চিত্রলিখন) – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Render_(ra%C4%8Dunarska_grafika)" title="Render (računarska grafika) – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Renderitzaci%C3%B3" title="Renderització – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Renderov%C3%A1n%C3%AD" title="Renderování – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Rendere" title="Rendere – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Bildsynthese" title="Bildsynthese – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%80%CF%8C%CE%B4%CE%BF%CF%83%CE%B7_(%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE)" title="Απόδοση (γραφικά υπολογιστή) – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics) – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Renderizaci%C3%B3n" title="Renderización – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Renderizazio" title="Renderizazio – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%86%D8%AF%D8%B1%DB%8C%D9%86%DA%AF_(%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C)" title="رندرینگ (گرافیک رایانه‌ای) – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Render%C3%B6inti" title="Renderöinti – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Rendu_photor%C3%A9aliste" title="Rendu photoréaliste – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Renderizaci%C3%B3n" title="Renderización – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0" title="रेंडर – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%B6%D5%A4%D5%A5%D6%80%D5%AB%D5%B6%D5%A3" title="Ռենդերինգ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Rekacitra" title="Rekacitra – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Rendering" title="Rendering – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)" title="レンダリング (コンピュータ) – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A0%8C%EB%8D%94%EB%A7%81" title="렌더링 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Render%C4%93%C5%A1ana" title="Renderēšana – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Rendering" title="Rendering – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Renderen" title="Renderen – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Bildesyntese" title="Bildesyntese – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Renderowanie" title="Renderowanie – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Renderiza%C3%A7%C3%A3o" title="Renderização – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8%D0%BD%D0%B3" title="Рендеринг – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Renderovanie" title="Renderovanie – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Upodabljanje" title="Upodabljanje – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Rendering" title="Rendering – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="การเร็นเดอร์ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fleme" title="İşleme – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8%D0%BD%D0%B3" title="Рендеринг – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Renderlash" title="Renderlash – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/K%E1%BA%BFt_xu%E1%BA%A5t_%C4%91%E1%BB%93_h%E1%BB%8Da" title="Kết xuất đồ họa – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%BD%A9%E7%8F%BE" title="彩現 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q176953#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E6%B8%B2%E6%9F%93" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E6%B8%B2%E6%9F%93" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E6%B8%B2%E6%9F%93" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E6%B8%B2%E6%9F%93" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E6%B8%B2%E6%9F%93" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E6%B8%B2%E6%9F%93" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E6%B8%B2%E6%9F%93" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E6%B8%B2%E6%9F%93" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E6%B8%B2%E6%9F%93" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E6%B8%B2%E6%9F%93" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E6%B8%B2%E6%9F%93" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E6%B8%B2%E6%9F%93"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E6%B8%B2%E6%9F%93"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E6%B8%B2%E6%9F%93" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E6%B8%B2%E6%9F%93" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;oldid=80568473" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E6%B8%B2%E6%9F%93&amp;id=80568473&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E6%25B8%25B2%25E6%259F%2593"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E6%25B8%25B2%25E6%259F%2593"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q176953" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E6%B8%B2%E6%9F%93&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Computer_generated_images" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-5f99febc" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E6%B8%B2%E6%9F%93" title="Talk:渲染">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-No_footnotes plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Text_document_with_red_question_mark.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目已<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E4%BE%86%E6%BA%90" class="mw-redirect" title="Wikipedia:列明来源">列出参考文献</a>，但<b>因为没有<a href="/wiki/Help:%E8%84%9A%E6%B3%A8" title="Help:脚注">文内引注</a>而使来源仍然不明</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2015年2月28日</span>)</i></small><span class="hide-when-compact"><br /><small>请加上合适的文内引注来<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit">改善这篇条目</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">编修</a>，以确保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字词">用词、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">标点</a>等使用恰当。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年9月8日</span>)</i></small><span class="hide-when-compact"><br /><small>请按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">校对指引</a>，帮助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit">编辑</a>这个条目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">帮助</a>、<a href="/wiki/Talk:%E6%B8%B2%E6%9F%93" title="Talk:渲染">讨论</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Trivia plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>应避免有<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8A/%E7%91%A3%E7%A2%8E%E7%AB%A0%E7%AF%80" title="Wikipedia:格式手册/琐碎章节">陈列杂项、琐碎资料</a>的部分。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年9月8日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit">协助</a>将有关资料重新编排成连贯性的文章，安置于适当章节或条目内。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Citation_style plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目的<b><a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90#文獻參考的格式" title="Wikipedia:列明来源">引用需要改写，使其符合格式</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年9月8日</span>)</i></small><span class="hide-when-compact"><br /><small>参考资料应符合正确的<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">引用</a>、<a href="/wiki/Help:%E8%84%9A%E6%B3%A8" title="Help:脚注">脚注</a>及<a href="/wiki/Wikipedia:%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Wikipedia:外部链接">外部链接</a>格式。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-5f99febc" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-cn:绘制;zh-tw:算繪"></div><div data-noteta-code="zh-cn:实时;zh-tw:即時"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Glasses_800_edit.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/300px-Glasses_800_edit.png" decoding="async" width="300" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/450px-Glasses_800_edit.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/600px-Glasses_800_edit.png 2x" data-file-width="2048" data-file-height="1536" /></a><figcaption>利用<a href="/wiki/POV-Ray" title="POV-Ray">POV-Ray</a> 3.6所创建的一幅<a href="/wiki/%E5%9B%BE%E5%83%8F" title="图像">图像</a>。图中突出表现了玻璃器皿以及液体等的质感</figcaption></figure>
+<p><b>渲染</b>（英语：<span lang="en"><b>render</b></span>，或称为<b>绘制</b>或<b>彩现</b>）在<a href="/wiki/%E9%9B%BB%E8%85%A6%E7%B9%AA%E5%9C%96" class="mw-redirect" title="电脑绘图">电脑绘图</a>中，是指以<a href="/wiki/%E8%BD%AF%E4%BB%B6" title="软件">软件</a>由<a href="/wiki/%E4%B8%89%E7%B6%AD%E6%A8%A1%E5%9E%8B" class="mw-redirect" title="三维模型">模型</a>生成<a href="/wiki/%E5%9B%BE%E5%83%8F" title="图像">图像</a>的过程。模型是用语言或者数据结构进行严格定义的三维物体或虚拟场景的描述，它包括几何、视点、<a href="/wiki/%E7%B4%8B%E7%90%86" class="mw-disambig" title="纹理">纹理</a>、<a href="/wiki/%E7%85%A7%E6%98%8E" title="照明">照明</a>和<a href="/wiki/%E9%99%B0%E5%BD%B1" class="mw-redirect" title="阴影">阴影</a>等信息。图像是<a href="/wiki/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F" title="数字图像">数字图像</a>或者<a href="/wiki/%E4%BD%8D%E5%9B%BE" title="位图">位图</a><a href="/wiki/%E5%9B%BE%E5%83%8F" title="图像">图像</a>。渲染用于描述：计算视频编辑软件中的效果，以生成最终视频的输出过程。
+</p><p>渲染是<a href="/wiki/%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" class="mw-redirect" title="三维计算机图形学">三维计算机图形学</a>中的最重要的研究课题之一，并且在实践领域它与其它技术密切相关。在图形流水线中，渲染是最后一项重要步骤，通过它得到模型与动画最终显示效果。自从二十世纪七十年代以来，随着计算机图形的不断复杂化，渲染也成为一项越来越重要的技术。
+</p><p>渲染的应用领域包含：<a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">计算机与视频游戏</a>、<a href="/wiki/%E6%A8%A1%E6%93%AC" class="mw-redirect" title="模拟">模拟</a>、<a href="/wiki/%E7%94%B5%E5%BD%B1" title="电影">电影</a>或者电视特效以及可视化设计，每一种应用都是特性与技术的综合考虑。作为产品来看，现在已经有各种不同的渲染工具产品，有些集成到更大的建模或者动画包中，有些是独立产品，有些是<a href="/wiki/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81" title="开放源代码">开放源代码</a>的产品。从内部来看，渲染工具都是根据各种学科理论，经过仔细设计的程序，其中有：<a href="/wiki/%E5%85%89%E5%AD%A6" title="光学">光学</a>、<a href="/wiki/%E8%A7%86%E8%A7%89%E7%B3%BB%E7%BB%9F" title="视觉系统">视觉感知</a>、<a href="/wiki/%E6%95%B0%E5%AD%A6" title="数学">数学</a>以及<a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B" title="软件工程">软件开发</a>。
+</p><p>三维计算机图形的预渲染（<i>Pre-rendering</i> 或 <i>Offline rendering</i>）或者实时渲染（<i>Real-time rendering</i> 或 <i>Online rendering</i>）的速度都非常慢。预渲染的计算强度很高，需要大量的服务器运算完成，通常被用于电影制作；实时渲染经常用于三维视频游戏，通常透过<a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a>（<i>GPU</i>）完成这个过程。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E4.BD.BF.E7.94.A8"></span><span class="mw-headline" id="使用">使用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=1" title="编辑章节：使用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>图像初步建立（通常使用<a href="/wiki/%E7%BA%BF%E6%A1%86%E6%A8%A1%E5%9E%8B" title="线框模型">网格</a>骨架构建，<a href="/wiki/%E5%BB%BA%E6%A8%A1" class="mw-disambig" title="建模">建模</a>（<span lang="en">3D modeling</span>））之后，就要进行渲染了。渲染将会在上面添加<a href="/w/index.php?title=%E4%BD%8D%E5%9B%BE%E7%BA%B9%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="位图纹理（页面不存在）">位图纹理</a>或者<a href="/w/index.php?title=%E7%A8%8B%E5%BA%8F%E7%BA%B9%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="程序纹理（页面不存在）">程序纹理</a>、照明、<a href="/wiki/%E5%87%B8%E5%87%B9%E7%BA%B9%E7%90%86%E6%98%A0%E5%B0%84" class="mw-redirect" title="凸凹纹理映射">凸凹纹理映射</a>以及相对于其它物体的位置。得到的结果就是消费者或者观察者所能看到的完整图像。
+</p><p>在制作电影动画时，通常需要渲染多幅或多帧图像，并在动画制作程序中将它们串联起来。大多数三维图像编辑程序都能完成这项任务，如Blender、Maya或Cinema 4D等。
+</p>
+<h2><span id=".E7.89.B9.E6.80.A7"></span><span class="mw-headline" id="特性">特性</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=2" title="编辑章节：特性"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>渲染的图像具有许多显著的特性，因此渲染研究的领域主要集中在寻找高效模拟这些特性的方法。有些特性只与特定的算法有关，而有些则与多个算法相关。
+</p>
+<ul><li><a href="/wiki/%E6%98%8E%E6%9A%97%E8%99%95%E7%90%86" class="mw-redirect" title="明暗处理">明暗处理</a>—表面颜色与亮度随光照的变化</li>
+<li><a href="/wiki/%E7%BA%B9%E7%90%86%E6%98%A0%E5%B0%84" class="mw-redirect" title="纹理映射">纹理映射</a>—在表面生成细节的方法</li>
+<li><a href="/wiki/%E5%87%B8%E5%87%B9%E7%BA%B9%E7%90%86%E6%98%A0%E5%B0%84" class="mw-redirect" title="凸凹纹理映射">凸凹纹理映射</a>—在表面模拟小凸凹的方法</li>
+<li><a href="/wiki/%E8%B7%9D%E7%A6%BB%E6%A8%A1%E7%B3%8A" title="距离模糊">距离模糊</a>—光照穿过不清澈的大气时的模糊</li>
+<li><a href="/wiki/%E9%99%B0%E5%BD%B1" class="mw-redirect" title="阴影">阴影</a>—阻挡光照的效果</li>
+<li><a href="/w/index.php?title=%E6%9F%94%E5%92%8C%E9%98%B4%E5%BD%B1&amp;action=edit&amp;redlink=1" class="new" title="柔和阴影（页面不存在）">柔和阴影</a>—模拟光的衍射下的阴影</li>
+<li><a href="/wiki/%E5%8F%8D%E5%B0%84_(%E7%89%A9%E7%90%86%E5%AD%A6)" title="反射 (物理学)">反射</a>—镜子或者非常光滑的反射</li>
+<li><a href="/wiki/%E9%80%8F%E6%98%8E" title="透明">透明</a>—固体明显允许光线穿过</li>
+<li><a href="/wiki/%E5%8D%8A%E9%80%8F%E6%98%8E" class="mw-redirect" title="半透明">半透明</a>—光线通过固体高度散射</li>
+<li><a href="/wiki/%E6%8A%98%E5%B0%84" title="折射">折射</a>—与透明相关的光线弯曲</li>
+<li><a href="/w/index.php?title=%E6%95%B4%E4%BD%93%E7%85%A7%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="整体照明（页面不存在）">间接照明</a>—表面由其它表面反射的光照亮，而非光源直接照亮</li>
+<li><a href="/w/index.php?title=%E7%84%A6%E6%95%A3&amp;action=edit&amp;redlink=1" class="new" title="焦散（页面不存在）">焦散</a>（caustics）—间接照明的一种形式，光滑物体反射的光线或者通过透明物体生成的聚焦光线在其它物体上形成照亮区域</li>
+<li><a href="/wiki/%E6%99%AF%E6%B7%B1" title="景深">景深</a>—当物体在焦距物体前后太远时出现模糊</li>
+<li><a href="/wiki/%E8%BF%90%E5%8A%A8%E6%A8%A1%E7%B3%8A" class="mw-redirect" title="运动模糊">运动模糊</a>—由于物体高速运动或者照相机运动而导致的物体模糊</li>
+<li><a href="/w/index.php?title=%E7%9C%9F%E5%AE%9E%E6%84%9F%E6%B8%B2%E6%9F%93&amp;action=edit&amp;redlink=1" class="new" title="真实感渲染（页面不存在）">真实感渲染</a>—看起来较像现实世界的三维渲染</li>
+<li><a href="/w/index.php?title=%E9%9D%9E%E7%9C%9F%E5%AE%9E%E6%84%9F%E6%B8%B2%E6%9F%93&amp;action=edit&amp;redlink=1" class="new" title="非真实感渲染（页面不存在）">非真实感渲染</a>—用艺术风格渲染场景，使它看起来象油画或者素描</li></ul>
+<h2><span id=".E6.8A.80.E6.9C.AF"></span><span class="mw-headline" id="技术">技术</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=3" title="编辑章节：技术"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>研究人员已经开发出了许多渲染算法，这些算法使得渲染软件能够使用多种不同的技术来生成最终的图像。
+</p><p>对场景中的每一束光线进行跟踪是不太现实的，这需要消耗大量的时间。如果没有对采样进行适当的约束，那么即使只跟踪一部分光线以生成图像，也会需要大量的时间。
+</p><p>所以，大致可以分为四类的更加高效的光线传输模型技术就应运而生。第一类是<a href="/wiki/%E6%A0%85%E6%A0%BC%E5%8C%96" title="栅格化">栅格化</a>，包括<a href="/wiki/%E6%89%AB%E6%8F%8F%E7%BA%BF%E6%B8%B2%E6%9F%93" title="扫描线渲染">扫描线渲染</a>，这种方法考虑场景中的物体并将它们投影一幅图像，但是缺乏一些高级的视觉效果；第二类是<a href="/w/index.php?title=%E5%85%89%E7%BA%BF%E6%8A%95%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="光线投射（页面不存在）">光线投射</a>，将场景从不同视角观察，只根据几何与反射强度的基本光学原理计算观察到的图像，也可能使用<a href="/wiki/%E8%92%99%E7%89%B9%C2%B7%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特·卡罗方法">蒙特·卡罗方法</a>减少人为噪声；第三类是<a href="/wiki/%E8%BE%90%E5%B0%84%E7%9D%80%E8%89%B2" class="mw-redirect" title="辐射着色">辐射着色</a>，使用<a href="/wiki/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90" class="mw-redirect" title="有限元分析">有限元分析</a>方法模拟光线在表面的散射；第四类是<a href="/wiki/%E5%85%89%E7%BA%BF%E8%B7%9F%E8%B8%AA" class="mw-redirect" title="光线跟踪">光线跟踪</a>，类似于光线投射，但是使用了更加先进的光学模拟方法，并且通常使用<a href="/wiki/%E8%92%99%E7%89%B9%C2%B7%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特·卡罗方法">蒙特·卡罗方法</a>以实现更加真实的结果，但是这样做的代价通常是速度的大幅度降低。
+</p><p>为了在可接受的成本范围内实现优质的结果，大多数高级软件会组合使用多种技术。
+</p>
+<h3><span id=".E6.89.AB.E6.8F.8F.E7.BA.BF.E6.B8.B2.E6.9F.93.E4.B8.8E.E6.A0.85.E6.A0.BC.E5.8C.96"></span><span class="mw-headline" id="扫描线渲染与栅格化">扫描线渲染与栅格化</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=4" title="编辑章节：扫描线渲染与栅格化"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%89%AB%E6%8F%8F%E7%BA%BF%E6%B8%B2%E6%9F%93" title="扫描线渲染">扫描线渲染</a>和<a href="/wiki/%E6%A0%85%E6%A0%BC%E5%8C%96" title="栅格化">栅格化</a></div>
+<p>图像的高级表示需要包含与像素不同的元素，这些元素被称为<b>基元</b>。在示意图中，线段和曲线是基元；在图形用户界面中，窗口和按钮是基元；在三维渲染中，三角形和空间多边形是基元。
+</p><p>在像素到像素的渲染速度过慢以至于无法实现的任务中，基元到基元的实现方法就可能派上用场。在这种方法中，循环遍历每个基元以确定它将影响图像中的哪个像素，然后相应地修改那个像素。这种方法称为<b><a href="/wiki/%E6%A0%85%E6%A0%BC%E5%8C%96" title="栅格化">栅格化</a></b>，这是当今所有<a href="/wiki/GPU" class="mw-redirect" title="GPU">图形卡</a>都使用的渲染方法。
+</p><p>栅格化通常要比像素到像素的渲染速度快。首先，图像中的大块区域可能根本没有基元，栅格化可以忽略这些区域，而像素到像素的渲染方法却必须遍历这些区域；其次，栅格化可以提高<a href="/wiki/%E7%BC%93%E5%AD%98%E4%B8%80%E8%87%B4%E6%80%A7" class="mw-redirect" title="缓存一致性">缓存一致性</a>，并且可以利用图像中<u>同一个基元占据的像素通常是连续</u>的这样一个事实来减少冗余操作。正因如此，栅格化通常是需要交互式渲染的场合选择的一种方法，但是像素到像素的实现方法通常可以生成更高质量的图像，同时由于没有栅格化那么多的前提条件，所以更加通用。
+</p><p>栅格化主要有两种形式。第一种是对整个表面或基元进行渲染，同时将表面<a href="/wiki/%E9%A0%82%E9%BB%9E_(%E9%9B%BB%E8%85%A6%E5%9C%96%E5%AD%B8)" title="顶点 (电脑图形学)">顶点</a>全部进行渲染。第二种是通过简单的颜色混合相邻顶点来渲染位于顶点之间的表面上的像素。这种方法不需要使用复杂的纹理来实现图像的连续性，因此已经取代了旧的栅格化方法。此外，由于简单的纹理可以节省内存空间，所以即使图形卡的浓淡效果处理功能已经很繁重，仍然可以得到较好的性能。旧的方法如果不使用复杂的纹理，就会在图像逐个表面覆盖纹理的时候形成块状效应，并且，由于像素之间没有颜色渐变，所以表面看起来也并不光滑。在某些情况下，设计人员会在某些表面上使用栅格化的方法，而在另一些表面上，他们会根据这些表面相对于其它相交表面的角度使用其他的方法。这样做既可以提高处理速度，又可以保证整体效果。
+</p>
+<h3><span id=".E5.85.89.E7.BA.BF.E6.8A.95.E5.B0.84"></span><span class="mw-headline" id="光线投射">光线投射</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=5" title="编辑章节：光线投射"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="ilh-all" data-orig-title="光线投射" data-lang-code="en" data-lang-name="英语" data-foreign-title="ray casting"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E7%BA%BF%E6%8A%95%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="光线投射（页面不存在）">光线投射</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ray_casting" class="extiw" title="en:ray casting"><span lang="en" dir="auto">ray casting</span></a></span>）</span></span>主要应用于实时模拟场景，如三维电脑游戏和动画。在这些场合，细节的重要性较低，或是可以通过人为制造细节来提高计算效率。这种情况通常出现在需要生成多帧图像的动画中。如果不使用其它的技巧，这种方法得到的物体表面通常看起来比较扁平，类似经过光滑处理的物体的糙面。
+</p><p>建立的几何模型从外部观察点开始，逐点、逐线进行分析，类似从观察点投射出光线。当光线与物体交叉时，可以用几种不同的方法来计算交叉点的颜色。其中最简单的方法是用交叉点处物体的颜色表示该点的实际颜色；也可以用<a href="/wiki/%E7%BA%B9%E7%90%86%E6%98%A0%E5%B0%84" class="mw-redirect" title="纹理映射">纹理映射</a>的方法来确定；另一种更加复杂的方法是仅仅根据照明因数变更颜色值，而无需考虑与模拟光源的关系。为了减少人为误差，可以对多条相邻方向的光线进行平均。
+</p><p>此外也可以对光的特性进行大致的模拟：简单计算从物体到观察点的光线。其他一些计算涉及到从光源到物体的入射角，以及根据光源的强度计算像素的亮度值。还有一些模拟使用辐射着色算法绘制的照明结果，或者使用这两种信息的组合。
+</p>
+<h3><span id=".E8.BE.90.E5.B0.84.E7.9D.80.E8.89.B2"></span><span class="mw-headline" id="辐射着色">辐射着色</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=6" title="编辑章节：辐射着色"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E8%BE%90%E5%B0%84%E7%9D%80%E8%89%B2" class="mw-redirect" title="辐射着色">辐射着色</a></div>
+<p>辐射着色是模拟反射光线如何反射到其它表面以及如何照亮周围环境的方法。这种方法可以生成较为真实的浓淡效果，并且更加易于捕捉室内场景的<a href="/w/index.php?title=%E7%8E%AF%E5%A2%83%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="环境光（页面不存在）">环境光</a>。一个经典的例子就是墙角处阴影的样子。
+</p><p>这种模拟的光学基础是特定物体表面某一点的漫反射的光线散布在在很大的方向范围内并且会照亮周围的环境。
+</p><p>各种模拟技术的复杂性可能会有所不同。许多渲染方法所用的辐射着色模型都非常原始，它们只是简单地根据环境因数变化照亮整个场景。但是当高级的辐射着色与高质量的光线跟踪算法组合在一起使用的时候，它们能够生成相当真实的图像，尤其是对于室内场景更是这样。
+</p><p>在高级的辐射着色模拟中，递归的有限元分析算法不断地将光线在模型表面之间来回反射，直到达到一定的递归条件为止。这样一个表面的色彩就会影响其它相邻表面的色彩，反之亦然。整个模型（有时也包括空白空间）的照明结果保存起来，在光线投射或者光线跟踪模型中作为输入使用。
+</p><p>由于这项技术的递归特性，所以对于复杂物体的模拟速度非常缓慢。一些先进的辐射着色计算方法可能只计算房间中从墙面、地板与房顶反射的环境光，而并不计算复杂物体反光对于辐射着色的影响，或者在辐射着色计算中使用使用同样尺寸及纹理的简单物体取代复杂物体。
+</p><p>如果场景中需要重排的辐射着色物体很少，那么可以在多帧画面中重复使用同样的辐射着色数据，这样就使得辐射着色一方面可以改进光线投射中的扁平效果，另外一方面每帧的渲染时间也不会受到很大的影响。
+</p><p>正因为如此，辐射着色已经成为领先的实时渲染方法，并且已经用于最近大量著名的长篇三维动画电影从头到尾的制作过程。
+</p>
+<h3><span id=".E5.85.89.E7.BA.BF.E8.B7.9F.E8.B8.AA"></span><span class="mw-headline" id="光线跟踪">光线跟踪</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=7" title="编辑章节：光线跟踪"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%85%89%E7%BA%BF%E8%B7%9F%E8%B8%AA" class="mw-redirect" title="光线跟踪">光线跟踪</a></div>
+<p>光线跟踪是扫描线渲染和光线投射技术的延伸，它能够有效处理复杂物体，并且可以用数学方法描述物体。与扫描线渲染和光线投射不同的是，光线跟踪几乎完全采用了<a href="/wiki/%E8%92%99%E7%89%B9%C2%B7%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特·卡罗方法">蒙特·卡罗方法</a>，蒙特·卡罗方法是一种基于从模型中随机抽取一组采样进行平均的技术。
+</p><p>在这种方法中，采样是假想的从场景物体发出与观察点相交的光线。在重点考虑阴影、折射与反射等需要复杂精确渲染的场合这种方法就可以派上用场。
+</p><p>在最终要求产质量量渲染效果的光线跟踪中，通常每个像素都要多条光线，并且不仅仅跟踪到第一次相交，而是需要按照“入射角等于反射角”这样的光学定律以及更加高级的处理折射与粗糙表面反射的定律处理多次连续反射。
+</p><p>一旦光线遇到光源或者更可能出现的是光线反射次数已经达到设定的限制，那么最终点的表面照明就通过上面的方法确定下来，并且经过多次反射发生的变化也可以用来估计在观察点看到的亮度。每个采样点、每个像素都要重复这个过程。
+</p><p>在有些场合中每个交点可能生成多条光线。
+</p><p>作为一种非常有效的方法，光线跟踪的实时处理速度太慢，直到最近也没有在任何要求质量的短片电影中获得应用，尽管它已经开始在一些特殊效果要求的场合开始使用，如在需要高质量甚至是<a href="/w/index.php?title=Photorealistic&amp;action=edit&amp;redlink=1" class="new" title="Photorealistic（页面不存在）">Photorealistic</a>的脚本片断的广告中开始使用。
+</p><p>但是，降低不需要高质量细节部分的或者与光线跟踪特性无关部分的计算量的努力已经使得光线跟踪的应用更加广泛。目前已经出现了一些至少已经处于原型阶段硬件加速的光线跟踪设备，在一些<a href="/wiki/%E6%B8%B8%E6%88%8F%E6%BC%94%E7%A4%BA" title="游戏演示">游戏演示</a>中也有实时软件或者硬件光线跟踪的应用。
+</p>
+<h2><span id=".E4.BC.98.E5.8C.96"></span><span class="mw-headline" id="优化">优化</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=8" title="编辑章节：优化"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E8.89.BA.E6.9C.AF.E5.AE.B6.E6.9E.84.E5.BB.BA.E5.9C.BA.E6.99.AF.E7.9A.84.E6.97.B6.E5.80.99.E6.89.80.E7.94.A8.E7.9A.84.E4.BC.98.E5.8C.96.E6.96.B9.E6.B3.95"></span><span class="mw-headline" id="艺术家构建场景的时候所用的优化方法">艺术家构建场景的时候所用的优化方法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=9" title="编辑章节：艺术家构建场景的时候所用的优化方法"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>由于所需计算量非常大，一项逐步进行的工作的细节渲染通常对应于当时工作的进度。因此，在建模的开始阶段可以使用线框模型或者光线投射进行处理，即使是最终的目标结果是要使用辐射着色的光线跟踪也可以这么做。另外也经常只对一部分进行高质量的渲染，而对于当前工作无关紧要的部分剔除出去。
+</p>
+<h3><span id=".E5.AE.9E.E6.97.B6.E6.B8.B2.E6.9F.93.E4.B8.AD.E5.B8.B8.E7.94.A8.E7.9A.84.E4.BC.98.E5.8C.96.E6.96.B9.E6.B3.95"></span><span class="mw-headline" id="实时渲染中常用的优化方法">实时渲染中常用的优化方法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=10" title="编辑章节：实时渲染中常用的优化方法"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>对于实时渲染，适当的做法是简化一个或者多个共同的近似，需要将关键场景的参数调整到正确的值，并且要优化这些参数以获得最佳效果。
+</p><p>另外还有些一些不太出名的渲染方法，如<a href="/wiki/%E7%90%83%E8%B0%90%E5%87%BD%E6%95%B0" title="球谐函数">球谐函数</a>。这些技术由于速度较慢、缺少实用性或者仅仅因为它们还不太完善所以不太出名，或许其中的某些技术能够提供一些新的解决方案。
+</p>
+<h2><span id=".E9.87.87.E6.A0.B7.E4.B8.8E.E6.BB.A4.E6.B3.A2"></span><span class="mw-headline" id="采样与滤波">采样与滤波</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=11" title="编辑章节：采样与滤波"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>不管系统采用哪种渲染方法，都必须解决采样问题。本质上来讲，渲染过程试图用有限数目的像素将图像空间的<a href="/wiki/%E8%BF%9E%E7%BB%AD%E5%87%BD%E6%95%B0" title="连续函数">连续函数</a>表现成颜色。根据<a href="/wiki/%E9%87%87%E6%A0%B7%E5%AE%9A%E7%90%86" title="采样定理">采样定理</a>的结论，扫描频率必须是点速（dot rate）的两倍，点速与图像<a href="/wiki/%E5%88%86%E8%BE%A8%E7%8E%87" title="分辨率">分辨率</a>成正比。用简单的话来说就是图像不能显示小于一个像素的细节。
+</p><p>如果使用一个未经验证的渲染算法，那么图像函数中的高频成分将会导致最终图像中出现难看的<a href="/wiki/%E6%B7%B7%E7%96%8A" title="混叠">混叠</a>现象。混叠现象通常表现为<a href="/w/index.php?title=%E9%94%AF%E9%BD%BF%E5%9B%BE&amp;action=edit&amp;redlink=1" class="new" title="锯齿图（页面不存在）">锯齿图</a>或者是可见像素栅格处的锯齿边。为了去除混叠现象，所有的渲染算法如果想要生成好看的图像的话都必须对图像函数进行滤波以去除高频成分，这个过程叫作<a href="/wiki/%E6%8A%97%E6%B7%B7%E5%8F%A0" class="mw-redirect" title="抗混叠">抗混叠</a>。
+</p>
+<h2><span id=".E7.94.B5.E5.BD.B1.E6.B8.B2.E6.9F.93"></span><span class="mw-headline" id="电影渲染">电影渲染</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=12" title="编辑章节：电影渲染"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>电影渲染通常在一个紧密相连的计算机组成的网络<a href="/w/index.php?title=%E6%B8%B2%E6%9F%93%E9%9B%86%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="渲染集群（页面不存在）">渲染集群</a>（render farm）。
+</p><p>当今用于电影制作三维图像描述发展水平代表是<a href="/wiki/Pixar" class="mw-redirect" title="Pixar">Pixar</a>设计的<a href="/wiki/RenderMan" class="mw-disambig" title="RenderMan">RenderMan</a> <a href="/w/index.php?title=%E5%9C%BA%E6%99%AF%E6%8F%8F%E8%BF%B0%E8%AF%AD%E8%A8%80&amp;action=edit&amp;redlink=1" class="new" title="场景描述语言（页面不存在）">场景描述语言</a>。它与<a href="/wiki/VRML" title="VRML">VRML</a>这样较简单的三维文件格式或者是经过修改专门用于三维硬件加速的<a href="/wiki/OpenGL" title="OpenGL">OpenGL</a>以及<a href="/wiki/DirectX" title="DirectX">DirectX</a>等<a href="/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%BC%96%E7%A8%8B%E6%8E%A5%E5%8F%A3" class="mw-redirect" title="应用程序编程接口">应用程序编程接口</a>（<span lang="en">Application programming interface</span>）有所不同。
+</p><p>电影渲染软件包括：
+</p>
+<ul><li><a href="/w/index.php?title=Renderman&amp;action=edit&amp;redlink=1" class="new" title="Renderman（页面不存在）">Renderman</a></li>
+<li><a href="/wiki/Mental_Ray" title="Mental Ray">Mental Ray</a>（已停止开发）</li>
+<li><a href="/w/index.php?title=Brazil_R/S&amp;action=edit&amp;redlink=1" class="new" title="Brazil R/S（页面不存在）">Brazil R/S</a></li>
+<li><a href="/w/index.php?title=LightWave&amp;action=edit&amp;redlink=1" class="new" title="LightWave（页面不存在）">LightWave</a>（包括建模模块）</li>
+<li>Cycles （内置于<a href="/wiki/Blender" title="Blender">Blender</a>,有<a href="/wiki/Cinema_4D" title="Cinema 4D">Cinema 4D</a>的外挂）</li>
+<li>V-Ray</li></ul>
+<h2><span id=".E7.90.86.E8.AE.BA.E5.9F.BA.E7.A1.80"></span><span class="mw-headline" id="理论基础">理论基础</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=13" title="编辑章节：理论基础"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>真实感渲染的实现都是某种程度的物理仿真  —一些计算都是真实物理过程的模拟或抽象。
+</p><p>“基于物理”这个术语表示是使用在渲染领域之外也被广泛接受的物理模型或者近似，在渲染领域逐渐建立起了相关的特殊技术。
+</p><p>这些物理基本概念都相当直白，但是却难于以少数的计算，得到精确且完整的结果；一个非常优秀的算法或者实现方法对于更加通用的渲染目的来说却可能难以理解。为了满足健壮、精确及实用的要求，实现方法都必须是多项不同技术的复杂组合。
+</p><p>渲染研究工作主要集中在科学模型的改进及其高效应用。
+</p>
+<h3><span id=".E6.B8.B2.E6.9F.93.E6.96.B9.E7.A8.8B"></span><span class="mw-headline" id="渲染方程">渲染方程</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=14" title="编辑章节：渲染方程"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%B8%B2%E6%9F%93%E6%96%B9%E7%A8%8B" title="渲染方程">渲染方程</a></div>
+<p>渲染方程是渲染中的一个核心理论概念，它是渲染不可感知方面的最抽象的正式表示，所有更加完善的算法都可以看作这个方程特殊形式的解。
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L_{o}(x,{\vec {w}})=L_{e}(x,{\vec {w}})+\int _{\Omega }f_{r}(x,{\vec {w}}',{\vec {w}})L_{i}(x,{\vec {w}}')({\vec {w}}'\cdot {\vec {n}})d{\vec {w}}'}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>o</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>w</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>w</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <msub>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x03A9;<!-- Ω --></mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>w</mi>
+                <mo stretchy="false">&#x2192;<!-- → --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo>,</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>w</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>w</mi>
+                <mo stretchy="false">&#x2192;<!-- → --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>w</mi>
+                <mo stretchy="false">&#x2192;<!-- → --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>n</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>w</mi>
+                <mo stretchy="false">&#x2192;<!-- → --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L_{o}(x,{\vec {w}})=L_{e}(x,{\vec {w}})+\int _{\Omega }f_{r}(x,{\vec {w}}',{\vec {w}})L_{i}(x,{\vec {w}}')({\vec {w}}'\cdot {\vec {n}})d{\vec {w}}'}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e9b47791ca5246c6d87db2d5ec4e023c5c71bf2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:56.939ex; height:5.676ex;" alt="{\displaystyle L_{o}(x,{\vec {w}})=L_{e}(x,{\vec {w}})+\int _{\Omega }f_{r}(x,{\vec {w}}&#039;,{\vec {w}})L_{i}(x,{\vec {w}}&#039;)({\vec {w}}&#039;\cdot {\vec {n}})d{\vec {w}}&#039;}"></span></dd></dl>
+<p>含义是：在一个特定的位置与方向，出射光L<sub>o</sub>)是发射光L<sub>e</sub>与反射光之和。反射光是所有方向入射光之和L<sub>i</sub>乘以表面反射率及入射角。通过交叉点，这个方程将入射光与出射光联系在一起，它代表了场景中完整的光线传输即光线的所有运动。
+</p>
+<h3><span id=".E5.8F.8C.E5.90.91.E5.8F.8D.E5.B0.84.E5.88.86.E5.B8.83.E5.87.BD.E6.95.B0"></span><span class="mw-headline" id="双向反射分布函数">双向反射分布函数</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=15" title="编辑章节：双向反射分布函数"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E5%8F%8C%E5%90%91%E5%8F%8D%E5%B0%84%E5%88%86%E5%B8%83%E5%87%BD%E6%95%B0" class="mw-redirect" title="双向反射分布函数">双向反射分布函数</a>（BRDF）描述了一个光线与物体表面相互作用的简单模型：
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{r}(x,{\vec {w}}',{\vec {w}})={\frac {dL_{r}(x,{\vec {w}})}{L_{i}(x,{\vec {w}}')({\vec {w}}'\cdot {\vec {n}})d{\vec {w}}'}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mover>
+                <mi>w</mi>
+                <mo stretchy="false">&#x2192;<!-- → --></mo>
+              </mover>
+            </mrow>
+          </mrow>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo>,</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>w</mi>
+              <mo stretchy="false">&#x2192;<!-- → --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <msub>
+                <mi>L</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>r</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo>,</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>w</mi>
+                    <mo stretchy="false">&#x2192;<!-- → --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>L</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo>,</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                      <mi>w</mi>
+                      <mo stretchy="false">&#x2192;<!-- → --></mo>
+                    </mover>
+                  </mrow>
+                </mrow>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                      <mi>w</mi>
+                      <mo stretchy="false">&#x2192;<!-- → --></mo>
+                    </mover>
+                  </mrow>
+                </mrow>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>n</mi>
+                    <mo stretchy="false">&#x2192;<!-- → --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mi>d</mi>
+              <msup>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mover>
+                      <mi>w</mi>
+                      <mo stretchy="false">&#x2192;<!-- → --></mo>
+                    </mover>
+                  </mrow>
+                </mrow>
+                <mo>&#x2032;</mo>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{r}(x,{\vec {w}}',{\vec {w}})={\frac {dL_{r}(x,{\vec {w}})}{L_{i}(x,{\vec {w}}')({\vec {w}}'\cdot {\vec {n}})d{\vec {w}}'}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7fe0667913736d25488de5a050c4ddbec48eb56a" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:34.968ex; height:6.676ex;" alt="{\displaystyle f_{r}(x,{\vec {w}}&#039;,{\vec {w}})={\frac {dL_{r}(x,{\vec {w}})}{L_{i}(x,{\vec {w}}&#039;)({\vec {w}}&#039;\cdot {\vec {n}})d{\vec {w}}&#039;}}}"></span></dd></dl>
+<p>光线相互作用通常用更加简单的模型进行近似：漫反射与镜面反射。这两种都可以是双向反射函数。
+</p>
+<h3><span id=".E5.87.A0.E4.BD.95.E5.85.89.E5.AD.A6"></span><span class="mw-headline" id="几何光学">几何光学</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=16" title="编辑章节：几何光学"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>实际上渲染是完全关于光物理粒子性方面研究的技术，即几何光学。将光在本质上看作跳动的光子这种简化是合适的：在大多数场合下，光的波动性是可以忽略的，并且也非常难于模拟。著名的光波动现象有衍射，如<a href="/wiki/CD" class="mw-redirect" title="CD">CD</a>以及<a href="/wiki/DVD" title="DVD">DVD</a>上的颜色，以及如<a href="/wiki/LCD" class="mw-redirect" title="LCD">LCD</a>上看到的极化现象。如果这两种类型的效果，通常对反射模型进行针对表现效果的调整。
+</p>
+<h3><span id=".E8.A7.86.E8.A7.89"></span><span class="mw-headline" id="视觉">视觉</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=17" title="编辑章节：视觉"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>尽管很少受到关注，但是对于人类视觉的理解对于渲染来说非常重要，这是因为图像显示与人类视觉都有一定的约束范围。渲染工具几乎可以模拟无限范围的亮度与颜色，但是电影、显示器等当今的显示设备都不能处理这么大的范围，通常都需要压缩甚至舍弃一部分信息。人类视觉也有类似的限制，因此不需要为了真实感而使用很大范围的图像。视觉研究可以帮助解决将图像用显示器显示的问题，以及建议渲染中使用哪些捷径，一些细微的信息是无法感知的。这个相关的主题是<a href="/wiki/%E8%89%B2%E8%B0%83%E6%98%A0%E5%B0%84" title="色调映射">色调映射</a>。
+</p><p>在渲染中使用的数学基础有：<a href="/wiki/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0" title="线性代数">线性代数</a>、<a href="/wiki/%E5%BE%AE%E7%A7%AF%E5%88%86" class="mw-redirect" title="微积分">微积分</a>、<a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值分析</a>、<a href="/wiki/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" title="数字信号处理">数字信号处理</a>以及<a href="/wiki/%E8%92%99%E7%89%B9%C2%B7%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特·卡罗方法">蒙特·卡罗方法</a>。
+</p>
+<h2><span id=".E9.87.8D.E8.A6.81.E6.80.9D.E6.83.B3.E5.87.BA.E7.8E.B0.E7.9A.84.E5.B9.B4.E4.BB.A3.E8.A1.A8"></span><span class="mw-headline" id="重要思想出现的年代表">重要思想出现的年代表</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=18" title="编辑章节：重要思想出现的年代表"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1970 扫描线算法 (Bouknight, W. J. (1970). A procedure for generation of three-dimensional half-tone computer graphics presentations. <i>Communications of the ACM</i>)</li>
+<li>1971 Gouraud shading (Gouraud, H. (1971). Computer display of curved surfaces. <i>IEEE Transactions on Computers</i> 20 (6), 623–629.)</li>
+<li>1974 纹理映射 (Catmull, E. (1974). A subdivision algorithm for computer display of curved surfaces. <i>PhD thesis</i>, University of Utah.)</li>
+<li>1974 深度缓冲 (Catmull, E. (1974). A subdivision algorithm for computer display of curved surfaces. <i>PhD thesis</i>)</li>
+<li>1975 Phong shading (Phong, B-T. (1975). Illumination for computer generated pictures. <i>Communications of the ACM</i> 18 (6), 311–316.)</li>
+<li>1976 环境映射（Blinn, J.F., <a href="/w/index.php?title=M._E._Newell&amp;action=edit&amp;redlink=1" class="new" title="M. E. Newell（页面不存在）">Newell, M.E.</a>（1976）. Texture and reflection in computer generated images. <i>Communications of the ACM</i> 19, 542–546.）</li>
+<li>1977 阴影体 (Crow, F.C. (1977). Shadow algorithms for computer graphics. <i>Computer Graphics（Proceedings of SIGGRAPH 1977）</i>11 (2), 242–248.)</li>
+<li>1978 阴影缓冲 (Williams, L. (1978). Casting curved shadows on curved surfaces. <i>Computer Graphics（Proceedings of SIGGRAPH 1978）</i>12 (3), 270–274.)</li>
+<li>1978 凸凹纹理映射 (Blinn, J.F. (1978). Simulation of wrinkled surfaces. <i>Computer Graphics（Proceedings of SIGGRAPH 1978）</i>12 (3), 286–292.)</li>
+<li>1980 BSP trees (Fuchs, H. Kedem, Z.M. Naylor, B.F. (1980). On visible surface generation by a priori tree structures. <i>Computer Graphics（Proceedings of SIGGRAPH 1980）</i>14 (3), 124–133.)</li>
+<li>1980 光线跟踪 (Whitted, T. (1980). An improved illumination model for shaded display. <i>Communications of the ACM</i> 23 (6), 343–349.)</li>
+<li>1981 Cook shader (Cook, R.L. Torrance, K.E. (1981). A reflectance model for computer graphics. <i>Computer Graphics（Proceedings of SIGGRAPH 1981）</i>15 (3), 307–316.)</li>
+<li>1983 Mipmaps (Williams, L. (1983). Pyramidal parametrics. <i>Computer Graphics（Proceedings of SIGGRAPH 1983）</i>17 (3), 1–11.)</li>
+<li>1984 八叉树光线跟踪 (Glassner, A.S. (1984). Space subdivision for fast ray tracing. <i>IEEE Computer Graphics &amp; Applications</i> 4 (10), 15–22.)</li>
+<li>1984 Alpha compositing (Porter, T. Duff, T. (1984). Compositing digital images. <i>Computer Graphics（Proceedings of SIGGRAPH 1984）</i>18 (3), 253–259.)</li>
+<li>1984 分布式光线跟踪 (Cook, R.L. Porter, T. Carpenter, L. (1984). Distributed ray tracing. <i>Computer Graphics（Proceedings of SIGGRAPH 1984）</i>18 (3), 137–145.)</li>
+<li>1984 辐射着色 (Goral, C. Torrance, K.E. Greenberg, D.P. Battaile, B. (1984). Modelling the interaction of light between diffuse surfaces. <i>Computer Graphics（Proceedings of SIGGRAPH 1984）</i>18 (3), 213–222.)</li>
+<li>1985 半立方辐射着色 (Cohen, M.F. Greenberg, D.P. (1985). The hemi-cube: a radiosity solution for complex environments. <i>Computer Graphics（Proceedings of SIGGRAPH 1985）</i>19 (3), 31–40.)</li>
+<li>1986 光源跟踪 (Arvo, J. (1986). Backward ray tracing. <i>SIGGRAPH 1986 Developments in Ray Tracing course notes</i>)</li>
+<li>1986 渲染方程 (Kajiya, J.T. (1986). The rendering equation. <i>Computer Graphics（Proceedings of SIGGRAPH 1986）</i>20 (4), 143–150.)</li>
+<li>1987 <a href="/w/index.php?title=Reyes_rendering&amp;action=edit&amp;redlink=1" class="new" title="Reyes rendering（页面不存在）">Reyes</a> algorithm (Cook, R.L. Carpenter, L. Catmull, E. (1987). The reyes image rendering architecture. <i>Computer Graphics（Proceedings of SIGGRAPH 1987）</i>21 (4), 95–102.)</li>
+<li>1991 分级辐射着色 (Hanrahan, P. Salzman, D. Aupperle, L. (1991). A rapid hierarchical radiosity algorithm. <i>Computer Graphics（Proceedings of SIGGRAPH 1991）</i>25 (4), 197–206.)</li>
+<li>1993 色调映射 (Tumblin, J. Rushmeier, H.E. (1993). Tone reproduction for realistic computer generated images. <i>IEEE Computer Graphics &amp; Applications</i> 13 (6), 42–48.)</li>
+<li>1993 Subsurface scattering (Hanrahan, P. Krueger, W. (1993). Reflection from layered surfaces due to subsurface scattering. <i>Computer Graphics（Proceedings of SIGGRAPH 1993）</i>27 (), 165–174.)</li>
+<li>1995 光子映射 (Jensen, H.J. Christensen, N.J. (1995). Photon maps in bidirectional monte carlo ray tracing of complex objects. <i>Computers &amp; Graphics</i> 19 (2), 215–224.)</li></ul>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=19" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Painter%27s_algorithm&amp;action=edit&amp;redlink=1" class="new" title="Painter&#39;s algorithm（页面不存在）">painter's algorithm</a></li>
+<li><a href="/wiki/%E6%89%AB%E6%8F%8F%E7%BA%BF%E6%B8%B2%E6%9F%93" title="扫描线渲染">扫描线渲染</a>算法如<a href="/w/index.php?title=Reyes&amp;action=edit&amp;redlink=1" class="new" title="Reyes（页面不存在）">Reyes</a></li>
+<li><a href="/wiki/%E6%B7%B1%E5%BA%A6%E7%BC%93%E5%86%B2" title="深度缓冲">深度缓冲</a></li>
+<li><a href="/wiki/%E5%85%A8%E5%B1%80%E7%85%A7%E6%98%8E" class="mw-redirect" title="全局照明">全局照明</a></li>
+<li><a href="/wiki/%E8%BE%90%E5%B0%84%E7%9D%80%E8%89%B2" class="mw-redirect" title="辐射着色">辐射着色</a></li>
+<li><a href="/wiki/%E5%85%89%E7%BA%BF%E8%B7%9F%E8%B8%AA" class="mw-redirect" title="光线跟踪">光线跟踪</a></li>
+<li><a href="/wiki/%E7%AB%8B%E4%BD%93%E6%B8%B2%E6%9F%93" title="立体渲染">立体渲染</a></li>
+<li><a href="/w/index.php?title=%E9%A2%84%E6%B8%B2%E6%9F%93&amp;action=edit&amp;redlink=1" class="new" title="预渲染（页面不存在）">预渲染</a></li>
+<li><a href="/wiki/Graphics_pipeline" class="mw-redirect" title="Graphics pipeline">Graphics pipeline</a></li>
+<li><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E6%A8%A1%E5%9E%8B&amp;action=edit&amp;redlink=1" class="new" title="虚拟模型（页面不存在）">虚拟模型</a></li></ul>
+<h2><span id=".E5.9B.BE.E4.B9.A6.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="图书资料">图书资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=20" title="编辑章节：图书资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Foley; Van Dam; Feiner; Hughes (1990). <i>Computer Graphics: Principles And Practice</i>. Addison Wesley. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0201121107" class="internal mw-magiclink-isbn">ISBN 0-201-12110-7</a>.</li>
+<li>Glassner (1995). <i>Principles Of Digital Image Synthesis</i>. Morgan Kaufmann. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1558602763" class="internal mw-magiclink-isbn">ISBN 1-55860-276-3</a>.</li>
+<li>Pharr; Humphreys (2004). <i>Physically Based Rendering</i>. Morgan Kaufmann. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/012553180X" class="internal mw-magiclink-isbn">ISBN 0-12-553180-X</a>.</li>
+<li>Dutre; Bala; Bekaert (2002). <i>Advanced Global Illumination</i>. AK Peters. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1568811772" class="internal mw-magiclink-isbn">ISBN 1-56881-177-2</a>.</li>
+<li>Jensen (2001). <i>Realistic Image Synthesis Using Photon Mapping</i>. AK Peters. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1568811470" class="internal mw-magiclink-isbn">ISBN 1-56881-147-0</a>.</li>
+<li>Shirley; Morley (2003). <i>Realistic Ray Tracing</i> (2nd ed.). AK Peters. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1568811985" class="internal mw-magiclink-isbn">ISBN 1-56881-198-5</a>.</li>
+<li>Glassner (1989). <i>An Introduction To Ray Tracing</i>. Academic Press. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0122861604" class="internal mw-magiclink-isbn">ISBN 0-12-286160-4</a>.</li>
+<li>Cohen; Wallace (1993). <i>Radiosity and Realistic Image Synthesis</i>. AP Professional. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0121782700" class="internal mw-magiclink-isbn">ISBN 0-12-178270-0</a>.</li>
+<li>Akenine-Moller; Haines (2002). <i>Real-time Rendering</i> (2nd ed.). AK Peters. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1568811829" class="internal mw-magiclink-isbn">ISBN 1-56881-182-9</a>.</li>
+<li>Gooch; Gooch (2001). <i>Non-Photorealistic Rendering</i>. AKPeters. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1568811330" class="internal mw-magiclink-isbn">ISBN 1-56881-133-0</a>.</li>
+<li>Strothotte; Schlechtweg (2002). <i>Non-Photorealistic Computer Graphics</i>. Morgan Kaufmann. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1558607870" class="internal mw-magiclink-isbn">ISBN 1-55860-787-0</a>.</li>
+<li>Blinn (1996). <i>Jim Blinns Corner - A Trip Down The Graphics Pipeline</i>. Morgan Kaufmann. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1558603875" class="internal mw-magiclink-isbn">ISBN 1-55860-387-5</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://radsite.lbl.gov/radiance/papers/sg94.1/">Description of the 'Radiance' system</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20151105132140/http://radsite.lbl.gov/radiance/papers/sg94.1/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;action=edit&amp;section=21" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.siggraph.org/">SIGGRAPH ACM图形学研究组—最大的学术与专业协会及会议</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/19961221040900/http://www.siggraph.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.realtimerendering.com/">与实时渲染图书相关的资源链接列表</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210419131954/http://www.realtimerendering.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.graphicspapers.com/">图形学论文引用数据库</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210125012817/http://www.graphicspapers.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://kesen.realtimerendering.com/">最近的siggraph及其它论文链接列表</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210413013114/http://kesen.realtimerendering.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="Template:计算机图形学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="Template talk:计算机图形学（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="计算机图形学">计算机图形学</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%8C%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2" title="二维计算机图形">二维计算机图形</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alpha%E5%90%88%E6%88%90" title="Alpha合成">Alpha合成</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%B1%82" title="图层">图层</a></li>
+<li><a href="/wiki/%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2" title="矢量图形">矢量图形</a></li>
+<li><a href="/wiki/%E5%83%8F%E7%B4%A0" title="像素">像素</a></li></ul>
+</div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%81%BD%E4%B8%89%E7%B6%AD" title="伪三维">2.5D</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="等轴测图形" data-lang-code="en" data-lang-name="英语" data-foreign-title="Isometric video game graphics"><span class="ilh-page"><a href="/w/index.php?title=%E7%AD%89%E8%BD%B4%E6%B5%8B%E5%9B%BE%E5%BD%A2&amp;action=edit&amp;redlink=1" class="new" title="等轴测图形（页面不存在）">等轴测图形</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Isometric_video_game_graphics" class="extiw" title="en:Isometric video game graphics"><span lang="en" dir="auto">Isometric video game graphics</span></a></span>）</span></span></li>
+<li><a href="/wiki/Mode_7" title="Mode 7">Mode 7</a></li>
+<li><a href="/wiki/%E8%A7%86%E5%B7%AE%E6%BB%9A%E5%8A%A8" title="视差滚动">视差滚动</a></li>
+<li><span class="ilh-all" data-orig-title="光线投射" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ray casting"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E7%BA%BF%E6%8A%95%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="光线投射（页面不存在）">光线投射</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ray_casting" class="extiw" title="en:Ray casting"><span lang="en" dir="auto">Ray casting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="天空盒" data-lang-code="en" data-lang-name="英语" data-foreign-title="Skybox (video games)"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A9%E7%A9%BA%E7%9B%92&amp;action=edit&amp;redlink=1" class="new" title="天空盒（页面不存在）">天空盒</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Skybox_(video_games)" class="extiw" title="en:Skybox (video games)"><span lang="en" dir="auto">Skybox (video games)</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2" title="三维计算机图形">三维计算机图形</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%89%E7%BB%B4%E6%8A%95%E5%BD%B1" title="三维投影">三维投影</a></li>
+<li><a href="/wiki/%E4%B8%89%E7%B6%AD%E6%B8%B2%E6%9F%93" title="三维渲染">三维渲染</a></li>
+<li><span class="ilh-all" data-orig-title="照明 (计算机图形学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer graphics lighting"><span class="ilh-page"><a href="/w/index.php?title=%E7%85%A7%E6%98%8E_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="照明 (计算机图形学)（页面不存在）">照明 (计算机图形学)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer_graphics_lighting" class="extiw" title="en:Computer graphics lighting"><span lang="en" dir="auto">Computer graphics lighting</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E5%85%A8%E5%B1%80%E5%85%89%E7%85%A7" title="全局光照">全局光照</a></li>
+<li><a href="/wiki/%E5%85%89%E7%B7%9A%E8%BF%BD%E8%B9%A4" title="光线追踪">光线追踪</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="消隐" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hidden-surface determination"><span class="ilh-page"><a href="/w/index.php?title=%E6%B6%88%E9%9A%90&amp;action=edit&amp;redlink=1" class="new" title="消隐（页面不存在）">消隐</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hidden-surface_determination" class="extiw" title="en:Hidden-surface determination"><span lang="en" dir="auto">Hidden-surface determination</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%BD%91%E6%A0%BC" title="多边形网格">多边形网格</a>
+<ul><li><span class="ilh-all" data-orig-title="三角形网格" data-lang-code="en" data-lang-name="英语" data-foreign-title="Triangle mesh"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%89%E8%A7%92%E5%BD%A2%E7%BD%91%E6%A0%BC&amp;action=edit&amp;redlink=1" class="new" title="三角形网格（页面不存在）">三角形网格</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Triangle_mesh" class="extiw" title="en:Triangle mesh"><span lang="en" dir="auto">Triangle mesh</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%9D%80%E8%89%B2" title="着色">着色</a></li>
+<li><span class="ilh-all" data-orig-title="表面三角化" data-lang-code="en" data-lang-name="英语" data-foreign-title="Surface triangulation"><span class="ilh-page"><a href="/w/index.php?title=%E8%A1%A8%E9%9D%A2%E4%B8%89%E8%A7%92%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="表面三角化（页面不存在）">表面三角化</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Surface_triangulation" class="extiw" title="en:Surface triangulation"><span lang="en" dir="auto">Surface triangulation</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BA%BF%E6%A1%86%E6%A8%A1%E5%9E%8B" title="线框模型">线框模型</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概念</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2" title="仿射变换">仿射变换</a>
+<ul><li><a href="/wiki/%E5%B9%B3%E7%A7%BB" title="平移">平移</a></li>
+<li><a href="/wiki/%E6%97%8B%E8%BD%AC" title="旋转">旋转</a></li>
+<li><a href="/wiki/%E7%BC%A9%E6%94%BE" title="缩放">缩放</a></li>
+<li><a href="/wiki/%E9%94%99%E5%88%87" title="错切">错切</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="背面剔除" data-lang-code="en" data-lang-name="英语" data-foreign-title="Back-face culling"><span class="ilh-page"><a href="/w/index.php?title=%E8%83%8C%E9%9D%A2%E5%89%94%E9%99%A4&amp;action=edit&amp;redlink=1" class="new" title="背面剔除（页面不存在）">背面剔除</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Back-face_culling" class="extiw" title="en:Back-face culling"><span lang="en" dir="auto">Back-face culling</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="裁剪 (计算机图形学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Clipping (computer graphics)"><span class="ilh-page"><a href="/w/index.php?title=%E8%A3%81%E5%89%AA_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="裁剪 (计算机图形学)（页面不存在）">裁剪 (计算机图形学)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Clipping_(computer_graphics)" class="extiw" title="en:Clipping (computer graphics)"><span lang="en" dir="auto">Clipping (computer graphics)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A2%B0%E6%92%9E%E5%81%B5%E6%B8%AC" title="碰撞侦测">碰撞检测</a></li>
+<li><span class="ilh-all" data-orig-title="平面投影" data-lang-code="en" data-lang-name="英语" data-foreign-title="Planar projection"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B3%E9%9D%A2%E6%8A%95%E5%BD%B1&amp;action=edit&amp;redlink=1" class="new" title="平面投影（页面不存在）">平面投影</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Planar_projection" class="extiw" title="en:Planar projection"><span lang="en" dir="auto">Planar projection</span></a></span>）</span></span></li>
+<li><a class="mw-selflink selflink">渲染</a>
+<ul><li><a href="/wiki/%E5%8D%A1%E9%80%9A%E6%B8%B2%E6%9F%93" title="卡通渲染">卡通渲染</a></li>
+<li><a href="/wiki/%E9%9D%9E%E7%9C%9F%E5%AE%9E%E6%84%9F%E7%BB%98%E5%88%B6" title="非真实感绘制">非真实感绘制</a></li></ul></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E7%8E%B0%E5%AE%9E" title="混合现实">混合现实</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8A%A8%E7%94%BB" title="计算机动画">计算机动画</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%9C%96%E5%83%8F%E8%BB%9F%E4%BB%B6" title="图像软件">图形软件</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E8%BD%AF%E4%BB%B6" title="三维计算机图形软件">三维计算机图形软件</a></li>
+<li><a href="/wiki/%E9%BB%9E%E9%99%A3%E5%9C%96%E5%9C%96%E5%83%8F%E7%B7%A8%E8%BC%AF%E5%99%A8" title="位图图像编辑器">位图图像编辑器</a></li>
+<li><a href="/wiki/%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2%E7%BC%96%E8%BE%91%E5%99%A8%E5%88%97%E8%A1%A8" title="矢量图形编辑器列表">矢量图形编辑器列表</a></li>
+<li>图形应用程序接口
+<ul><li><a href="/wiki/Direct3D" title="Direct3D">Direct3D</a></li>
+<li><a href="/wiki/OpenGL" title="OpenGL">OpenGL</a></li>
+<li><a href="/wiki/Vulkan" title="Vulkan">Vulkan</a></li>
+<li><a href="/wiki/Metal_(API)" title="Metal (API)">Metal</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">算法</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%8F%8D%E9%8B%B8%E9%BD%92" title="反锯齿">反锯齿</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8F%8C%E7%BA%BF%E6%80%A7%E8%BF%87%E6%BB%A4" title="双线性过滤">双线性过滤</a></li>
+<li><span class="ilh-all" data-orig-title="三线性过滤" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trilinear filtering"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%89%E7%BA%BF%E6%80%A7%E8%BF%87%E6%BB%A4&amp;action=edit&amp;redlink=1" class="new" title="三线性过滤（页面不存在）">三线性过滤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trilinear_filtering" class="extiw" title="en:Trilinear filtering"><span lang="en" dir="auto">Trilinear filtering</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E8%BF%87%E6%BB%A4" title="各向异性过滤">各向异性过滤</a></li>
+<li><a href="/wiki/%E5%BF%AB%E9%80%9F%E8%BF%91%E4%BC%BC%E6%8A%97%E9%8B%B8%E9%BD%92" title="快速近似抗锯齿">快速近似抗锯齿</a>（FXAA）</li>
+<li><a href="/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B6%85%E7%BA%A7%E9%87%87%E6%A0%B7" class="mw-redirect" title="深度学习超级采样">深度学习超级采样</a>（DLSS）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%85%A8%E5%B1%80%E5%85%89%E7%85%A7" title="全局光照">全局光照</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%8E%AF%E5%A2%83%E5%85%89%E9%81%AE%E8%94%BD" title="环境光遮蔽">环境光遮蔽</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E7%85%A7%E6%98%8E" title="图像照明">图像照明</a></li>
+<li><a href="/wiki/%E5%85%89%E5%AD%90%E6%98%A0%E5%B0%84" title="光子映射">光子映射</a></li>
+<li><a href="/wiki/%E8%BE%90%E5%B0%84%E5%BA%A6%E7%AE%97%E6%B3%95" title="辐射度算法">辐射度算法</a></li>
+<li><a href="/wiki/%E5%85%89%E7%B7%9A%E8%BF%BD%E8%B9%A4" title="光线追踪">光线追踪</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E7%9D%80%E8%89%B2" title="着色">着色</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Phong%E7%9D%80%E8%89%B2%E6%B3%95" class="mw-redirect" title="Phong着色法">Phong着色法</a></li>
+<li><a href="/wiki/Gouraud%E7%9D%80%E8%89%B2%E6%B3%95" title="Gouraud着色法">Gouraud着色法</a></li>
+<li><a href="/wiki/%E5%BB%B6%E8%BF%9F%E7%9D%80%E8%89%B2" title="延迟着色">延迟着色</a></li>
+<li><a href="/wiki/%E9%98%B4%E5%BD%B1%E8%B4%B4%E5%9B%BE" title="阴影贴图">阴影贴图</a></li>
+<li><a href="/wiki/%E9%98%B4%E5%BD%B1%E4%BD%93" title="阴影体">阴影体</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>相关：<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2" title="计算机图形">计算机图形</a>、<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89" title="计算机视觉">计算机视觉</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐6hrvz
+Cached time: 20240331013738
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.534 seconds
+Real time usage: 0.691 seconds
+Preprocessor visited node count: 3743/1000000
+Post‐expand include size: 281725/2097152 bytes
+Template argument size: 14037/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3178/5000000 bytes
+Lua time usage: 0.232/10.000 seconds
+Lua memory usage: 19464046/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  420.543      1 -total
+ 27.57%  115.960      1 Template:Lang-en
+ 23.63%   99.360      1 Template:Multiple_issues
+ 20.98%   88.236      1 Template:计算机图形学
+ 20.48%   86.143      1 Template:Navbox
+ 14.97%   62.943      5 Template:Ambox
+ 13.17%   55.394      1 Template:NoteTA
+ 11.08%   46.585      1 Template:No_footnotes
+  7.80%   32.785     12 Template:Link-en
+  7.63%   32.072      2 Template:Lang
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:386498-0!userlang=zh-cn!zh-cn and timestamp 20240331013738 and revision id 80568473. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=渲染&amp;oldid=80568473">https://zh.wikipedia.org/w/index.php?title=渲染&amp;oldid=80568473</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="Category:计算机图形学">计算机图形学</a></li><li><a href="/wiki/Category:%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="Category:三维计算机图形学">三维计算机图形学</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2015%E5%B9%B42%E6%9C%88%E7%BC%BA%E5%B0%91%E6%B3%A8%E8%84%9A%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2015年2月缺少注脚的条目">自2015年2月缺少注脚的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B49%E6%9C%88%E9%9C%80%E8%A6%81%E6%A0%A1%E5%B0%8D%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:自2020年9月需要校對的頁面">自2020年9月需要校对的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B49%E6%9C%88%E9%9C%80%E8%A6%81%E6%B8%85%E7%90%86%E7%9A%84%E5%85%A7%E5%AE%B9%E7%91%A3%E7%A2%8E%E6%A2%9D%E7%9B%AE" title="Category:自2020年9月需要清理的內容瑣碎條目">自2020年9月需要清理的内容琐碎条目</a></li><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B49%E6%9C%88%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A5%E6%BA%90%E6%B8%85%E7%90%86" title="Category:自2020年9月维基百科来源清理">自2020年9月维基百科来源清理</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年1月20日 (星期六) 04:55。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E6%B8%B2%E6%9F%93&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6cf7d57b97-gmlhd","wgBackendResponseTime":193,"wgPageParseReport":{"limitreport":{"cputime":"0.534","walltime":"0.691","ppvisitednodes":{"value":3743,"limit":1000000},"postexpandincludesize":{"value":281725,"limit":2097152},"templateargumentsize":{"value":14037,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3178,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  420.543      1 -total"," 27.57%  115.960      1 Template:Lang-en"," 23.63%   99.360      1 Template:Multiple_issues"," 20.98%   88.236      1 Template:计算机图形学"," 20.48%   86.143      1 Template:Navbox"," 14.97%   62.943      5 Template:Ambox"," 13.17%   55.394      1 Template:NoteTA"," 11.08%   46.585      1 Template:No_footnotes","  7.80%   32.785     12 Template:Link-en","  7.63%   32.072      2 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.232","limit":"10.000"},"limitreport-memusage":{"value":19464046,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-6hrvz","timestamp":"20240331013738","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u6e32\u67d3","url":"https:\/\/zh.wikipedia.org\/wiki\/%E6%B8%B2%E6%9F%93","sameAs":"http:\/\/www.wikidata.org\/entity\/Q176953","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q176953","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-22T07:10:39Z","dateModified":"2024-01-20T04:55:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ec\/Glasses_800_edit.png","headline":"\u5f9e\u6a21\u578b\u751f\u6210\u5f71\u50cf\u7684\u904e\u7a0b"}</script>
+</body>
+</html>

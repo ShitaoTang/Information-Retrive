@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>虚拟内存 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"74cd3f25-865b-477c-b24f-da155917e3f1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"虚拟内存","wgTitle":"虚拟内存","wgCurRevisionId":81742048,"wgRevisionId":81742048,"wgArticleId":134964,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2020年7月需要從英語維基百科翻譯的條目","需要從英語維基百科翻譯的條目","含有英語的條目","包含GND标识符的维基百科条目","操作系统小作品","虚拟内存"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"虚拟内存","wgRelevantArticleId":134964,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q189401","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":
+false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices",
+"ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/70/VirtualMem01.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1200">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/70/VirtualMem01.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="虚拟内存 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-虚拟内存 rootpage-虚拟内存 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-用途与实现"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#用途与实现">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>用途与实现</div>
+		</a>
+		
+		<ul id="toc-用途与实现-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Windows操作系统的虚拟内存"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Windows操作系统的虚拟内存">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Windows操作系统的虚拟内存</div>
+		</a>
+		
+		<ul id="toc-Windows操作系统的虚拟内存-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr">虚拟内存</h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。43种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-43" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">43种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9" title="ذاكرة افتراضية – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%86%D1%8C" title="Віртуальная памяць – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Mem%C3%B2ria_virtual" title="Memòria virtual – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Virtu%C3%A1ln%C3%AD_pam%C4%9B%C5%A5" title="Virtuální paměť – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Virtuel_hukommelse" title="Virtuel hukommelse – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Virtuelle_Speicherverwaltung" title="Virtuelle Speicherverwaltung – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%B9%CE%BA%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%BD%CE%AE%CE%BC%CE%B7" title="Εικονική μνήμη – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Virtual_memory" title="Virtual memory – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Virtuala_memoro" title="Virtuala memoro – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Memoria_virtual" title="Memoria virtual – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Virtuaalm%C3%A4lu" title="Virtuaalmälu – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Alegiazko_memoria" title="Alegiazko memoria – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8%D9%87_%D9%85%D8%AC%D8%A7%D8%B2%DB%8C" title="حافظه مجازی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/N%C3%A4enn%C3%A4ismuisti" title="Näennäismuisti – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/M%C3%A9moire_virtuelle" title="Mémoire virtuelle – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Memoria_virtual" title="Memoria virtual – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F_%D7%95%D7%99%D7%A8%D7%98%D7%95%D7%90%D7%9C%D7%99" title="זיכרון וירטואלי – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2_%E0%A4%AE%E0%A5%87%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A5%80_(%E0%A4%86%E0%A4%AD%E0%A4%BE%E0%A4%B8%E0%A5%80_%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%BF)" title="वर्चुअल मेमोरी (आभासी स्मृति) – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Virtu%C3%A1lis_mem%C3%B3ria" title="Virtuális memória – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%80%D5%BF%D5%B8%D6%82%D5%A1%D5%AC_%D5%B0%D5%AB%D5%B7%D5%B8%D5%B2%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Վիրտուալ հիշողություն – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Memori_virtual" title="Memori virtual – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Memoria_virtuale" title="Memoria virtuale – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E8%A8%98%E6%86%B6" title="仮想記憶 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B4%D1%8B%D2%9B_%D1%81%D0%B0%D2%9B%D1%82%D0%B0%D1%83%D1%8B%D1%88_%D2%9B%D2%B1%D1%80%D1%8B%D0%BB%D2%93%D1%8B" title="Виртуалдық сақтауыш құрылғы – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%EB%A9%94%EB%AA%A8%EB%A6%AC" title="가상 메모리 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA_%D1%8D%D1%81_%D0%B6%D0%B5_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA_%D1%8D%D1%81%D1%82%D0%B8_%D0%B1%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D1%83%D1%83" title="Виртуалдык эс же виртуалдык эсти башкаруу – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Virtualioji_atmintis" title="Virtualioji atmintis – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Ingatan_maya" title="Ingatan maya – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Virtueel_geheugen" title="Virtueel geheugen – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Virtuell_hukommelse" title="Virtuell hukommelse – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Pami%C4%99%C4%87_wirtualna" title="Pamięć wirtualna – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Mem%C3%B3ria_virtual" title="Memória virtual – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Виртуальная память – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%85%E0%B6%AD%E0%B6%AE%E0%B7%8A%E2%80%8D%E0%B6%BA_%E0%B6%B8%E0%B6%AD%E0%B6%9A%E0%B6%BA" title="අතථ්‍ය මතකය – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Virtual_memory" title="Virtual memory – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Virtu%C3%A1lna_pam%C3%A4%C5%A5" title="Virtuálna pamäť – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Navidezni_pomnilnik" title="Navidezni pomnilnik – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq badge-Q70893996 mw-list-item" title=""><a href="https://sq.wikipedia.org/wiki/Virtual_Memory" title="Virtual Memory – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B5%D0%BB%D0%BD%D0%B0_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D1%98%D0%B0" title="Виртуелна меморија – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Virtuellt_minne" title="Virtuellt minne – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sanal_bellek" title="Sanal bellek – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BC%27%D1%8F%D1%82%D1%8C" title="Віртуальна пам&#039;ять – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/B%E1%BB%99_nh%E1%BB%9B_%E1%BA%A3o" title="Bộ nhớ ảo – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q189401#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;oldid=81742048" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;id=81742048&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2599%259A%25E6%258B%259F%25E5%2586%2585%25E5%25AD%2598"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2599%259A%25E6%258B%259F%25E5%2586%2585%25E5%25AD%2598"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q189401" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Virtual_memory" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-2f9938bf" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Expand_language plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>可参照<a href="https://en.wikipedia.org/wiki/Virtual_memory" class="extiw" title="en:Virtual memory">英语维基百科</a>相应条目来扩充</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年7月28日</span>)</i></small><span class="hide-when-compact"><br /><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">版权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#翻譯文章" title="Wikipedia:编辑摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-2f9938bf" class="noteTA"><div class="noteTA-title" data-noteta-code="zh-hans:虚拟内存; zh-hant:虛擬記憶體;"></div><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:VirtualMem01.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/7/70/VirtualMem01.png" decoding="async" width="250" height="250" class="mw-file-element" data-file-width="250" data-file-height="250" /></a><figcaption></figcaption></figure>
+<p><b>虚拟内存</b>（英语：<span lang="en">Virtual memory</span>）是计算机系统内存管理的一种技术。它使得应用程序认为它拥有连续可用的内存（一个连续完整的地址空间），而实际上<a href="/wiki/%E7%89%A9%E7%90%86%E5%86%85%E5%AD%98" class="mw-redirect" title="物理内存">物理内存</a>通常被分隔成多个<a href="/wiki/%E7%A2%8E%E7%89%87%E5%8C%96" title="碎片化">内存碎片</a>，还有部分暂时存储在外部磁盘存储器上，在需要时进行数据交换。与没有使用虚拟内存技术的系统相比，使用这种技术使得大型程序的编写变得更容易，对真正的物理内存（例如<a href="/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96%E8%A8%98%E6%86%B6%E9%AB%94" class="mw-redirect" title="随机存取存储器">RAM</a>）的使用也更有效率。此外，虚拟内存技术可以使多个<a href="/wiki/%E8%A1%8C%E7%A8%8B" title="行程">进程</a>共享同一个<a href="/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB" title="函式库">运行库</a>，并通过分割不同进程的内存空间来提高系统的安全性。
+</p><p>要注意的是，<b>虚拟内存</b>不只是“用磁盘空间来扩展物理内存”的意思——这只是扩充<a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E9%9A%8E%E5%B1%A4" title="存储器层次结构">内存级别</a>以使其包含<a href="/wiki/%E7%A1%AC%E7%9B%98%E9%A9%B1%E5%8A%A8%E5%99%A8" class="mw-redirect" title="硬盘驱动器">硬盘驱动器</a>而已。把内存扩展到磁盘只是使用虚拟内存技术的一个结果，它的作用也可以通过<a href="/wiki/%E8%A6%86%E7%9B%96_(%E7%BC%96%E7%A8%8B)" title="覆盖 (编程)">覆盖</a>或者把处于不活动状态的程序以及它们的数据全部交换到磁盘上等方式来实现。对虚拟内存的定义是基于对<a href="/wiki/%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4" class="mw-redirect" title="地址空间">地址空间</a>的重定义的，即把地址空间定义为“连续的虚拟内存地址”，以借此“欺骗”程序，使它们以为自己正在使用一大块的“连续”地址。
+</p><p>那些需要快速访问或者响应时间非常稳定的<a href="/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F" class="mw-redirect" title="嵌入式">嵌入式</a>系统，以及其他的具有特殊应用的计算机系统，可能会为了避免让<a href="/wiki/%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%AE%97%E6%B3%95" title="确定性算法">运算结果的可预测性</a>降低，而选择不使用虚拟内存。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.94.A8.E9.80.94.E4.B8.8E.E5.AE.9E.E7.8E.B0"></span><span class="mw-headline" id="用途与实现">用途与实现</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit&amp;section=1" title="编辑章节：用途与实现"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>虚拟内存技术是现代<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">计算机系统结构</a>中不可分割的一部分。现代所有用于一般应用的<a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a>都对普通的应用程序使用虚拟内存技术，例如文字处理软件，电子制表软件，多媒体播放器等等。大部分架构通过<a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a>中独立的硬件<a href="/wiki/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%8D%95%E5%85%83" title="内存管理单元">内存管理单元</a>来辅助实现这一功能。部分<a href="/wiki/%E4%BB%BF%E7%9C%9F%E5%99%A8" title="仿真器">仿真器</a>和<a href="/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虚拟机">虚拟机</a>也能够通过宿主系统中的硬件来提高性能。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>老一些的操作系统，如<a href="/wiki/DOS" title="DOS">DOS</a>和1980年代的<a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>，或者那些1960年代的<a href="/wiki/%E5%A4%A7%E5%9E%8B%E6%9C%BA" class="mw-redirect" title="大型机">大型机</a>，一般都没有虚拟内存的功能——但是<span class="ilh-all" data-orig-title="Atlas (電腦)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Atlas_(computer)"><span class="ilh-page"><a href="/w/index.php?title=Atlas_(%E9%9B%BB%E8%85%A6)&amp;action=edit&amp;redlink=1" class="new" title="Atlas (电脑)（页面不存在）">Atlas</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Atlas_(computer)" class="extiw" title="en:Atlas (computer)"><span lang="en" dir="auto">Atlas_(computer)</span></a></span>）</span></span>，<span class="ilh-all" data-orig-title="B5000" data-lang-code="en" data-lang-name="英语" data-foreign-title="Burroughs_large_systems#B5000"><span class="ilh-page"><a href="/w/index.php?title=B5000&amp;action=edit&amp;redlink=1" class="new" title="B5000（页面不存在）">B5000</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Burroughs_large_systems#B5000" class="extiw" title="en:Burroughs large systems"><span lang="en" dir="auto">Burroughs_large_systems#B5000</span></a></span>）</span></span>和<a href="/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8" title="苹果公司">苹果公司</a>的<a href="/wiki/Apple_Lisa" title="Apple Lisa">Lisa</a>都是很值得注意的例外。
+</p><p>从<a href="/wiki/Intel_80286" title="Intel 80286">Intel 80286</a>开始，<a href="/wiki/X86" title="X86">X86</a>指令集通过<a href="/wiki/%E4%BF%9D%E8%AD%B7%E6%A8%A1%E5%BC%8F" title="保护模式">保护模式</a>引入了虚拟内存技术，但是由于其使用的<a href="/wiki/%E5%AD%98%E5%82%A8%E5%99%A8%E5%88%86%E6%AE%B5" class="mw-redirect" title="存储器分段">存储器分段</a>技术对大内存段的支持不佳，后续的<a href="/wiki/Intel_80386" title="Intel 80386">80386</a>在分段技术框架下支持了内存<a href="/wiki/%E5%88%86%E9%A0%81" title="标签页">分页</a>技术。
+</p>
+<h2><span id="Windows.E6.93.8D.E4.BD.9C.E7.B3.BB.E7.BB.9F.E7.9A.84.E8.99.9A.E6.8B.9F.E5.86.85.E5.AD.98"></span><span class="mw-headline" id="Windows操作系统的虚拟内存">Windows操作系统的虚拟内存</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit&amp;section=2" title="编辑章节：Windows操作系统的虚拟内存"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>对于32位进程，其逻辑内存空间为4G。<a href="/wiki/Windows_API" title="Windows API">Windows API</a>提供了一套函数操纵进程的虚拟内存：
+</p>
+<ul><li>VirtualAlloc(PVOID开始地址，SIZE_T大小，DWORD内存类型，DWORD保护属性)。 内存类型有MEM_RESERVE（保留）、MEM_RELEASE（释放）和MEM_COMMIT（提交）。保留是指占用一块逻辑地址空间，但未实际分配物理内存；提交是实际分配物理内存。MEM_RESET用于把内存清零。 保护属性为： PAGE_NOACCESS、PAGE_READONLY、PAGE_READWRITE、PAGE_EXECUTE、PAGE_EXECUTE_READ、PAGE_EXECUTE_READWRITE。</li>
+<li>VirtualProtect(PVOID基地址，SIZE_T大小，DWORD新保护属性，DWORD旧保护属性)。更改保护属性。</li>
+<li>VirtualFree(PVOID基地址，SIZE_T大小，DWORD内存类型)。页面释放。内存类型是MEM_DECOMMIT或者MEM_RELEASE</li>
+<li>VirtualLock</li>
+<li>VirtualUnlock</li>
+<li>VirtualQuery</li></ul>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit&amp;section=3" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E9%AB%98%E9%80%9F%E7%B7%A9%E5%AD%98%E6%96%87%E4%BB%B6%E7%BD%AE%E6%8F%9B%E6%A9%9F%E5%88%B6" class="mw-redirect" title="高速缓存文件置换机制">高速缓存文件置换机制</a></li>
+<li><a href="/wiki/%E5%88%86%E9%A0%81" title="标签页">标签页</a></li>
+<li><a href="/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%A9%BA%E9%96%93" title="用户空间">用户空间</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;action=edit&amp;section=4" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20220321205341/http://developer.amd.com/wordpress/media/2012/10/NPT-WP-1%201-final-TM.pdf">AMD-V™ Nested Paging</a> <span style="font-size:85%;">(PDF)</span>. AMD.  <span class="reference-accessdate"> &#91;<span class="nowrap">28 April</span> 2015&#93;</span>. （<a rel="nofollow" class="external text" href="http://developer.amd.com/wordpress/media/2012/10/NPT-WP-1%201-final-TM.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2022-03-21）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;rft.btitle=AMD-V%E2%84%A2+Nested+Paging&amp;rft.genre=unknown&amp;rft.pub=AMD&amp;rft_id=http%3A%2F%2Fdeveloper.amd.com%2Fwordpress%2Fmedia%2F2012%2F10%2FNPT-WP-1%25201-final-TM.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://support.microsoft.com/kb/32905">Windows Version History</a>. Microsoft. 2005-07-19 <span class="reference-accessdate"> &#91;<span class="nowrap">2008-12-03</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150226175544/http://support.microsoft.com/kb/32905">存档</a>于2015-02-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;rft.btitle=Windows+Version+History&amp;rft.date=2005-07-19&amp;rft.genre=unknown&amp;rft.pub=Microsoft&amp;rft_id=http%3A%2F%2Fsupport.microsoft.com%2Fkb%2F32905&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.microsoft.com/china/windowsxp/pro/techinfo/planning/performance/runtimeperf.mspx">Windows XP的虚拟内存与性能</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20121209063941/http://www.microsoft.com/china/windowsxp/pro/techinfo/planning/performance/runtimeperf.mspx">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.microsoft.com/china/whdc/driver/kernel/mem-mgmt.mspx">微软官方内存管理白皮书</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20100731021043/http://www.microsoft.com/china/whdc/driver/kernel/mem-mgmt.mspx">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://linux-mm.org">Linux下内存管理</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20080430004454/http://linux-mm.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86" title="Template:内存管理"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86" title="Template talk:内存管理"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E7%AE%A1%E7%90%86" title="存储器管理">存储器管理</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span class="ilh-all" data-orig-title="内存管理 (操作系统)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Memory management (operating systems)"><span class="ilh-page"><a href="/w/index.php?title=%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)&amp;action=edit&amp;redlink=1" class="new" title="内存管理 (操作系统)（页面不存在）">操作系统的内存管理功能</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Memory_management_(operating_systems)" class="extiw" title="en:Memory management (operating systems)"><span lang="en" dir="auto">Memory management (operating systems)</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="手动内存管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Manual memory management"><span class="ilh-page"><a href="/w/index.php?title=%E6%89%8B%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="手动内存管理（页面不存在）">手动内存管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Manual_memory_management" class="extiw" title="en:Manual memory management"><span lang="en" dir="auto">Manual memory management</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9D%99%E6%80%81%E5%8F%98%E9%87%8F" title="静态变量">静态内存分配</a></li>
+<li><a href="/wiki/C%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D" title="C动态内存分配">C动态内存分配</a></li>
+<li><a href="/wiki/New_(C%2B%2B)" title="New (C++)">new (C++)</a></li>
+<li><span class="ilh-all" data-orig-title="delete (C++)" data-lang-code="en" data-lang-name="英语" data-foreign-title="new and delete (C++)"><span class="ilh-page"><a href="/w/index.php?title=Delete_(C%2B%2B)&amp;action=edit&amp;redlink=1" class="new" title="Delete (C++)（页面不存在）">delete (C++)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/new_and_delete_(C%2B%2B)" class="extiw" title="en:new and delete (C++)"><span lang="en" dir="auto">new and delete (C++)</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a class="mw-selflink selflink">虚拟内存</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="按需分页" data-lang-code="en" data-lang-name="英语" data-foreign-title="Demand paging"><span class="ilh-page"><a href="/w/index.php?title=%E6%8C%89%E9%9C%80%E5%88%86%E9%A1%B5&amp;action=edit&amp;redlink=1" class="new" title="按需分页（页面不存在）">按需分页</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Demand_paging" class="extiw" title="en:Demand paging"><span lang="en" dir="auto">Demand paging</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%88%86%E9%A0%81%E8%A1%A8" title="标签页表">标签页表</a></li>
+<li><a href="/wiki/%E5%88%86%E9%A0%81" title="标签页">标签页</a></li>
+<li><span class="ilh-all" data-orig-title="虚拟内存压缩" data-lang-code="en" data-lang-name="英语" data-foreign-title="Virtual memory compression"><span class="ilh-page"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9&amp;action=edit&amp;redlink=1" class="new" title="虚拟内存压缩（页面不存在）">虚拟内存压缩</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Virtual_memory_compression" class="extiw" title="en:Virtual memory compression"><span lang="en" dir="auto">Virtual memory compression</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">硬件内存管理</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%8D%95%E5%85%83" title="内存管理单元">内存管理单元</a></li>
+<li><a href="/wiki/%E8%BD%89%E8%AD%AF%E5%BE%8C%E5%82%99%E7%B7%A9%E8%A1%9D%E5%8D%80" title="转译后备缓冲器">转译后备缓冲器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8)" title="垃圾回收 (计算机科学)">垃圾回收</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%B2%9D%E5%A7%86%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8" title="贝姆垃圾收集器">贝姆垃圾收集器</a></li>
+<li><a href="/wiki/Cheney%E7%AE%97%E6%B3%95" title="Cheney算法">Cheney算法</a></li>
+<li><span class="ilh-all" data-orig-title="终止器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Finalizer"><span class="ilh-page"><a href="/w/index.php?title=%E7%BB%88%E6%AD%A2%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="终止器（页面不存在）">终止器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Finalizer" class="extiw" title="en:Finalizer"><span lang="en" dir="auto">Finalizer</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="垃圾 (计算机科学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Garbage (computer science)"><span class="ilh-page"><a href="/w/index.php?title=%E5%9E%83%E5%9C%BE_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="垃圾 (计算机科学)（页面不存在）">垃圾</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Garbage_(computer_science)" class="extiw" title="en:Garbage (computer science)"><span lang="en" dir="auto">Garbage (computer science)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="标记压缩算法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mark–compact algorithm"><span class="ilh-page"><a href="/w/index.php?title=%E6%A0%87%E8%AE%B0%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="标记压缩算法（页面不存在）">标记压缩算法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mark%E2%80%93compact_algorithm" class="extiw" title="en:Mark–compact algorithm"><span lang="en" dir="auto">Mark–compact algorithm</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%BC%95%E7%94%A8%E8%AE%A1%E6%95%B0" title="引用计数">引用计数</a></li>
+<li>强引用</li>
+<li><a href="/wiki/%E5%BC%B1%E5%BC%95%E7%94%A8" title="弱引用">弱引用</a></li>
+<li><a href="/wiki/%E8%BF%BD%E8%B8%AA%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6" title="追踪垃圾回收">追踪垃圾回收</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E5%88%86%E6%AE%B5" title="存储器分段">存储器分段</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BF%9D%E8%AD%B7%E6%A8%A1%E5%BC%8F" title="保护模式">保护模式</a></li>
+<li><a href="/wiki/%E7%9C%9F%E5%AF%A6%E6%A8%A1%E5%BC%8F" title="实模式">实模式</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F8086%E6%A8%A1%E5%BC%8F" title="虚拟8086模式">虚拟8086模式</a></li>
+<li><a href="/wiki/X86%E8%A8%98%E6%86%B6%E9%AB%94%E5%8D%80%E6%AE%B5" title="X86存储器区段">X86存储器区段</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E5%AE%89%E5%85%A8" title="存储器安全">存储器安全</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA" title="缓冲区溢出">缓冲区溢出</a></li>
+<li><a href="/wiki/%E7%BC%93%E5%86%B2%E5%8C%BA%E8%BF%87%E8%AF%BB" title="缓冲区过读">缓冲区过读</a></li>
+<li><a href="/wiki/%E8%BF%B7%E9%80%94%E6%8C%87%E9%92%88" title="迷途指针">迷途指针</a></li>
+<li><a href="/wiki/%E5%A0%86%E7%96%8A%E6%BA%A2%E4%BD%8D" title="堆栈溢出">堆栈溢出</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">针对的问题</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A2%8E%E7%89%87%E5%8C%96" title="碎片化">内存碎片化</a></li>
+<li><a href="/wiki/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F" title="内存泄漏">内存泄漏</a></li>
+<li><a href="/wiki/%E4%B8%8D%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%86%85%E5%AD%98" title="不可访问内存">不可访问内存</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">其它</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E5%8F%98%E9%87%8F" title="自动变量">自动变量</a></li>
+<li><span class="ilh-all" data-orig-title="内存管理国际研讨会" data-lang-code="en" data-lang-name="英语" data-foreign-title="International Symposium on Memory Management"><span class="ilh-page"><a href="/w/index.php?title=%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%9B%BD%E9%99%85%E7%A0%94%E8%AE%A8%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="内存管理国际研讨会（页面不存在）">内存管理国际研讨会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/International_Symposium_on_Memory_Management" class="extiw" title="en:International Symposium on Memory Management"><span lang="en" dir="auto">International Symposium on Memory Management</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="基于区域内存管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Region-based memory management"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9F%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="基于区域内存管理（页面不存在）">基于区域内存管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Region-based_memory_management" class="extiw" title="en:Region-based memory management"><span lang="en" dir="auto">Region-based memory management</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q189401" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="集成规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4381328-8">4381328-8</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐4j9n4
+Cached time: 20240401220407
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.482 seconds
+Real time usage: 0.604 seconds
+Preprocessor visited node count: 994/1000000
+Post‐expand include size: 246784/2097152 bytes
+Template argument size: 859/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 16/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5409/5000000 bytes
+Lua time usage: 0.267/10.000 seconds
+Lua memory usage: 20855688/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  435.404      1 -total
+ 25.00%  108.851      1 Template:Lang-en
+ 21.66%   94.319      1 Template:Expand_language
+ 18.22%   79.330      1 Template:内存管理
+ 17.70%   77.051      1 Template:Navbox
+ 17.10%   74.475      1 Template:Ambox
+ 13.12%   57.133      1 Template:NoteTA
+ 12.12%   52.775      1 Template:Reflist
+ 11.11%   48.363      2 Template:Cite_web
+  8.48%   36.918     12 Template:Le
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:134964-0!userlang=zh-cn!zh-cn and timestamp 20240401220407 and revision id 81742048. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=虚拟内存&amp;oldid=81742048">https://zh.wikipedia.org/w/index.php?title=虚拟内存&amp;oldid=81742048</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="Category:虚拟内存">虚拟内存</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B47%E6%9C%88%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:自2020年7月需要從英語維基百科翻譯的條目">自2020年7月需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:需要從英語維基百科翻譯的條目">需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B0%8F%E4%BD%9C%E5%93%81" title="Category:操作系统小作品">操作系统小作品</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月2日 (星期六) 03:07。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.canary-5584d7b8f9-bflqj","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"0.482","walltime":"0.604","ppvisitednodes":{"value":994,"limit":1000000},"postexpandincludesize":{"value":246784,"limit":2097152},"templateargumentsize":{"value":859,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5409,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  435.404      1 -total"," 25.00%  108.851      1 Template:Lang-en"," 21.66%   94.319      1 Template:Expand_language"," 18.22%   79.330      1 Template:内存管理"," 17.70%   77.051      1 Template:Navbox"," 17.10%   74.475      1 Template:Ambox"," 13.12%   57.133      1 Template:NoteTA"," 12.12%   52.775      1 Template:Reflist"," 11.11%   48.363      2 Template:Cite_web","  8.48%   36.918     12 Template:Le"]},"scribunto":{"limitreport-timeusage":{"value":"0.267","limit":"10.000"},"limitreport-memusage":{"value":20855688,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-4j9n4","timestamp":"20240401220407","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u865a\u62df\u5185\u5b58","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98","sameAs":"http:\/\/www.wikidata.org\/entity\/Q189401","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q189401","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-22T06:05:57Z","dateModified":"2024-03-02T03:07:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/70\/VirtualMem01.png"}</script>
+</body>
+</html>

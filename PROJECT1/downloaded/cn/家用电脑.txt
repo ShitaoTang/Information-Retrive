@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>家用电脑 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"399c8c29-9f33-43be-aa50-988ee9add1d9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"家用电脑","wgTitle":"家用电脑","wgCurRevisionId":74018218,"wgRevisionId":74018218,"wgArticleId":1299017,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1英语来源 (en)","自2016年11月扩充中的条目","家用電腦","桌上型電腦"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"家用电脑","wgRelevantArticleId":1299017,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q473708","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA",
+"ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/1200px-Apple-II.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/800px-Apple-II.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1067">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/640px-Apple-II.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="853">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="家用电脑 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-家用电脑 rootpage-家用电脑 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-开发背景"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#开发背景">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>开发背景</div>
+		</a>
+		
+		<ul id="toc-开发背景-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">家用电脑</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。42种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-42" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">42种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Heimcomputer" title="Heimcomputer – 瑞士德语" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Ordinador_domestico" title="Ordinador domestico – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8_%D9%85%D9%86%D8%B2%D9%84%D9%8A" title="حاسوب منزلي – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D0%BD%D1%96_%D0%BA%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80" title="Хатні камп’ютар – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A7%8B%E0%A6%AE_%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0" title="হোম কম্পিউটার – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Ordinador_dom%C3%A8stic" title="Ordinador domèstic – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dom%C3%A1c%C3%AD_po%C4%8D%C3%ADta%C4%8D" title="Domácí počítač – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hjemmecomputer" title="Hjemmecomputer – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Heimcomputer" title="Heimcomputer – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Home_computer" title="Home computer – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Computadora_dom%C3%A9stica" title="Computadora doméstica – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Koduarvuti" title="Koduarvuti – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C" title="رایانه خانگی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kotitietokone" title="Kotitietokone – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ordinateur_domestique" title="Ordinateur domestique – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Ku%C4%87no_ra%C4%8Dunalo" title="Kućno računalo – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Computator_domestic" title="Computator domestic – 国际语" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Heimilist%C3%B6lva" title="Heimilistölva – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Home_computer" title="Home computer – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%93%E3%83%BC%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3" title="ホビーパソコン – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%A0%95%EC%9A%A9_%EC%BB%B4%ED%93%A8%ED%84%B0" title="가정용 컴퓨터 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Home_computer" title="Home computer – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Nam%C5%B3_kompiuteris" title="Namų kompiuteris – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Komputer_rumah" title="Komputer rumah – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Homecomputer" title="Homecomputer – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Heimedatamaskin" title="Heimedatamaskin – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Hjemmedatamaskin" title="Hjemmedatamaskin – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Komputer_domowy" title="Komputer domowy – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Computador_dom%C3%A9stico" title="Computador doméstico – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Домашний компьютер – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Ku%C4%87no_ra%C4%8Dunalo" title="Kućno računalo – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Home_computer" title="Home computer – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Dom%C3%A1ci_po%C4%8D%C3%ADta%C4%8D" title="Domáci počítač – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Hi%C5%A1ni_ra%C4%8Dunalnik" title="Hišni računalnik – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D1%83%D1%9B%D0%BD%D0%B8_%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80" title="Кућни рачунар – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Hemdator" title="Hemdator – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99" title="คอมพิวเตอร์ครัวเรือน – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Ev_bilgisayar%C4%B1" title="Ev bilgisayarı – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%96%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80" title="Домашній комп&#039;ютер – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DB%8C%D8%AA%DB%8C_%D8%B4%D9%85%D8%A7%D8%B1%D9%86%D8%AF%DB%81" title="بیتی شمارندہ – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/M%C3%A1y_t%C3%ADnh_gia_%C4%91%C3%ACnh" title="Máy tính gia đình – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%AE%B6%E7%94%A8%E9%9B%BB%E8%85%A6" title="家用電腦 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q473708#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;oldid=74018218" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;id=74018218&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25AE%25B6%25E7%2594%25A8%25E7%2594%25B5%25E8%2584%2591"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25AE%25B6%25E7%2594%25A8%25E7%2594%25B5%25E8%2584%2591"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q473708" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Home_computers" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Expand plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Antistub.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/44px-Antistub.svg.png" decoding="async" width="44" height="44" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/66px-Antistub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/88px-Antistub.svg.png 2x" data-file-width="200" data-file-height="200" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要扩充。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2016年11月1日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit">改善这篇条目</a>，更进一步的信息可能会在<a href="/wiki/Talk:%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91" title="Talk:家用电脑">讨论页</a>或<a href="/wiki/Wikipedia:%E6%89%A9%E5%85%85%E8%AF%B7%E6%B1%82" title="Wikipedia:扩充请求">扩充请求</a>中找到。请在扩充条目后将此模板移除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Apple-II.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/220px-Apple-II.jpg" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/330px-Apple-II.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apple-II.jpg/440px-Apple-II.jpg 2x" data-file-width="1920" data-file-height="2560" /></a><figcaption>1977年上市的Apple II，图上包括主机与另售的Disk II软式磁盘机与苹果监视器</figcaption></figure>
+<p><b>家用电脑</b>是<a href="/wiki/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91" title="个人电脑">个人电脑</a>的一种，于1977年投入市场，并在1980年代日益普及。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>其市场定位为更加贴近消费者，同时比<a href="/wiki/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E6%A9%9F" title="电子游戏机">游戏机</a>功能更强的个人电脑。这些电脑的售价一般要较当时的为商业、科学或工程用途设计的个人台式电脑廉价许多，但通常在存储以及扩展性上也逊色一些。不过，与商用个人电脑比起来，家用电脑的图形与声音处理能力往往更胜一筹。通常，家用电脑是被用作学习、<a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">游戏</a>及<a href="/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86" class="mw-redirect" title="文字处理">文字处理</a>等用途。
+</p><p>在大众媒体上，关于早期家用电脑的广告充斥着在家庭中实际使用的可能性，从编目食谱到<a href="/wiki/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2" title="个人理财">个人理财</a>到家庭自动化，<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>但在实践中很少实现。例如，使用典型的 20 世纪 80 年代家庭计算机作为家庭自动化设备，需要计算机始终保持通电并专用于此任务。个人财务和数据库使用需要繁琐的数据输入。
+</p><p>相比之下，专业电脑印刷机的广告往往只是简单地列出规格。 如果没有打包的软件可用于特定应用程序，家庭计算机用户可以对一个程序进行编程，前提是他们投入了必要的时间来学习计算机编程，以及其系统的特性。由于大多数系统都附带了系统<a href="/wiki/%E5%94%AF%E8%AE%80%E8%A8%98%E6%86%B6%E9%AB%94" title="只读内存">ROM</a>中包含的<a href="/wiki/BASIC" title="BASIC">BASIC</a>编程语言，因此用户很容易开始创建自己的简单应用程序。许多用户发现编程是一种有趣而有益的体验，也是对数字技术世界的一个很好的介绍。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>一旦 IBM PC 兼容产品在家庭中广泛使用，"业务"和"家庭"计算机细分市场之间的界限就变得模糊或完全消失，因为现在这两类计算机通常使用相同的处理器架构、外围设备、操作系统和应用程序。通常，唯一的区别是购买它们的销售渠道。家庭计算机时代的另一个变化是，曾经共同编写自己的软件程序的努力几乎从家庭计算机使用中消失了。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span id=".E5.BC.80.E5.8F.91.E8.83.8C.E6.99.AF"></span><span class="mw-headline" id="开发背景">开发背景</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit&amp;section=1" title="编辑章节：开发背景"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>早在1965年，一些实验项目，如吉姆萨瑟兰的ECHO 4，探索了计算机在家里的可用性。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>1969年，霍尼韦尔厨房电脑作为奢侈品被推销，开创了家庭计算时代，但没有售出<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>。
+</p><p>由于从1971年开始大规模生产<a href="/wiki/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8" title="微处理器">微处理器</a>，计算机在1970年代变得为大众买得起。早期的<a href="/wiki/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA" title="微型计算机">微型计算机</a>，如<a href="/wiki/Altair_8800" title="Altair 8800">Altair 8800</a>，有前置开关和诊断灯（昵称"闪烁灯"），以控制和指示内部系统状态，并经常以套件形式出售给业余爱好者。这些套件将包含一个空<a href="/wiki/%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF" class="mw-redirect" title="印刷电路板">印刷电路板</a>，买方将用<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a>、其他单独的电子元件、电线和连接器填充该电路板，然后手动焊接所有连接<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>。
+</p><p>到1982年，估计有621,000台家用电脑在美国家庭中，平均销售价格为530美元（相当于2018年的1,376美元）。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> 1977年Radio Shack TRS-80，Commodore PET和Apple II取得成功后，几乎所有<a href="/wiki/%E6%B6%88%E8%B2%BB%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81" title="消费电子产品">消费电子产品</a>制造商都纷纷推出家用电脑。在20世纪70年代末和80年代初期，大量新型机器开始出现。美泰，<a href="/wiki/Coleco_Adam" title="Coleco Adam">Coleco</a>，<a href="/wiki/%E5%BE%B7%E5%B7%9E%E4%BB%AA%E5%99%A8" title="德州仪器">德州仪器</a>和Timex在20世纪80年代早期，所有这些都没有与计算机行业有任何关联，所有这些都有短命的家用电脑线路。一些家用电脑更成功--BBC Micro，<a href="/wiki/Sinclair_ZX_Spectrum" title="Sinclair ZX Spectrum">Sinclair ZX Spectrum</a>，Atari 800XL和<a href="/wiki/%E5%BA%B7%E6%87%8B%E9%81%9464" title="康懋达64">Commodore 64</a>，多年来销售了许多设备并吸引了第三方软件开发。
+</p><p>几乎普遍，家庭计算机有一个BASIC解释器与一个行编辑器在永久<a href="/wiki/%E5%94%AF%E8%AE%80%E8%A8%98%E6%86%B6%E9%AB%94" title="只读内存">只读内存</a>，人们可以用它来键入BASIC程序，并立即执行它们或将它们保存到磁带或磁盘。在直接模式下，BASIC 解释器还用作用户界面，并给定加载、保存、管理和运行文件等任务。一个例外是木星王牌，它有一个Forth解释器，而不是BASIC。内置编程语言被视为这个时代任何计算机的要求，是将家用计算机与视频游戏机分开的主要功能。
+</p><p>不过，家用电脑与游戏机在同一市场上竞争。家用电脑通常被视为比控制台更高端的购买，增加了仍然主要是游戏设备的能力和生产力潜力。一个常见的营销策略是展示计算机系统和控制台并排玩游戏，然后通过显示运行用户创建的程序，教育软件，文字处理，电子表格和其他应用程序来强调计算机的更大能力，同时游戏控制台显示空白屏幕或继续播放相同的重复游戏。家用计算机的另一个功能是缺少时间的游戏控制台是通过添加串行端口接口，调制解调器和通信软件来通过电话线访问远程服务的能力。虽然它可能成本很高，但它允许计算机用户访问诸如Compuserve和私人或公司公告板系统之类的服务来发布或阅读消息，或下载或上传软件。一些爱好者拥有配备大容量存储容量的电脑和专用电话线自己操作的公告板。这种能力使互联网预计将近二十年。
+</p><p>1980年，<a href="/w/index.php?title=Kilobaud_Microcomputing&amp;action=edit&amp;redlink=1" class="new" title="Kilobaud Microcomputing（页面不存在）">Kilobaud Microcomputing</a>的出版商Wayne Green建议公司在其广告中避免使用“家用电脑”一词，“我认为销售是自我限制的......我更喜欢”微型计算机“一词，因为它没有限制在潜在客户的想象中使用设备“。除了Tandy，大多数计算机公司 - 甚至那些对家庭用户有大部分销售额的计算机公司 - 同意，因为它与计算机的形象相关联而避免使用“家用计算机”一词。写道，“一款主要适合玩游戏的低功耗，低端机器”。尽管与IBM的PCjr家用电脑竞争，苹果一直避免说它是一家家用电脑公司，并将IIc描述为“严肃家庭用户的严肃计算机”。约翰斯卡利否认他的公司卖掉了家用电脑;相反，他说，苹果公司出售“用于家庭的电脑”。据报道，该公司于1990年拒绝在其低成本的Macintosh LC和IIsi计算机上支持操纵杆，以防止客户将其视为“游戏机”。
+</p>
+<ul><li>苹果电脑的<a href="/wiki/Apple_II" title="Apple II">Apple II</a></li></ul>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Okona-GfhR-TRS-80.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okona-GfhR-TRS-80.jpg/220px-Okona-GfhR-TRS-80.jpg" decoding="async" width="220" height="185" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okona-GfhR-TRS-80.jpg/330px-Okona-GfhR-TRS-80.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okona-GfhR-TRS-80.jpg/440px-Okona-GfhR-TRS-80.jpg 2x" data-file-width="2373" data-file-height="2000" /></a><figcaption>TRS-80 Model 2</figcaption></figure>
+<ul><li>Tandy / Radio Shack的<span class="ilh-all" data-orig-title="TRS-80" data-lang-code="en" data-lang-name="英语" data-foreign-title="TRS-80"><span class="ilh-page"><a href="/w/index.php?title=TRS-80&amp;action=edit&amp;redlink=1" class="new" title="TRS-80（页面不存在）">TRS-80</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/TRS-80" class="extiw" title="en:TRS-80"><span lang="en" dir="auto">TRS-80</span></a></span>）</span></span></li></ul>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Commodore64.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore64.jpg/220px-Commodore64.jpg" decoding="async" width="220" height="139" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore64.jpg/330px-Commodore64.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commodore64.jpg/440px-Commodore64.jpg 2x" data-file-width="2000" data-file-height="1266" /></a><figcaption>Commodore 64，销售量最多的电脑机型</figcaption></figure>
+<ul><li>Commodore公司的<a href="/wiki/Commodore_64" class="mw-redirect" title="Commodore 64">Commodore 64</a></li></ul>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit&amp;section=2" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%AE%B6%E7%94%A8%E9%9B%BB%E8%85%A6%E5%88%86%E9%A1%9E%E5%88%97%E8%A1%A8" title="家用电脑分类列表">家用电脑分类列表</a></li>
+<li><a href="/wiki/3C_(%E5%95%86%E5%93%81%E4%BB%A3%E7%A8%B1)" title="3C (商品代称)">3C (商品代称)</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;action=edit&amp;section=3" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.homecomputer.de/">Home of the home computer</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20100627094804/http://www.homecomputer.de/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）网站</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://thingy.com/haj/old-computer-ads.html">Old Computer Ads</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190809094719/http://thingy.com/haj/old-computer-ads.html">存档</a>于2019-08-09） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.btitle=Old+Computer+Ads&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fthingy.com%2Fhaj%2Fold-computer-ads.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://edition.cnn.com/2007/US/12/08/commodore.feedback.irpt/index.html">CNN.com readers recall the life-changing Commodore 64</a>. CNN. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190822014604/http://edition.cnn.com/2007/US/12/08/commodore.feedback.irpt/index.html">存档</a>于2019-08-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.atitle=CNN.com+readers+recall+the+life-changing+Commodore+64&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fedition.cnn.com%2F2007%2FUS%2F12%2F08%2Fcommodore.feedback.irpt%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120218224436/http://jeremyreimer.com/postman/node/329">Personal Computer Market Share 1975-2005</a>. 2009-11-02. 原始内容存档于2012-02-18 <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.btitle=Personal+Computer+Market+Share+1975-2005&amp;rft.date=2009-11-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjeremyreimer.com%2Fpostman%2Fnode%2F329&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.drdobbs.com">Good stuff for serious developers</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201004223044/https://www.drdobbs.com/">存档</a>于2020-10-04） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.btitle=Good+stuff+for+serious+developers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Paul Atkinson. <a rel="nofollow" class="external text" href="https://academic.oup.com/jdh/article-abstract/23/2/163/346944?redirectedFrom=PDF">The Curious Case of the Kitchen Computer: Products and Non-Products in Design History</a>. 2010-06-01. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200110203429/https://academic.oup.com/jdh/article-abstract/23/2/163/346944?redirectedFrom=PDF">存档</a>于2020-01-10） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.au=Paul+Atkinson&amp;rft.btitle=The+Curious+Case+of+the+Kitchen+Computer%3A+Products+and+Non-Products+in+Design+History&amp;rft.date=2010-06-01&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Fjdh%2Farticle-abstract%2F23%2F2%2F163%2F346944%3FredirectedFrom%3DPDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">David Greelish. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071011045729/http://virtualaltair.com/virtualaltair.com/mits0011.asp">Ed Roberts interview</a>. （<a rel="nofollow" class="external text" href="http://www.virtualaltair.com/virtualaltair.com/mits0011.asp">原始内容</a>存档于2007-10-11） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.au=David+Greelish&amp;rft.btitle=Ed+Roberts+interview&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.virtualaltair.com%2Fvirtualaltair.com%2Fmits0011.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.org/stream/byte-magazine-1983-01/1983_01_BYTE_08-01_Looking_Ahead#page/n175/mode/2up">Byte Magazine</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;rft.btitle=Byte+Magazine&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fbyte-magazine-1983-01%2F1983_01_BYTE_08-01_Looking_Ahead%23page%2Fn175%2Fmode%2F2up&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Computer_sizes" title="Template:Computer sizes"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:Computer_sizes&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Computer sizes（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Computer_sizes&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%">计算机类别</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">大型</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA" title="超级计算机">超级计算机</a></li>
+<li><a href="/wiki/%E6%AC%A1%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA" title="次超级计算机">次超级计算机</a></li>
+<li><a href="/wiki/%E5%A4%A7%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA" title="大型计算机">大型计算机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">中小型</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%AD%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA" title="中型计算机">中型计算机</a></li>
+<li><a href="/wiki/%E5%B0%8F%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA" title="小型计算机">小型计算机</a></li>
+<li><span class="ilh-all" data-orig-title="超級小型電腦" data-lang-code="en" data-lang-name="英语" data-foreign-title="Superminicomputer"><span class="ilh-page"><a href="/w/index.php?title=%E8%B6%85%E7%B4%9A%E5%B0%8F%E5%9E%8B%E9%9B%BB%E8%85%A6&amp;action=edit&amp;redlink=1" class="new" title="超级小型电脑（页面不存在）">超级小型电脑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Superminicomputer" class="extiw" title="en:Superminicomputer"><span lang="en" dir="auto">Superminicomputer</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="服务器">服务器</a></li>
+<li><a href="/w/index.php?title=%E8%A7%86%E9%A2%91%E5%BD%95%E5%83%8F%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="视频录像机（页面不存在）">视频录像机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA" title="微型计算机">微型</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91" title="个人电脑">个人电脑</a>、<a href="/wiki/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87" title="移动设备">移动设备</a>与<span class="ilh-all" data-orig-title="移动运算" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mobile computing"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%BB%E5%8A%A8%E8%BF%90%E7%AE%97&amp;action=edit&amp;redlink=1" class="new" title="移动运算（页面不存在）">移动运算</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mobile_computing" class="extiw" title="en:Mobile computing"><span lang="en" dir="auto">Mobile computing</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6" title="台式电脑">台式电脑</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B7%A5%E4%BD%9C%E7%AB%99" title="工作站">工作站</a></li>
+<li><a href="/wiki/%E9%9B%BB%E7%AB%B6%E9%9B%BB%E8%85%A6" title="电竞电脑">电竞电脑</a></li>
+<li><a href="/wiki/%E7%B5%84%E8%A3%9D%E9%9B%BB%E8%85%A6" title="组装电脑">组装电脑</a></li>
+<li><a class="mw-selflink selflink">家用电脑</a></li>
+<li><a href="/wiki/%E4%B8%80%E9%AB%94%E6%A9%9F" title="一体机">一体机</a></li>
+<li><span class="ilh-all" data-orig-title="個人超級電腦" data-lang-code="en" data-lang-name="英语" data-foreign-title="Personal supercomputer"><span class="ilh-page"><a href="/w/index.php?title=%E5%80%8B%E4%BA%BA%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6&amp;action=edit&amp;redlink=1" class="new" title="个人超级电脑（页面不存在）">个人超级电脑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Personal_supercomputer" class="extiw" title="en:Personal supercomputer"><span lang="en" dir="auto">Personal supercomputer</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="小主機板" data-lang-code="en" data-lang-name="英语" data-foreign-title="Small form factor"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%8F%E4%B8%BB%E6%A9%9F%E6%9D%BF&amp;action=edit&amp;redlink=1" class="new" title="小主板（页面不存在）">小主板</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Small_form_factor" class="extiw" title="en:Small form factor"><span lang="en" dir="auto">Small form factor</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E8%BF%B7%E4%BD%A0%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6" title="迷你台式电脑">迷你台式电脑</a></li>
+<li><a href="/wiki/POS%E6%9C%BA" class="mw-redirect" title="POS机">POS机</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6" title="笔记型电脑">笔记型电脑</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A7%BB%E5%8A%A8%E5%B7%A5%E4%BD%9C%E7%AB%99" title="移动工作站">行动工作站</a></li>
+<li><a href="/wiki/%E4%BA%8C%E5%90%88%E4%B8%80%E7%AC%94%E8%AE%B0%E6%9C%AC" title="二合一笔记本">二合一笔记本</a></li>
+<li><span class="ilh-all" data-orig-title="次筆記型電腦" data-lang-code="en" data-lang-name="英语" data-foreign-title="Subnotebook"><span class="ilh-page"><a href="/w/index.php?title=%E6%AC%A1%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6&amp;action=edit&amp;redlink=1" class="new" title="次笔记型电脑（页面不存在）">次笔记型电脑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Subnotebook" class="extiw" title="en:Subnotebook"><span lang="en" dir="auto">Subnotebook</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E4%B8%8A%E7%BD%91%E6%9C%AC" title="上网本">小笔电</a></li>
+<li><a href="/wiki/Smartbook" title="Smartbook">Smartbook</a></li>
+<li><a href="/wiki/Ultrabook" title="Ultrabook">超极致笔电</a></li></ul></li>
+<li><a href="/wiki/%E8%B6%85%E7%B4%9A%E7%A7%BB%E5%8B%95%E9%9B%BB%E8%85%A6" title="超级移动电脑">超级移动电脑</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%AB%9E%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91" title="电竞笔记本电脑">电竞笔记本电脑</a></li>
+<li><a href="/wiki/%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6" title="平板电脑">平板电脑</a></li>
+<li><a href="/w/index.php?title=%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="智能学习机（页面不存在）">智能学习机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E5%BE%AE%E5%9E%8B%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91" title="微型笔记本电脑">手持式个人电脑</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="掌上型電腦" data-lang-code="en" data-lang-name="英语" data-foreign-title="Palm-size PC"><span class="ilh-page"><a href="/w/index.php?title=%E6%8E%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6&amp;action=edit&amp;redlink=1" class="new" title="掌上型电脑（页面不存在）">掌上型电脑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Palm-size_PC" class="extiw" title="en:Palm-size PC"><span lang="en" dir="auto">Palm-size PC</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Pocket computer" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pocket computer"><span class="ilh-page"><a href="/w/index.php?title=Pocket_computer&amp;action=edit&amp;redlink=1" class="new" title="Pocket computer（页面不存在）">Pocket computer</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pocket_computer" class="extiw" title="en:Pocket computer"><span lang="en" dir="auto">Pocket computer</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E4%B8%AA%E4%BA%BA%E6%95%B0%E7%A0%81%E5%8A%A9%E7%90%86" title="个人数码助理">PDA</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="Electronic organizer" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electronic organizer"><span class="ilh-page"><a href="/w/index.php?title=Electronic_organizer&amp;action=edit&amp;redlink=1" class="new" title="Electronic organizer（页面不存在）">Electronic organizer</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electronic_organizer" class="extiw" title="en:Electronic organizer"><span lang="en" dir="auto">Electronic organizer</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="企業數位助理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Enterprise digital assistant"><span class="ilh-page"><a href="/w/index.php?title=%E4%BC%81%E6%A5%AD%E6%95%B8%E4%BD%8D%E5%8A%A9%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="企业数位助理（页面不存在）">企业数位助理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Enterprise_digital_assistant" class="extiw" title="en:Enterprise digital assistant"><span lang="en" dir="auto">Enterprise digital assistant</span></a></span>）</span></span></li>
+<li><a href="/wiki/Pocket_PC" title="Pocket PC">Pocket PC</a></li>
+<li><a href="/wiki/RFID" class="mw-redirect" title="RFID">RFID</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87" title="移动设备">移动终端</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8A%9F%E8%83%BD%E5%9E%8B%E6%89%8B%E6%A9%9F" title="功能型手机">功能型手机</a></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA" title="智能手机">智能手机</a>
+<ul><li><span class="ilh-all" data-orig-title="Rugged smartphone" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rugged smartphone"><span class="ilh-page"><a href="/w/index.php?title=Rugged_smartphone&amp;action=edit&amp;redlink=1" class="new" title="Rugged smartphone（页面不存在）">Rugged smartphone</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rugged_smartphone" class="extiw" title="en:Rugged smartphone"><span lang="en" dir="auto">Rugged smartphone</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%B9%B3%E6%9D%BF%E6%89%8B%E6%9C%BA" title="平板手机">平板手机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E6%94%9C%E5%BC%8F%E5%AA%92%E9%AB%94%E6%92%AD%E6%94%BE%E5%99%A8" title="便携式媒体播放器">便携式媒体播放器</a></li>
+<li><a href="/w/index.php?title=%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="智能翻译机（页面不存在）">智能翻译机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%99%A8" class="mw-redirect" title="计算器">计算器</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A7%91%E5%AD%B8%E8%A8%88%E7%AE%97%E6%A9%9F" title="科学计算机">科学计算机</a></li>
+<li><span class="ilh-all" data-orig-title="程式計算機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Programmable calculator"><span class="ilh-page"><a href="/w/index.php?title=%E7%A8%8B%E5%BC%8F%E8%A8%88%E7%AE%97%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="程式计算机（页面不存在）">程式计算器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Programmable_calculator" class="extiw" title="en:Programmable calculator"><span lang="en" dir="auto">Programmable calculator</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BE%E5%BD%A2%E8%AE%A1%E7%AE%97%E5%99%A8" title="图形计算器">图形计算器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E5%8F%AF%E7%A9%BF%E6%88%B4%E5%BC%8F%E6%99%BA%E8%83%BD%E7%94%A2%E5%93%81" title="可穿戴式智能产品">可穿戴式电脑</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%89%8B%E9%8C%B6#電子" class="mw-redirect" title="手表">电子手表</a>
+<ul><li><span class="ilh-all" data-orig-title="計算機手錶" data-lang-code="en" data-lang-name="英语" data-foreign-title="Calculator watch"><span class="ilh-page"><a href="/w/index.php?title=%E8%A8%88%E7%AE%97%E6%A9%9F%E6%89%8B%E9%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="计算机手表（页面不存在）">计算机手表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Calculator_watch" class="extiw" title="en:Calculator watch"><span lang="en" dir="auto">Calculator watch</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8" title="智能手表">智能手表</a></li>
+<li><span class="ilh-all" data-orig-title="GPS手錶" data-lang-code="en" data-lang-name="英语" data-foreign-title="GPS watch"><span class="ilh-page"><a href="/w/index.php?title=GPS%E6%89%8B%E9%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="GPS手表（页面不存在）">运动手表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/GPS_watch" class="extiw" title="en:GPS watch"><span lang="en" dir="auto">GPS watch</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BF%90%E5%8A%A8%E8%BF%BD%E8%B8%AA%E5%99%A8" title="运动追踪器">智慧手环</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="Virtual retinal display" data-lang-code="en" data-lang-name="英语" data-foreign-title="Virtual retinal display"><span class="ilh-page"><a href="/w/index.php?title=Virtual_retinal_display&amp;action=edit&amp;redlink=1" class="new" title="Virtual retinal display（页面不存在）">Virtual retinal display</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Virtual_retinal_display" class="extiw" title="en:Virtual retinal display"><span lang="en" dir="auto">Virtual retinal display</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%8F%A1" title="智能眼镜">智能眼镜</a></li>
+<li><span class="ilh-all" data-orig-title="智慧指環" data-lang-code="en" data-lang-name="英语" data-foreign-title="Smart ring"><span class="ilh-page"><a href="/w/index.php?title=%E6%99%BA%E6%85%A7%E6%8C%87%E7%92%B0&amp;action=edit&amp;redlink=1" class="new" title="智慧指环（页面不存在）">智慧指环</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Smart_ring" class="extiw" title="en:Smart ring"><span lang="en" dir="auto">Smart ring</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%A0%AD%E6%88%B4%E5%BC%8F%E9%A1%AF%E7%A4%BA%E5%99%A8" title="头戴式显示器">头戴式显示器</a>
+<ul><li><a href="/wiki/%E6%8A%AC%E9%A0%AD%E9%A1%AF%E7%A4%BA%E5%99%A8" title="抬头显示器">抬头显示器</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;">小型网络计算机</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="瘦客户端">瘦客户端</a></li>
+<li><a href="/wiki/%E5%AE%B6%E7%94%A8%E4%BC%BA%E6%9C%8D%E5%99%A8" title="家用服务器">家用服务器</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E4%BA%A4%E6%8D%A2%E6%9C%BA" class="mw-redirect" title="网络交换机">交换机</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E9%99%84%E5%8A%A0%E5%AD%98%E5%82%A8" class="mw-redirect" title="网络附加存储">NAS</a></li>
+<li><a href="/wiki/%E9%98%B2%E7%81%AB%E5%A2%99" title="防火墙">防火墙</a></li>
+<li><a href="/wiki/%E6%89%93%E5%8D%B0%E6%9C%8D%E5%8A%A1%E5%99%A8" title="打印服务器">打印服务器</a></li>
+<li><a href="/w/index.php?title=%E8%BD%AF%E8%B7%AF%E7%94%B1%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="软路由器（页面不存在）">软路由器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E6%A9%9F" title="电子游戏机">电子游戏机</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%A1%97%E6%9C%BA" title="街机">街机</a></li>
+<li><span class="ilh-all" data-orig-title="Arcade cabinet" data-lang-code="en" data-lang-name="英语" data-foreign-title="Arcade cabinet"><span class="ilh-page"><a href="/w/index.php?title=Arcade_cabinet&amp;action=edit&amp;redlink=1" class="new" title="Arcade cabinet（页面不存在）">Arcade cabinet</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Arcade_cabinet" class="extiw" title="en:Arcade cabinet"><span lang="en" dir="auto">Arcade cabinet</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AE%B6%E7%94%A8%E9%81%8A%E6%88%B2%E6%A9%9F" class="mw-redirect" title="家用游戏机">家用游戏机</a></li>
+<li><a href="/wiki/%E4%B8%93%E7%94%A8%E6%B8%B8%E6%88%8F%E6%9C%BA" title="专用游戏机">专用游戏机</a></li>
+<li><a href="/wiki/%E5%BE%AE%E5%9E%8B%E6%B8%B8%E6%88%8F%E6%9C%BA" title="微型游戏机">微型游戏机</a></li>
+<li><a href="/wiki/%E6%8E%8C%E4%B8%8A%E9%81%8A%E6%88%B2%E6%A9%9F" title="掌上游戏机">掌上游戏机</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;">影视用途产品</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1" title="智能音箱">智能音箱</a></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E9%9B%BB%E8%A6%96" title="智能电视">智能电视</a></li>
+<li><a href="/wiki/%E5%AE%B6%E5%BA%AD%E5%8A%87%E9%99%A2%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6" title="家庭剧院个人电脑">家庭剧院个人电脑</a></li>
+<li><a href="/wiki/%E6%9C%BA%E9%A1%B6%E7%9B%92" class="mw-redirect" title="机顶盒">机顶盒</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;">其他<a href="/wiki/%E7%B5%82%E7%AB%AF" title="终端">终端</a>装置</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BA%92%E5%8B%95%E5%BC%8F%E8%B3%87%E8%A8%8A%E6%9C%8D%E5%8B%99%E7%AB%99" title="互动式资讯服务站">互动式机台</a>
+<ul><li><a href="/wiki/%E5%A4%9A%E5%AA%92%E9%AB%94%E6%A9%9F%E5%8F%B0" class="mw-redirect" title="多媒体机台">多媒体机台</a></li></ul></li>
+<li><a href="/wiki/%E5%B7%A5%E6%A5%AD%E9%9B%BB%E8%85%A6" title="工业电脑">工业电脑</a></li>
+<li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%9F%9C%E5%91%98%E6%9C%BA" class="mw-redirect" title="自动柜员机">自动柜员机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A7%BB%E5%8A%A8%E8%AE%A1%E7%AE%97%E6%9C%BA" title="可移动计算机">可移动计算机</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E9%96%B1%E8%AE%80%E5%99%A8" title="电子阅读器">电子阅读器</a></li>
+<li><a href="/wiki/%E8%BD%A6%E8%BD%BD%E7%94%B5%E8%84%91" title="车载电脑">车载电脑</a></li>
+<li><span class="ilh-all" data-orig-title="可攜式資料終端機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Portable data terminal"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%AF%E6%94%9C%E5%BC%8F%E8%B3%87%E6%96%99%E7%B5%82%E7%AB%AF%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="便携式资料终端机（页面不存在）">便携式资料终端机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Portable_data_terminal" class="extiw" title="en:Portable data terminal"><span lang="en" dir="auto">Portable data terminal</span></a></span>）</span></span>/<span class="ilh-all" data-orig-title="可行動式資料終端機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mobile data terminal"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%AF%E8%A1%8C%E5%8B%95%E5%BC%8F%E8%B3%87%E6%96%99%E7%B5%82%E7%AB%AF%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="可行动式资料终端机（页面不存在）">可行动式资料终端机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mobile_data_terminal" class="extiw" title="en:Mobile data terminal"><span lang="en" dir="auto">Mobile data terminal</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Plug computer" data-lang-code="en" data-lang-name="英语" data-foreign-title="Plug computer"><span class="ilh-page"><a href="/w/index.php?title=Plug_computer&amp;action=edit&amp;redlink=1" class="new" title="Plug computer（页面不存在）">Plug computer</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Plug_computer" class="extiw" title="en:Plug computer"><span lang="en" dir="auto">Plug computer</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">其他</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8D%95%E7%89%87%E6%9C%BA" title="单片机">单片机</a></li>
+<li><span class="ilh-all" data-orig-title="奈米電腦" data-lang-code="en" data-lang-name="英语" data-foreign-title="Nanocomputer"><span class="ilh-page"><a href="/w/index.php?title=%E5%A5%88%E7%B1%B3%E9%9B%BB%E8%85%A6&amp;action=edit&amp;redlink=1" class="new" title="奈米电脑（页面不存在）">奈米电脑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Nanocomputer" class="extiw" title="en:Nanocomputer"><span lang="en" dir="auto">Nanocomputer</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Pizza box form factor" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pizza box form factor"><span class="ilh-page"><a href="/w/index.php?title=Pizza_box_form_factor&amp;action=edit&amp;redlink=1" class="new" title="Pizza box form factor（页面不存在）">Pizza box form factor</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pizza_box_form_factor" class="extiw" title="en:Pizza box form factor"><span lang="en" dir="auto">Pizza box form factor</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8D%95%E6%9D%BF%E6%9C%BA" title="单板机">单板机</a></li>
+<li><a href="/wiki/%E7%B5%84%E8%A3%9D%E9%9B%BB%E8%85%A6" title="组装电脑">组装电脑</a></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E5%BE%AE%E5%A1%B5" title="智能微尘">智能微尘</a></li>
+<li><a href="/wiki/%E7%84%A1%E7%B7%9A%E6%84%9F%E6%B8%AC%E7%B6%B2%E8%B7%AF" title="无线感测网络">无线感测网络</a></li>
+<li><a href="/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F" title="嵌入式系统">嵌入式计算机</a></li>
+<li><a href="/wiki/%E9%94%80%E5%94%AE%E6%97%B6%E7%82%B9%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F" class="mw-redirect" title="销售时点情报系统">销售时点情报系统</a>
+<ul><li><a href="/wiki/%E6%B1%BD%E8%BD%A6%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F" title="汽车导航系统">汽车导航系统</a></li></ul></li>
+<li><a href="/wiki/%E7%84%A1%E7%B7%9A%E5%B0%84%E9%A0%BB%E8%BE%A8%E8%AD%98" class="mw-redirect" title="无线射频辨识">无线射频辨识</a></li>
+<li><a href="/wiki/%E8%87%AA%E5%8B%95%E6%AB%83%E5%93%A1%E6%A9%9F" title="自动柜员机">自动柜员机</a></li>
+<li><a href="/wiki/Template:%E4%B8%BB%E6%A9%9F%E6%9D%BF%E8%A6%8F%E6%A0%BC" title="Template:主板规格">模板:主板规格</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">可折叠屏式计算机平台</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E5%8F%AF%E6%91%BA%E7%96%8A%E5%BC%8F%E5%8A%9F%E8%83%BD%E6%89%8B%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="可折叠式功能手机（页面不存在）">可折叠式功能手机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E6%91%BA%E7%96%8A%E5%BC%8F%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F" title="可折叠式智能手机">可折叠式智能手机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%BC%8F%E8%AE%A1%E7%AE%97%E6%9C%BA" title="可折叠屏式计算机">可折叠屏式计算机</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐68bd465c46‐lhl9p
+Cached time: 20240321045808
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.327 seconds
+Real time usage: 0.471 seconds
+Preprocessor visited node count: 1361/1000000
+Post‐expand include size: 134992/2097152 bytes
+Template argument size: 997/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 23/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11421/5000000 bytes
+Lua time usage: 0.155/10.000 seconds
+Lua memory usage: 3897716/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  289.946      1 -total
+ 71.45%  207.177      3 Template:Navbox
+ 41.31%  119.791      1 Template:Computer_sizes
+ 32.93%   95.475      1 Template:Reflist
+ 21.81%   63.230      6 Template:Cite_web
+ 21.51%   62.356     21 Template:Link-en
+ 17.50%   50.751      1 Template:Expand
+ 15.19%   44.054      1 Template:Ambox
+  1.63%    4.732      1 Template:Cite_news
+  1.32%    3.838      1 Template:Template_error
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:1299017-0!userlang=zh-cn!zh-cn and timestamp 20240321045808 and revision id 74018218. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=家用电脑&amp;oldid=74018218">https://zh.wikipedia.org/w/index.php?title=家用电脑&amp;oldid=74018218</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%AE%B6%E7%94%A8%E9%9B%BB%E8%85%A6" title="Category:家用電腦">家用电脑</a></li><li><a href="/wiki/Category:%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6" title="Category:桌上型電腦">台式电脑</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li><li><a href="/wiki/Category:%E8%87%AA2016%E5%B9%B411%E6%9C%88%E6%89%A9%E5%85%85%E4%B8%AD%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2016年11月扩充中的条目">自2016年11月扩充中的条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2022年10月9日 (星期日) 16:53。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-4vrql","wgBackendResponseTime":169,"wgPageParseReport":{"limitreport":{"cputime":"0.327","walltime":"0.471","ppvisitednodes":{"value":1361,"limit":1000000},"postexpandincludesize":{"value":134992,"limit":2097152},"templateargumentsize":{"value":997,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11421,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  289.946      1 -total"," 71.45%  207.177      3 Template:Navbox"," 41.31%  119.791      1 Template:Computer_sizes"," 32.93%   95.475      1 Template:Reflist"," 21.81%   63.230      6 Template:Cite_web"," 21.51%   62.356     21 Template:Link-en"," 17.50%   50.751      1 Template:Expand"," 15.19%   44.054      1 Template:Ambox","  1.63%    4.732      1 Template:Cite_news","  1.32%    3.838      1 Template:Template_error"]},"scribunto":{"limitreport-timeusage":{"value":"0.155","limit":"10.000"},"limitreport-memusage":{"value":3897716,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-68bd465c46-lhl9p","timestamp":"20240321045808","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5bb6\u7528\u7535\u8111","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%AE%B6%E7%94%A8%E7%94%B5%E8%84%91","sameAs":"http:\/\/www.wikidata.org\/entity\/Q473708","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q473708","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-06-17T03:06:31Z","dateModified":"2022-10-09T16:53:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/70\/Apple-II.jpg"}</script>
+</body>
+</html>

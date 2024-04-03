@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>地理信息系统 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"75e60065-2d85-426f-96d4-e3b517fb69a7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"地理信息系统","wgTitle":"地理信息系统","wgCurRevisionId":82126343,"wgRevisionId":82126343,"wgArticleId":41094,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["引文格式1错误：日期","使用ISBN魔术链接的页面","含有英語的條目","包含AAT标识符的维基百科条目","包含BNE标识符的维基百科条目","包含BNF标识符的维基百科条目","包含FAST标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含LNB标识符的维基百科条目",
+"包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","地理信息系统","物流","地理学"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"地理信息系统","wgRelevantArticleId":41094,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q483130","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=[
+"ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints",
+"ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/1200px-GeoServer_GeoNetwork_with_web_app.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1051">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/800px-GeoServer_GeoNetwork_with_web_app.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="701">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/640px-GeoServer_GeoNetwork_with_web_app.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="560">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="地理信息系统 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-地理信息系统 rootpage-地理信息系统 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-發展的歷史"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#發展的歷史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>发展的历史</div>
+		</a>
+		
+			<button aria-controls="toc-發展的歷史-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关发展的历史子章节</span>
+			</button>
+		
+		<ul id="toc-發展的歷史-sublist" class="vector-toc-list">
+			<li id="toc-源流"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#源流">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>源流</div>
+			</a>
+			
+			<ul id="toc-源流-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-产生"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#产生">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>产生</div>
+			</a>
+			
+			<ul id="toc-产生-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-发展"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#发展">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>发展</div>
+			</a>
+			
+			<ul id="toc-发展-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-GIS中使用的技术"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#GIS中使用的技术">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>GIS中使用的技术</div>
+		</a>
+		
+			<button aria-controls="toc-GIS中使用的技术-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关GIS中使用的技术子章节</span>
+			</button>
+		
+		<ul id="toc-GIS中使用的技术-sublist" class="vector-toc-list">
+			<li id="toc-从不同来源得到相关信息"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#从不同来源得到相关信息">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>从不同来源得到相关信息</div>
+			</a>
+			
+			<ul id="toc-从不同来源得到相关信息-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-資料展現"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#資料展現">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>资料展现</div>
+			</a>
+			
+			<ul id="toc-資料展現-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-資料采集"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#資料采集">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>资料采集</div>
+			</a>
+			
+			<ul id="toc-資料采集-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-資料操作"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#資料操作">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>资料操作</div>
+			</a>
+			
+			<ul id="toc-資料操作-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-投影系統，坐标系統与轉換"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#投影系統，坐标系統与轉換">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>投影系统，坐标系统与转换</div>
+			</a>
+			
+			<ul id="toc-投影系統，坐标系統与轉換-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-GIS空间分析"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#GIS空间分析">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>GIS空间分析</div>
+			</a>
+			
+			<ul id="toc-GIS空间分析-sublist" class="vector-toc-list">
+				<li id="toc-数据建模"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#数据建模">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.1</span>数据建模</div>
+			</a>
+			
+			<ul id="toc-数据建模-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-拓扑建模"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#拓扑建模">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.2</span>拓扑建模</div>
+			</a>
+			
+			<ul id="toc-拓扑建模-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-网络建模"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#网络建模">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6.3</span>网络建模</div>
+			</a>
+			
+			<ul id="toc-网络建模-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-GIS軟件"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#GIS軟件">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>GIS软件</div>
+		</a>
+		
+			<button aria-controls="toc-GIS軟件-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关GIS软件子章节</span>
+			</button>
+		
+		<ul id="toc-GIS軟件-sublist" class="vector-toc-list">
+			<li id="toc-背景"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#背景">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>背景</div>
+			</a>
+			
+			<ul id="toc-背景-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-互聯網連結編程界面"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#互聯網連結編程界面">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>互联网链接编程界面</div>
+			</a>
+			
+			<ul id="toc-互聯網連結編程界面-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-移動GIS"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#移動GIS">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>移动GIS</div>
+			</a>
+			
+			<ul id="toc-移動GIS-sublist" class="vector-toc-list">
+				<li id="toc-汽車導航"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#汽車導航">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3.1</span>汽车导航</div>
+			</a>
+			
+			<ul id="toc-汽車導航-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-開源GIS軟件"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#開源GIS軟件">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>开源GIS软件</div>
+			</a>
+			
+			<ul id="toc-開源GIS軟件-sublist" class="vector-toc-list">
+				<li id="toc-gvSIG"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#gvSIG">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4.1</span>gvSIG</div>
+			</a>
+			
+			<ul id="toc-gvSIG-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-QGIS"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#QGIS">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4.2</span>QGIS</div>
+			</a>
+			
+			<ul id="toc-QGIS-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-GIS的发展"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#GIS的发展">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>GIS的发展</div>
+		</a>
+		
+			<button aria-controls="toc-GIS的发展-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关GIS的发展子章节</span>
+			</button>
+		
+		<ul id="toc-GIS的发展-sublist" class="vector-toc-list">
+			<li id="toc-OGC标准"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#OGC标准">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>OGC标准</div>
+			</a>
+			
+			<ul id="toc-OGC标准-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-WEB地图"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#WEB地图">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>WEB地图</div>
+			</a>
+			
+			<ul id="toc-WEB地图-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-全球气候变化、历史及预测"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#全球气候变化、历史及预测">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>全球气候变化、历史及预测</div>
+			</a>
+			
+			<ul id="toc-全球气候变化、历史及预测-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-语义学"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#语义学">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>语义学</div>
+		</a>
+		
+		<ul id="toc-语义学-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-社会"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#社会">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>社会</div>
+		</a>
+		
+		<ul id="toc-社会-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參看"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#參看">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>参看</div>
+		</a>
+		
+		<ul id="toc-參看-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">地理信息系统</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。72种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-72" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">72种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Geografiese_inligtingstelsel" title="Geografiese inligtingstelsel – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA_%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" title="نظام معلومات جغرافية – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%B1%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE" title="ভৌগোলিক তথ্য ব্যৱস্থা – 阿萨姆语" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Sistema_d%27informaci%C3%B3n_xeogr%C3%A1fica" title="Sistema d&#039;información xeográfica – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-awa mw-list-item"><a href="https://awa.wikipedia.org/wiki/%E0%A4%9C%E0%A5%80_%E0%A4%86%E0%A4%87_%E0%A4%8F%E0%A4%B8" title="जी आइ एस – 阿瓦德语" lang="awa" hreflang="awa" class="interlanguage-link-target"><span>अवधी</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Co%C4%9Frafi_informasiya_sistemi" title="Coğrafi informasiya sistemi – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%B0%D1%96%D0%BD%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D1%8B%D0%B9%D0%BD%D1%8B%D1%8F_%D1%81%D1%96%D1%81%D1%82%D1%8D%D0%BC%D1%8B" title="Геаінфармацыйныя сістэмы – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Географска информационна система – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%9C%E0%A5%80%E0%A4%86%E0%A4%87%E0%A4%8F%E0%A4%B8" title="जीआइएस – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE" title="ভৌগোলিক তথ্য ব্যবস্থা – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/GIS" title="GIS – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Sistema_d%27informaci%C3%B3_geogr%C3%A0fica" title="Sistema d&#039;informació geogràfica – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%DB%8C_%D8%B2%D8%A7%D9%86%DB%8C%D8%A7%D8%B1%DB%8C%DB%8C_%D8%AC%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C" title="سیستمی زانیاریی جوگرافی – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Geografick%C3%BD_informa%C4%8Dn%C3%AD_syst%C3%A9m" title="Geografický informační systém – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Geografisk_informationssystem" title="Geografisk informationssystem – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Geoinformationssystem" title="Geoinformationssystem – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%CE%93%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8E%CE%BD_%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD" title="Σύστημα Γεωγραφικών Πληροφοριών – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Geographic_information_system" title="Geographic information system – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Geografia_informsistemo" title="Geografia informsistemo – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica" title="Sistema de información geográfica – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Geoinfos%C3%BCsteem" title="Geoinfosüsteem – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/GIS" title="GIS – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C" title="سامانه اطلاعات جغرافیایی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Paikkatietoj%C3%A4rjestelm%C3%A4" title="Paikkatietojärjestelmä – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" title="Système d&#039;information géographique – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n_xeogr%C3%A1fica" title="Sistema de información xeográfica – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%9E%D7%99%D7%93%D7%A2_%D7%92%D7%90%D7%95%D7%92%D7%A8%D7%A4%D7%99" title="מערכת מידע גאוגרפי – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%8C%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE_%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="भौगोलिक सूचना तंत्र – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Geografski_informacijski_sustav" title="Geografski informacijski sustav – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/F%C3%B6ldrajzi_inform%C3%A1ci%C3%B3s_rendszer" title="Földrajzi információs rendszer – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%A1%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6_%D5%BF%D5%A5%D5%B2%D5%A5%D5%AF%D5%A1%D5%BF%D5%BE%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D6%80%D5%A3" title="Աշխարհագրական տեղեկատվական համակարգ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sistem_informasi_geografis" title="Sistem informasi geografis – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Landfr%C3%A6%C3%B0ilegt_uppl%C3%BDsingakerfi" title="Landfræðilegt upplýsingakerfi – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Geographic_information_system" title="Geographic information system – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0" title="地理情報システム – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A1%E1%83%90%E1%83%98%E1%83%9C%E1%83%A4%E1%83%9D%E1%83%A0%E1%83%9B%E1%83%90%E1%83%AA%E1%83%98%E1%83%9D_%E1%83%A1%E1%83%98%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9B%E1%83%90" title="გეოგრაფიული საინფორმაციო სისტემა – 格鲁吉亚语" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D0%B0%D2%9B%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%82%D1%8B%D2%9B_%D0%B6%D2%AF%D0%B9%D0%B5" title="Географиялық ақпараттық жүйе – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC_%EC%A0%95%EB%B3%B4_%EC%8B%9C%EC%8A%A4%ED%85%9C" title="지리 정보 시스템 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Geografin%C4%97_informacin%C4%97_sistema" title="Geografinė informacinė sistema – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/%C4%A2eogr%C4%81fisk%C4%81_inform%C4%81cijas_sist%C4%93ma" title="Ģeogrāfiskā informācijas sistēma – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%81%D0%BA%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC" title="Географски информациски систем – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AD%E0%B5%82%E0%B4%B5%E0%B4%BF%E0%B4%B5%E0%B4%B0%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%B5%E0%B4%B8%E0%B5%8D%E0%B4%A5" title="ഭൂവിവരവ്യവസ്ഥ – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AD%E0%A5%8C%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%BF%E0%A4%95_%E0%A4%AE%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%B2%E0%A5%80" title="भौगोलिक माहिती प्रणाली – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Sistem_maklumat_geografi" title="Sistem maklumat geografi – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/GIS" title="GIS – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AD%E0%A5%8C%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%B2%E0%A5%80" title="भौगोलिक सूचना प्रणाली – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Geografisch_informatiesysteem" title="Geografisch informatiesysteem – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/GIS" title="GIS – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Geografisk_informasjonssystem" title="Geografisk informasjonssystem – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/System_informacji_geograficznej" title="System informacji geograficznej – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%AF_%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%88%D9%8A_%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%88_%D8%B3%D9%8A%D8%B3%D8%AA%D9%85" title="د جغرافيوي معلوماتو سيستم – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica" title="Sistema de informação geográfica – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Sistem_de_informa%C8%9Bii_geografice" title="Sistem de informații geografice – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Геоинформационная система – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Geografski_informacijski_sistem" title="Geografski informacijski sistem – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%B7%E0%B7%96%E0%B6%9C%E0%B7%9D%E0%B6%BD%E0%B7%93%E0%B6%BA_%E0%B6%AD%E0%B7%9C%E0%B6%BB%E0%B6%AD%E0%B7%94%E0%B6%BB%E0%B7%94_%E0%B6%B4%E0%B6%AF%E0%B7%8A%E0%B6%B0%E0%B6%AD%E0%B7%92" title="භූගෝලීය තොරතුරු පද්ධති – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/GIS" title="GIS – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Geografick%C3%BD_informa%C4%8Dn%C3%BD_syst%C3%A9m" title="Geografický informačný systém – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Geografski_informacijski_sistem" title="Geografski informacijski sistem – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/GIS" title="GIS – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC" title="Географски информациони систем – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Geografiskt_informationssystem" title="Geografiskt informationssystem – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%A4%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%AE%E0%AF%88" title="புவியியல் தகவல் முறைமை – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD%D0%B0%D0%B8_%D0%B8%D1%82%D1%82%D0%B8%D0%BB%D0%BE%D1%8A%D0%BE%D1%82%D0%B8_%D2%B7%D1%83%D2%93%D1%80%D0%BE%D1%84%D0%B8%D1%91%D3%A3" title="Сомонаи иттилоъоти ҷуғрофиёӣ – 塔吉克语" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="ระบบสารสนเทศภูมิศาสตร์ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Co%C4%9Frafi_bilgi_sistemi" title="Coğrafi bilgi sistemi – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Геоінформаційна система – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Geografik_axborot_tizimi" title="Geografik axborot tizimi – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_th%C3%B4ng_tin_%C4%91%E1%BB%8Ba_l%C3%BD" title="Hệ thống thông tin địa lý – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="地理信息系统 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C4%93-l%C3%AD_chu-s%C3%ACn_h%C4%93-th%C3%B3ng" title="Tē-lí chu-sìn hē-thóng – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1" title="地理資訊系統 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q483130#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;oldid=82126343" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;id=82126343&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%259C%25B0%25E7%2590%2586%25E4%25BF%25A1%25E6%2581%25AF%25E7%25B3%25BB%25E7%25BB%259F"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%259C%25B0%25E7%2590%2586%25E4%25BF%25A1%25E6%2581%25AF%25E7%25B3%25BB%25E7%25BB%259F"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q483130" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Geographic_information_systems" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-6920fa62" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-6920fa62" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div><div data-noteta-group-source="module" data-noteta-group="Geography"></div></div></div>
+<div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>“<b>GIS</b>”重定向至此。关于其他用法，请见“<b><a href="/wiki/GIS_(%E6%B6%88%E6%AD%A7%E7%BE%A9)" class="mw-disambig" title="GIS (消歧义)">GIS (消歧义)</a></b>”。</div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:GeoServer_GeoNetwork_with_web_app.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/340px-GeoServer_GeoNetwork_with_web_app.svg.png" decoding="async" width="340" height="298" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/510px-GeoServer_GeoNetwork_with_web_app.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/680px-GeoServer_GeoNetwork_with_web_app.svg.png 2x" data-file-width="813" data-file-height="712" /></a><figcaption>一个结合<a href="/wiki/Google" title="Google">Google</a>和网页功能的地理信息系统示例架构图</figcaption></figure> 
+<p><b>地理信息系统</b>（英语：<span lang="en"><b>G</b>eographic <b>I</b>nformation <b>S</b>ystem</span>，<a href="/wiki/%E7%B8%AE%E5%AF%AB" title="缩写">缩写</a>：<span lang="en"><b>GIS</b></span>）是一门综合性学科，结合<a href="/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6" title="地理学">地理学</a>与<a href="/wiki/%E5%9C%B0%E5%9B%BE%E5%AD%A6" title="地图学">地图学</a>，已经广泛的应用在不同的领域，是用于输入、存储、查询、分析和显示<a href="/wiki/%E5%9C%B0%E7%90%86" class="mw-redirect" title="地理">地理</a>数据的<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F" title="计算机系统">计算机系统</a>，可以分为以下五部分：
+</p>
+<ul><li>人员，是GIS中最重要的组成部分。开发人员必须定义GIS中被执行的各种任务，开发处理程序。熟练的操作人员通常可以克服GIS软件功能的不足，但是相反的情况就不成立。最好的软件也无法弥补操作人员对GIS的一无所知所带来的副作用。</li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE" title="数据">数据</a>，精确可用的数据可以影响到查询和分析的结果。</li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" title="计算机硬件">硬件</a>，硬件的性能影响到处理速度，使用是否方便及可能的输出方式。</li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6" title="软件">软件</a>，不仅包含GIS软件，还包括各种<a href="/wiki/%E8%B3%87%E6%96%99%E5%BA%AB" class="mw-redirect" title="数据库">数据库</a>，绘图、统计、影像处理及其它程序。</li>
+<li>过程，GIS要求明确定义，一致的方法来生成正确的可验证的结果。</li></ul>
+<p>GIS属于<a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a>的一类，不同在于它能运作和处理地理参照数据。<b>地理参照数据</b>描述地球表面（包括大气层和较浅的地表下空间）空间要素的位置和属性，在GIS中的两种地理数据成分：空间数据，与空间要素几何特性有关；属性数据，提供空间要素的信息。
+</p><p>地理信息系统（GIS）与<a href="/wiki/%E5%85%A8%E7%90%83%E5%8D%AB%E6%98%9F%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F" class="mw-redirect" title="全球卫星导航系统">全球卫星导航系统</a>（GNSS）、<a href="/wiki/%E9%81%99%E6%B8%AC" class="mw-redirect" title="遥感">遥感</a>（RS）合称3S。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>一个地理信息系统是一种具有<a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a>空间专业形式的<a href="/wiki/%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86" title="数据管理">数据管理</a>系统。在严格的意义上，这是一个具有集中、存储、操作、和显示地理参考信息的<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F" title="计算机系统">计算机系统</a>。例如，根据在<a href="/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93" title="数据库">数据库</a>中的位置对数据进行识别。实习者通常也认为整个GIS系统包括操作人员以及输入系统的数据。
+</p><p>地理信息系统技术能够应用于科学调查、资源管理、财产管理、发展规划、绘图和路线规划。例如，一个GIS系统能使应急计划者在<a href="/wiki/%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3" title="自然灾害">自然灾害</a>的情况下比较容易地计算出应急反应时间，或利用GIS系统来发现那些需要保护的<a href="/wiki/%E6%B9%BF%E5%9C%B0" title="湿地">湿地</a>。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.99.BC.E5.B1.95.E7.9A.84.E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="發展的歷史">发展的历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=1" title="编辑章节：发展的历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.BA.90.E6.B5.81"></span><span class="mw-headline" id="源流">源流</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=2" title="编辑章节：源流"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>18世纪，地形图绘制的现代勘测技术得以实现，同时还出现了专题绘图的早期版本，例如：科学方面或<a href="/wiki/%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5" title="人口普查">人口普查</a>资料。<a href="/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E8%AF%BA_(%E5%8C%BB%E5%AD%A6%E5%AE%B6)" title="约翰·斯诺 (医学家)">约翰·斯诺</a>在1854年，用点来代表个例，描绘了伦敦的霍乱疫情，这可能是最早使用地理方法的疫情图。他对霍乱分布的研究指向了疾病的来源----一个位于霍乱疫情爆发中心区域百老汇街的被污染的公共水泵。约翰·斯诺将泵断开，终止了疫情爆发。</li>
+<li>20世纪初期将图片分成层的“照片石印术”得以发展。它允许地图被分成各<a href="/wiki/%E5%9B%BE%E5%B1%82" title="图层">图层</a>，例如一个层表示<a href="/wiki/%E6%A4%8D%E8%A2%AB" title="植被">植被</a>，而另一层表示水。这技术特别用于印刷轮廓 - 绘制，这是一个劳力集中的任务，但它们有一个单独的图层意味着他们可以不被其他图层上的工作混淆。这项工作最初是在玻璃板上绘制，后来，塑料薄膜被引入，具有更轻、使用较少的存储空间、柔韧等优势。当所有的图层完成，再由一个巨型处理摄像机结合成一个图像。彩色印刷引进后，层的概念也被用于创建每种颜色单独的印版。尽管后来层的使用成为当代地理信息系统的主要典型特征之一，刚才所描述的摄影过程本身并不被认为是一个地理信息系统 - 因为这个地图只有图像而没有附加的属性数据库。</li>
+<li>60年代早期，在核武器研究的推动下，计算机硬件的发展导致通用计算机“绘图”的应用。</li></ul>
+<h3><span id=".E4.BA.A7.E7.94.9F"></span><span class="mw-headline" id="产生">产生</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=3" title="编辑章节：产生"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>1967年，世界上第一个真正投入应用的地理信息系统由联邦林业和农村发展部在加拿大安大略省的渥太华研发。罗杰·汤姆林森博士开发的这个系统被称为加拿大地理信息系统（ CGIS），用于存储、分析和利用加拿大土地统计局（CLI，使用的1：50000比例尺，利用关于土壤、农业、休闲、野生动物、水禽、林业和土地利用的地理信息，以确定加拿大农村的土地能力。）收集的数据，并增设了等级分类因素来进行分析.CGIS是“计算机制图”应用的改进版，它提供了覆盖、资料数字化/扫描功能。它支持一个横跨大陆的国家坐标系统，将线编码为具有真实的嵌入<a href="/wiki/%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84" class="mw-redirect" title="拓扑结构">拓扑结构</a>的“弧”，并在单独的文件中存储属性和区位信息。由于这一结果，汤姆林森被称为“地理信息系统之父“，尤其是因为他在促进收敛地理数据的空间分析中对覆盖的应用.CGIS一直持续到20世纪70年代才完成，耗时太长，因此在其发展初期，不能与如鹰这样的销售各种商业地图应用软件的供应商竞争.CGIS一直使用到20世纪90年代，并在加拿大建立了一个庞大的数字化的土地资源数据库。它被开发为基于大型机的系统以支持一个在联邦和省的资源规划和管理。其能力是大陆范围内的复杂数据分析.CGIS未被应用于商业。微型计算机硬件的发展使得象<a href="/wiki/ESRI" class="mw-redirect" title="ESRI">ESRI</a>和CARIS那样的供应商成功地兼并了大多数的CGIS特征，并把对空间和属性信息的分离的第一种世代方法与对组织的属性数据的第二种世代方法引入数据库结构。</li></ul>
+<h3><span id=".E5.8F.91.E5.B1.95"></span><span class="mw-headline" id="发展">发展</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=4" title="编辑章节：发展"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>20世纪80年代和90年代产业成长刺激了应用了GIS的<a href="/wiki/UNIX" title="UNIX">UNIX</a>工作站和个人计算机飞速增长。至20世纪末，在各种系统中迅速增长使得其在相关的少量平台已经得到了巩固和规范。并且用户开始提出了在互联网上查看GIS数据的概念，这要求数据的格式和传输<a href="/wiki/%E6%A8%99%E6%BA%96%E5%8C%96" class="mw-redirect" title="标准化">标准化</a>。</li></ul>
+<h2><span id="GIS.E4.B8.AD.E4.BD.BF.E7.94.A8.E7.9A.84.E6.8A.80.E6.9C.AF"></span><span class="mw-headline" id="GIS中使用的技术">GIS中使用的技术</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=5" title="编辑章节：GIS中使用的技术"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.BB.8E.E4.B8.8D.E5.90.8C.E6.9D.A5.E6.BA.90.E5.BE.97.E5.88.B0.E7.9B.B8.E5.85.B3.E4.BF.A1.E6.81.AF"></span><span class="mw-headline" id="从不同来源得到相关信息">从不同来源得到相关信息</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=6" title="编辑章节：从不同来源得到相关信息"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>如果能将你所在州的降雨和你所在县上空的照片联系起来，就可以判断出哪块湿地在一年的某些时候会干涸。一个GIS系统就能够进行这样的分析，它能够将不同来源的信息以不同的形式应用。对于源数据的基本要求是确定变量的位置。位置可能由<a href="/wiki/%E7%BB%8F%E5%BA%A6" title="经度">经度</a>、<a href="/wiki/%E7%BA%AC%E5%BA%A6" title="纬度">纬度</a>和<a href="/wiki/%E6%B5%B7%E6%8B%94" title="海拔">海拔</a>的x，y，z坐标来标注，或是由其他地理编码系统比如ZIP码，又或是高速公路英里标志来表示。任何可以定位存放的<a href="/wiki/%E5%8F%98%E9%87%8F" class="mw-redirect" title="变量">变量</a>都能被反馈到GIS。一些政府机构和<a href="/wiki/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87" title="非政府组织">非政府组织</a>正在生产制作能够直接访问GIS的计算机数据库。可以将地图中不同类型的数据格式输入GIS。GIS系统同时能将不是地图形式的数字信息转换可识别利用的形式。例如，通过分析由<a href="/wiki/%E9%81%A5%E6%84%9F" title="遥感">遥感</a>生成的数字卫星图像，可以生成一个与地图类似的有关植被覆盖的数字信息层。
+</p><p>同样，人口调查或水文表格数据也可在GIS系统中被转换成作为主题信息层的地图形式。
+</p>
+<h3><span id=".E8.B3.87.E6.96.99.E5.B1.95.E7.8F.BE"></span><span class="mw-headline" id="資料展現">资料展现</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=7" title="编辑章节：资料展现"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GIS数据以数字数据的形式表现了现实世界客观对象（公路、土地利用、海拔）。现实世界客观对象可被划分为两个抽象概念：离散对象（如房屋）和连续的对象领域（如降雨量或海拔）。这二种抽象体在GIS系统中存储数据主要的二种方法为：<a href="/wiki/%E6%9F%B5%E6%A0%BC" class="mw-redirect" title="栅格">栅格</a>（<a href="/wiki/%E7%B6%B2%E6%A0%BC" class="mw-redirect" title="网格">网格</a>）和<a href="/wiki/%E7%9F%A2%E9%87%8F" class="mw-redirect" title="矢量">矢量</a>。
+</p><p>栅格（网格）数据由存放唯一值存储单元的行和列组成。它与栅格（网格）图像是类似的，除了使用合适的颜色之外，各个单元记录的数值也可能是一个分类组（例如土地使用状况）、一个连续的值（例如<a href="/wiki/%E9%99%8D%E9%9B%A8%E9%87%8F" class="mw-redirect" title="降雨量">降雨量</a>）或是当数据不是可用时记录的一个空值。栅格数据集的分辨率取决于地面单位的网格宽度。通常存储单元代表地面的方形区域，但也可以用来代表其它形状。栅格数据既可以用来代表一块区域，也可以用来表示一个实物。
+</p><p>矢量数据利用了几何图形例如点、线（一系列点坐标），或是面（形状决定于线）来表现客观对象。例如，在住房细分中以多边形来代表物产边界，以点来精确表示位置。矢量同样可以用来表示具有连续变化性的领域。利用<a href="/wiki/%E7%AD%89%E9%AB%98%E7%BA%BF" class="mw-redirect" title="等高线">等高线</a>和<a href="/wiki/%E4%B8%8D%E8%A7%84%E5%88%99%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A0%BC%E7%BD%91" title="不规则三角形格网">不规则三角形格网</a>（TIN）来表示海拔或其他连续变化的值。TIN的记录对于这些连接成一个由三角形构成的不规则网格的点进行评估。三角形所在的面代表地形表面。 
+</p><p>利用栅格或矢量数据模型来表达现实既有优点也有缺点。栅格数据设置在面内所有的点上都记录同一个值，而矢量格式只在需要的地方存储数据，这就使得前者所需的存储的空间大于后者。对于栅格数据可以很轻易地实现覆盖的操作，而对于矢量数据来说要困难得多。矢量数据可以像在传统地图上的矢量图形一样被显示出来，而栅格数据在以图象显示时显示对象的边界将呈现模糊状。
+</p><p>除了以几何向量坐标或是栅格单元位置来表达的空间数据外，另外的非空间数据也可以被存储。在矢量数据中，这些附加数据为客观对象的属性。例如，一个森林资源的多边形可能包含一个标识符值及有关树木种类的信息。在栅格数据中单元值可存储属性信息，但同样可以作为与其他表格中记录相关的标识符。
+</p>
+<h3><span id=".E8.B3.87.E6.96.99.E9.87.87.E9.9B.86"></span><span class="mw-headline" id="資料采集">资料采集</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=8" title="编辑章节：资料采集"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>数据采集——向系统内输入数据——它占据了GIS从业者的大部分时间。有多种方法向GIS中输入数据，在其中它以数字格式存储。
+</p><p>印在纸或聚酯薄膜地图上的现有数据可以被数字化或扫描来产生数字数据。数字化仪从地图中产生向量数据作为操作符轨迹点、线和多边形的边界。扫描地图可以产生能被进一步处理生成向量数据的光栅数据。
+</p><p>测量数据可以从测量器械上的数字数据收集系统中被直接输入到GIS中。从<a href="/wiki/%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F" title="全球定位系统">全球定位系统</a>（GPS）——另一种测量工具中得到的位置，也可以被直接输入到GIS中。
+<a href="/wiki/%E9%81%A5%E6%84%9F" title="遥感">遥感</a>数据同样在数据收集中发挥着重要作用，并由附在平台上的多个传感器组成。传感器包括摄像机、数字扫描仪和激光雷达，而平台则通常由航空器和卫星构成。现在大部分数字数据来源于图片判读和航空照片。软拷贝工作站用来数字化直接从数字图像的立体象对中得到的特征。这些系统允许数据以二维或三维捕捉，它们的海拔直接从用照相测量法原理的立体象对中测量得到。现今，模拟航空照片先被扫描然后再输入到软拷贝系统，但随着高质量的数字摄像机越来越便宜，这一步也就可被省略了。卫星<a href="/wiki/%E9%81%A5%E6%84%9F" title="遥感">遥感</a>是空间数据的另一个重要来源。这里卫星使用不同的传感器包来被动地测量从主动传感器如雷达发射出去的电磁波频谱或无线电波的部分的反射系数。遥感收集可以进一步处理来标识感兴趣的对象和类例如土地覆盖的光栅数据。
+</p><p>除了收集和输入空间数据之外，属性数据也要输入到GIS中。对于向量数据，这包括关于表现在系统中的对象的附加信息。
+</p><p>输入数据到GIS中后，通常还要编辑，来消调试误，或进一步处理。对于向量数据必须要“拓扑正确”才能进行一些高级分析。比如说，在公路网中，线必须与交叉点处的结点相连。像反冲或过冲的错误也必须消除。对于扫描的地图，源地图上的污点可能需要从生成的光栅中消除。例如，污物的斑点可能会把两条本不该相连的线连在一起。
+</p>
+<h3><span id=".E8.B3.87.E6.96.99.E6.93.8D.E4.BD.9C"></span><span class="mw-headline" id="資料操作">资料操作</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=9" title="编辑章节：资料操作"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GIS可以通过执行数据重构来把数据转换成不同的格式。例如，GIS可以通过在具有相同分类的所有单元周围生成线，同时决定单元的<a href="/wiki/%E7%A9%BA%E9%97%B4%E5%85%B3%E7%B3%BB" class="mw-redirect" title="空间关系">空间关系</a>，如邻接和包含，来将卫星图像转换成向量结构。
+</p><p>由于数字数据以不同的方法收集和存储，两种数据源可能会不完全兼容。因此GIS必须能够将地理数据从一种结构转换到另一种结构。
+</p>
+<h3><span id=".E6.8A.95.E5.BD.B1.E7.B3.BB.E7.B5.B1.EF.BC.8C.E5.9D.90.E6.A0.87.E7.B3.BB.E7.B5.B1.E4.B8.8E.E8.BD.89.E6.8F.9B"></span><span class="mw-headline" id="投影系統，坐标系統与轉換">投影系统，坐标系统与转换</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=10" title="编辑章节：投影系统，坐标系统与转换"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>财产所有权地图与土壤分布图可能以不同的<a href="/wiki/%E6%AF%94%E4%BE%8B%E5%B0%BA" title="比例尺">比例尺</a>显示数据。GIS中的地图数据必须能被操作以使其与从其它地图获得的数据对齐或相配合。在数字数据被分析前，它们可能得经过其它一些将它们集成进GIS的处理，比如，投影与坐标变换。地球可以用多种模型来表示，对于地球表面上的任一给定点，各个模型都可能给出一套不同的坐标（如纬度，经度，海拔）。最简单的模型是假定地球是一个理想的球体。随着地球的更多测量逐渐累积，地球的模型也变得越来越复杂，越来越精确。事实上，有些模型应用于地球的不同区域以提供更高的精确度（如北美坐标系统，1983-NAD83-只适合在美国使用，而在欧洲却不适用）。
+</p><p>投影是制作地图的基础部分，它是从地球的一种模型中转换信息的数学方法，它将三维的弯曲表面转换成二维的介质（比如纸或电脑屏幕）。不同类型的地图要采用不同的投影投影系统，因为每种投影系统有其自身的合适的用途。比如一种可以精确反映大陆形状的投影会歪曲大陆的相对尺寸（翻译的是英文的维基百科）
+</p>
+<h3><span id="GIS.E7.A9.BA.E9.97.B4.E5.88.86.E6.9E.90"></span><span class="mw-headline" id="GIS空间分析">GIS空间分析</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=11" title="编辑章节：GIS空间分析"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90" title="空间分析">空间分析</a></div>
+<p>空间分析能力是GIS的主要功能，也是GIS与计算机制图软件相区别的主要特征。空间分析是从空间物体的空间位置、联系等方面去研究空间事物，以及对空间事物做出定量的描述。一般地讲，它只回答What（是什么？）、Where（在哪里？）、How（怎么样？）等问题，但并不（能）回答Why（为什么？）。空间分析需要复杂的数学工具，其中最主要的是空间统计学、图论、拓扑学、计算几何等<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>，其主要任务是对空间构成进行描述和分析，以达到获取、描述和认知空间数据；理解和解释地理图案的背景过程；空间过程的模拟和预测；调控地理空间上发生的事件等目的<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。
+</p><p>空间分析技术与许多学科有联系，地理学、经济学、区域科学、大气、地球物理、水文等专门学科为其提供知识和机理。
+</p><p>除了GIS软件捆绑空间分析模块外，目前也有一些专用的空间分析软件，如GISLIB、SIM、PPA、Fragstats、<a href="/wiki/GeoDa" title="GeoDa">GeoDa</a>、SatScan、Geodetector等。
+</p>
+<h4><span id=".E6.95.B0.E6.8D.AE.E5.BB.BA.E6.A8.A1"></span><span class="mw-headline" id="数据建模">数据建模</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=12" title="编辑章节：数据建模"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>将湿地地图与在机场、电视台和学校等不同地方记录的降雨量关联起来是很困难的。然而，GIS能够描述
+地表、地下和大气的二维三维特征。
+</p><p>例如，GIS能够将反应降雨量的雨量线迅速制图。
+</p><p>这样的图称为雨量线图。通过有限数量的点的量测可以估计出整个地表的特征，这样的方法已经很成熟。一张二维雨量线图可以和GIS中相同区域的其它图层进行叠加分析。
+</p>
+<h4><span id=".E6.8B.93.E6.89.91.E5.BB.BA.E6.A8.A1"></span><span class="mw-headline" id="拓扑建模">拓扑建模</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=13" title="编辑章节：拓扑建模"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>在过去的35年，在湿地边上有没有任何加油站或工厂经营过？有没有任何满足在2英里内且高出湿地的条件的这类设施？GIS可以识别并分析这种在数字化空间数据中的<a href="/wiki/%E7%A9%BA%E9%97%B4%E5%85%B3%E7%B3%BB" class="mw-redirect" title="空间关系">空间关系</a>。这些拓扑关系允许进行复杂的空间建模和分析。地理实体间的拓扑关系包括连接（什么和什么相连）、包含（什么在什么之中）、还有邻近（两者之间的远近）。
+</p>
+<h4><span id=".E7.BD.91.E7.BB.9C.E5.BB.BA.E6.A8.A1"></span><span class="mw-headline" id="网络建模">网络建模</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=14" title="编辑章节：网络建模"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>如果所有在湿地附近的工厂同时向河中排放化学物质，那么排入湿地的污染物的数量要多久就能达到破坏环境的数量？GIS能模拟出污染物沿线性网络（河流）的扩散的路径。诸如坡度、速度限值、管道直径之类的数值可以纳入这个模型使得模拟得更精确。网络建模通常用于交通规划、水文建模和地下管网建模。
+</p>
+<h2><span id="GIS.E8.BB.9F.E4.BB.B6"></span><span class="mw-headline" id="GIS軟件">GIS软件</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=15" title="编辑章节：GIS软件"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/GIS%E8%BB%9F%E4%BB%B6%E5%88%97%E8%A1%A8" title="GIS软件列表">GIS软件列表</a></div>
+<p>地理信息只是一堆数字纪录，需要有合适的软件去把它表示出来；与此同时，地理信息数据库的建立，亦有赖合适软件的帮助，把地理数据信息化。现时在工商界方面的市场普遍被两大地理信息系统巨头<a href="/wiki/ESRI" class="mw-redirect" title="ESRI">ESRI</a>及<a href="/w/index.php?title=Mapinfo&amp;action=edit&amp;redlink=1" class="new" title="Mapinfo（页面不存在）">Mapinfo</a>所垄断，但他们亦能够提供一套整全的地理信息系统，以供客户使用。政府及军方机构往往用到特别打造的软件，例如开源的<a href="/wiki/GRASS" title="GRASS">GRASS</a>或其他专门的系统，以配合他们的特殊需要。虽然现时有不少自由的阅览GIS资料的工具，一般大众可以轻易获取的地理信息，还得依靠<a href="/wiki/Google_Earth" class="mw-redirect" title="Google Earth">Google Earth</a>或<a href="/wiki/%E5%BE%AE%E8%BB%9F" class="mw-redirect" title="微软">微软</a>的<a href="/w/index.php?title=Virtual_Earth&amp;action=edit&amp;redlink=1" class="new" title="Virtual Earth（页面不存在）">Virtual Earth</a>之类的系统。这些系统所提供的资料更往往过于地域中心，例如：你可以清楚找到一个位于美国偏远小镇的停车位，但却不能看得清楚一条位于<a href="/wiki/%E9%A6%96%E7%88%BE" class="mw-redirect" title="首尔">首尔</a><a href="/wiki/%E6%B1%9F%E5%8D%97%E5%8D%80_(%E9%A6%96%E7%88%BE)" class="mw-redirect" title="江南区 (首尔)">江南区</a>的大街。
+</p>
+<h3><span id=".E8.83.8C.E6.99.AF"></span><span class="mw-headline" id="背景">背景</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=16" title="编辑章节：背景"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span id=".E4.BA.92.E8.81.AF.E7.B6.B2.E9.80.A3.E7.B5.90.E7.B7.A8.E7.A8.8B.E7.95.8C.E9.9D.A2"></span><span class="mw-headline" id="互聯網連結編程界面">互联网链接编程界面</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=17" title="编辑章节：互联网链接编程界面"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在互联网服务普及的今天，不少地理信息系统都提供编程界面，让用户通过这些界面及其系统建立各自的地理信息信息页面。这些编程界面，有利用<a href="/wiki/Visual_Basic_for_Applications" title="Visual Basic for Applications">VBA</a>或<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>的。让用户很容易就可以获取卫星图片或地图的链接页面，甚至加上行车路线或地理位置等信息。
+</p>
+<h3><span id=".E7.A7.BB.E5.8B.95GIS"></span><span class="mw-headline" id="移動GIS">移动GIS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=18" title="编辑章节：移动GIS"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>通过与移动设备的结合，地理信息系统可以为用户提供即时的地理信息。一般汽车上的导航设备都是结合了卫星定位设备（<a href="/wiki/%E5%85%A8%E7%90%83%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F" title="全球定位系统">GPS</a>）和地理信息系统（GIS）的复合系统；在香港曾经很流行的地图王，则是一套可以安装在<a href="/wiki/PDA" class="mw-redirect" title="PDA">PDA</a>或<a href="/wiki/%E6%89%8B%E6%8F%90%E9%9B%BB%E8%A9%B1" class="mw-redirect" title="手提电话">手提电话</a>上的即时地图系统。
+</p>
+<h4><span id=".E6.B1.BD.E8.BB.8A.E5.B0.8E.E8.88.AA"></span><span class="mw-headline" id="汽車導航">汽车导航</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=19" title="编辑章节：汽车导航"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>汽车导航系统是地理信息系统的一个特例，它除了一般的地理信息系统的内容以外，还包括了各条道路的行车及相关信息的数据库。这个数据库利用<a href="/wiki/%E7%9F%A2%E9%87%8F" class="mw-redirect" title="矢量">矢量</a>表示行车的路线、方向、路段等信息，又利用<a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a>的概念来决定最佳行走路线。<a href="/wiki/%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6" title="地理数据文件">地理数据文件</a>（GDF）是为导航系统描述地图数据的<a href="/wiki/ISO" class="mw-redirect" title="ISO">ISO</a>标准。汽车导航系统组合了地图匹配、<a href="/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>定位和来计算车辆的位置。地图资源数据库也用于航迹规划、导航，并可能还有主动安全系统、辅助驾驶及位置定位服务（Location Based Services, LBS）等高级功能。汽车导航系统的数据库应用了<span class="ilh-all" data-orig-title="地图数据库管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Map database management"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="地图数据库管理（页面不存在）">地图数据库管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Map_database_management" class="extiw" title="en:Map database management"><span lang="en" dir="auto">Map database management</span></a></span>）</span></span>。
+</p>
+<h3><span id=".E9.96.8B.E6.BA.90GIS.E8.BB.9F.E4.BB.B6"></span><span class="mw-headline" id="開源GIS軟件">开源GIS软件</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=20" title="编辑章节：开源GIS软件"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="gvSIG">gvSIG</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=21" title="编辑章节：gvSIG"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>gvSIG是一个基于JAVA的桌面地理信息系统，同时也是开发地理信息系统一个强有力的工具。它包含许多功能如空间数据分析，地图编辑，Map设计等。gvSIG得到了西班牙一些政府和公司的参与并基于GNU/GPL许可证发布。gvSIG能够很好得工作在Windows和Linux平台之上。gvSIG支持其它GIS系统经常使用到的一些空间数据标准格式（shapefile,DXF,DWG,DGN,ECW,MrSID,TIFF,JPG2000, KML, GML等）。gvSIG遵循OGC（Open Geospatial Consortium）标准，这意味着它能够读取本地数据也能够通过WMS、WFS、WCS读取远程数据。
+</p>
+<h4><span class="mw-headline" id="QGIS">QGIS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=22" title="编辑章节：QGIS"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/QGIS" title="QGIS">QGIS</a>（原称Quantum GIS）是一个自由软件的桌面GIS软件。它提供资料的显示、编辑和分析功能。
+</p>
+<h2><span id="GIS.E7.9A.84.E5.8F.91.E5.B1.95"></span><span class="mw-headline" id="GIS的发展">GIS的发展</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=23" title="编辑章节：GIS的发展"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>许多学科受益于地理信息系统技术。活跃的地理信息系统市场导致了GIS组件的硬件和软件的低成本和持续改进。这些发展反过来推动这项技术在科学、政府、企业和产业等方面更广泛的应用，应用包括房地产、公共卫生、犯罪地图、国防、可持续发展、自然资源、景观建筑、考古学、社区规划、运输和物流。地理信息系统也分化出定位服务（LBS）。LBS使用GPS通过所在地与固定基站的关系用移动设备显示其位置（最近的餐厅，加油站，消防栓），移动设备（朋友，孩子，一辆警车）或回传他们的位置到一个中央服务器显示或作其他处理。随着GPS功能与日益强大的移动电子（手机、pda、笔记本电脑）集成，这些服务继续发展。
+</p>
+<h3><span id="OGC.E6.A0.87.E5.87.86"></span><span class="mw-headline" id="OGC标准">OGC标准</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=24" title="编辑章节：OGC标准"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>开放地理联合会是一个参与一致进程以开发公开地理处理规格的384家公司、政府机构、大学和个人组成的国际行业联合会。由OpenGIS规格定义的开放接口和协议，支持可交互操作的解决方案，网络、无线和定位服务和主流IT。让复杂的空间信息和服务在各种应用可以被授权技术开发人员使用。开放地理联合会协议包括网络地图服务WMS和网络功能服务WFS。地理信息系统由OGC产品划分为两大类型，基于遵循OGC规格的完整准确的软件。地理信息系统技术标准促进GIS工具进行交流。兼容的产品是符合OpenGIS规范的软件产品。当一个产品经过测试，并通过OGC测试项目证明是兼容的，这个产品就在这个地点上自动注册为“兼容”。现实软件产品，即实现OpenGIS规格但还没有通过兼容测试的软件产品。合规测试不可作用于所有的规格。开发者可以注册他们的产品为实施草案或经核准的规范，而OGC有权审查和确认每个条目。
+</p>
+<h3><span id="WEB.E5.9C.B0.E5.9B.BE"></span><span class="mw-headline" id="WEB地图">WEB地图</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=25" title="编辑章节：WEB地图"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>近些年，地图应用爆炸性的蔓延于网站，如谷歌地图和Bing地图。这些网站使公众获取了大量的地理数据。他们中的一部分，像谷歌地图和OpenLayers，公布了API使得用户能够创建自定义的应用。这些工具包一般提供街道地图/天线/卫星图像、地理编码、搜索和路由的功能。其他出版网络上的地理信息的应用包括Cadcorp的GeognoSIS、ESRI的ArcIMS服务器、谷歌地球、谷歌融合表和开源的替代品MapServer，Mapnik和GeoServer。
+</p>
+<h3><span id=".E5.85.A8.E7.90.83.E6.B0.94.E5.80.99.E5.8F.98.E5.8C.96.E3.80.81.E5.8E.86.E5.8F.B2.E5.8F.8A.E9.A2.84.E6.B5.8B"></span><span class="mw-headline" id="全球气候变化、历史及预测">全球气候变化、历史及预测</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=26" title="编辑章节：全球气候变化、历史及预测"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>地图通常被用于探索地球和开发利用其资源。地理信息系统技术，作为一个扩展的地图科学，提高了工作效率和传统地图的分析能力。现在，当科学界识别影响气候变化的人为活动的环境后果时，地理信息系统技术正在成为一个理解环境随时间变化的影响基本的工具。地理信息系统技术使各种来源的资料能够与现有地图和来自地球观测卫星的最新信息随着气候变化模型的输出结合。这可以在复杂的自然系统帮助了解气候变化带来的影响。其中一个经典的例子就是对北极冰层融化的研究。一个地理信息系统的结合卫星图像的地图形式的输出让研究人员以从所未有的方式查看他们的研究对象。这些照片对于传输气候变化效果给非科学工作者也是非常重要的
+</p>
+<h2><span id=".E8.AF.AD.E4.B9.89.E5.AD.A6"></span><span class="mw-headline" id="语义学">语义学</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=27" title="编辑章节：语义学"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>万维网联盟的语义网运动中出现的工具和技术被证明在信息系统的数据集成问题中十分有用。相应地，这种技术已被提议作为一种促进GIS应用之间的互操作性和数据重用的手段，并启用了新的分析机制。
+</p><p>本体是这种语义方法的关键组成部分，因为它们遵循一个在特定领域的概念和关系下被机器可读的正式规范。反过来，这使得地理信息系统专注于一个的数据的意义，而不是它的语法或结构。临时本体是在GIS应用领域开发的，例如由英国地形测量局和美国太空总署喷射推进实验室开发的SWEET本体开发得水文本体论。此外，简单的本体和语义元数据标准正在由万维网联盟地理培育集团发表出来以便在网络上表述地理空间数据。
+</p>
+<h2><span id=".E7.A4.BE.E4.BC.9A"></span><span class="mw-headline" id="社会">社会</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=28" title="编辑章节：社会"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>随着GIS在决策中的普及，学者们已经开始审议地理信息系统的社会影响。有人认为，地理信息的生产、分配、利用和表述的很大程度上与社会环境有关。其他相关议题包括著作权、隐私和审查的讨论。较为乐观的GIS社会应用是将它作为一个公众参与的工具来应用。
+就业方向大概分为：应用和开发。应用主要包括：gis数据处理与分析，遥感图像处理与分析以及测量等相关内容，开发主要可以分为：底层开发、二次开发、web开发等，从某种角度上来说，GIS开发只是计算机编程技术在该领域的具体表现。
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=29" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">朱翔，刘新民 (编). 地理：必修.第一册. 长沙: 湖南教育出版社. 2020.7 [2019.7]. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-7-5539-4784-6" title="Special:网络书源/978-7-5539-4784-6"><span title="国际标准书号">ISBN</span>&#160;978-7-5539-4784-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;rft.au=%E6%9C%B1%E7%BF%94%EF%BC%8C%E5%88%98%E6%96%B0%E6%B0%91&amp;rft.btitle=%E5%9C%B0%E7%90%86%EF%BC%9A%E5%BF%85%E4%BF%AE.%E7%AC%AC%E4%B8%80%E5%86%8C&amp;rft.genre=book&amp;rft.isbn=978-7-5539-4784-6&amp;rft.place=%E9%95%BF%E6%B2%99&amp;rft.pub=%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">请检查<code style="color:inherit; border:inherit; padding:inherit;">&#124;date=</code>中的日期值 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#bad_date" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">汤国安等。《ArcGIS地理信息系统空间分析试验教程》。科学出版社。2006。<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/7030169042" class="internal mw-magiclink-isbn">ISBN 7-03-016904-2</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://autolib.homebj.com/old/upload/200411051100481921680120300.pdf">空间分析研究进展</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20070928143325/http://autolib.homebj.com/old/upload/200411051100481921680120300.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）。王劲峰</span>
+</li>
+</ol></div>
+<style data-mw-deduplicate="TemplateStyles:r80540462">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li>Elangovan,K (2006) "GIS: Fundamentals, Applications and Implementations", New India Publishing Agency, New Delhi"208 pp.</li>
+<li>Harvey, Francis (2008) <i>A Primer of GIS, Fundamental geographic and cartographic concepts.</i> The Guilford Press, 31 pp.</li>
+<li>Heywood, I., Cornelius, S., and Carver, S. (2006)<i>An Introduction to Geographical Information Systems</i>. Prentice Hall. 3rd edition.</li>
+<li>Longley, P.A., <a href="/wiki/Michael_Frank_Goodchild" class="mw-redirect" title="Michael Frank Goodchild">Goodchild, M.F.</a>, Maguire, D.J. and <a href="/w/index.php?title=David_William_Rhind&amp;action=edit&amp;redlink=1" class="new" title="David William Rhind（页面不存在）">Rhind, D.W.</a> (2005)<i>Geographic Information Systems and Science</i>. Chichester: Wiley. 2nd edition.</li></ul>
+</div>
+<h2><span id=".E5.8F.83.E7.9C.8B"></span><span class="mw-headline" id="參看">参看</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=30" title="编辑章节：参看"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%BC%80%E6%94%BE%E5%9C%B0%E7%90%86%E7%A9%BA%E9%97%B4%E5%8D%8F%E4%BC%9A" title="开放地理空间协会">开放地理空间协会</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AD%90%E5%9C%B0%E5%9B%BE" title="电子地图">电子地图</a></li>
+<li><a href="/wiki/%E8%BE%B2%E6%A5%AD%E9%9D%9E%E9%BB%9E%E6%BA%90%E6%B1%A1%E6%9F%93%E6%A8%A1%E5%BC%8F" title="农业非点源污染模式">农业非点源污染模式</a></li>
+<li><a href="/wiki/GvSIG" title="GvSIG">gvSIG</a></li>
+<li><a href="/wiki/QGIS" title="QGIS">QGIS</a></li>
+<li><a href="/wiki/BNA_(%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B)" title="BNA (文件类型)">BNA</a></li>
+<li><a href="/wiki/GDAL" title="GDAL">GDAL</a></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;section=31" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090507071757/http://ngis.moea.gov.tw/website/ngisweb/">国土信息系统自然环境集成仓储供应系统</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081206140816/http://ngcc.sbsm.gov.cn/">国家基础地理信息中心</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gisera.com">GIS时代</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20200124201700/http://www.gisera.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://gis.rchss.sinica.edu.tw/ISTIS/tools/">GIS应用支持工具集 - 地理信息科学研究专题中心</a></li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align:center;"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Geography_topics" title="Template:Geography topics"><abbr title="查看该模板" style="text-align:center;;;background:none transparent;border:none">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:Geography_topics" title="Template talk:Geography topics"><abbr title="讨论该模板" style="text-align:center;;;background:none transparent;border:none">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Geography_topics&amp;action=edit"><abbr title="编辑该模板" style="text-align:center;;;background:none transparent;border:none">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6" title="地理学">地理学</a></div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align:center;"><div>
+<ul><li><span class="ilh-all" data-orig-title="地理學術語表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of geography terms"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E5%AD%B8%E8%A1%93%E8%AA%9E%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="地理学术语表（页面不存在）">术语表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_geography_terms" class="extiw" title="en:Glossary of geography terms"><span lang="en" dir="auto">Glossary of geography terms</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E5%AD%B8%E5%8F%B2" title="地理学史">历史</a></li>
+<li><span class="ilh-all" data-orig-title="地理學條目索引" data-lang-code="en" data-lang-name="英语" data-foreign-title="Index of geography articles"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E5%AD%B8%E6%A2%9D%E7%9B%AE%E7%B4%A2%E5%BC%95&amp;action=edit&amp;redlink=1" class="new" title="地理学条目索引（页面不存在）">索引</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Index_of_geography_articles" class="extiw" title="en:Index of geography articles"><span lang="en" dir="auto">Index of geography articles</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="地理學大綱" data-lang-code="en" data-lang-name="英语" data-foreign-title="Outline of geography"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E5%AD%B8%E5%A4%A7%E7%B6%B1&amp;action=edit&amp;redlink=1" class="new" title="地理学大纲（页面不存在）">大纲</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Outline_of_geography" class="extiw" title="en:Outline of geography"><span lang="en" dir="auto">Outline of geography</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">学科分支</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E4%BA%BA%E6%96%87%E5%9C%B0%E7%90%86%E5%AD%A6" title="人文地理学">人文地理</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%A1%8C%E7%82%BA%E5%9C%B0%E7%90%86%E5%AD%B8" title="行为地理学">行为地理学</a></li>
+<li><a href="/wiki/%E6%89%B9%E5%88%A4%E5%9C%B0%E7%90%86%E5%AD%B8" title="批判地理学">批判地理学</a></li>
+<li><span class="ilh-all" data-orig-title="女性主義地理學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Feminist geography"><span class="ilh-page"><a href="/w/index.php?title=%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E5%9C%B0%E7%90%86%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="女性主义地理学（页面不存在）">女性主义地理学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Feminist_geography" class="extiw" title="en:Feminist geography"><span lang="en" dir="auto">Feminist geography</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="馬克思主義地理學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Marxist geography"><span class="ilh-page"><a href="/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9C%B0%E7%90%86%E5%AD%A6" title="马克思主义地理学">马克思主义地理学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Marxist_geography" class="extiw" title="en:Marxist geography"><span lang="en" dir="auto">Marxist geography</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%96%87%E5%8C%96%E5%9C%B0%E7%90%86%E5%AD%A6" title="文化地理学">文化地理学</a>
+<ul><li><a href="/wiki/%E5%AE%97%E6%95%99%E5%9C%B0%E7%90%86%E5%AD%A6" title="宗教地理学">宗教地理学</a></li>
+<li><a href="/wiki/%E9%9F%B3%E6%A8%82%E5%9C%B0%E7%90%86%E5%AD%B8" title="音乐地理学">音乐地理学</a></li></ul></li>
+<li><a href="/wiki/%E4%BA%BA%E5%8F%A3%E5%9C%B0%E7%90%86%E5%AD%A6" title="人口地理学">人口地理学</a></li>
+<li><a href="/wiki/%E7%99%BC%E5%B1%95%E5%9C%B0%E7%90%86%E5%AD%B8" title="发展地理学">发展地理学</a></li>
+<li><a href="/wiki/%E7%BB%8F%E6%B5%8E%E5%9C%B0%E7%90%86%E5%AD%A6" title="经济地理学">经济地理学</a>
+<ul><li><a href="/wiki/%E5%86%9C%E4%B8%9A%E5%9C%B0%E7%90%86%E5%AD%A6" title="农业地理学">农业地理学</a></li>
+<li><a href="/wiki/%E5%B7%A5%E4%B8%9A%E5%9C%B0%E7%90%86%E5%AD%A6" title="工业地理学">工业地理学</a></li>
+<li><a href="/wiki/%E5%95%86%E4%B8%9A%E5%9C%B0%E7%90%86%E5%AD%A6" title="商业地理学">商业地理学</a></li></ul></li>
+<li><a href="/wiki/%E9%86%AB%E5%AD%B8%E5%9C%B0%E7%90%86%E5%AD%B8" title="医学地理学">医学地理学（健康地理学）</a></li>
+<li><a href="/wiki/%E5%8E%86%E5%8F%B2%E5%9C%B0%E7%90%86%E5%AD%A6" title="历史地理学">历史地理学</a></li>
+<li><a href="/wiki/%E8%AA%9E%E8%A8%80%E5%9C%B0%E7%90%86%E5%AD%B8" title="语言地理学">语言地理学</a></li>
+<li><a href="/wiki/%E5%86%9B%E4%BA%8B%E5%9C%B0%E7%90%86%E5%AD%A6" title="军事地理学">军事地理学</a></li>
+<li><a href="/wiki/%E6%94%BF%E6%B2%BB%E5%9C%B0%E7%90%86%E5%AD%A6" title="政治地理学">政治地理学</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E5%9C%B0%E7%90%86%E5%AD%A6" title="社会地理学">社会地理学</a></li>
+<li><a href="/wiki/%E6%88%98%E7%95%A5%E5%9C%B0%E7%90%86" title="战略地理">战略地理学</a></li>
+<li><a href="/wiki/%E6%97%85%E6%B8%B8%E5%9C%B0%E7%90%86%E5%AD%A6" title="旅游地理学">旅游地理学</a></li>
+<li><a href="/wiki/%E8%81%9A%E8%90%BD%E5%9C%B0%E7%90%86%E5%AD%A6" title="聚落地理学">聚落地理学</a>
+<ul><li><a href="/wiki/%E5%9F%8E%E5%B8%82%E5%9C%B0%E7%90%86%E5%AD%A6" title="城市地理学">城市地理学</a></li>
+<li><a href="/wiki/%E5%8C%BA%E5%9F%9F%E5%9C%B0%E7%90%86%E5%AD%A6" title="区域地理学">区域地理学</a></li></ul></li>
+<li><a href="/wiki/%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E5%9C%B0%E7%90%86%E5%AD%A6" title="交通运输地理学">交通运输地理学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%AD%B8" title="自然地理学">自然地理</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E5%AD%A6" title="生物地理学">生物地理学</a>
+<ul><li><a href="/wiki/%E7%94%9F%E6%80%81%E5%AD%A6" title="生态学">生态学</a></li>
+<li><a href="/wiki/%E6%A4%8D%E7%89%A9%E5%9C%B0%E7%90%86%E5%AD%A6" title="植物地理学">植物地理学</a></li>
+<li><a href="/wiki/%E5%8A%A8%E7%89%A9%E5%9C%B0%E7%90%86%E5%AD%A6" title="动物地理学">动物地理学</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="海岸地理學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Coastal geography"><span class="ilh-page"><a href="/w/index.php?title=%E6%B5%B7%E5%B2%B8%E5%9C%B0%E7%90%86%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="海岸地理学（页面不存在）">海岸地理学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Coastal_geography" class="extiw" title="en:Coastal geography"><span lang="en" dir="auto">Coastal geography</span></a></span>）</span></span>／<a href="/wiki/%E6%B5%B7%E6%B4%8B%E5%AD%A6" title="海洋学">海洋学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6" title="地球科学">地球科学</a>
+<ul><li><a href="/wiki/%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6" title="大气科学">大气科学</a>／<a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">气象学</a></li></ul></li>
+<li><a href="/wiki/%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6" title="环境科学">环境科学</a>
+<ul><li><a href="/wiki/%E6%B0%94%E5%80%99%E5%AD%A6" title="气候学">气候学</a>／<a href="/wiki/%E5%8F%A4%E6%B0%A3%E5%80%99%E5%AD%B8" title="古气候学">古气候学</a>／<a href="/wiki/%E5%8F%A4%E5%9C%B0%E7%90%86%E5%AD%A6" title="古地理学">古地理学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%94%9F%E7%89%A9%E5%AD%A6" title="地球生物学">地球生物学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%AD%A6" title="地球物理学">地球物理学</a>／<a href="/wiki/%E5%A4%A7%E5%9C%B0%E6%B5%8B%E9%87%8F%E5%AD%A6" title="大地测量学">大地测量学</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="地球系統科學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth system science"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%83%E7%B3%BB%E7%B5%B1%E7%A7%91%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="地球系统科学（页面不存在）">地球系统科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_system_science" class="extiw" title="en:Earth system science"><span lang="en" dir="auto">Earth system science</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%B0%E8%B2%8C%E5%AD%A6" title="地貌学">地貌学</a>／<a href="/wiki/%E5%9C%B0%E8%B4%A8%E5%AD%A6" title="地质学">地质学</a></li>
+<li><a href="/wiki/%E5%86%B0%E5%B7%9D%E5%AD%A6" title="冰川学">冰川学</a></li>
+<li><a href="/wiki/%E6%B0%B4%E6%96%87%E5%AD%A6" title="水文学">水文学</a>／<a href="/wiki/%E6%B9%96%E6%B2%BC%E5%AD%B8" title="湖沼学">湖沼学</a></li>
+<li><a href="/wiki/%E5%9C%9F%E5%A3%A4%E5%AD%A6" title="土壤学">土壤学</a>
+<ul><li><span class="ilh-all" data-orig-title="耕作土壤學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Edaphology"><span class="ilh-page"><a href="/w/index.php?title=%E8%80%95%E4%BD%9C%E5%9C%9F%E5%A3%A4%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="耕作土壤学（页面不存在）">耕作土壤学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Edaphology" class="extiw" title="en:Edaphology"><span lang="en" dir="auto">Edaphology</span></a></span>）</span></span>／<a href="/wiki/%E5%9C%9F%E5%A3%A4%E7%A7%91%E5%AD%B8" title="土壤科学">土壤科学</a></li>
+<li><a href="/wiki/%E5%9C%9F%E5%A3%A4%E5%9C%B0%E7%90%86%E5%AD%A6" title="土壤地理学">土壤地理学</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="第四紀科學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Quaternary science"><span class="ilh-page"><a href="/w/index.php?title=%E7%AC%AC%E5%9B%9B%E7%B4%80%E7%A7%91%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="第四纪科学（页面不存在）">第四纪科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Quaternary_science" class="extiw" title="en:Quaternary science"><span lang="en" dir="auto">Quaternary science</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E7%8E%AF%E5%A2%83%E5%9C%B0%E7%90%86%E5%AD%A6" title="环境地理学">综合学科</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%8E%AF%E5%A2%83%E5%9C%B0%E7%90%86%E5%AD%A6" title="环境地理学">环境地理学</a>
+<ul><li><a href="/wiki/%E7%92%B0%E5%A2%83%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8" title="环境社会科学">环境社会科学</a></li>
+<li><span class="ilh-all" data-orig-title="环境研究" data-lang-code="en" data-lang-name="英语" data-foreign-title="Environmental studies"><span class="ilh-page"><a href="/wiki/%E7%92%B0%E5%A2%83%E7%A0%94%E7%A9%B6" class="mw-redirect" title="环境研究">环境研究</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Environmental_studies" class="extiw" title="en:Environmental studies"><span lang="en" dir="auto">Environmental studies</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%99%AF%E8%A7%80%E8%A8%AD%E8%A8%88" title="景观设计">景观设计</a></li>
+<li><a href="/wiki/%E6%99%AF%E8%A7%82%E7%94%9F%E6%80%81%E5%AD%A6" title="景观生态学">景观生态学</a></li></ul></li>
+<li><a href="/wiki/%E6%99%82%E9%96%93%E5%9C%B0%E7%90%86%E5%AD%B8" title="时间地理学">时间地理学</a></li>
+<li><a href="/wiki/%E7%B3%BB%E7%B5%B1%E5%9C%B0%E7%90%86%E5%AD%B8" title="系统地理学">系统地理学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E5%90%8D%E5%AD%A6" title="地名学">地名学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E8%AA%8C%E5%AD%B8" title="地志学">地志学</a></li>
+<li><a href="/wiki/%E5%8D%80%E5%9F%9F%E7%A0%94%E7%A9%B6" title="区域研究">区域研究</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><span class="ilh-all" data-orig-title="地理學大綱#地理學的任務和工具" data-lang-code="en" data-lang-name="英语" data-foreign-title="Outline of geography#Tasks and tools of geography"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E5%AD%B8%E5%A4%A7%E7%B6%B1&amp;action=edit&amp;redlink=1" class="new" title="地理学大纲（页面不存在）">技术和工具</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Outline_of_geography#Tasks_and_tools_of_geography" class="extiw" title="en:Outline of geography"><span lang="en" dir="auto">Outline of geography#Tasks and tools of geography</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6" title="地理信息科学">地理信息科学</a>／<span class="ilh-all" data-orig-title="地数学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Geomathematics"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E6%95%B0%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="地数学（页面不存在）">地数学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Geomathematics" class="extiw" title="en:Geomathematics"><span lang="en" dir="auto">Geomathematics</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E5%9C%B0%E5%9B%BE%E5%AD%A6" title="地图学">地图学</a></li>
+<li><span class="ilh-all" data-orig-title="地质建模" data-lang-code="en" data-lang-name="英语" data-foreign-title="Geologic modelling"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E8%B4%A8%E5%BB%BA%E6%A8%A1&amp;action=edit&amp;redlink=1" class="new" title="地质建模（页面不存在）">地质建模</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Geologic_modelling" class="extiw" title="en:Geologic modelling"><span lang="en" dir="auto">Geologic modelling</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E7%BB%9F%E8%AE%A1" title="地理统计">地理统计</a></li>
+<li><a class="mw-selflink selflink">地理信息系统</a></li></ul></li>
+<li><a href="/wiki/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3%E5%AD%A6" title="地质年代学">地质年代学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%A9%BA%E9%97%B4%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6" title="地球空间信息科学">地球空间信息科学</a></li>
+<li><a href="/wiki/%E6%B0%B4%E6%96%87%E5%9C%B0%E7%90%86%E5%AD%A6" title="水文地理学">水文地理学</a>
+<ul><li><a href="/wiki/%E6%91%84%E5%BD%B1%E6%B5%8B%E9%87%8F%E6%B3%95" title="摄影测量法">摄影测量法</a></li>
+<li><a href="/wiki/%E9%81%A5%E6%84%9F" title="遥感">遥感</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="土地变化模型" data-lang-code="en" data-lang-name="英语" data-foreign-title="Land change modeling"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%9F%E5%9C%B0%E5%8F%98%E5%8C%96%E6%A8%A1%E5%9E%8B&amp;action=edit&amp;redlink=1" class="new" title="土地变化模型（页面不存在）">土地变化模型</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Land_change_modeling" class="extiw" title="en:Land change modeling"><span lang="en" dir="auto">Land change modeling</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">组织和机构</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:%E5%9C%B0%E7%90%86%E8%B3%87%E6%96%99%E8%88%87%E8%B3%87%E8%A8%8A%E7%B5%84%E7%B9%94" title="Category:地理资料与信息组织">地理数据与信息组织</a></li>
+<li><span class="ilh-all" data-orig-title="地理學會列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of geographical societies"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="地理学会列表（页面不存在）">地理学会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_geographical_societies" class="extiw" title="en:List of geographical societies"><span lang="en" dir="auto">List of geographical societies</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="地球科學組織列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of geoscience organizations"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%B8%E7%B5%84%E7%B9%94%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="地球科学组织列表（页面不存在）">地球科学学会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_geoscience_organizations" class="extiw" title="en:List of geoscience organizations"><span lang="en" dir="auto">List of geoscience organizations</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="國家測繪機構" data-lang-code="en" data-lang-name="英语" data-foreign-title="National mapping agency"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%8B%E5%AE%B6%E6%B8%AC%E7%B9%AA%E6%A9%9F%E6%A7%8B&amp;action=edit&amp;redlink=1" class="new" title="国家测绘机构（页面不存在）">国家测绘机构</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/National_mapping_agency" class="extiw" title="en:National mapping agency"><span lang="en" dir="auto">National mapping agency</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%B0%E7%90%86%E5%AD%B8%E5%8D%94%E6%9C%83" title="美国地理学协会">美国地理学协会</a></li>
+<li><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9C%B0%E7%90%86%E5%AD%A6%E5%AE%B6%E5%8D%8F%E4%BC%9A" title="美国地理学家协会">美国地理学家协会</a></li>
+<li><a href="/wiki/%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" title="国家地理学会">国家地理学会</a></li>
+<li><a href="/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%87%E5%AE%B6%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" title="加拿大皇家地理学会">加拿大皇家地理学会</a></li>
+<li><span class="ilh-all" data-orig-title="歐洲地理協會" data-lang-code="en" data-lang-name="英语" data-foreign-title="European Geography Association"><span class="ilh-page"><a href="/w/index.php?title=%E6%AD%90%E6%B4%B2%E5%9C%B0%E7%90%86%E5%8D%94%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="欧洲地理协会（页面不存在）">欧洲地理协会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/European_Geography_Association" class="extiw" title="en:European Geography Association"><span lang="en" dir="auto">European Geography Association</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%9A%87%E5%AE%B6%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" class="mw-redirect" title="皇家地理学会">皇家地理学会</a></li>
+<li><a href="/wiki/%E7%9A%87%E5%AE%B6%E8%98%87%E6%A0%BC%E8%98%AD%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" title="皇家苏格兰地理学会">皇家苏格兰地理学会</a></li>
+<li><a href="/wiki/%E5%B7%B4%E9%BB%8E%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" class="mw-redirect" title="巴黎地理学会">巴黎地理学会</a></li>
+<li><span class="ilh-all" data-orig-title="里斯本地理學會" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lisbon Geographic Society"><span class="ilh-page"><a href="/w/index.php?title=%E9%87%8C%E6%96%AF%E6%9C%AC%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="里斯本地理学会（页面不存在）">里斯本地理学会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lisbon_Geographic_Society" class="extiw" title="en:Lisbon Geographic Society"><span lang="en" dir="auto">Lisbon Geographic Society</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83" title="俄罗斯地理学会">俄罗斯地理学会</a></li>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E5%AD%A6%E4%BC%9A_(%E5%8C%97%E4%BA%AC)" title="中国地理学会 (北京)">中华人民共和国地理学会</a></li>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E5%AD%A6%E4%BC%9A_(%E5%8F%B0%E5%8C%97)" class="mw-redirect" title="中国地理学会 (台北)">中华民国地理学会</a></li>
+<li><span class="ilh-all" data-orig-title="香港地理學會" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hong Kong Geographical Association"><span class="ilh-page"><a href="/w/index.php?title=%E9%A6%99%E6%B8%AF%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="香港地理学会（页面不存在）">香港地理学会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hong_Kong_Geographical_Association" class="extiw" title="en:Hong Kong Geographical Association"><span lang="en" dir="auto">Hong Kong Geographical Association</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="沙烏地地理學會" data-lang-code="en" data-lang-name="英语" data-foreign-title="Saudi Geographical Society"><span class="ilh-page"><a href="/w/index.php?title=%E6%B2%99%E7%83%8F%E5%9C%B0%E5%9C%B0%E7%90%86%E5%AD%B8%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="沙特地理学会（页面不存在）">沙特地理学会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Saudi_Geographical_Society" class="extiw" title="en:Saudi Geographical Society"><span lang="en" dir="auto">Saudi Geographical Society</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%8B%E9%9A%9B%E5%9C%B0%E7%90%86%E8%81%AF%E5%90%88%E6%9C%83" title="国际地理联合会">国际地理联合会</a></li>
+<li><span class="ilh-all" data-orig-title="女性地理學家協會" data-lang-code="en" data-lang-name="英语" data-foreign-title="Society of Woman Geographers"><span class="ilh-page"><a href="/w/index.php?title=%E5%A5%B3%E6%80%A7%E5%9C%B0%E7%90%86%E5%AD%B8%E5%AE%B6%E5%8D%94%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="女性地理学家协会（页面不存在）">女性地理学家协会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Society_of_Woman_Geographers" class="extiw" title="en:Society of Woman Geographers"><span lang="en" dir="auto">Society of Woman Geographers</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">教育</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:%E5%9C%B0%E7%90%86%E6%95%99%E8%82%B2" title="Category:地理教育">地理教育</a></li>
+<li><span class="ilh-all" data-orig-title="地理素養" data-lang-code="en" data-lang-name="英语" data-foreign-title="Geo-literacy"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%86%E7%B4%A0%E9%A4%8A&amp;action=edit&amp;redlink=1" class="new" title="地理素养（页面不存在）">地理素养</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Geo-literacy" class="extiw" title="en:Geo-literacy"><span lang="en" dir="auto">Geo-literacy</span></a></span>）</span></span>（<a href="/wiki/%E5%9C%8B%E9%9A%9B%E5%9C%B0%E7%90%86%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B" title="国际地理奥林匹克">国际地理奥林匹克</a></li>
+<li><span class="ilh-all" data-orig-title="空間公民權" data-lang-code="en" data-lang-name="英语" data-foreign-title="Spatial citizenship"><span class="ilh-page"><a href="/w/index.php?title=%E7%A9%BA%E9%96%93%E5%85%AC%E6%B0%91%E6%AC%8A&amp;action=edit&amp;redlink=1" class="new" title="空间公民权（页面不存在）">空间公民权</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Spatial_citizenship" class="extiw" title="en:Spatial citizenship"><span lang="en" dir="auto">Spatial citizenship</span></a></span>）</span></span>）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align:center;;font-weight:bold;"><div>
+<ul><li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Portal:%E5%9C%B0%E7%90%86%E5%AD%A6" title="Portal:地理学">主题</a></li>
+<li><span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span> <a href="/wiki/WikiProject:%E5%9C%B0%E7%90%86%E5%AD%B8" title="WikiProject:地理学">专题</a></li>
+<li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:%E5%9C%B0%E7%90%86%E5%AD%A6" title="Category:地理学">相关页面</a></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="https://commons.wikimedia.org/wiki/category:Geography" class="extiw" title="commons:category:Geography">共享资源</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%A4%AA%E7%A9%BA%E6%B0%A3%E8%B1%A1%E8%A7%80%E6%B8%AC" title="Template:太空气象观测"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%A4%AA%E7%A9%BA%E6%B0%A3%E8%B1%A1%E8%A7%80%E6%B8%AC" title="Template talk:太空气象观测"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%A4%AA%E7%A9%BA%E6%B0%A3%E8%B1%A1%E8%A7%80%E6%B8%AC&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%">地球轨道气象观测和<a href="/wiki/%E9%81%A5%E6%84%9F" title="遥感">遥感</a>系统</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概念</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%9C%B0%E7%90%83%E8%A7%82%E6%B5%8B%E5%8D%AB%E6%98%9F" title="地球观测卫星">地球观测卫星</a></li>
+<li><a class="mw-selflink selflink">地理信息系统</a>（GIS）</li>
+<li><a href="/wiki/%E6%B0%A3%E8%B1%A1%E8%A1%9B%E6%98%9F" title="气象卫星">气象卫星</a></li>
+<li><span class="ilh-all" data-orig-title="NASA-ISRO合成孔徑雷達" data-lang-code="en" data-lang-name="英语" data-foreign-title="NISAR (satellite)"><span class="ilh-page"><a href="/w/index.php?title=NASA-ISRO%E5%90%88%E6%88%90%E5%AD%94%E5%BE%91%E9%9B%B7%E9%81%94&amp;action=edit&amp;redlink=1" class="new" title="NASA-ISRO合成孔径雷达（页面不存在）">NASA-ISRO合成孔径雷达</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NISAR_(satellite)" class="extiw" title="en:NISAR (satellite)"><span lang="en" dir="auto">NISAR (satellite)</span></a></span>）</span></span>（NISAR）</li>
+<li><span class="ilh-all" data-orig-title="ICESat-2" data-lang-code="en" data-lang-name="英语" data-foreign-title="ICESat-2"><span class="ilh-page"><a href="/w/index.php?title=ICESat-2&amp;action=edit&amp;redlink=1" class="new" title="ICESat-2（页面不存在）">ICESat-2</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ICESat-2" class="extiw" title="en:ICESat-2"><span lang="en" dir="auto">ICESat-2</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">进行中</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;"><span class="ilh-all" data-orig-title="地球觀測系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth Observing System"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%83%E8%A7%80%E6%B8%AC%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="地球观测系统（页面不存在）">地球观测系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_Observing_System" class="extiw" title="en:Earth Observing System"><span lang="en" dir="auto">Earth Observing System</span></a></span>）</span></span><br />（EOS）</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="GPM" data-lang-code="en" data-lang-name="英语" data-foreign-title="Global Precipitation Measurement"><span class="ilh-page"><a href="/w/index.php?title=GPM&amp;action=edit&amp;redlink=1" class="new" title="GPM（页面不存在）">GPM</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Global_Precipitation_Measurement" class="extiw" title="en:Global Precipitation Measurement"><span lang="en" dir="auto">Global Precipitation Measurement</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="TRMM" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tropical Rainfall Measuring Mission"><span class="ilh-page"><a href="/w/index.php?title=TRMM&amp;action=edit&amp;redlink=1" class="new" title="TRMM（页面不存在）">TRMM</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tropical_Rainfall_Measuring_Mission" class="extiw" title="en:Tropical Rainfall Measuring Mission"><span lang="en" dir="auto">Tropical Rainfall Measuring Mission</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="陸地衛星7號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Landsat 7"><span class="ilh-page"><a href="/w/index.php?title=%E9%99%B8%E5%9C%B0%E8%A1%9B%E6%98%9F7%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="陆地卫星7号（页面不存在）">陆地卫星7号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Landsat_7" class="extiw" title="en:Landsat 7"><span lang="en" dir="auto">Landsat 7</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="QuikSCAT" data-lang-code="en" data-lang-name="英语" data-foreign-title="QuikSCAT"><span class="ilh-page"><a href="/w/index.php?title=QuikSCAT&amp;action=edit&amp;redlink=1" class="new" title="QuikSCAT（页面不存在）">QuikSCAT</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/QuikSCAT" class="extiw" title="en:QuikSCAT"><span lang="en" dir="auto">QuikSCAT</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%B0%E6%8B%89_(%E4%BA%BA%E9%80%A0%E8%A1%9B%E6%98%9F)" title="泰拉 (人造卫星)">Terra</a></li>
+<li><span class="ilh-all" data-orig-title="ACRIMSAT" data-lang-code="en" data-lang-name="英语" data-foreign-title="ACRIMSAT"><span class="ilh-page"><a href="/w/index.php?title=ACRIMSAT&amp;action=edit&amp;redlink=1" class="new" title="ACRIMSAT（页面不存在）">ACRIMSAT</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ACRIMSAT" class="extiw" title="en:ACRIMSAT"><span lang="en" dir="auto">ACRIMSAT</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="新盛世計畫" data-lang-code="en" data-lang-name="英语" data-foreign-title="New Millennium Program"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%B0%E7%9B%9B%E4%B8%96%E8%A8%88%E7%95%AB&amp;action=edit&amp;redlink=1" class="new" title="新盛世项目（页面不存在）">新盛世项目</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/New_Millennium_Program" class="extiw" title="en:New Millennium Program"><span lang="en" dir="auto">New Millennium Program</span></a></span>）</span></span>（NMP）/ <span class="ilh-all" data-orig-title="地球觀察者1號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth Observing-1"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%83%E8%A7%80%E5%AF%9F%E8%80%851%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="地球观察者1号（页面不存在）">EO-1</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_Observing-1" class="extiw" title="en:Earth Observing-1"><span lang="en" dir="auto">Earth Observing-1</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="傑森1號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Jason-1"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%91%E6%A3%AE1%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="杰森1号（页面不存在）">杰森1号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Jason-1" class="extiw" title="en:Jason-1"><span lang="en" dir="auto">Jason-1</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="OSTM/Jason-2" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ocean Surface Topography Mission"><span class="ilh-page"><a href="/w/index.php?title=OSTM/Jason-2&amp;action=edit&amp;redlink=1" class="new" title="OSTM/Jason-2（页面不存在）">OSTM/Jason-2</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ocean_Surface_Topography_Mission" class="extiw" title="en:Ocean Surface Topography Mission"><span lang="en" dir="auto">Ocean Surface Topography Mission</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="傑森3號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Jason-3"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%91%E6%A3%AE3%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="杰森3号（页面不存在）">杰森3号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Jason-3" class="extiw" title="en:Jason-3"><span lang="en" dir="auto">Jason-3</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Meteor 3M" data-lang-code="en" data-lang-name="英语" data-foreign-title="Meteor (satellite)"><span class="ilh-page"><a href="/w/index.php?title=Meteor_3M&amp;action=edit&amp;redlink=1" class="new" title="Meteor 3M（页面不存在）">Meteor 3M</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Meteor_(satellite)" class="extiw" title="en:Meteor (satellite)"><span lang="en" dir="auto">Meteor (satellite)</span></a></span>）</span></span>-1/<a href="https://en.wikipedia.org/wiki/Stratospheric_Aerosol_and_Gas_Experiment" class="extiw" title="en:Stratospheric Aerosol and Gas Experiment">SAGE</a> III</li>
+<li><span class="ilh-all" data-orig-title="太陽輻射與氣候實驗衛星" data-lang-code="en" data-lang-name="英语" data-foreign-title="Solar Radiation and Climate Experiment"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%AA%E9%99%BD%E8%BC%BB%E5%B0%84%E8%88%87%E6%B0%A3%E5%80%99%E5%AF%A6%E9%A9%97%E8%A1%9B%E6%98%9F&amp;action=edit&amp;redlink=1" class="new" title="太阳辐射与气候实验卫星（页面不存在）">SORCE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Solar_Radiation_and_Climate_Experiment" class="extiw" title="en:Solar Radiation and Climate Experiment"><span lang="en" dir="auto">Solar Radiation and Climate Experiment</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%98%BF%E5%8D%A1%E8%A1%9B%E6%98%9F" title="阿卡卫星">Aqua</a></li>
+<li><span class="ilh-all" data-orig-title="Aura (衛星)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Aura (satellite)"><span class="ilh-page"><a href="/w/index.php?title=Aura_(%E8%A1%9B%E6%98%9F)&amp;action=edit&amp;redlink=1" class="new" title="Aura (卫星)（页面不存在）">Aura</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Aura_(satellite)" class="extiw" title="en:Aura (satellite)"><span lang="en" dir="auto">Aura (satellite)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="CALIPSO" data-lang-code="en" data-lang-name="英语" data-foreign-title="CALIPSO"><span class="ilh-page"><a href="/w/index.php?title=CALIPSO&amp;action=edit&amp;redlink=1" class="new" title="CALIPSO（页面不存在）">CALIPSO</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CALIPSO" class="extiw" title="en:CALIPSO"><span lang="en" dir="auto">CALIPSO</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="CloudSat" data-lang-code="en" data-lang-name="英语" data-foreign-title="CloudSat"><span class="ilh-page"><a href="/w/index.php?title=CloudSat&amp;action=edit&amp;redlink=1" class="new" title="CloudSat（页面不存在）">CloudSat</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CloudSat" class="extiw" title="en:CloudSat"><span lang="en" dir="auto">CloudSat</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="熱帶雲號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Megha-Tropiques"><span class="ilh-page"><a href="/w/index.php?title=%E7%86%B1%E5%B8%B6%E9%9B%B2%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="热带云号（页面不存在）">热带云号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Megha-Tropiques" class="extiw" title="en:Megha-Tropiques"><span lang="en" dir="auto">Megha-Tropiques</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="SARAL" data-lang-code="en" data-lang-name="英语" data-foreign-title="SARAL"><span class="ilh-page"><a href="/w/index.php?title=SARAL&amp;action=edit&amp;redlink=1" class="new" title="SARAL（页面不存在）">SARAL</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/SARAL" class="extiw" title="en:SARAL"><span lang="en" dir="auto">SARAL</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="印度遙感探測計畫" data-lang-code="en" data-lang-name="英语" data-foreign-title="Indian Remote Sensing Programme"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%B0%E5%BA%A6%E9%81%99%E6%84%9F%E6%8E%A2%E6%B8%AC%E8%A8%88%E7%95%AB&amp;action=edit&amp;redlink=1" class="new" title="印度遥感探测项目（页面不存在）">印度遥感探测项目</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Indian_Remote_Sensing_Programme" class="extiw" title="en:Indian Remote Sensing Programme"><span lang="en" dir="auto">Indian Remote Sensing Programme</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB" title="地球系统科学伙伴关系">ESSP</a></li>
+<li><a href="/w/index.php?title=Aquarius_(SAC-D_instrument)&amp;action=edit&amp;redlink=1" class="new" title="Aquarius (SAC-D instrument)（页面不存在）">Aquarius</a></li>
+<li><span class="ilh-all" data-orig-title="陸地衛星8號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Landsat 8"><span class="ilh-page"><a href="/w/index.php?title=%E9%99%B8%E5%9C%B0%E8%A1%9B%E6%98%9F8%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="陆地卫星8号（页面不存在）">陆地卫星8号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Landsat_8" class="extiw" title="en:Landsat 8"><span lang="en" dir="auto">Landsat 8</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%9F%E5%A3%A4%E6%B0%B4%E5%88%86%E4%B8%BB%E8%A2%AB%E5%8A%A8%E6%8E%A2%E6%B5%8B%E8%AE%A1%E5%88%92" title="土壤水分主被动探测计划">SMAP</a></li>
+<li><span class="ilh-all" data-orig-title="聯合極軌衛星系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Joint Polar Satellite System"><span class="ilh-page"><a href="/w/index.php?title=%E8%81%AF%E5%90%88%E6%A5%B5%E8%BB%8C%E8%A1%9B%E6%98%9F%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="联合极轨卫星系统（页面不存在）">联合极轨卫星系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Joint_Polar_Satellite_System" class="extiw" title="en:Joint Polar Satellite System"><span lang="en" dir="auto">Joint Polar Satellite System</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="NASA-ISRO合成孔徑雷達" data-lang-code="en" data-lang-name="英语" data-foreign-title="NISAR (satellite)"><span class="ilh-page"><a href="/w/index.php?title=NASA-ISRO%E5%90%88%E6%88%90%E5%AD%94%E5%BE%91%E9%9B%B7%E9%81%94&amp;action=edit&amp;redlink=1" class="new" title="NASA-ISRO合成孔径雷达（页面不存在）">NISAR</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NISAR_(satellite)" class="extiw" title="en:NISAR (satellite)"><span lang="en" dir="auto">NISAR (satellite)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="ICESat-2" data-lang-code="en" data-lang-name="英语" data-foreign-title="ICESat-2"><span class="ilh-page"><a href="/w/index.php?title=ICESat-2&amp;action=edit&amp;redlink=1" class="new" title="ICESat-2（页面不存在）">ICESat-2</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ICESat-2" class="extiw" title="en:ICESat-2"><span lang="en" dir="auto">ICESat-2</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;"><span class="ilh-all" data-orig-title="午後列車" data-lang-code="en" data-lang-name="英语" data-foreign-title="A-train (satellite constellation)"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%88%E5%BE%8C%E5%88%97%E8%BB%8A&amp;action=edit&amp;redlink=1" class="new" title="午后列车（页面不存在）">午后列车</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/A-train_(satellite_constellation)" class="extiw" title="en:A-train (satellite constellation)"><span lang="en" dir="auto">A-train (satellite constellation)</span></a></span>）</span></span>卫星群<br />（A-train）</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%98%BF%E5%8D%A1%E8%A1%9B%E6%98%9F" title="阿卡卫星">Aqua</a></li>
+<li><span class="ilh-all" data-orig-title="Aura (衛星)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Aura (satellite)"><span class="ilh-page"><a href="/w/index.php?title=Aura_(%E8%A1%9B%E6%98%9F)&amp;action=edit&amp;redlink=1" class="new" title="Aura (卫星)（页面不存在）">Aura</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Aura_(satellite)" class="extiw" title="en:Aura (satellite)"><span lang="en" dir="auto">Aura (satellite)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="CALIPSO" data-lang-code="en" data-lang-name="英语" data-foreign-title="CALIPSO"><span class="ilh-page"><a href="/w/index.php?title=CALIPSO&amp;action=edit&amp;redlink=1" class="new" title="CALIPSO（页面不存在）">CALIPSO</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CALIPSO" class="extiw" title="en:CALIPSO"><span lang="en" dir="auto">CALIPSO</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="CloudSat" data-lang-code="en" data-lang-name="英语" data-foreign-title="CloudSat"><span class="ilh-page"><a href="/w/index.php?title=CloudSat&amp;action=edit&amp;redlink=1" class="new" title="CloudSat（页面不存在）">CloudSat</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CloudSat" class="extiw" title="en:CloudSat"><span lang="en" dir="auto">CloudSat</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="GCOM-W1" data-lang-code="en" data-lang-name="英语" data-foreign-title="GCOM-W1"><span class="ilh-page"><a href="/w/index.php?title=GCOM-W1&amp;action=edit&amp;redlink=1" class="new" title="GCOM-W1（页面不存在）">GCOM-W1</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/GCOM-W1" class="extiw" title="en:GCOM-W1"><span lang="en" dir="auto">GCOM-W1</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="軌道碳觀測者2號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Orbiting Carbon Observatory 2"><span class="ilh-page"><a href="/w/index.php?title=%E8%BB%8C%E9%81%93%E7%A2%B3%E8%A7%80%E6%B8%AC%E8%80%852%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="轨道碳观测者2号（页面不存在）">轨道碳观测者2号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory_2" class="extiw" title="en:Orbiting Carbon Observatory 2"><span lang="en" dir="auto">Orbiting Carbon Observatory 2</span></a></span>）</span></span>（OCO-2）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%93%A5%E7%99%BD%E5%B0%BC%E8%AE%A1%E5%88%92" title="哥白尼计划">哥白尼计划</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%93%A8%E5%85%B51%E5%8F%B7" title="哨兵1号">哨兵1号</a></li>
+<li><a href="/wiki/%E5%93%A8%E5%85%B52%E5%8F%B7" title="哨兵2号">哨兵2号</a></li>
+<li><span class="ilh-all" data-orig-title="哨兵3號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentinel-3"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%A8%E5%85%B53%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="哨兵3号（页面不存在）">哨兵3号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentinel-3" class="extiw" title="en:Sentinel-3"><span lang="en" dir="auto">Sentinel-3</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="哨兵4號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentinel-4"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%A8%E5%85%B54%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="哨兵4号（页面不存在）">哨兵4号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentinel-4" class="extiw" title="en:Sentinel-4"><span lang="en" dir="auto">Sentinel-4</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="哨兵5號先導衛星" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentinel-5 Precursor"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%A8%E5%85%B55%E8%99%9F%E5%85%88%E5%B0%8E%E8%A1%9B%E6%98%9F&amp;action=edit&amp;redlink=1" class="new" title="哨兵5号先导卫星（页面不存在）">哨兵5号先导卫星</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentinel-5_Precursor" class="extiw" title="en:Sentinel-5 Precursor"><span lang="en" dir="auto">Sentinel-5 Precursor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="哨兵5號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentinel-5"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%A8%E5%85%B55%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="哨兵5号（页面不存在）">哨兵5号</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentinel-5" class="extiw" title="en:Sentinel-5"><span lang="en" dir="auto">Sentinel-5</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%9C%B0%E7%90%83%E9%9D%9C%E6%AD%A2%E8%BB%8C%E9%81%93" title="地球静止轨道">地球静止轨道</a>气象卫星</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="電子L系列衛星" data-lang-code="en" data-lang-name="英语" data-foreign-title="Elektro-L"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%AD%90L%E7%B3%BB%E5%88%97%E8%A1%9B%E6%98%9F&amp;action=edit&amp;redlink=1" class="new" title="电子L系列卫星（页面不存在）">电子L系列卫星</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Elektro-L" class="extiw" title="en:Elektro-L"><span lang="en" dir="auto">Elektro-L</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%A3%8E%E4%BA%91%E7%B3%BB%E5%88%97%E5%8D%AB%E6%98%9F" title="风云系列卫星">风云二号</a></li>
+<li><a href="/wiki/%E9%A3%8E%E4%BA%91%E7%B3%BB%E5%88%97%E5%8D%AB%E6%98%9F" title="风云系列卫星">风云四号</a></li>
+<li><a href="/wiki/%E9%9D%9C%E6%AD%A2%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC%E8%A1%9B%E6%98%9F" title="静止环境观测卫星">静止环境观测卫星</a></li>
+<li><span class="ilh-all" data-orig-title="印度國家衛星系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Indian National Satellite System"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%B0%E5%BA%A6%E5%9C%8B%E5%AE%B6%E8%A1%9B%E6%98%9F%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="印度国家卫星系统（页面不存在）">印度国家卫星系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Indian_National_Satellite_System" class="extiw" title="en:Indian National Satellite System"><span lang="en" dir="auto">Indian National Satellite System</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B1%B3%E5%A0%A4%E6%AD%90%E8%A1%9B%E6%98%9F%E5%85%AB%E8%99%9F" title="米堤欧卫星八号">米堤欧卫星八号</a></li>
+<li><a href="/wiki/%E5%90%91%E6%97%A5%E8%91%B58%E8%99%9F" title="向日葵8号">向日葵8号</a></li>
+<li><a href="/wiki/%E5%90%91%E6%97%A5%E8%91%B59%E8%99%9F" title="向日葵9号">向日葵9号</a></li>
+<li><a href="/wiki/GEO-KOMPSAT-2A" title="GEO-KOMPSAT-2A">GEO-KOMPSAT-2A</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;">其他</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=China%E2%80%93Brazil_Earth_Resources_Satellite_program&amp;action=edit&amp;redlink=1" class="new" title="China–Brazil Earth Resources Satellite program（页面不存在）">CBERS</a></li>
+<li><a href="/w/index.php?title=COSMO-SkyMed&amp;action=edit&amp;redlink=1" class="new" title="COSMO-SkyMed（页面不存在）">COSMO-SkyMed</a></li>
+<li><a href="/wiki/%E5%9C%8B%E9%98%B2%E6%B0%A3%E8%B1%A1%E8%A1%9B%E6%98%9F%E8%A8%88%E5%8A%83" title="国防气象卫星计划">DMSP</a></li>
+<li><a href="/w/index.php?title=Disaster_Monitoring_Constellation&amp;action=edit&amp;redlink=1" class="new" title="Disaster Monitoring Constellation（页面不存在）">DMC</a></li>
+<li><a href="/w/index.php?title=EROS_(satellite)&amp;action=edit&amp;redlink=1" class="new" title="EROS (satellite)（页面不存在）">EROS</a></li>
+<li><a href="/wiki/%E9%A3%8E%E4%BA%91%E7%B3%BB%E5%88%97%E5%8D%AB%E6%98%9F" title="风云系列卫星">风云三号</a></li>
+<li><a href="/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E8%A1%9B%E6%98%9F%E4%BA%94%E8%99%9F" title="福尔摩沙卫星五号">福尔摩沙卫星五号</a></li>
+<li><a href="/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E8%A1%9B%E6%98%9F%E4%B8%83%E8%99%9F" title="福尔摩沙卫星七号">福尔摩沙卫星七号</a></li>
+<li><a href="/wiki/%E7%8D%B5%E9%A2%A8%E8%80%85%E8%A1%9B%E6%98%9F" title="猎风者卫星">猎风者卫星</a></li>
+<li><a href="/w/index.php?title=Greenhouse_Gases_Observing_Satellite&amp;action=edit&amp;redlink=1" class="new" title="Greenhouse Gases Observing Satellite（页面不存在）">GOSAT (Ibuki)</a></li>
+<li><a href="/wiki/%E9%99%B8%E5%9C%B0%E8%A1%9B%E6%98%9F%E8%A8%88%E7%95%AB" title="陆地卫星项目">陆地卫星项目</a></li>
+<li><a href="/w/index.php?title=MetOp&amp;action=edit&amp;redlink=1" class="new" title="MetOp（页面不存在）">MetOp</a></li>
+<li><a href="/w/index.php?title=Meteor_(satellite)&amp;action=edit&amp;redlink=1" class="new" title="Meteor (satellite)（页面不存在）">Meteor</a></li>
+<li><a href="/w/index.php?title=Polar_Operational_Environmental_Satellites&amp;action=edit&amp;redlink=1" class="new" title="Polar Operational Environmental Satellites（页面不存在）">POES</a></li>
+<li><a href="/w/index.php?title=RADARSAT-2&amp;action=edit&amp;redlink=1" class="new" title="RADARSAT-2（页面不存在）">RADARSAT-2</a></li>
+<li><a href="/w/index.php?title=RapidEye&amp;action=edit&amp;redlink=1" class="new" title="RapidEye（页面不存在）">RapidEye</a></li>
+<li><a href="/w/index.php?title=Soil_Moisture_and_Ocean_Salinity&amp;action=edit&amp;redlink=1" class="new" title="Soil Moisture and Ocean Salinity（页面不存在）">SMOS</a></li>
+<li><a href="/wiki/SPOT%E5%8D%AB%E6%98%9F" title="SPOT卫星">SPOT</a></li>
+<li><a href="/w/index.php?title=TerraSAR-X&amp;action=edit&amp;redlink=1" class="new" title="TerraSAR-X（页面不存在）">TerraSAR-X</a></li>
+<li><a href="/w/index.php?title=THEOS_(satellite)&amp;action=edit&amp;redlink=1" class="new" title="THEOS (satellite)（页面不存在）">THEOS</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">历史项目</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;">任务完成</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=ADEOS_I&amp;action=edit&amp;redlink=1" class="new" title="ADEOS I（页面不存在）">ADEOS (Midori)</a></li>
+<li><a href="/w/index.php?title=ADEOS_II&amp;action=edit&amp;redlink=1" class="new" title="ADEOS II（页面不存在）">ADEOS II (Midori 2)</a></li>
+<li><a href="/wiki/CHAMP" title="CHAMP">CHAMP</a></li>
+<li><a href="/wiki/%E6%AD%90%E6%B4%B2%E7%92%B0%E5%A2%83%E8%A1%9B%E6%98%9F" title="欧洲环境卫星">欧洲环境卫星</a></li>
+<li><a href="/wiki/%E6%AC%A7%E6%B4%B2%E9%81%A5%E6%84%9F%E5%8D%AB%E6%98%9F" title="欧洲遥感卫星">ERS</a></li>
+<li><a href="/wiki/%E9%A3%8E%E4%BA%91%E7%B3%BB%E5%88%97%E5%8D%AB%E6%98%9F" title="风云系列卫星">风云一号</a></li>
+<li><a href="/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E8%A1%9B%E6%98%9F%E4%B8%89%E8%99%9F" title="福尔摩沙卫星三号">福尔摩沙卫星三号</a></li>
+<li><a href="/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E8%A1%9B%E6%98%9F%E4%B8%80%E8%99%9F" title="福尔摩沙卫星一号">福尔摩沙卫星一号</a></li>
+<li><a href="/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E8%A1%9B%E6%98%9F%E4%BA%8C%E8%99%9F" title="福尔摩沙卫星二号">福尔摩沙卫星二号</a></li>
+<li><a href="/wiki/Geosat" title="Geosat">Geosat</a></li>
+<li><a href="/wiki/%E5%90%91%E6%97%A5%E8%91%B5%E7%B3%BB%E5%88%97%E8%A1%9B%E6%98%9F" title="向日葵系列卫星">向日葵系列卫星</a>（GMS, Himawari）</li>
+<li><a href="/wiki/%E9%87%8D%E5%8A%9B%E5%9B%9E%E6%BA%AF%E5%8F%8A%E6%B0%A3%E5%80%99%E5%AF%A6%E9%A9%97%E8%A1%9B%E6%98%9F" title="重力回溯及气候实验卫星">GRACE</a></li>
+<li><a href="/w/index.php?title=ICESat&amp;action=edit&amp;redlink=1" class="new" title="ICESat（页面不存在）">ICESat</a></li>
+<li><a href="/w/index.php?title=IKONOS&amp;action=edit&amp;redlink=1" class="new" title="IKONOS（页面不存在）">IKONOS</a></li>
+<li><a href="/w/index.php?title=Nimbus_program&amp;action=edit&amp;redlink=1" class="new" title="Nimbus program（页面不存在）">Nimbus</a></li>
+<li><a href="/w/index.php?title=Parasol_(satellite)&amp;action=edit&amp;redlink=1" class="new" title="Parasol (satellite)（页面不存在）">PARASOL</a></li>
+<li><a href="/w/index.php?title=QuickBird&amp;action=edit&amp;redlink=1" class="new" title="QuickBird（页面不存在）">QuickBird</a></li>
+<li><a href="/w/index.php?title=RADARSAT-1&amp;action=edit&amp;redlink=1" class="new" title="RADARSAT-1（页面不存在）">RADARSAT-1</a></li>
+<li><a href="/w/index.php?title=Seasat&amp;action=edit&amp;redlink=1" class="new" title="Seasat（页面不存在）">Seasat</a></li>
+<li><a href="/w/index.php?title=SeaWiFS&amp;action=edit&amp;redlink=1" class="new" title="SeaWiFS（页面不存在）">SeaWiFS</a></li>
+<li><a href="/w/index.php?title=Television_Infrared_Observation_Satellite&amp;action=edit&amp;redlink=1" class="new" title="Television Infrared Observation Satellite（页面不存在）">TIROS</a></li>
+<li><a href="/wiki/TOPEX/Poseidon" title="TOPEX/Poseidon">TOPEX/Poseidon</a></li>
+<li><a href="/w/index.php?title=Upper_Atmosphere_Research_Satellite&amp;action=edit&amp;redlink=1" class="new" title="Upper Atmosphere Research Satellite（页面不存在）">UARS</a></li>
+<li><a href="/w/index.php?title=Project_Vanguard&amp;action=edit&amp;redlink=1" class="new" title="Project Vanguard（页面不存在）">Vanguard</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;">任务失败</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="軌道碳觀測者" data-lang-code="en" data-lang-name="英语" data-foreign-title="Orbiting Carbon Observatory"><span class="ilh-page"><a href="/w/index.php?title=%E8%BB%8C%E9%81%93%E7%A2%B3%E8%A7%80%E6%B8%AC%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="轨道碳观测者（页面不存在）">轨道碳观测者</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Orbiting_Carbon_Observatory" class="extiw" title="en:Orbiting Carbon Observatory"><span lang="en" dir="auto">Orbiting Carbon Observatory</span></a></span>）</span></span>（OCO）</li>
+<li><a href="/wiki/%E8%BE%89%E7%85%8C%E5%8F%B7%E5%8D%AB%E6%98%9F" title="辉煌号卫星">辉煌号</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;padding:0.25em 0; line-height:1.1em; width:10.0em;"><div style="padding:0em 0.75em;">任务取消</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="國防氣象衛星系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Defense Weather Satellite System"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%8B%E9%98%B2%E6%B0%A3%E8%B1%A1%E8%A1%9B%E6%98%9F%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="国防气象卫星系统（页面不存在）">国防气象卫星系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Defense_Weather_Satellite_System" class="extiw" title="en:Defense Weather Satellite System"><span lang="en" dir="auto">Defense Weather Satellite System</span></a></span>）</span></span></li>
+<li>NMP / <span class="ilh-all" data-orig-title="地球觀察者3號" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth Observing-3"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%90%83%E8%A7%80%E5%AF%9F%E8%80%853%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="地球观察者3号（页面不存在）">EO-3</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_Observing-3" class="extiw" title="en:Earth Observing-3"><span lang="en" dir="auto">Earth Observing-3</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="國家繞極運作環境衛星系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="NPOESS"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%8B%E5%AE%B6%E7%B9%9E%E6%A5%B5%E9%81%8B%E4%BD%9C%E7%92%B0%E5%A2%83%E8%A1%9B%E6%98%9F%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="国家绕极运作环境卫星系统（页面不存在）">国家绕极运作环境卫星系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NPOESS" class="extiw" title="en:NPOESS"><span lang="en" dir="auto">NPOESS</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q483130" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E8%97%9D%E8%A1%93%E8%88%87%E5%BB%BA%E7%AF%89%E7%B4%A2%E5%BC%95%E5%85%B8" title="艺术与建筑索引典">AAT</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://vocab.getty.edu/page/aat/300263887">300263887</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="西班牙国家图书馆">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX667435">XX667435</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb121806943">cb121806943</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb121806943">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%88%86%E9%9D%A2%E6%87%89%E7%94%A8%E4%B8%BB%E9%A1%8C%E8%A9%9E%E8%A1%A8" title="分面应用主题词表">FAST</a>: <span class="uid"><a rel="nofollow" class="external text" href="//experimental.worldcat.org/fast/1752691">1752691</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="集成规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4261642-6">4261642-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007551319305171">987007551319305171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh90001880">sh90001880</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8B%89%E6%89%98%E7%BB%B4%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="拉托维亚国家图书馆">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000073769&amp;P_CON_LNG=ENG">000073769</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00933031">00933031</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph114617&amp;CON_LNG=ENG">ph114617</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐787cc5875f‐8ctcp
+Cached time: 20240402122230
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.778 seconds
+Real time usage: 0.976 seconds
+Preprocessor visited node count: 4214/1000000
+Post‐expand include size: 447919/2097152 bytes
+Template argument size: 23368/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 74/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9658/5000000 bytes
+Lua time usage: 0.353/10.000 seconds
+Lua memory usage: 24669247/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  636.287      1 -total
+ 20.33%  129.363      1 Template:太空氣象觀測
+ 19.97%  127.090      1 Template:Navbox
+ 18.51%  117.770      1 Template:Lang-en
+ 17.90%  113.880      1 Template:Geography_topics
+ 17.56%  111.750      2 Template:Navbox_subgroup
+ 17.52%  111.471      1 Template:NavboxV2
+ 13.52%   86.051     39 Template:Le
+ 11.14%   70.910      1 Template:NoteTA
+  9.33%   59.350     26 Template:Link-en
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:41094-0!userlang=zh-cn!zh-cn and timestamp 20240402122230 and revision id 82126343. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=地理信息系统&amp;oldid=82126343">https://zh.wikipedia.org/w/index.php?title=地理信息系统&amp;oldid=82126343</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="Category:地理信息系统">地理信息系统</a></li><li><a href="/wiki/Category:%E7%89%A9%E6%B5%81" title="Category:物流">物流</a></li><li><a href="/wiki/Category:%E5%9C%B0%E7%90%86%E5%AD%A6" title="Category:地理学">地理学</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF%EF%BC%9A%E6%97%A5%E6%9C%9F" title="Category:引文格式1错误：日期">引文格式1错误：日期</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABAAT%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含AAT标识符的维基百科条目">包含AAT标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNE%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNE标识符的维基百科条目">包含BNE标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABFAST%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含FAST标识符的维基百科条目">包含FAST标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLNB%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LNB标识符的维基百科条目">包含LNB标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年4月2日 (星期二) 12:04。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-584kb","wgBackendResponseTime":169,"wgPageParseReport":{"limitreport":{"cputime":"0.778","walltime":"0.976","ppvisitednodes":{"value":4214,"limit":1000000},"postexpandincludesize":{"value":447919,"limit":2097152},"templateargumentsize":{"value":23368,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":74,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9658,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  636.287      1 -total"," 20.33%  129.363      1 Template:太空氣象觀測"," 19.97%  127.090      1 Template:Navbox"," 18.51%  117.770      1 Template:Lang-en"," 17.90%  113.880      1 Template:Geography_topics"," 17.56%  111.750      2 Template:Navbox_subgroup"," 17.52%  111.471      1 Template:NavboxV2"," 13.52%   86.051     39 Template:Le"," 11.14%   70.910      1 Template:NoteTA","  9.33%   59.350     26 Template:Link-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.353","limit":"10.000"},"limitreport-memusage":{"value":24669247,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-787cc5875f-8ctcp","timestamp":"20240402122230","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5730\u7406\u4fe1\u606f\u7cfb\u7edf","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q483130","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q483130","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-25T15:02:11Z","dateModified":"2024-04-02T12:04:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/09\/GeoServer_GeoNetwork_with_web_app.svg","headline":"\u53c8\u79f0\u5730\u56fe\u4fe1\u606f\u7cfb\u7edf"}</script>
+</body>
+</html>

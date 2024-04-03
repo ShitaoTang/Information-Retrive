@@ -1,0 +1,1650 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>电源供应器 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"2d79a0db-cd9b-4821-af31-c6357ec3b75d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"電源供應器","wgTitle":"電源供應器","wgCurRevisionId":78941335,"wgRevisionId":78941335,"wgArticleId":1081719,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2020年6月带有失效链接的条目","条目有永久失效的外部链接","引文格式1错误：日期","自2015年3月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","使用2號參數傳遞Portal模板圖像的頁面","维基共享资源分类链接使用了维基数据上的匹配项","電源","電腦硬體"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"電源供應器","wgRelevantArticleId":1081719,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":60000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3972","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model",
+"platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/1200px-PSU-Open1.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1106">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/800px-PSU-Open1.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="737">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/640px-PSU-Open1.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="590">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="电源供应器 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-電源供應器 rootpage-電源供應器 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-功能"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#功能">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>功能</div>
+		</a>
+		
+		<ul id="toc-功能-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-技術規格演變歷程"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#技術規格演變歷程">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>技术规格演变历程</div>
+		</a>
+		
+			<button aria-controls="toc-技術規格演變歷程-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关技术规格演变历程子章节</span>
+			</button>
+		
+		<ul id="toc-技術規格演變歷程-sublist" class="vector-toc-list">
+			<li id="toc-原始的IBM_PC、XT以及AT標準"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#原始的IBM_PC、XT以及AT標準">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>原始的IBM PC、XT以及AT标准</div>
+			</a>
+			
+			<ul id="toc-原始的IBM_PC、XT以及AT標準-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-ATX標準"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ATX標準">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>ATX标准</div>
+			</a>
+			
+			<ul id="toc-ATX標準-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-ATX12V標準"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ATX12V標準">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>ATX12V标准</div>
+			</a>
+			
+			<ul id="toc-ATX12V標準-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-+3.3V和+5V電壓通道"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#+3.3V和+5V電壓通道">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>+3.3V和+5V电压通道</div>
+			</a>
+			
+			<ul id="toc-+3.3V和+5V電壓通道-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-入門級電源規格"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#入門級電源規格">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>入门级电源规格</div>
+			</a>
+			
+			<ul id="toc-入門級電源規格-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-+12V多通道供電"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#+12V多通道供電">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>+12V多通道供电</div>
+			</a>
+			
+			<ul id="toc-+12V多通道供電-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-「12V-only」供電"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#「12V-only」供電">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7</span>“12V-only”供电</div>
+			</a>
+			
+			<ul id="toc-「12V-only」供電-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-額定功率標定"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#額定功率標定">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>额定功率标定</div>
+		</a>
+		
+		<ul id="toc-額定功率標定-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-轉換效率"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#轉換效率">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>转换效率</div>
+		</a>
+		
+		<ul id="toc-轉換效率-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外觀規格"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外觀規格">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>外观规格</div>
+		</a>
+		
+			<button aria-controls="toc-外觀規格-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关外观规格子章节</span>
+			</button>
+		
+		<ul id="toc-外觀規格-sublist" class="vector-toc-list">
+			<li id="toc-連接器規格"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#連接器規格">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>连接器规格</div>
+			</a>
+			
+			<ul id="toc-連接器規格-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-輸出線模組化"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#輸出線模組化">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>输出线模块化</div>
+			</a>
+			
+			<ul id="toc-輸出線模組化-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-其他尺寸"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#其他尺寸">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>其他尺寸</div>
+		</a>
+		
+		<ul id="toc-其他尺寸-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-連接器針腳圖"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#連接器針腳圖">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>连接器针脚图</div>
+		</a>
+		
+		<ul id="toc-連接器針腳圖-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-認證"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#認證">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>认证</div>
+		</a>
+		
+		<ul id="toc-認證-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-使用壽命"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#使用壽命">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>使用寿命</div>
+		</a>
+		
+		<ul id="toc-使用壽命-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-測試"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#測試">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>测试</div>
+		</a>
+		
+		<ul id="toc-測試-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相關"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>相关</div>
+		</a>
+		
+		<ul id="toc-相關-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-腳註"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#腳註">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>脚注</div>
+		</a>
+		
+			<button aria-controls="toc-腳註-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关脚注子章节</span>
+			</button>
+		
+		<ul id="toc-腳註-sublist" class="vector-toc-list">
+			<li id="toc-註解"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#註解">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.1</span>注解</div>
+			</a>
+			
+			<ul id="toc-註解-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-參考資料"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#參考資料">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.2</span>参考资料</div>
+			</a>
+			
+			<ul id="toc-參考資料-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">13</span>外部链接</div>
+		</a>
+		
+			<button aria-controls="toc-外部链接-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关外部链接子章节</span>
+			</button>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+			<li id="toc-電源供應器功率計算"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#電源供應器功率計算">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">13.1</span>电源供应器功率计算</div>
+			</a>
+			
+			<ul id="toc-電源供應器功率計算-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-ATX電源供應器規格"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ATX電源供應器規格">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">13.2</span>ATX电源供应器规格</div>
+			</a>
+			
+			<ul id="toc-ATX電源供應器規格-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">电源供应器</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。41种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-41" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">41种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A9_%D8%AA%D8%B2%D9%88%D9%8A%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_(%D8%AD%D8%A7%D8%B3%D9%88%D8%A8)" title="وحدة تزويد الطاقة (حاسوب) – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Qida_bloku" title="Qida bloku – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%BE_%D0%B7%D0%B0%D1%85%D1%80%D0%B0%D0%BD%D0%B2%D0%B0%D0%BD%D0%B5" title="Компютърно захранване – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Ra%C4%8Dunarska_napojna_jedinica" title="Računarska napojna jedinica – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Nap%C3%A1jec%C3%AD_zdroj_(po%C4%8D%C3%ADta%C4%8D)" title="Napájecí zdroj (počítač) – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/PC-Netzteil" title="PC-Netzteil – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Power_supply_unit_(computer)" title="Power supply unit (computer) – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kurentprovizo" title="Kurentprovizo – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Arvuti_toiteplokk" title="Arvuti toiteplokk – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%AD%D8%AF_%D9%85%D9%86%D8%A8%D8%B9_%D8%AA%D8%BA%D8%B0%DB%8C%D9%87" title="واحد منبع تغذیه – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tietokoneen_virtal%C3%A4hde" title="Tietokoneen virtalähde – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Bloc_d%27alimentation" title="Bloc d&#039;alimentation – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A3%E0%A4%95_%E0%A4%95%E0%A4%BE_%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A5%80_%E0%A4%8F%E0%A4%95%E0%A4%95" title="संगणक का शक्ति प्रदायी एकक – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/T%C3%A1pegys%C3%A9g_(PC)" title="Tápegység (PC) – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Pencatu_daya_komputer" title="Pencatu daya komputer – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it badge-Q70894304 mw-list-item" title=""><a href="https://it.wikipedia.org/wiki/Alimentatore_per_Personal_Computer" title="Alimentatore per Personal Computer – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/ATX%E9%9B%BB%E6%BA%90" title="ATX電源 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%95%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%91%E1%83%9A%E1%83%9D%E1%83%99%E1%83%98" title="კვების ბლოკი – 格鲁吉亚语" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9B%90_%EA%B3%B5%EA%B8%89_%EC%9E%A5%EC%B9%98_(%EC%BB%B4%ED%93%A8%ED%84%B0)" title="전원 공급 장치 (컴퓨터) – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Baro%C5%A1anas_bloks_(dators)" title="Barošanas bloks (dators) – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Bekalan_kuasa_komputer" title="Bekalan kuasa komputer – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Computervoeding" title="Computervoeding – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Zasilacz_komputera" title="Zasilacz komputera – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Unidade_de_fonte_de_alimenta%C3%A7%C3%A3o_(computador)" title="Unidade de fonte de alimentação (computador) – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Surs%C4%83_de_alimentare" title="Sursă de alimentare – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Блок питания компьютера – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Napajanje_ra%C4%8Dunara" title="Napajanje računara – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Power_supply_unit" title="Power supply unit – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Zdroj_(po%C4%8D%C3%ADta%C4%8D)" title="Zdroj (počítač) – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Napajalnik" title="Napajalnik – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Nj%C3%ABsia_e_furnizimit_me_energji_elektrike" title="Njësia e furnizimit me energji elektrike – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Sistemi_za_napajanje_ra%C4%8Dunara" title="Sistemi za napajanje računara – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B0%B5%E0%B0%B0%E0%B1%8D_%E0%B0%B8%E0%B0%AA%E0%B1%8D%E0%B0%B2%E0%B1%88_%E0%B0%AF%E0%B1%82%E0%B0%A8%E0%B0%BF%E0%B0%9F%E0%B1%8D_(%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D)" title="పవర్ సప్లై యూనిట్ (కంప్యూటర్) – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9F%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="แหล่งจ่ายไฟสำหรับคอมพิวเตอร์ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Power_supply_unit_(kompyuter)" title="Power supply unit (kompyuter) – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/G%C3%BC%C3%A7_kayna%C4%9F%C4%B1_(bilgisayar)" title="Güç kaynağı (bilgisayar) – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%B1%D0%BB%D0%BE%D0%BA_%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" title="Комп&#039;ютерний блок живлення – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D9%88%D8%B1_%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_(%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1)" title="پاور سپلائی (کمپیوٹر) – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ngu%E1%BB%93n_m%C3%A1y_t%C3%ADnh" title="Nguồn máy tính – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/%E1%83%93%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8_%E1%83%AC%E1%83%A7%E1%83%A3" title="დენიშ წყუ – 明格列爾文" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E7%81%AB%E7%89%9B" title="電腦火牛 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3972#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;oldid=78941335" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;id=78941335&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%259B%25BB%25E6%25BA%2590%25E4%25BE%259B%25E6%2587%2589%25E5%2599%25A8"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%259B%25BB%25E6%25BA%2590%25E4%25BE%259B%25E6%2587%2589%25E5%2599%25A8"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3972" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/PSU" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-f3e2a619" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2015年3月14日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助补充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能会因为<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br />致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">"电源供应器"</a> &#8212; <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-f3e2a619" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:PSU-Open1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/250px-PSU-Open1.jpg" decoding="async" width="250" height="230" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/375px-PSU-Open1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/PSU-Open1.jpg/500px-PSU-Open1.jpg 2x" data-file-width="1804" data-file-height="1662" /></a><figcaption>一个被揭开顶盖的ATX规格之电源供应器</figcaption></figure>
+<p><b>供电单元</b>（power supply unit，<b>PSU</b>），又被称作<b>电源供应器</b>或<b>电源供应单元</b>，是电能转换类的电源（有别于<a href="/wiki/%E9%9B%BB%E6%B1%A0" class="mw-redirect" title="电池">电池</a>供电类的电源），主要功能为将标准<a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">交流电</a>转成低压稳定的<a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="直流电">直流电</a>，或直接将直流电转成低压稳定的直流电给某些特殊的器材使用。香港又称<b>火牛</b>，是电牛的意思，意指电力供应者，源于早期变压器造型似牛；用于电脑者，又俗称<b>电脑电源</b>。
+</p><p>目前一般的电源供应器大都为<a href="/wiki/%E9%96%8B%E9%97%9C%E6%A8%A1%E5%BC%8F%E9%9B%BB%E6%BA%90" title="开关模式电源">开关模式电源</a>，输入电压自动适应家用所在地点<a href="/wiki/%E5%B8%82%E9%9B%BB" title="市电">市电</a>参数，而某些产品可能需要家用调整电压切换开关。常用的<a href="/wiki/ATX%E8%A6%8F%E6%A0%BC" title="ATX规格">ATX规格</a>PC电源供应器，输入电压一般为 100V至 250V之间，输入交流电频率频率 50Hz或 60Hz，输出 12V、5V及 3.3V三种稳定的直流电压。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8A.9F.E8.83.BD"></span><span class="mw-headline" id="功能">功能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=1" title="编辑章节：功能"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r70089473/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:551px;max-width:551px"><div class="trow"><div class="tsingle" style="width:342px;max-width:342px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:PC-PowerSupply-Principle-Circuit.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PC-PowerSupply-Principle-Circuit.svg/340px-PC-PowerSupply-Principle-Circuit.svg.png" decoding="async" width="340" height="160" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PC-PowerSupply-Principle-Circuit.svg/510px-PC-PowerSupply-Principle-Circuit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PC-PowerSupply-Principle-Circuit.svg/680px-PC-PowerSupply-Principle-Circuit.svg.png 2x" data-file-width="3685" data-file-height="1736" /></a></span></div><div class="thumbcaption">一个典型的PC电源供应器的电路框图</div></div><div class="tsingle" style="width:205px;max-width:205px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:PC-PowerSupply-VoltageController.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PC-PowerSupply-VoltageController.svg/203px-PC-PowerSupply-VoltageController.svg.png" decoding="async" width="203" height="159" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PC-PowerSupply-VoltageController.svg/305px-PC-PowerSupply-VoltageController.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PC-PowerSupply-VoltageController.svg/406px-PC-PowerSupply-VoltageController.svg.png 2x" data-file-width="1398" data-file-height="1098" /></a></span></div><div class="thumbcaption">典型的XT和AT电压调节电路图</div></div></div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r70089473/mw-parser-output/.tmulti"><div class="thumb tmulti tright"><div class="thumbinner" style="width:278px;max-width:278px"><div class="trow"><div class="tsingle" style="width:134px;max-width:134px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:PFC_passive_IMG_1702.JPG" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PFC_passive_IMG_1702.JPG/132px-PFC_passive_IMG_1702.JPG" decoding="async" width="132" height="133" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PFC_passive_IMG_1702.JPG/198px-PFC_passive_IMG_1702.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PFC_passive_IMG_1702.JPG/264px-PFC_passive_IMG_1702.JPG 2x" data-file-width="1485" data-file-height="1494" /></a></span></div></div><div class="tsingle" style="width:140px;max-width:140px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:PFC_active_IMG_1703.JPG" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PFC_active_IMG_1703.JPG/138px-PFC_active_IMG_1703.JPG" decoding="async" width="138" height="133" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PFC_active_IMG_1703.JPG/207px-PFC_active_IMG_1703.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PFC_active_IMG_1703.JPG/276px-PFC_active_IMG_1703.JPG 2x" data-file-width="1446" data-file-height="1392" /></a></span></div></div></div><div class="trow" style="display:flex"><div class="thumbcaption">内置于PC电源供应器内的功率因数修正电路设备<br />左图：电感电容补偿式无源功率因数修正设备<br />右图：有源功率因数修正设备</div></div></div></div>
+<p>电源供应器主要的功是将<a href="/wiki/%E5%AE%B6%E7%94%A8%E4%BA%A4%E6%B5%81%E9%9B%BB%E6%BA%90%E6%8F%92%E9%A0%AD%E8%88%87%E6%8F%92%E5%BA%A7" title="家用交流电源插头与插座">墙上插座</a>获得<a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">交流电</a>转换为电子设备所能使用的低电压<a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="直流电">直流电</a>。由于在电子设备内不同零组件所需的电压不同，且都都需要稳定连续的直流电压，因此电源供应器可提供数个直流电压；另电源供应器内必须配备电压调节器/稳定器（<a href="/wiki/%E7%A8%B3%E5%8E%8B%E5%99%A8" title="稳压器">稳压器</a>），来提供精确稳定的电压值，来确保电子设备/电脑各组件的正常运作。“电源轨”/“电源通道”（power supply rail）或“电压轨”/“电压通道”（voltage rail）一般指电源供应器提供的各个电压值。尽管这一词汇常用于电子工程学上，部分人尤其是是电脑<a href="/wiki/%E6%84%9B%E5%A5%BD%E8%80%85" class="mw-redirect" title="爱好者">爱好者</a>，在接触并深入了解电子设备或电脑电源供应器的时候都会遇到这些名词。
+</p><p>第一代微型计算机(又称电脑)、家用电脑的电源供应器，是使用笨重的降压<a href="/wiki/%E8%AE%8A%E5%A3%93%E5%99%A8" class="mw-redirect" title="变压器">变压器</a>配合整流器、滤波组件和稳压器组成的<a href="/wiki/%E7%B7%9A%E6%80%A7%E9%9B%BB%E5%A3%93%E8%AA%BF%E7%AF%80%E5%99%A8" title="线性电压调节器">线性电压调节器</a>。而现代电子产品或电脑则使用<a href="/wiki/%E9%96%8B%E9%97%9C%E6%A8%A1%E5%BC%8F%E9%9B%BB%E6%BA%90" title="开关模式电源">开关模式电源</a>（SMPS）：<a href="/wiki/%E5%B8%82%E9%9B%BB" title="市电">市电</a>直接进行整流和滤波以后，经高频开关器（像是<a href="/wiki/%E5%8F%8C%E6%9E%81%E6%80%A7%E6%99%B6%E4%BD%93%E7%AE%A1" title="双极性晶体管">功率级BJT</a>或<a href="/wiki/%E5%8A%9F%E7%8E%87%E7%B4%9AMOSFET" class="mw-redirect" title="功率级MOSFET">功率级MOSFET</a>）与铁氧体芯高频降压变压器组成的隔离型DC-DC转换设备降低为数种直流电压，再经稳压、滤波设备输出供电脑使用的电能。开关型电源相对等效的线性电源要轻得多，成本更低，并且更有效率。<sup id="cite_ref-techbang.com1_1-0" class="reference"><a href="#cite_note-techbang.com1-1">&#91;1&#93;</a></sup>
+</p><p>不少电脑或电子设备电源供应器还配备有短路保护、重载保护、过压保护、欠压保护、过流保护、温度保护等功能，保证电源供应器及其供电的设备能正常稳定工作。其中更有不少保护功能被列为行业标准。另外，一些功率较大的电源供应器，也会配备被动（无源）式或主动（有源）式的<a href="/wiki/%E5%8A%9F%E7%8E%87%E5%9B%A0%E6%95%B8%E4%BF%AE%E6%AD%A3" class="mw-redirect" title="功率因数修正">功率因数修正</a>（PFC）技术，这个也成为行业标准。被动因数修正通常是采用电感电容补偿电路或是<a href="/wiki/%E5%A1%AB%E8%B0%B7%E5%BC%8F%E9%9B%BB%E8%B7%AF" title="填谷式电路">填谷式电路</a>实现，功率因数通常能达到0.7至0.9；而主动功率因数修正则更为复杂，但可获得最高达0.99的高功率因数。为了控制电源供应器的发热，也有电源转换效率的下限限制，像是非正式行业认证的<a href="/wiki/80_PLUS" title="80 PLUS">80 PLUS规范</a>认证。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>现代的电源供应器都配备待机功能，使电脑能通过操作系统来带电安全关闭。由于系统关闭后电源供应器仍然提供电压，只要主板支持，可实现开关按键触发引导、局域网唤醒引导、电脑键盘鼠标唤醒引导等等功能。
+</p>
+<h2><span id=".E6.8A.80.E8.A1.93.E8.A6.8F.E6.A0.BC.E6.BC.94.E8.AE.8A.E6.AD.B7.E7.A8.8B"></span><span class="mw-headline" id="技術規格演變歷程">技术规格演变历程</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=2" title="编辑章节：技术规格演变历程"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E5.8E.9F.E5.A7.8B.E7.9A.84IBM_PC.E3.80.81XT.E4.BB.A5.E5.8F.8AAT.E6.A8.99.E6.BA.96"></span><span class="mw-headline" id="原始的IBM_PC、XT以及AT標準">原始的IBM PC、XT以及AT标准</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=3" title="编辑章节：原始的IBM PC、XT以及AT标准"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/AT%E8%A6%8F%E6%A0%BC" title="AT规格">AT规格</a></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG/220px-XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG" decoding="async" width="220" height="114" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG/330px-XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG/440px-XT-PC-Power-Supply-PSU-PCB-IMG_0435.JPG 2x" data-file-width="2014" data-file-height="1042" /></a><figcaption>一个IBM XT电源供应器复制品的电路板</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG/220px-XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG" decoding="async" width="220" height="172" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG/330px-XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG/440px-XT-PC-Power-Supply-PSU-SMPS-IMG_0445.JPG 2x" data-file-width="2031" data-file-height="1584" /></a><figcaption>一般XT电源供应器标准的电源开关</figcaption></figure>
+<p>最早期<a href="/wiki/IBM_PC" title="IBM PC">IBM PC</a>的电源供应器，提供+5V、+12V两组主电压和-5V、-12V两组负电压，其中负电压组所能提供的功率比较有限，只占电源供应器总输出功率中的一小部分。大部分的<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a>/芯片都在5V的电压下运作。这种原始的电源供应器能提供63.5<a href="/wiki/%E7%93%A6%E7%89%B9" title="瓦特">瓦</a>的电功率，其中大部分电功率处于+5V电压轨下。
+</p><p>+12V电压主要用于<a href="/wiki/%E9%9B%BB%E5%8B%95%E6%A9%9F" class="mw-redirect" title="电动机">马达</a>，像是<a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘驱动器</a>、<a href="/wiki/%E5%86%B7%E5%8D%B4" title="冷却">冷却</a><a href="/wiki/%E9%A3%8E%E6%89%87" title="风扇">风扇</a>（包括安装于<a href="/wiki/%E6%95%A3%E7%83%AD%E5%99%A8" title="散热器">散热器</a>上的）一类。而随着像是<a href="/wiki/%E8%BD%AF%E7%9B%98" title="软盘">磁盘驱动器</a>、<a href="/wiki/%E5%85%89%E7%9B%98%E9%A9%B1%E5%8A%A8%E5%99%A8" title="光盘驱动器">光盘驱动器</a>等周边设备的增加，对+12V电压轨上的电功率需求也日渐增多。然而，由于大部分的电能仍然是<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">芯片</a>所消耗，因此5V电压轨仍然是输出电源供应器总输出功率中使用最多的电功率。-12V电压轨主要为<a href="/wiki/RS-232" title="RS-232">RS-232</a><a href="/wiki/%E4%B8%B2%E8%A1%8C%E7%AB%AF%E5%8F%A3" title="串行端口">串列端口</a>提供负电压电源。而-5V电压轨则是为<a href="/wiki/%E5%B7%A5%E4%B8%9A%E6%A0%87%E5%87%86%E7%BB%93%E6%9E%84" title="工业标准结构">ISA总线</a>上的周边设备提供负电压电源，并不会在<a href="/wiki/%E4%B8%BB%E6%9D%BF" title="主板">主板</a>的供电上使用。
+</p><p>另外，这些早期的电源供应器还会额外提供一根称为“Power Good”的线缆，用来防止数字电路在电源供应器通电后最开始的数毫秒内启动运作，这数毫秒内电源供应器的输出电压和输出电流都会上升，并不稳定，这种情况下不足以使电路正常运作。当输出电压稳定正常可满足电路的供电需要，“Power Good”信号使得电源供应器内部的数字电路开始运作并能对电脑有效供电。
+</p><p>原始的IBM PC电源供应器中（型号5150），XT和AT规格的都包含一个线电压电源开关，这个开关安装在电脑机壳侧面的延伸位置上。这种设计的变体出现在一些塔式机壳上，线电压开关用一根短线缆连接至电源供应器上，可根据需要设计成电源供应器上一个可拆卸的部件。
+</p><p>一台早期的微型电脑，其电源供应器不是处于全开状态，就是完全关闭，由机械式的线电压开关控制，并没有考虑设计一个在低耗电的空载模式时的节电功能。这些电源供应器一般不能像现在的电脑电源供应器那样有待机、软关闭等节电功能，或者是定时计划引导控制等功能。
+</p><p>由于是“一直开着”的设计，在发生<a href="/wiki/%E7%9F%AD%E8%B7%AF" title="短路">短路</a>情况时，可能造成<a href="/wiki/%E4%BF%9D%E9%9A%AA%E7%B5%B2" title="保险丝">保险丝</a>/熔断器烧断或爆开，或是有开关模式的电源会频繁断电，需要等上一段时间然后尝试重启。一些电源供应器频繁地重启时会使电脑发出声音，像是周边设备的“tick-tock”声以及主板<a href="/wiki/%E8%9C%82%E9%B3%B4%E5%99%A8" title="蜂鸣器">蜂鸣器</a>的蜂鸣声等等。
+</p>
+<h3><span id="ATX.E6.A8.99.E6.BA.96"></span><span class="mw-headline" id="ATX標準">ATX标准</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=4" title="编辑章节：ATX标准"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/ATX%E8%A6%8F%E6%A0%BC" title="ATX规格">ATX规格</a></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg/250px-Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg" decoding="async" width="250" height="167" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg/375px-Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg/500px-Voltage_converter_for_80486_dx4_processors_2007_03_27.jpg 2x" data-file-width="2696" data-file-height="1797" /></a><figcaption><a href="/wiki/80486" class="mw-redirect" title="80486">80486DX4中央处理器</a>的电压转换器（5V转换至3.3V）。注意它使用<a href="/wiki/%E7%BA%BF%E6%80%A7%E8%B0%83%E8%8A%82%E5%99%A8" class="mw-redirect" title="线性调节器">线性调节器</a>，其上还覆盖<a href="/wiki/%E6%95%A3%E7%83%AD%E7%89%87" title="散热片">散热片</a>，这意味着在转换过程中会产生废热造成电能浪费。</figcaption></figure>
+<p>英特尔提出并发展ATX标准的电源供应器连接器（1995年正式发表）之后，运作于3.3V的微芯片越来越多。从1994年英特尔发布<a href="/wiki/80486" class="mw-redirect" title="80486">80486DX4</a>微处理器开始,ATX标准有三个主要的正电压通道：+3.3V、+5V以及+12V。而早期的电脑如果有芯片需要3.3V供电的话，当时典型的做法是串联一个电路简单但是转换效率较低的<a href="/wiki/%E7%B7%9A%E6%80%A7%E9%9B%BB%E5%A3%93%E8%AA%BF%E7%AF%80%E5%99%A8" title="线性电压调节器">线性电压调节器</a>，可以接入+5V电压通道，输出+3.3V电压。
+</p><p>ATX连接器为3.3V电压通道提供多股线缆及相应的电源连接端口，由于电压更低，在导在线以及连接器上的电压降相对+5V而言更为敏感。另一个ATX标准新增的是独立于+5V供电压通道的+5V SB (Standby)电压通道，提供待机所需的电功率，另外只要不切断交流电源，即使电脑已经关闭，其它电压通道已经切断的情况下，+5V SB仍然会提供小功率的直流电源。
+</p>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Com_650_750_850.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Com_650_750_850.JPG/250px-Com_650_750_850.JPG" decoding="async" width="250" height="213" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Com_650_750_850.JPG/375px-Com_650_750_850.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Com_650_750_850.JPG/500px-Com_650_750_850.JPG 2x" data-file-width="574" data-file-height="488" /></a><figcaption>各种瓦数ATX电源供应器</figcaption></figure>
+<p>与前代的AT标准相比，ATX标准电源供应器的连接器也会为主板提供电力，以及“软开关”功能。ATX标准的系统中，由于+5V SB电压轨的存在，前置面板的电源开关被替换成一个触发开关，和主板连接，提供电源供应器控制信号来开通或关断主电压通道，而不是前代AT标准中前面板电源开关直接与交流电源线连接。此外，这个新设计也使得电脑在正常运作情况下无需按下前面板的触发开关，即使通过操作系统等软件提供的关闭功能也能关闭系统。
+</p>
+<h3><span id="ATX12V.E6.A8.99.E6.BA.96"></span><span class="mw-headline" id="ATX12V標準">ATX12V标准</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=5" title="编辑章节：ATX12V标准"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>芯片上的晶体管越做越小使得芯片本身也可越做越小，同时这些芯片的运作电压也越来越低，通常电路密度最高的芯片（像是中央处理器）需要最低的供电电压。为了能为英特尔奔腾处理器以及后来类似的微处理器提供低电压大功率的电能，主板上引入了电压调节模块。一些新的处理器甚至需要在2V或更低的电压时提供高达100A的电流，若将电压调节模块安装于电源供应器上，这对于相对远离主板的电源供应器来说是不切实际的，这样做的话电源供应器的输出导线将会过于粗壮以至于根本无法安装。
+</p><p>最开始的时候，主板上的电压调节模块从电源供应器的+5V主电压通道上取电，但是随着芯片的电能需求的增加，同等电压下需要提供的电功率越高那么提供的电流也将越大，于是低电压下为高耗电芯片提供充足的电功率会逐渐成为问题。为了降低5V电压通道的供电压力，当对供电需求更为饥渴的英特尔奔腾4微处理器发布时，英特尔将处理器电压调节模块的运作供电从+5V电压通道改到+12V电压通道，并额外增加了独立的4-Pin P4连接器，以满足奔腾4的电能需求。这一新的设计被定为ATX12V 1.0版标准。
+</p><p>现代高性能图形处理器的供电问题也有和奔腾4相同的情况，导致不少个人电脑对+12V电源通道提供的电功率提出高要求。当年高性能图形处理器推出后，一般的ATX电源供应器5V电源通道出现了供电紧张的情况，而且只能从12V电源通道上获取电源总输出功率的50%至60%。因此，GPU研发商改变供电策略，改为主要从12V电源通道上取电，并要求电源供应器的12V通道上确保有200到250W（负载峰值，包括CPU和GPU在内的负载）的供电能力，特别是高性能GPU，更是推荐需要500到600W或更高的供电能力的电源供应器。大多数现代电源供应器的+12V电源通道可以提供电源总输出功率的80%到90%的电功率，特别是大功率的电源供应器。
+</p><p>因为CPU、GPU的供电需求剧增，导致上述电源供应器的设计改变。因此若组装新电脑，而使用年代较久远的电源供应器为其供电，其+12V电源通道的供电能力比电源供应器整体的供电能力就更为重要了。
+</p><p>一些不肖厂商，利用很少用户会留意也不清楚电源供应器的参数所代表的意义，而虚标他们生产的劣质电源供应器的参数，像是标上虚高的额定功率等，欺骗买家。<sup id="cite_ref-Torres2008_3-0" class="reference"><a href="#cite_note-Torres2008-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id=".2B3.3V.E5.92.8C.2B5V.E9.9B.BB.E5.A3.93.E9.80.9A.E9.81.93"></span><span class="mw-headline" id="+3.3V和+5V電壓通道">+3.3V和+5V电压通道</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=6" title="编辑章节：+3.3V和+5V电压通道"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>90年代至现今常用的电源供应器电路方案中，+12V、+5V和+3.3V都是从主变压器线圈绕组中获取并分立出三路独立电压供电线路。+3.3V和+5V电源通道在CPU、GPU等主要硬件及外围PCIe设备改用+12V电源通道配合电压调节模块供电后，它们已经很少成为电源的限制因素了。通常只要+12V电源通道拥有充足的电功率提供即可。然而，如果电脑中装有很多的<a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘驱动器</a>或是<a href="/wiki/%E5%A4%96%E8%AE%BE%E7%BB%84%E4%BB%B6%E4%BA%92%E8%BF%9E%E6%A0%87%E5%87%86" title="外设组件互连标准">PCI</a>设备的话，会使+5V电源通道负载很高，当+5V电源通道出现超载时，若功率较小的会使用结构简单的线性调节器+12V电压通道上取电并降至+5V供给硬盘驱动器或是PCI设备使用，在功率较大的情况下则时会采用开关型调节器。
+</p><p>后来电源业界、行业协会等机构在电源转换效率的角度上陆续推出认证标准，为了追求高转换效率，一些ATX电源供应器，除了+5V<sub>SB</sub>通道以外，主变压器统一做成只有+12V输出通道，另外配合适当的非隔离式DC-DC模块等电压调整设备将从+12V输出通道上取电，将12V电压转换为5V和3.3V电压值分别作为+5V和+3.3V通道使用，以期减少变压器损耗以提高转换效率。
+</p>
+<h3><span id=".E5.85.A5.E9.96.80.E7.B4.9A.E9.9B.BB.E6.BA.90.E8.A6.8F.E6.A0.BC"></span><span class="mw-headline" id="入門級電源規格">入门级电源规格</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=7" title="编辑章节：入门级电源规格"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>入门级电源供应器规格（Entry-Level Power Supply Specification，EPS）的电源供应器，是为高功耗电脑和入门级服务器而设计的，而非简单理解为低功耗电脑使用的电源供应器。这个电源供应器标准由服务器系统架构论坛（Server System Infrastructure，SSI）制定。SSI由英特尔、<a href="/wiki/%E6%88%B4%E7%88%BE" title="戴尔">戴尔电脑</a>、<a href="/wiki/%E6%83%A0%E6%99%AE" title="惠普">惠普</a>、<a href="/wiki/HPE" class="mw-redirect" title="HPE">HPE</a>以及其它设计制造服务器的公司参与，目的是制定<a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="服务器">服务器</a>的<a href="/wiki/%E6%A0%87%E5%87%86" title="标准">行业标准</a>。EPS标准由ATX标准派生而来，目前EPS标准规格的最新版本是2.93版。
+</p><p>EPS标准为严酷的服务器工作环境（24小时不间断运行、高温、高容错度等）以及相关应用场合提供强力、稳定的供电环境。EPS标准的电源供应器拥有一个24pin的主板电源连接器以及一个8pin的+12V连接器，和现时的ATX标准相近，但除此以外，EPS标准还会为对电能需求较为饥渴的主板系统额外提供了两个4pin的12V连接器，提供一个4pin的要求电源供应器有700至800W的额定电功率，两个都4pin提供的电源供应器更需要有850W以上的额定电功率。EPS标准的电源供应器，原则上和一般家用电脑、办公电脑上常见的ATX、ATX12V标准的主板都兼容，但是可能会有机械结构层面上的冲突，主要是12V的连接器、较老的主板上的主电源连接端口，连接器可能会突出插座。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>很多电源供应器厂商，其连接器是8+8pin和20+4pin形式的分离式设计来避免连接器突出插座的情况。EPS标准的推出，以及不少高性能高耗电硬件的出现，使后来版本的ATX标准的电源供应器索性将极其少用的-5V电源通道都取消以降低成本和复杂度。
+</p>
+<h3><span id=".2B12V.E5.A4.9A.E9.80.9A.E9.81.93.E4.BE.9B.E9.9B.BB"></span><span class="mw-headline" id="+12V多通道供電">+12V多通道供电</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=8" title="编辑章节：+12V多通道供电"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable floatright">
+<tbody><tr>
+<th>供电通道
+</th>
+<th>颜色标记
+</th></tr>
+<tr>
+<td>12V1
+</td>
+<td style="background:yellow; color:black">黄（黑）
+</td></tr>
+<tr>
+<td>12V2
+</td>
+<td style="background:yellow; color:black">黄
+</td></tr>
+<tr>
+<td>12V3
+</td>
+<td style="background:yellow; color:blue">黄（蓝）
+</td></tr>
+<tr>
+<td>12V4
+</td>
+<td style="background:yellow; color:green">黄（绿）
+</td></tr>
+</tbody></table>
+<p>当电源供应器的供电功率容量在逐步提升时，ATX电源供应器标准也跟着不断修正，特别是自ATX标准2.0版以后<sup id="cite_ref-atx12v2.0_5-0" class="reference"><a href="#cite_note-atx12v2.0-5">&#91;5&#93;</a></sup>，包括：
+</p>
+<style data-mw-deduplicate="TemplateStyles:r61209892">.mw-parser-output .templatequote{margin-top:0;overflow:hidden}.mw-parser-output .templatequote .templatequotecite{line-height:1em;text-align:left;padding-left:2em;margin-top:0}.mw-parser-output .templatequote .templatequotecite cite{font-size:small}</style>
+<blockquote class="templatequote"><p>3.2.4.功率限制/危险电能等级<br />
+根据U1950 / CSA950 / EN60950 / IEC950的要求，在普通或重载的情况下，将不得在包括短路输出在内的任何负载条件下连续输出超过240VA的功率。</p><div class="templatequotecite"><cite>——ATX12V电源供应器设计指导2.2版<sup id="cite_ref-atx12v2.2_6-0" class="reference"><a href="#cite_note-atx12v2.2-6">&#91;6&#93;</a></sup></cite></div></blockquote>
+<p>这个规定是对任一<a href="/wiki/%E9%9B%BB%E7%BA%9C" title="电缆">线缆</a>上通过的电功率（包括故障情况下）所作出的安全限制。过大的电功率，当电压相同时，过高的电流会使线缆严重发热，这会很可能使线缆表层的绝缘层（一般是<a href="/wiki/%E5%A1%91%E6%96%99" title="塑料">塑料</a>绝缘层）温度过高而融化，而这样又有很大可能引发火灾事故。在现代电源供应器上，每根电在线容许通过的最大电流不超过20安培，不触发电流过流保护时一般最大电流值在18安培左右。为了能提供超过18A电流的12V电压直流电，会采用一组两个或更多的电缆和相应的电流传感器并联供电。不像<a href="/wiki/%E4%BF%9D%E9%9A%AA%E7%B5%B2" title="保险丝">保险丝</a>/熔断器或者<a href="/wiki/%E6%96%B7%E8%B7%AF%E5%99%A8" title="断路器">断路器</a>，过流保护在电流过大时关断电流输出，重载状态消失后自动重置以继续正常供电。
+</p><p>理想状态下，每组供电线缆中每根线缆由各自的12V电源供电，各配备一个限流设备，但是这样做的话成本会居高不下。在一条电缆通过的极限电流值尚远大于一般情况下合理的电流值，通常电源供应器厂商将几组线缆共享一12V电源，然后各根线缆各接上一个限流设备上起单独限流功效。显然，如果这组线缆被限制在240VA，因此该组线缆中每根线缆都不至于电流过大。一般一个电源供应器会保证一个12V通道有至少17A的电流容量，而电流限制值为18.5A，误差在8%上下，因此这些电源单一12V通道上的额定最大输出最少也有17A，并确保能于20A以下关断保护。
+</p><p>这数组供电就是所谓的“多路电源供应通道”。它们并非完全独立供电，在电源供应器里它们都由一个大电流供电能力的12V通道引出，但每根线缆有各自的过流保护电路。电流限制组群在电源供应器上被标注出来，让用户可留意到并避免在一个供电组上接上太多的大电流负载。开始时，带有“+12V多供电通道”功能的电源供应器多暗示它们在+12V电源通道上能提供超过20A的电流，并被看作是好电源的特征。然而，用户发现使用时的不方便之处是需要在数个+12V电源通道上平衡负载。当电源供应器在制造完成后其连接器和对应的电源通道已经固定，并不能随意将给定负载的连接器改到一个不同的电源通道上。
+</p><p>与增加更多的电流限制电路不同，不少制造商已经选择无视设计指导要求。像是安装电流容量更大的限流电路，将每个电源通道的电流限制值提升到20A以上；或者以单通道供电，取消限流电路（有些不肖厂商会在产品贩售宣传时却告知是安装了过流保护的，是非常明显的欺诈行为。<sup id="cite_ref-Nathan2005_7-0" class="reference"><a href="#cite_note-Nathan2005-7">&#91;7&#93;</a></sup>）。而从2.3版ATX12V电源供应规格中（2007年3月发布），取消了关于电源供应器最大输出电流的限制。<sup id="cite_ref-atx12v2.3_8-0" class="reference"><a href="#cite_note-atx12v2.3-8">&#91;8&#93;</a></sup>
+</p><p>由于此前的标准，几乎所有的大功率电源供应器都宣传它们实现了独立的电源通道，然而这些宣传多是不真实的，有不少还缺乏必需的电流限制保护电路，<sup id="cite_ref-urlOCZ_GameXstream_700_W_Power_Supply,_Hardware_Secrets_9-0" class="reference"><a href="#cite_note-urlOCZ_GameXstream_700_W_Power_Supply,_Hardware_Secrets-9">&#91;9&#93;</a></sup>，毕竟真正的多通道电源实现成本高，而且缺乏安全保护设备也势必降低买家购买意愿（特别是安全意识较高的买家）。<sup id="cite_ref-urlPower_Supply_Fundamentals_Page_3_10-0" class="reference"><a href="#cite_note-urlPower_Supply_Fundamentals_Page_3-10">&#91;10&#93;</a></sup>（一般会以“电流共享”或“供电通道融合”的名义掩盖安全保护缺失的缺陷）
+</p>
+<h3><span id=".E3.80.8C12V-only.E3.80.8D.E4.BE.9B.E9.9B.BB"></span><span class="mw-headline" id="「12V-only」供電">“12V-only”供电</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=9" title="编辑章节：“12V-only”供电"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2011年开始，富士通等一线厂商<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>已制造出仅需要从普通ATX电源的12V电源通道取电或是从客制的12V电源供应器（典型额定功率250W至300W）上取电的主板，这些主板上已集成了DC-DC转换模块，以提供5V和3.3V电压。这种设计目的，是将5V和12V供电的设备，像是硬盘驱动器等，改为从主板上取电而非从电源供应器自身引线取电。
+</p><p>“12V-only”供电的设计动机，主要是消除交叉负载的问题，简化电源内部的线缆以提高电源内部的通风散热效果，降低成本、提升电源供应器的效率以及降低电源供应器散热风扇的噪音。
+</p><p>目前已知采用此种电源设计的较为知名的电脑，是戴尔电脑于2013年推出的商用个人电脑Optiplex 9020和Precision T1700，配备12V-only的电源供应器，其客制的主板上额外安装了非隔离式DC-DC转换模块实现12V到5V、3.3V的转换。之后，联想M93P电脑采用12V-only的电源供应器，并在IS8XM主板上独力进行5V和3.3V转换。
+</p><p>2020年Intel推出ATX12VO规范，ATX12VO电源供应器仅提供12V电压输出<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>，<a href="/wiki/USB" title="USB">USB</a>、<a href="/wiki/%E7%A1%AC%E7%A2%9F" class="mw-redirect" title="硬盘">硬盘</a>等设备所需的5V、3.3V电压由<a href="/wiki/%E4%B8%BB%E6%A9%9F%E6%9D%BF" class="mw-redirect" title="主板">主板</a>变压，ATX主接头由24-Pin精简为10-Pin。
+</p>
+<h2><span id=".E9.A1.8D.E5.AE.9A.E5.8A.9F.E7.8E.87.E6.A8.99.E5.AE.9A"></span><span class="mw-headline" id="額定功率標定">额定功率标定</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=10" title="编辑章节：额定功率标定"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>电源供应器的总额定输出功率(Watt)，是由从同一高频变压器上分出的各路电压通道的额定输出功率以及关键组件的参数（像是功率级FET或BJT/GTR的最大电流容量)计算而得。个人电脑的电源功率需求差异很大，从250W以下的低功耗平台，到超过1000W的多显卡/多CPU平台都有。而目前常见的电源供应器，额定功率一般在300W到500W之间。<sup id="cite_ref-urlPower_Supply_Fundamentals_Page_3_10-1" class="reference"><a href="#cite_note-urlPower_Supply_Fundamentals_Page_3-10">&#91;10&#93;</a></sup>电源供应器一般都被设计为比计算出的理论“系统最大功率”数值要多出40%的功率余量，这样做一来是避免系统性能下降，二来是应付可能突如其来的重载。电源供应器上也会标示出总功率输出（有的标示额定功率，但有的标示最大峰值功率，注意一般以前者为准），或者会另外标示出各电压通道的最大电流限制。一些较低端的电源供应器，为图利润可能会阉割重载保护组件及电路。
+</p><p>电脑系统所需的最大功耗，是由电脑内各主动组件（显卡、主板、CPU、内存、硬盘驱动器、散热风扇等需要电能工作的组件）各自需要的最大电功率之总和所决定，电脑厂商、DIY用户需根据此选用电源供应器。对于目前的功耗大户之—显卡而言，电源供应器的12V输出通道的额定输出功率/最大输出电流，是必须注意的。而电脑主动组件的制造商，特别是显卡、主板厂商，都会在其使用说明书上标明需要额定功率多少瓦的电源供应器。另外，像是CPU、显卡的<a href="/wiki/%E7%83%AD%E8%AE%BE%E8%AE%A1%E5%8A%9F%E8%80%97" title="热设计功耗">热设计功耗</a>（TDP）数值，也不时被人们作为电源供应器选用的参考，但要注意的是，TDP不等同于组件的实际功耗，TDP主要是作为散热器选用的所需参数。而硬盘驱动器、光盘驱动器上，一般都会有明确的额定输入电压、所需最大电流的参数。
+</p><p>一般而言，搭配电脑或电子设备的电源供应器总输出功率都会大于电脑或电子设备所需的总功率,以因应可能超载的安全考量额度。但如此一来在低负载功率时与其他采用符合输出功率的电源供应器相比,就会有较差的性能表现或是浪费更多的电力。
+</p><p>额定功率既是电源供应器的一项参数指针，也是厂商的宣传点之一。而某些电源供应器的厂商，会宣称其产品拥有多大的输出功率，但是往往实际的额定输出功率会偏低，较为恶劣的甚至只有宣称值的一半不到。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>更为复杂的，有部分电源供应器的5伏电压通道是从12V电压通道上降压获得的，如果12V通道的电流容量不足，或是5V通道的稳压电路电流容量不够，会导致12V通道或5V通道在远未达到电源供应器的标称总额定功率时就出现重载情况。
+</p><p>除此以外，还有3.3V电压通道从5V电压通道上取电，或者非隔离式DC-DC方案里5V、3.3V通道均从12V通道上取电的设计，此时5V以及3.3V通道的最大电流就会受到12V通道的最大电流容量限制。以3.3V通道从5V通道上取电的例子，3.3V通道拥有10A的电流容量（即拥有33W的输出功率），而5V通道则拥有20A的电流容量（即100W的输出功率），但是若两者的联合输出功率最大只有110W，那么，当3.3V通道达到该通道的最大输出功率时，5V通道上仅能最大输出77W。
+</p>
+<h2><span id=".E8.BD.89.E6.8F.9B.E6.95.88.E7.8E.87"></span><span class="mw-headline" id="轉換效率">转换效率</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=11" title="编辑章节：转换效率"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>转换效率是指电源供应器能将输入电力转换成多少输出电力的百分比。举例来说, 如果转换效率只有50%，一个1000瓦的电力在转换后, 只有500瓦的电力可用, 而另外50% (500瓦)的电力则被转换成废热能,不但浪费原来的电力,更加重散热系统的负担。而更需努力运转以散除这些废热能的散热系统,又会耗损更多的电力。因此才有<a href="/wiki/80_PLUS" title="80 PLUS">80 PLUS</a>这样的标准推出。 
+</p>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="https://en.wikipedia.org/wiki/Green_computing" class="extiw" title="en:Green computing">en:Green computing</a></div>
+<h2><span id=".E5.A4.96.E8.A7.80.E8.A6.8F.E6.A0.BC"></span><span class="mw-headline" id="外觀規格">外观规格</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=12" title="编辑章节：外观规格"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:PSU-gold-full_set.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PSU-gold-full_set.jpg/250px-PSU-gold-full_set.jpg" decoding="async" width="250" height="98" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PSU-gold-full_set.jpg/375px-PSU-gold-full_set.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PSU-gold-full_set.jpg/500px-PSU-gold-full_set.jpg 2x" data-file-width="1898" data-file-height="741" /></a><figcaption>电脑电源供应器及其引出电线的各式连接器</figcaption></figure>
+<table class="wikitable sortable floatright">
+<caption>标准电源供应器外观尺寸<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</caption>
+<tbody><tr>
+<th>电源供应器尺寸标准
+</th>
+<th>宽度<br />(mm)
+</th>
+<th>高度<br />(mm)
+</th>
+<th>深度<br />(mm)
+</th></tr>
+<tr>
+<td>ATX12V / BTX
+</td>
+<td>150
+</td>
+<td>86
+</td>
+<td>140
+</td></tr>
+<tr>
+<td>ATX large
+</td>
+<td>150
+</td>
+<td>86
+</td>
+<td>180
+</td></tr>
+<tr>
+<td>ATX – EPS
+</td>
+<td>150
+</td>
+<td>86
+</td>
+<td>230
+</td></tr>
+<tr>
+<td>CFX12V
+</td>
+<td>101.6+48.4
+</td>
+<td>86
+</td>
+<td><span style="visibility:hidden; color:transparent">0</span>96
+</td></tr>
+<tr>
+<td>SFX12V
+</td>
+<td>125
+</td>
+<td>63.5
+</td>
+<td>100
+</td></tr>
+<tr>
+<td>TFX12V
+</td>
+<td><span style="visibility:hidden; color:transparent">0</span>85
+</td>
+<td>64
+</td>
+<td>175
+</td></tr>
+<tr>
+<td>LFX12V
+</td>
+<td><span style="visibility:hidden; color:transparent">0</span>62
+</td>
+<td>72
+</td>
+<td>210
+</td></tr>
+<tr>
+<td>FlexATX
+</td>
+<td><span style="visibility:hidden; color:transparent">0</span>81.5
+</td>
+<td>40.5
+</td>
+<td>150
+</td></tr></tbody></table>
+<p>大部分的台式机电源供应器，外观上是一个长方体金属盒，其上有两面是散热风扇入风口及出风口格栅及符合<a href="/wiki/IEC_60320" title="IEC 60320">IEC 60320 C14</a>标准的交流电源连接器，相对交流电源连接器的另一面则引出多股附有连接器的电线组。可能还会带有交流电源开关或是输入交流电压切换开关（也可能两者均有）。
+</p><p>电源供应器的一面会贴有电源供应器的技术参数信息，主要信息包括电源供应器的厂牌及其型号、各种安全规格认证、各电源通道的输出电流、额定功率和最大功率等。
+</p><p>现代ATX电源供应器的标准尺寸为150&#160;mm宽、86&#160;mm高、140&#160;mm深。而实际上，除了宽度和高度都需要严格符合标准以外，厂家可以自定电源供应器的深度，有时即使是同厂牌的但不同型号的电源供应器，其深度也会有所不同。另外，一些电源供应器引出的多股电线，会扎有束线带或是包覆软管套，这样除了美观以及易于整理以外，还可以减少对电脑机壳内散热风道的妨碍。
+</p>
+<h3><span id=".E9.80.A3.E6.8E.A5.E5.99.A8.E8.A6.8F.E6.A0.BC"></span><span class="mw-headline" id="連接器規格">连接器规格</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=13" title="编辑章节：连接器规格"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>一般，电源供应器会有以下这些连接器（几乎全部是<a href="/wiki/%E8%8E%AB%E4%BB%95" title="莫仕">Molex Inc Mini-Fit Jr</a>的专利产品，除非另外说明）：
+</p>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Molex_female_connector.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Molex_female_connector.jpg/290px-Molex_female_connector.jpg" decoding="async" width="290" height="193" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Molex_female_connector.jpg/435px-Molex_female_connector.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Molex_female_connector.jpg/580px-Molex_female_connector.jpg 2x" data-file-width="2048" data-file-height="1366" /></a><figcaption>D型大4针连接器</figcaption></figure>
+<ul><li>直流输出组：
+<ul><li>“ATX motherboard”ATX主板连接器（常作“P1”)：这个连接器用来将电源供应器的主电源与主板的主供电插座连接，为主板供电。这个连接器是20针或24针的。其中一根针脚为PS-ON线，一般线缆为绿色外皮。它是电源供应器的所有连接器中个头最大的。在老式的AT标准中，该连接器的前身是分成两个插座，分别称“P8”和“P9”。24针的接头在原来20针的兼容基础上再增加4针脚，即是“20+4-pin”形式，因此24针的主电源连接器，解开4针接头以后，可用于20针主电源插座的主板。</li>
+<li>“12V only”电源连接器（被标示为“P1”，尽管它与ATX 20/24针连接器及插座互不兼容）：这是一个10或16-pin Molex连接器，为<a href="/wiki/%E4%B8%BB%E6%9D%BF" title="主板">主板</a>提供3或6条具有公共回路的12 V线路，“电源正常”信号，“ PSU ON”信号和12或11 V辅助电源。 一根引脚未使用。<sup id="cite_ref-Fujitsu_250W_supply_specification_17-0" class="reference"><a href="#cite_note-Fujitsu_250W_supply_specification-17">&#91;17&#93;</a></sup></li>
+<li>“12V only System monitoring” (<i>P10</i>)：这是171822-8 AMP或等效的连接器，用于为电源风扇供电并反馈感测信号。<sup id="cite_ref-Fujitsu_250W_supply_specification_17-1" class="reference"><a href="#cite_note-Fujitsu_250W_supply_specification-17">&#91;17&#93;</a></sup></li>
+<li>“ATX12V”4针电源连接器（也称作“P4电源连接器”）：除了20/24针主电源连接器以外，第二只连接主板的电源连接器。这一路12V主要用于CPU的供电。现时已发展为8针电源连接器，即EPS12V标准，在原来4针的兼容基础上再增加4针脚，即是“4+4-pin”形式，容纳更大电流，以满足功耗更高的CPU。</li>
+<li>“大4针”外设电源连接器：这种连接器几乎是此前所有硬盘驱动器的标准电源连接器，直到现时也是大部分电源供应器标准配备的连接器。标准实现是，两根黑色的线缆作为地/GND，一根红色线缆作为+5V供电，一根黄色线缆作为+12V供电。除了硬盘驱动器以外，也用于各类主板扩展卡、机壳风扇、机壳灯光、除了ATX12V规范以外的主板辅助供电等，也曾用作显卡的外挂辅助供电连接器。也有大量大4针转SATA 15针电源连接器的转接器推出。</li>
+<li>“小4针”Molex电源连接器，也称迷你连接器（Mini-connector）、Mini-Molex、博格连接器（Berg connector）：是Molex日本分公司的作品，电源供应器上个头最小的连接器，主要供<a href="/wiki/%E8%BD%AF%E7%9B%98" title="软盘">磁盘驱动器</a>使用。在PCIe外挂供电连接器出现前，也曾用作高阶AGP、PCIe显卡的外挂辅助供电的连接器，和大4针电源连接器一样也能用于各式外设的供电连接。其针脚排布与“大4针”的类似，也是目前大部分电源供应器的标准配备。</li>
+<li>“Auxiliary”辅助电源连接器：有几种类型的辅助连接器来提供额外的电源，通常为6针，如适用者。</li>
+<li>“<a href="/wiki/SATA" title="SATA">SATA</a>”15针电源连接器：为SATA设备使用的15针连接器，提供+3.3V、+5V以及+12V的电压。</li>
+<li>“PCIe 6针”外挂辅助供电连接器：现时的电源供应器都提供了这种6针电源连接器，用于<a href="/wiki/PCI_Express" title="PCI Express">PCI Express</a>显卡的外挂供电以满足其越来越高的用电需求，一只6针外挂供电容许75瓦的电功率通过。</li>
+<li>“PCIe 6+2针”外挂辅助供电连接器，也作“PCIe 8针”：PCIe 6针外挂供电连接器的升级版，在原来6针的兼容基础上再添加2针脚，即是“4+4-pin”形式，用于PCIe显卡的外挂供电。常见于大功率电源供应器（一般400瓦以上，但也有300瓦的电源供应器配备这种连接器），以及高阶PCIe显卡，每只插座容许的功率更大，达150瓦。</li></ul></li></ul>
+<ul><li>交流输入：
+<ul><li>一个<a href="/wiki/IEC_60320" title="IEC 60320">IEC 60320</a>（C13/C14）规范的连接器（插座与插头）用作<a href="/wiki/%E5%B8%82%E9%9B%BB" title="市电">市电</a>输入。</li></ul></li></ul>
+<h3><span id=".E8.BC.B8.E5.87.BA.E7.B7.9A.E6.A8.A1.E7.B5.84.E5.8C.96"></span><span class="mw-headline" id="輸出線模組化">输出线模块化</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=14" title="编辑章节：输出线模块化"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Modular_vs_non-modular_PSU.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Modular_vs_non-modular_PSU.JPG/220px-Modular_vs_non-modular_PSU.JPG" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Modular_vs_non-modular_PSU.JPG/330px-Modular_vs_non-modular_PSU.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Modular_vs_non-modular_PSU.JPG/440px-Modular_vs_non-modular_PSU.JPG 2x" data-file-width="3072" data-file-height="2304" /></a><figcaption>图左：半模块化电源供应器；图右：非模块化电源供应器</figcaption></figure>
+<p>模块化电源供应器（Modular PSU）提供可扩展的输出电线插座，以及可拔插的电线。一般传统非模块化电源供应器会为外设预留多组线缆供用家扩展电脑内组件，而暂时用不到的电线往往会占据机壳内的空间。<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>因此，使用模块化电源供应器，电脑厂商以及用家可以因电脑内组件的需要来插装所需的电线，暂时用不到的则留空电源供应器的输出电线插座即可。由于机箱内的电线数目减少，可改善通风和散热。但由于多了一个接触面，电阻会轻微增加。电线与电源供应器输出的插头及插座，则是有各自的标准，较为常见的有和显卡上的PCIe外挂供电一样的6+2针接头，也有传统的<a href="/wiki/%E8%8E%AB%E4%BB%95" title="莫仕">Molex</a>的D型大4针接头，以及Molex新的专用15针插座等等。<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>根据连接主板的20+4针及4+4针电源线是否也可拔除，模块化电源也分为全模块化电源供应器以及半模块化电源供应器。全模块化PSU的所有电线都可移除。半模块化PSU只有部分电线都可移除，用来连接<a href="/wiki/%E4%B8%BB%E6%9D%BF" title="主板">主板</a>和<a href="/wiki/%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8" title="中央处理器">CPU</a>的24-pin和8-pin通常会保留。
+</p>
+<h2><span id=".E5.85.B6.E4.BB.96.E5.B0.BA.E5.AF.B8"></span><span class="mw-headline" id="其他尺寸">其他尺寸</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=15" title="编辑章节：其他尺寸"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>除了标准ATX规格以外，还有SFX、TFX12V等为小型尺寸规格，被MicroATX、FlexATX、mini-ITX等小尺寸主板和机壳使用，其散热风道也有刻意适应小尺寸系统。随着电源供应器的转换效率提升，更有低负载停转甚至是被动散热的小尺寸机种出现，有的还干脆做成与工业电源模块类似的外观规格，但直流输出仍然是标准ATX规格。<sup id="cite_ref-urlTFX12V_Design_Guide_Section_1.2.1_20-0" class="reference"><a href="#cite_note-urlTFX12V_Design_Guide_Section_1.2.1-20">&#91;20&#93;</a></sup>
+</p><p>大部分的便携式电脑（不是<a href="/wiki/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6" title="笔记本电脑">笔电</a>）以及像是<a href="/wiki/Mac_mini" title="Mac mini">Mac mini</a>、Intel NUC这样的迷你主机会附带一个20W至200W的电源<a href="/wiki/%E5%8F%98%E5%8E%8B%E5%99%A8" title="变压器">变压器</a>，笔电上也配备俗称“火牛”的<a href="/wiki/%E5%8F%98%E5%8E%8B%E5%99%A8" title="变压器">变压器</a>供充电及无电池情形下使用，不过它们使用的一般是19V～24V直流输入的规格（也有一部分仍是12V输出规格），12V、5V、3.3V以及其它非ATX标准的电压之转换在主板上完成<sup id="cite_ref-Botelho_21-0" class="reference"><a href="#cite_note-Botelho-21">&#91;21&#93;</a></sup>，这些已不属于ATX规格的范畴。有些外置的电源供应器还能通过一些总线协议传输像是电流、电压、功率等参数的资料到电脑主板上供监测用，比如<a href="/wiki/%E6%88%B4%E7%88%BE" title="戴尔">戴尔</a>的一些<a href="/wiki/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6" title="笔记本电脑">笔电</a>，其配备的变压器有1-Wire<a href="/wiki/%E6%80%BB%E7%BA%BF" title="总线">总线</a>与笔电电源的连接端口中特定脚位连接（这样的设计也使得其可能不兼容副厂的变压器）。<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>而服务器以及部分高阶工作站上，搭载的电源供应器还有冗余模块设计，每个冗余模块是独立供电的，可以在运行时移出或添加电源模块（至少剩余一个或若干模块正常运行）。
+这样的冗余电源供应器，可以让主机在不断电的情况下进行更换其<a href="/wiki/%E7%94%B5%E8%B7%AF" title="电路">电路</a>或变压器等工作。
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:SFX_PC-PSU_Delta_IMG_9760.JPG" class="mw-file-description" title="SFX尺寸的电源"><img alt="SFX尺寸的电源" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/SFX_PC-PSU_Delta_IMG_9760.JPG/155px-SFX_PC-PSU_Delta_IMG_9760.JPG" decoding="async" width="155" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/SFX_PC-PSU_Delta_IMG_9760.JPG/233px-SFX_PC-PSU_Delta_IMG_9760.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/SFX_PC-PSU_Delta_IMG_9760.JPG/310px-SFX_PC-PSU_Delta_IMG_9760.JPG 2x" data-file-width="2052" data-file-height="1588" /></a></span></div>
+			<div class="gallerytext">SFX尺寸的电源</div>
+		</li>
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:TFX_power_supply_unit.jpg" class="mw-file-description" title="TFX尺寸的电源"><img alt="TFX尺寸的电源" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TFX_power_supply_unit.jpg/155px-TFX_power_supply_unit.jpg" decoding="async" width="155" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TFX_power_supply_unit.jpg/233px-TFX_power_supply_unit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TFX_power_supply_unit.jpg/310px-TFX_power_supply_unit.jpg 2x" data-file-width="1024" data-file-height="768" /></a></span></div>
+			<div class="gallerytext">TFX尺寸的电源</div>
+		</li>
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:PC-PSU-PS2-1HE.JPG" class="mw-file-description" title="FlexATX尺寸的电源"><img alt="FlexATX尺寸的电源" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/PC-PSU-PS2-1HE.JPG/155px-PC-PSU-PS2-1HE.JPG" decoding="async" width="155" height="140" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/PC-PSU-PS2-1HE.JPG/233px-PC-PSU-PS2-1HE.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/PC-PSU-PS2-1HE.JPG/310px-PC-PSU-PS2-1HE.JPG 2x" data-file-width="1695" data-file-height="1530" /></a></span></div>
+			<div class="gallerytext">FlexATX尺寸的电源</div>
+		</li>
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:At-netzteil.jpg" class="mw-file-description" title="改成ATX尺寸的AT规格电源"><img alt="改成ATX尺寸的AT规格电源" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/At-netzteil.jpg/155px-At-netzteil.jpg" decoding="async" width="155" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/At-netzteil.jpg/233px-At-netzteil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/At-netzteil.jpg/310px-At-netzteil.jpg 2x" data-file-width="1280" data-file-height="960" /></a></span></div>
+			<div class="gallerytext">改成ATX尺寸的AT规格电源</div>
+		</li>
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:PS3_PC-PSU_IMG_2431.JPG" class="mw-file-description" title="PS3（不是PlayStation 3）规格电源供应器，比ATX短，最大输出300W的电功率[23]"><img alt="PS3（不是PlayStation 3）规格电源供应器，比ATX短，最大输出300W的电功率[23]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/PS3_PC-PSU_IMG_2431.JPG/155px-PS3_PC-PSU_IMG_2431.JPG" decoding="async" width="155" height="137" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/PS3_PC-PSU_IMG_2431.JPG/233px-PS3_PC-PSU_IMG_2431.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/PS3_PC-PSU_IMG_2431.JPG/310px-PS3_PC-PSU_IMG_2431.JPG 2x" data-file-width="1836" data-file-height="1628" /></a></span></div>
+			<div class="gallerytext">PS3（不是<a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a>）规格电源供应器，比ATX短，最大输出300W的电功率<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></div>
+		</li>
+		<li class="gallerybox" style="width: 190px">
+			<div class="thumb" style="width: 185px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG" class="mw-file-description" title="SFX转ATX/PS3规格的转接架"><img alt="SFX转ATX/PS3规格的转接架" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG/155px-SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG" decoding="async" width="155" height="112" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG/233px-SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG/310px-SFX-ATX-PC_Power_Supply_Adapter_IMG_2124.JPG 2x" data-file-width="1976" data-file-height="1424" /></a></span></div>
+			<div class="gallerytext">SFX转ATX/PS3规格的转接架</div>
+		</li>
+</ul>
+<h2><span id=".E9.80.A3.E6.8E.A5.E5.99.A8.E9.87.9D.E8.85.B3.E5.9C.96"></span><span class="mw-headline" id="連接器針腳圖">连接器针脚图</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=16" title="编辑章节：连接器针脚图"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:ATX_PS_signals.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/ATX_PS_signals.svg/240px-ATX_PS_signals.svg.png" decoding="async" width="240" height="431" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/ATX_PS_signals.svg/360px-ATX_PS_signals.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/ATX_PS_signals.svg/480px-ATX_PS_signals.svg.png 2x" data-file-width="418" data-file-height="750" /></a><figcaption>ATX 2.x版规范中的主板电源连接器插座孔位俯视图，上方是标准24针连接器插座，下方是“P4”的4针外挂CPU供电插座。<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>对于8针的外挂CPU供电插座，多出的4根针脚排布与原来4针的一样，差别仅在于插座孔位的防呆设计</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg/290px-24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg" decoding="async" width="290" height="215" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg/435px-24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg/580px-24-pin_ATX_power_plug_from_a_Seasonic_PSU_20131105.jpg 2x" data-file-width="800" data-file-height="593" /></a><figcaption>24针ATX主板电源接头，其中第11、12、23以及24针脚被做成可分离式的4针接头的设计，使它可以与旧的20针ATX主板电源插座兼容。</figcaption></figure>
+<div>
+<table class="multicol" role="presentation" style="padding: 0; border: 0; border-collapse: collapse; background-color: transparent; table-layout: fixed; width: 60%">
+
+<tbody><tr valign="top">
+<td style="padding-right:1.6em;">
+<table class="wikitable">
+<caption>标准AT规范12针主板电源连接器
+</caption>
+<tbody><tr>
+<th>线缆颜色
+</th>
+<th>针脚号
+</th>
+<th>针脚用途
+</th></tr>
+<tr>
+<td style="background:orange"><a href="/wiki/%E6%A9%99%E8%89%B2" title="橙色">橙</a>
+</td>
+<td>P8.1</td>
+<td>Power good
+</td></tr>
+<tr>
+<td style="background:red"><a href="/wiki/%E7%B4%85%E8%89%B2" class="mw-redirect" title="红色">红</a>
+</td>
+<td>P8.2</td>
+<td>+5 V
+</td></tr>
+<tr>
+<td style="background:yellow"><a href="/wiki/%E9%BB%83%E8%89%B2" class="mw-redirect" title="黄色">黄</a>
+</td>
+<td>P8.3</td>
+<td>+12 V
+</td></tr>
+<tr>
+<td style="background:blue; color:white;"><a href="/wiki/%E8%97%8D%E8%89%B2" title="蓝色">蓝</a>
+</td>
+<td>P8.4</td>
+<td>−12 V
+</td></tr>
+<tr>
+<td style="background:black; color:white;"><a href="/wiki/%E9%BB%91%E8%89%B2" title="黑色">黑</a>
+</td>
+<td>P8.5</td>
+<td>接地（COM/GND）
+</td></tr>
+<tr>
+<td style="background:black; color:white;">黑
+</td>
+<td>P8.6</td>
+<td>接地（COM/GND）
+</td></tr>
+<tr>
+<td colspan="3">
+</td></tr>
+<tr>
+<td style="background:black; color:white;">黑
+</td>
+<td>P9.1</td>
+<td>接地（COM/GND）
+</td></tr>
+<tr>
+<td style="background:black; color:white;">黑
+</td>
+<td>P9.2</td>
+<td>接地（COM/GND）
+</td></tr>
+<tr>
+<td style="background:white"><a href="/wiki/%E7%99%BD%E8%89%B2" title="白色">白</a>
+</td>
+<td>P9.3</td>
+<td>−5 V
+</td></tr>
+<tr>
+<td style="background:red">红
+</td>
+<td>P9.4</td>
+<td>+5 V
+</td></tr>
+<tr>
+<td style="background:red">红
+</td>
+<td>P9.5</td>
+<td>+5 V
+</td></tr>
+<tr>
+<td style="background:red">红
+</td>
+<td>P9.6</td>
+<td>+5 V
+</td></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="padding-right: 1.6em;">
+<table class="wikitable" style="text-align:center; width:522px;">
+<caption>标准ATX12V 2.x版规范24针主板电源连接器
+</caption>
+<tbody><tr>
+<th>线缆颜色
+</th>
+<th>针脚用途<sup id="cite_ref-control_25-0" class="reference"><a href="#cite_note-control-25">&#91;A&#93;</a></sup>
+</th>
+<th>针脚号<sup id="cite_ref-conn24_26-0" class="reference"><a href="#cite_note-conn24-26">&#91;B&#93;</a></sup>
+</th>
+<th>针脚号<sup id="cite_ref-conn24_26-1" class="reference"><a href="#cite_note-conn24-26">&#91;B&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;C&#93;</a></sup>
+</th>
+<th>针脚用途<sup id="cite_ref-control_25-1" class="reference"><a href="#cite_note-control-25">&#91;A&#93;</a></sup>
+</th>
+<th>线缆颜色
+</th></tr>
+<tr>
+<td style="background:orange; color:black" rowspan="2">橙
+</td>
+<td style="text-align:right;" rowspan="2">+3.3 V
+</td>
+<td rowspan="2">1
+</td>
+<td rowspan="2">13
+</td>
+<td style="text-align:left;">+3.3 V
+</td>
+<td style="background:orange; color:black">橙
+</td></tr>
+<tr>
+<td style="background:lightblue; color:black; text-align:left;">+3.3&#160;V&#160;感应<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;D&#93;</a></sup>
+</td>
+<td style="background:sienna; color:white"><a href="/wiki/%E6%A3%95%E8%89%B2" class="mw-redirect" title="棕色">棕</a>
+</td></tr>
+<tr>
+<td style="background:orange; color:black">橙
+</td>
+<td style="text-align:right;">+3.3 V
+</td>
+<td>2
+</td>
+<td>14
+</td>
+<td style="text-align:left;">−12 V
+</td>
+<td style="background:blue; color:white">蓝
+</td></tr>
+<tr>
+<td style="background:black; color:white">黑
+</td>
+<td style="text-align:right;">接地（COM/GND）
+</td>
+<td>3
+</td>
+<td>15
+</td>
+<td style="text-align:left;">接地（COM/GND）
+</td>
+<td style="background:black; color: white">黑
+</td></tr>
+<tr>
+<td style="background:red; color:black">红
+</td>
+<td style="text-align:right;">+5 V
+</td>
+<td>4
+</td>
+<td>16
+</td>
+<td style="background:lightblue; color:black; text-align:left;">Power on信号<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;E&#93;</a></sup>
+</td>
+<td style="background:green; color:white"><a href="/wiki/%E7%B6%A0%E8%89%B2" title="绿色">绿</a>
+</td></tr>
+<tr>
+<td style="background:black; color:white">黑
+</td>
+<td style="text-align:right;">接地（COM/GND）
+</td>
+<td>5
+</td>
+<td>17
+</td>
+<td style="text-align:left;">接地（COM/GND）
+</td>
+<td style="background:black; color:white">黑
+</td></tr>
+<tr>
+<td style="background:red; color:black">红
+</td>
+<td style="text-align:right;">+5 V
+</td>
+<td>6
+</td>
+<td>18
+</td>
+<td style="text-align:left;">接地（COM/GND）
+</td>
+<td style="background:black; color:white">黑
+</td></tr>
+<tr>
+<td style="background:black; color:white">黑
+</td>
+<td style="text-align:right;">接地（COM/GND）
+</td>
+<td>7
+</td>
+<td>19
+</td>
+<td style="text-align:left;">接地（COM/GND）
+</td>
+<td style="background:black; color:white">黑
+</td></tr>
+<tr>
+<td style="background:gray; color:black"><a href="/wiki/%E7%81%B0%E8%89%B2" title="灰色">灰</a>
+</td>
+<td style="text-align:right;background:lightblue; color:black"><a href="/wiki/PWRGD%E4%BF%A1%E5%8F%B7" class="mw-redirect" title="PWRGD信号">Power Good信号</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;F&#93;</a></sup>
+</td>
+<td>8
+</td>
+<td>20
+</td>
+<td style="text-align:left;">保留<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;G&#93;</a></sup>
+</td>
+<td style="background:white; color:grey">白
+</td></tr>
+<tr>
+<td style="background:purple; color:white"><a href="/wiki/%E7%B4%AB%E8%89%B2" title="紫色">紫</a>
+</td>
+<td style="text-align:right;">+5V 待机
+</td>
+<td>9
+</td>
+<td>21
+</td>
+<td style="text-align:left;">+5 V
+</td>
+<td style="background:red; color:black">红
+</td></tr>
+<tr>
+<td style="background:yellow; color:black">黄
+</td>
+<td style="text-align:right;">+12 V
+</td>
+<td>10
+</td>
+<td>22
+</td>
+<td style="text-align:left;">+5 V
+</td>
+<td style="background:red; color:black">红
+</td></tr>
+<tr>
+<td style="background:yellow; color:black">黄
+</td>
+<td style="text-align:right;">+12 V
+</td>
+<td style="background:lightgreen; color:black;">11
+</td>
+<td style="background:lightgreen; color:black;">23
+</td>
+<td style="text-align:left;">+5 V
+</td>
+<td style="background:red; color:black">红
+</td></tr>
+<tr>
+<td style="background:orange; color:black">橙
+</td>
+<td style="text-align:right;">+3.3 V
+</td>
+<td style="background:lightgreen; color:black;">12
+</td>
+<td style="background:lightgreen; color:black;">24
+</td>
+<td style="text-align:left;">接地（COM/GND）
+</td>
+<td style="background:black; color:white">黑
+</td></tr>
+<tr>
+<td colspan="6" style="text-align:left;">
+<div class="notelist" style="list-style-type: upper-alpha;">
+<ol class="references">
+<li id="cite_note-control-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-control_25-0"><sup><b>1.0</b></sup></a> <a href="#cite_ref-control_25-1"><sup><b>1.1</b></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r75445015">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-color-styled{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;color:black}.mw-parser-output .legend-text{}</style><span class="legend-color" style="background-color:lightblue; color:black;">&#160;</span> 浅蓝色底色表示控制信号线</span>
+</li>
+<li id="cite_note-conn24-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-conn24_26-0"><sup><b>2.0</b></sup></a> <a href="#cite_ref-conn24_26-1"><sup><b>2.1</b></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r75445015"><span class="legend-color" style="background-color:lightgreen; color:black;">&#160;</span> 浅绿色底色标示仅在24针规范中才有</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">在标准ATX12V 20针规范里，13～21针脚标示为11～20针脚</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">提供+3.3V电源，并提供第二条低电流线路用于<a href="/w/index.php?title=%E6%84%9F%E5%BA%94_(%E7%94%B5%E5%AD%90)&amp;action=edit&amp;redlink=1" class="new" title="感应 (电子)（页面不存在）">电压遥测</a>。<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;25&#93;</a></sup></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a class="mw-selflink selflink">PSU</a>会输出<a href="/wiki/%E4%B8%8A%E6%8B%89%E7%94%B5%E9%98%BB" title="上拉电阻">上拉</a>至5V的高电平控制信号至主板，要使电源供应器开启主供电，主板要将此信号拉低至低电平（或将此控制信号接地）</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">电源状态信号，当输出电压尚未达到额定值或欠压时，会处于低电平状态</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">以前（<a href="/wiki/AT" class="mw-disambig" title="AT">AT规格</a>电源）中的−5V (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r75445015"><span class="legend-color" style="background-color:white; color:black;">&#160;</span> 白色导线）；在<a href="/wiki/ATX" class="mw-disambig" title="ATX">ATX规格</a>和ATX12V V1.2中是可选的，从V1.3起删除。现在生产的绝大多数电脑电源该针无连接</span>
+</li>
+</ol>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</div>
+<div style="clear:both;"></div>
+<h2><span id=".E8.AA.8D.E8.AD.89"></span><span class="mw-headline" id="認證">认证</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=17" title="编辑章节：认证"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>一般的安规<a href="/wiki/%E8%AA%8D%E8%AD%89%E6%A8%99%E8%AA%8C" class="mw-redirect" title="认证标志">认证标志</a>（会因为销售地区不同而有不同的认证）有<a href="/wiki/%E4%BF%9D%E9%99%A9%E5%95%86%E5%AE%9E%E9%AA%8C%E5%AE%A4" title="保险商实验室">UL</a>（UL 60950-1）、<a href="/wiki/%E5%BE%B7%E5%9C%8B%E5%AE%89%E5%85%A8%E8%AA%8D%E8%AD%89" title="德国安全认证">GS</a>、<a href="/wiki/T%C3%9CV%E7%B5%84%E7%B9%94" title="TÜV组织">TÜV</a>/cTUVus、<a href="/w/index.php?title=NEMKO&amp;action=edit&amp;redlink=1" class="new" title="NEMKO（页面不存在）">NEMKO</a>、<a href="/w/index.php?title=SEMKO&amp;action=edit&amp;redlink=1" class="new" title="SEMKO（页面不存在）">SEMKO</a>、DEMKO、FIMKO、<a href="/wiki/%E4%B8%AD%E5%9C%8B%E5%BC%B7%E5%88%B6%E6%80%A7%E7%94%A2%E5%93%81%E8%AA%8D%E8%AD%89" title="中国强制性产品认证">CCC</a>/CUL、<a href="/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%87%E5%87%86%E5%8D%8F%E4%BC%9A" title="加拿大标准协会">CSA</a>、<span class="ilh-all" data-orig-title="VDE" data-lang-code="de" data-lang-name="德语" data-foreign-title="Verband der Elektrotechnik, Elektronik und Informationstechnik"><span class="ilh-page"><a href="/w/index.php?title=VDE&amp;action=edit&amp;redlink=1" class="new" title="VDE（页面不存在）">VDE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">德语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://de.wikipedia.org/wiki/Verband_der_Elektrotechnik,_Elektronik_und_Informationstechnik" class="extiw" title="de:Verband der Elektrotechnik, Elektronik und Informationstechnik"><span lang="de" dir="auto">Verband der Elektrotechnik, Elektronik und Informationstechnik</span></a></span>）</span></span>、GOST R、BSMI以及<a href="/w/index.php?title=EN60950-1&amp;action=edit&amp;redlink=1" class="new" title="EN60950-1（页面不存在）">EN60950-1</a>:2006 + A11 + A1 + A12等。而一般的<a href="/wiki/%E9%9B%BB%E7%A3%81%E5%B9%B2%E6%93%BE" title="电磁干扰">电磁干扰</a>认证标志有<a href="/wiki/%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A" title="联邦通信委员会">FCC</a>、<a href="/wiki/%E6%AD%90%E6%B4%B2%E5%90%88%E6%A0%BC%E8%AA%8D%E8%AD%89" title="欧洲合格认证">CE标志</a>以及C-Click。在欧洲以及印度贩售的电源供应器必须符合CE的标准并附带CE标志。另外，也有<a href="/wiki/%E5%8D%B1%E5%AE%B3%E6%80%A7%E7%89%A9%E8%B3%AA%E9%99%90%E5%88%B6%E6%8C%87%E4%BB%A4" title="危害性物质限制指令">RoHS</a>环保标志、<a href="/wiki/80_PLUS" title="80 PLUS">80 PLUS</a>转换效率标准认证等认证标志。
+</p>
+<h2><span id=".E4.BD.BF.E7.94.A8.E5.A3.BD.E5.91.BD"></span><span class="mw-headline" id="使用壽命"><span class="anchor" id="LIFE-SPAN"></span>使用寿命</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=18" title="编辑章节：使用寿命"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>电源供应器的使用寿命主要参考其<a href="/wiki/%E5%B9%B3%E5%9D%87%E6%95%85%E9%9A%9C%E9%96%93%E9%9A%94" title="平均故障间隔">平均无故障工作间隔</a>（mean time between failures，MTBF），这个数值越高则代表该种设备的平均使用寿命更长更可靠。使用较好的电子组件，并且在不达到它们极限参数状态下工作、散热良好，降低组件损毁的几率，也可提高MTBF数值。<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;26&#93;</a></sup>
+</p>
+<h2><span id=".E6.B8.AC.E8.A9.A6"></span><span class="mw-headline" id="測試">测试</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=19" title="编辑章节：测试"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>一些测试仪可以简单测试电源供应器能否运作正常，像是“ATX电源供应器测试仪”。以其为例，用户可以测量各电压通道的输出电压，确认其是否输出正常，若加入负载测试的准确度则会更好。<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;27&#93;</a></sup>
+</p><p>除了电压测试外，还有一个重要的测试就是稳压性能测试，即<a href="/wiki/%E6%BC%A3%E6%B3%A2" title="涟波">涟波</a>抑制表现。而这类测试需要连带负载，并且需要像是<a href="/wiki/%E7%A4%BA%E6%B3%A2%E5%99%A8" title="示波器">示波器</a>一类的监控设备来进行。<sup id="cite_ref-SFX12V23_35-0" class="reference"><a href="#cite_note-SFX12V23-35">&#91;28&#93;</a></sup>
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 255px">
+			<div class="thumb" style="width: 250px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:Power_supply_tester_with_LCD_display_readout.jpg" class="mw-file-description" title="带有LCD显示屏的ATX电源供应器测试仪"><img alt="带有LCD显示屏的ATX电源供应器测试仪" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Power_supply_tester_with_LCD_display_readout.jpg/220px-Power_supply_tester_with_LCD_display_readout.jpg" decoding="async" width="220" height="130" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Power_supply_tester_with_LCD_display_readout.jpg/330px-Power_supply_tester_with_LCD_display_readout.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Power_supply_tester_with_LCD_display_readout.jpg/440px-Power_supply_tester_with_LCD_display_readout.jpg 2x" data-file-width="1024" data-file-height="604" /></a></span></div>
+			<div class="gallerytext">带有LCD显示屏的ATX电源供应器测试仪</div>
+		</li>
+		<li class="gallerybox" style="width: 255px">
+			<div class="thumb" style="width: 250px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:Power_supply_tester_with_LED_indicators.jpg" class="mw-file-description" title="带有LED指示灯的ATX电源供应器测试仪"><img alt="带有LED指示灯的ATX电源供应器测试仪" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Power_supply_tester_with_LED_indicators.jpg/205px-Power_supply_tester_with_LED_indicators.jpg" decoding="async" width="205" height="155" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Power_supply_tester_with_LED_indicators.jpg/308px-Power_supply_tester_with_LED_indicators.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Power_supply_tester_with_LED_indicators.jpg/410px-Power_supply_tester_with_LED_indicators.jpg 2x" data-file-width="1024" data-file-height="774" /></a></span></div>
+			<div class="gallerytext">带有LED指示灯的ATX电源供应器测试仪</div>
+		</li>
+		<li class="gallerybox" style="width: 255px">
+			<div class="thumb" style="width: 250px; height: 185px;"><span typeof="mw:File"><a href="/wiki/File:PC_PSU_Noise_Test_Setup.svg" class="mw-file-description" title="涟波测试接线图"><img alt="涟波测试接线图" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/PC_PSU_Noise_Test_Setup.svg/220px-PC_PSU_Noise_Test_Setup.svg.png" decoding="async" width="220" height="92" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/PC_PSU_Noise_Test_Setup.svg/330px-PC_PSU_Noise_Test_Setup.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/PC_PSU_Noise_Test_Setup.svg/440px-PC_PSU_Noise_Test_Setup.svg.png 2x" data-file-width="1701" data-file-height="709" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%BC%A3%E6%B3%A2" title="涟波">涟波</a>测试接线图</div>
+		</li>
+</ul>
+<h2><span id=".E7.9B.B8.E9.97.9C"></span><span class="mw-headline" id="相關">相关</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=20" title="编辑章节：相关"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Nuvola_apps_kcmprocessor.png" class="mw-file-description"><img alt="信息技术" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuvola_apps_kcmprocessor.png/28px-Nuvola_apps_kcmprocessor.png" decoding="async" width="28" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuvola_apps_kcmprocessor.png/42px-Nuvola_apps_kcmprocessor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuvola_apps_kcmprocessor.png/56px-Nuvola_apps_kcmprocessor.png 2x" data-file-width="128" data-file-height="128" /></a></span></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80" title="Portal:信息技术">信息技术主题</a></span></li></ul></div>
+<ul><li><a href="/wiki/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91" title="个人电脑">个人电脑</a></li>
+<li><a href="/wiki/%E5%8F%98%E5%8E%8B%E5%99%A8" title="变压器">变压器</a></li>
+<li><a href="/wiki/%E7%B7%9A%E6%80%A7%E9%9B%BB%E5%A3%93%E8%AA%BF%E7%AF%80%E5%99%A8" title="线性电压调节器">线性电压调节器</a></li>
+<li><a href="/wiki/%E9%96%8B%E9%97%9C%E6%A8%A1%E5%BC%8F%E9%9B%BB%E6%BA%90" title="开关模式电源">开关模式电源</a></li></ul>
+<h2><span id=".E8.85.B3.E8.A8.BB"></span><span class="mw-headline" id="腳註">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=21" title="编辑章节：脚注"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E8.A8.BB.E8.A7.A3"></span><span class="mw-headline" id="註解">注解</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=22" title="编辑章节：注解"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="references-small">
+</div>
+<h3><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=23" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-techbang.com1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-techbang.com1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">bisheng. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190213183543/https://www.techbang.com/posts/10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood?page=3">電源供應器完全解密：17個觀念搞懂數字陷阱、看清規格真相（Page3）</a>. techbang.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-03-13</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.techbang.com/posts/10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood?page=3">原始内容</a>存档于2019-02-13）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.au=bisheng&amp;rft.btitle=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%E5%AE%8C%E5%85%A8%E8%A7%A3%E5%AF%86%EF%BC%9A17%E5%80%8B%E8%A7%80%E5%BF%B5%E6%90%9E%E6%87%82%E6%95%B8%E5%AD%97%E9%99%B7%E9%98%B1%E3%80%81%E7%9C%8B%E6%B8%85%E8%A6%8F%E6%A0%BC%E7%9C%9F%E7%9B%B8%EF%BC%88Page3%EF%BC%89&amp;rft.genre=unknown&amp;rft.pub=techbang.com&amp;rft_id=http%3A%2F%2Fwww.techbang.com%2Fposts%2F10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood%3Fpage%3D3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">bisheng. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210121064738/https://www.techbang.com/posts/10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood?page=2">電源供應器完全解密：17個觀念搞懂數字陷阱、看清規格真相（Page2）</a>. techbang.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-03-13</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.techbang.com/posts/10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood?page=2">原始内容</a>存档于2021-01-21）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.au=bisheng&amp;rft.btitle=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%E5%AE%8C%E5%85%A8%E8%A7%A3%E5%AF%86%EF%BC%9A17%E5%80%8B%E8%A7%80%E5%BF%B5%E6%90%9E%E6%87%82%E6%95%B8%E5%AD%97%E9%99%B7%E9%98%B1%E3%80%81%E7%9C%8B%E6%B8%85%E8%A6%8F%E6%A0%BC%E7%9C%9F%E7%9B%B8%EF%BC%88Page2%EF%BC%89&amp;rft.genre=unknown&amp;rft.pub=techbang.com&amp;rft_id=http%3A%2F%2Fwww.techbang.com%2Fposts%2F10238-power-specifications-fully-declassified-understand-power-supply-digital-trap-manufacturers-claimed-to-see-truth-computer-king-78-fully-understood%3Fpage%3D2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Torres2008-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Torres2008_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Torres, Gabriel. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080511164749/http://www.hardwaresecrets.com/article/534">How Much Power Can a Generic 500 W Power Supply Really Deliver?</a>. Hardwaresecrets.com. 2008-03-15 <span class="reference-accessdate"> &#91;<span class="nowrap">2009-03-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.hardwaresecrets.com/article/534">原始内容</a>存档于2008-05-11）. <q>Our generic 500 W power supply died when we tried pulling 275 W from it, so the maximum amount of power we could extract was 250 W&#160;– half the labeled amount!</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.aufirst=Gabriel&amp;rft.aulast=Torres&amp;rft.btitle=How+Much+Power+Can+a+Generic+500+W+Power+Supply+Really+Deliver%3F&amp;rft.date=2008-03-15&amp;rft.genre=unknown&amp;rft.pub=Hardwaresecrets.com&amp;rft_id=http%3A%2F%2Fwww.hardwaresecrets.com%2Farticle%2F534&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20201205140420/http://www.enermax.cn/enermax_pdf/EPS12V%20Spec2_92.pdf">EPS12V Power Supply Design Guide, v2.92</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-03-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.enermax.cn/enermax_pdf/EPS12V%20Spec2_92.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2020-12-05）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=EPS12V+Power+Supply+Design+Guide%2C+v2.92&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.enermax.cn%2Fenermax_pdf%2FEPS12V%2520Spec2_92.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-atx12v2.0-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-atx12v2.0_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091122121933/http://www.formfactors.org/developer/specs/ATX12V%20PSDG2.01.pdf">ATX12V Power Supply Design Guide, v2.01</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-03-13</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.formfactors.org/developer/specs/ATX12V%20PSDG2.01.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2009-11-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=ATX12V+Power+Supply+Design+Guide%2C+v2.01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.formfactors.org%2Fdeveloper%2Fspecs%2FATX12V%2520PSDG2.01.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-atx12v2.2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-atx12v2.2_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.formfactors.org/developer/specs/ATX12V_PSDG_2_2_public_br2.pdf">ATX12V Power Supply Design Guide, v2.2</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080920191034/http://www.formfactors.org/developer/specs/ATX12V_PSDG_2_2_public_br2.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）。原文如下：3.2.4. Power Limit / Hazardous Energy Levels: Under normal or overload conditions, no output shall continuously provide more than 240 VA under any conditions of load including output short circuit, per the requirement of UL 1950 / CSA 950 / EN 60950 / IEC 950.</span>
+</li>
+<li id="cite_note-Nathan2005-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nathan2005_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Nathan Kirsch. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201129192947/https://www.legitreviews.com/article/183/1/">Skyhawk PSU ATX12V &amp; EPS12V Compliance</a>. Legit Reviews. 2005-03-30 <span class="reference-accessdate"> &#91;<span class="nowrap">2009-09-24</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.legitreviews.com/article/183/1/">原始内容</a>存档于2020-11-29）. <q>On the front of the box it says "Triple Rails for +12V" and then goes on to say 'Intel ATX 12V Version 2.0 &amp; EPS 12V Version 2.1".  It turns out from our investigation that the above power supplies do not meet the ATX12V or EPS12V standards as the packaging claims.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.au=Nathan+Kirsch&amp;rft.btitle=Skyhawk+PSU+ATX12V+%26+EPS12V+Compliance&amp;rft.date=2005-03-30&amp;rft.genre=book&amp;rft.pub=Legit+Reviews&amp;rft_id=http%3A%2F%2Fwww.legitreviews.com%2Farticle%2F183%2F1%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-atx12v2.3-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-atx12v2.3_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.formfactors.org/developer%5Cspecs%5CPSU_DG_rev_1_1.pdf">Power Supply Design Guide for Desktop Platform Form Factors</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150114105013/http://www.formfactors.org/developer%5Cspecs%5CPSU_DG_rev_1_1.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）（ATX12V specification v2.3）</span>
+</li>
+<li id="cite_note-urlOCZ_GameXstream_700_W_Power_Supply,_Hardware_Secrets-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlOCZ_GameXstream_700_W_Power_Supply,_Hardware_Secrets_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927210041/http://www.hardwaresecrets.com/article/397/5">OCZ GameXstream 700 W Power Supply, Hardware Secrets</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-04-20</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.hardwaresecrets.com/article/397/5">原始内容</a>存档于2007-09-27）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=OCZ+GameXstream+700+W+Power+Supply%2C+Hardware+Secrets&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hardwaresecrets.com%2Farticle%2F397%2F5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-urlPower_Supply_Fundamentals_Page_3-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-urlPower_Supply_Fundamentals_Page_3_10-0"><sup><b>10.0</b></sup></a> <a href="#cite_ref-urlPower_Supply_Fundamentals_Page_3_10-1"><sup><b>10.1</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190910065833/http://www.silentpcreview.com/article28-page3.html">Power Supply Fundamentals (page 3)</a>. silentpcreview.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-04-20</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.silentpcreview.com/article28-page3.html">原始内容</a>存档于2019-09-10）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.atitle=Power+Supply+Fundamentals+%28page+3%29&amp;rft.genre=unknown&amp;rft.jtitle=silentpcreview.com&amp;rft_id=http%3A%2F%2Fwww.silentpcreview.com%2Farticle28-page3.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ts.fujitsu.com/pub/Mainboard-OEM-Sales/Information/WhitePapers/Whitepaper_12V_only_OEM_final.pdf">Fujitsu 12V only concept whitepaper</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2012-01-26</span>&#93;</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Fujitsu+12V+only+concept+whitepaper&amp;rft.genre=unknown&amp;rft_id=ftp%3A%2F%2Fftp.ts.fujitsu.com%2Fpub%2FMainboard-OEM-Sales%2FInformation%2FWhitePapers%2FWhitepaper_12V_only_OEM_final.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2020年6月失效">永久失效链接</span></a>&#93;</span></sup></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200202074707/https://www.hkepc.com/18922">【會唔會燒板架?!】砍掉 5V/3.3V、24pin&gt;10pin　Intel 大改供電規格!! 推純 12V ATX12VO 標準</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-02</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.hkepc.com/18922">原始内容</a>存档于2020-02-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=%E3%80%90%E6%9C%83%E5%94%94%E6%9C%83%E7%87%92%E6%9D%BF%E6%9E%B6%3F%21%E3%80%91%E7%A0%8D%E6%8E%89+5V%2F3.3V%E3%80%8124pin%3E10pin%E3%80%80Intel+%E5%A4%A7%E6%94%B9%E4%BE%9B%E9%9B%BB%E8%A6%8F%E6%A0%BC%21%21+%E6%8E%A8%E7%B4%94+12V+ATX12VO+%E6%A8%99%E6%BA%96&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.hkepc.com%2F18922&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFOklahoma_Wolf2007" class="citation">Oklahoma Wolf, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090723052259/http://www.jonnyguru.com/modules.php?name=NDReviews&amp;op=Review_Cat&amp;recatnum=13">The Bargain Basement Power Supply Rounup</a>, jonnyGURU.com, September 14, 2007 <span class="reference-accessdate"> &#91;<span class="nowrap">2008-01-31</span>&#93;</span>, （<a rel="nofollow" class="external text" href="http://www.jonnyguru.com/modules.php?name=NDReviews&amp;op=Review_Cat&amp;recatnum=13">原始内容</a>存档于2009-07-23）</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.au=Oklahoma+Wolf&amp;rft.btitle=The+Bargain+Basement+Power+Supply+Rounup&amp;rft.date=2007-09-14&amp;rft.genre=book&amp;rft.pub=jonnyGURU.com&amp;rft_id=http%3A%2F%2Fwww.jonnyguru.com%2Fmodules.php%3Fname%3DNDReviews%26op%3DReview_Cat%26recatnum%3D13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Rutter, Daniel. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210505101157/http://dansdata.com/gz086.htm">Lemon-fresh power supplies</a>. dansdata.com. 2008-09-27 <span class="reference-accessdate"> &#91;<span class="nowrap">2008-09-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.dansdata.com/gz086.htm">原始内容</a>存档于2021-05-05）. <q>The lemon-market in PC power supplies has now officially become bad enough that no-name generic "500W" PSUs may actually barely even be able to deliver 250 watts. A realistic constant rating for these units is more like 200 watts. So the capacity inflation factor's hit 2.5, and it's still rising.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.aufirst=Daniel&amp;rft.aulast=Rutter&amp;rft.btitle=Lemon-fresh+power+supplies&amp;rft.date=2008-09-27&amp;rft.genre=unknown&amp;rft.pub=dansdata.com&amp;rft_id=http%3A%2F%2Fwww.dansdata.com%2Fgz086.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190502022823/https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-4.html">Modern Form Factors: ATX And SFX - Power Supply 101: A Reference Of Specifications</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2018-04-19</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-4.html">原始内容</a>存档于2019-05-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Modern+Form+Factors%3A+ATX+And+SFX+-+Power+Supply+101%3A+A+Reference+Of+Specifications&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ftomshardware.co.uk%2Fpower-supply-specifications-atx-reference%2Creview-32338-4.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-5.html">Modern Form Factors: EPS, TFX, CFX, LFX, And Flex ATX - Power Supply 101: A Reference Of Specifications</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2018-04-19</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180412021820/http://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-5.html">存档</a>于2018-04-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Modern+Form+Factors%3A+EPS%2C+TFX%2C+CFX%2C+LFX%2C+And+Flex+ATX+-+Power+Supply+101%3A+A+Reference+Of+Specifications&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ftomshardware.co.uk%2Fpower-supply-specifications-atx-reference%2Creview-32338-5.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Fujitsu_250W_supply_specification-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fujitsu_250W_supply_specification_17-0"><sup><b>17.0</b></sup></a> <a href="#cite_ref-Fujitsu_250W_supply_specification_17-1"><sup><b>17.1</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ts.fujitsu.com/pub/Mainboard-OEM-Sales/Products/Accessories/PowerSupply_12V-only/Spec_PSU_250-30PFJ.pdf">Fujitsu 250&#160;W supply specification</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2012-01-26</span>&#93;</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Fujitsu+250+W+supply+specification&amp;rft.genre=unknown&amp;rft_id=ftp%3A%2F%2Fftp.ts.fujitsu.com%2Fpub%2FMainboard-OEM-Sales%2FProducts%2FAccessories%2FPowerSupply_12V-only%2FSpec_PSU_250-30PFJ.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2020年6月失效">永久失效链接</span></a>&#93;</span></sup></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Gerow, Jon. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210126054056/http://www.motherboards.org/articles/guides/1488_1.html">Modular Power Supplies: The Reality of the Resistance</a>. motherboards.org. 2006-08-10 <span class="reference-accessdate"> &#91;<span class="nowrap">2008-03-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.motherboards.org/articles/guides/1488_1.html">原始内容</a>存档于2021-01-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.aufirst=Jon&amp;rft.aulast=Gerow&amp;rft.btitle=Modular+Power+Supplies%3A+The+Reality+of+the+Resistance&amp;rft.date=2006-08-10&amp;rft.genre=unknown&amp;rft.pub=motherboards.org&amp;rft_id=http%3A%2F%2Fwww.motherboards.org%2Farticles%2Fguides%2F1488_1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160630074536/http://power.zol.com.cn/251/2518406_all.html">同为400W 模组与非模组电源区别在哪?</a>. zol.com.cn.  <span class="reference-accessdate"> &#91;<span class="nowrap">2016-05-26</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://power.zol.com.cn/251/2518406_all.html">原始内容</a>存档于2016-06-30）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.atitle=%E5%90%8C%E4%B8%BA400W+%E6%A8%A1%E7%BB%84%E4%B8%8E%E9%9D%9E%E6%A8%A1%E7%BB%84%E7%94%B5%E6%BA%90%E5%8C%BA%E5%88%AB%E5%9C%A8%E5%93%AA%3F&amp;rft.genre=unknown&amp;rft.jtitle=zol.com.cn&amp;rft_id=http%3A%2F%2Fpower.zol.com.cn%2F251%2F2518406_all.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-urlTFX12V_Design_Guide_Section_1.2.1-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlTFX12V_Design_Guide_Section_1.2.1_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190212011114/https://www.scan.co.uk/tekspek/power-supplies/psus-(power-supply-units)">Power Supplies TekSpek Guide - SCAN UK</a>. scan.co.uk.  <span class="reference-accessdate"> &#91;<span class="nowrap">2018-12-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://scan.co.uk/tekspek/power-supplies/psus-(power-supply-units)">原始内容</a>存档于2019-02-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.atitle=Power+Supplies+TekSpek+Guide+-+SCAN+UK&amp;rft.genre=unknown&amp;rft.jtitle=scan.co.uk&amp;rft_id=https%3A%2F%2Fscan.co.uk%2Ftekspek%2Fpower-supplies%2Fpsus-%28power-supply-units%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Botelho-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Botelho_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090717101011/http://searchdatacenter.techtarget.com/news/article/0,289142,sid80_gci1264703,00.html"><span style="padding-left:0.2em;">"</span>Google plans to go carbon neutral by 2008" by Bridget Botelho 2007</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-03-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://searchdatacenter.techtarget.com/news/article/0,289142,sid80_gci1264703,00.html">原始内容</a>存档于2009-07-17）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=%22Google+plans+to+go+carbon+neutral+by+2008%22+by+Bridget+Botelho+2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsearchdatacenter.techtarget.com%2Fnews%2Farticle%2F0%2C289142%2Csid80_gci1264703%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210504142145/https://hackaday.com/2014/03/03/hacking-dell-laptop-charger-identification/">HACKING DELL LAPTOP CHARGER IDENTIFICATION</a>. hackaday.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-11-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://hackaday.com/2014/03/03/hacking-dell-laptop-charger-identification/">原始内容</a>存档于2021-05-04）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.atitle=HACKING+DELL+LAPTOP+CHARGER+IDENTIFICATION&amp;rft.genre=unknown&amp;rft.jtitle=hackaday.com&amp;rft_id=http%3A%2F%2Fhackaday.com%2F2014%2F03%2F03%2Fhacking-dell-laptop-charger-identification%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Evercase UK: <a rel="nofollow" class="external text" href="http://www.evercase.co.uk/PowerSupplyMeasurements.htm">Power Supply Measurements</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20190212054049/http://www.evercase.co.uk/PowerSupplyMeasurements.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）, retrieved 1 June 2016</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141021123124/http://cache-www.intel.com/cd/00/00/52/37/523796_523796.pdf#page=26">Power Supply Design Guide for Desktop Platform Form Factors, Revision 1.31</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Intel" class="mw-redirect" title="Intel">Intel</a>: 26. April 2013 <span class="reference-accessdate"> &#91;<span class="nowrap">February 6,</span> 2015&#93;</span>. （<a rel="nofollow" class="external text" href="http://cache-www.intel.com/cd/00/00/52/37/523796_523796.pdf#page=26">原始内容</a> <span style="font-size:85%;">(<a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a>)</span>存档于十月 21, 2014）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Power+Supply+Design+Guide+for+Desktop+Platform+Form+Factors%2C+Revision+1.31&amp;rft.date=2013-04&amp;rft.genre=unknown&amp;rft.pages=26&amp;rft.pub=Intel&amp;rft_id=http%3A%2F%2Fcache-www.intel.com%2Fcd%2F00%2F00%2F52%2F37%2F523796_523796.pdf%23page%3D26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">请检查<code style="color:inherit; border:inherit; padding:inherit;">&#124;archive-date=</code>中的日期值 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#bad_date" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160817033942/http://www.formfactors.org/developer/specs/atx2_1.pdf">ATX Specification Version 2.1</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2016-05-26</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.formfactors.org/developer/specs/atx2_1.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2016-08-17）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=ATX+Specification+Version+2.1&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.formfactors.org%2Fdeveloper%2Fspecs%2Fatx2_1.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20201124033319/http://www.batterypoweronline.com/images/PDFs_articles_whitepaper_appros/RockwellAutomation.pdf">In the World of Power Supplies, Don't Mistake MTBF for Life Expectancy</a> <span style="font-size:85%;">(PDF)</span>. batterypoweronline.com. June 2006 <span class="reference-accessdate"> &#91;<span class="nowrap">2014-06-29</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.batterypoweronline.com/images/PDFs_articles_whitepaper_appros/RockwellAutomation.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2020-11-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.atitle=In+the+World+of+Power+Supplies%2C+Don%27t+Mistake+MTBF+for+Life+Expectancy&amp;rft.date=2006-06&amp;rft.genre=unknown&amp;rft.jtitle=batterypoweronline.com&amp;rft_id=http%3A%2F%2Fwww.batterypoweronline.com%2Fimages%2FPDFs_articles_whitepaper_appros%2FRockwellAutomation.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160604135003/http://www.techrepublic.com/article/untangling-the-wires-getting-to-know-your-power-supply/1046822/">Untangling the wires: Getting to know your power supply</a>. TechRepublic. 2007-06-08 <span class="reference-accessdate"> &#91;<span class="nowrap">2013-09-26</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.techrepublic.com/article/untangling-the-wires-getting-to-know-your-power-supply/1046822">原始内容</a>存档于2016-06-04）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;rft.btitle=Untangling+the+wires%3A+Getting+to+know+your+power+supply&amp;rft.date=2007-06-08&amp;rft.genre=unknown&amp;rft.pub=TechRepublic&amp;rft_id=http%3A%2F%2Fwww.techrepublic.com%2Farticle%2Funtangling-the-wires-getting-to-know-your-power-supply%2F1046822&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-SFX12V23-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-SFX12V23_35-0">^</a></b></span> <span class="reference-text">intel (formfactors.org): <a rel="nofollow" class="external text" href="http://www.formfactors.org/developer/specs/SFX12V_2_3dg.pdf">SFX12V Power Supply Design Guide, Version 2.3</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20160414133547/http://www.formfactors.org/developer/specs/SFX12V_2_3dg.pdf#">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）, p. 19 (PDF; 366&#160;kB) April 2003</span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=24" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Computer_power_supply_units" class="extiw" title="commons:Category:Computer power supply units"><span style="font-weight:bold;">电源供应器</span></a></td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.expreview.com/53153.html">电源中的+12V/+5V/+3.3V都给哪些硬件供电？</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20181210114604/http://www.expreview.com/53153.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（简体中文）</span></li>
+<li><a rel="nofollow" class="external text" href="http://computer.howstuffworks.com/power-supply.htm">PC电源供应器是如何运作的？</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110109160235/http://computer.howstuffworks.com/power-supply.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="英语">（英文）</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.efficientpowersupplies.org/">Website with Information &amp; Research on Active Mode Power Supply Efficiency</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070227053257/http://www.efficientpowersupplies.org/pages/PC_Energy_Star_Recommendation.pdf">How to Buy an Energy-Efficient Power Supply</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.informit.com/articles/article.aspx?p=31105">PC Repair and Maintenance: In-depth Look at Power Supply</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200805025307/http://www.informit.com/articles/article.aspx?p=31105">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150322233954/http://psudb.com/">电源供应器数据库</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070514033001/http://www.hardwaresecrets.com/article/370">How to Discover Your Power Supply Real Manufacturer</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080511164749/http://www.hardwaresecrets.com/article/534">How Much Power Can a Generic 500 W Power Supply Really Deliver?</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080512153640/http://www.hardwaresecrets.com/article/181">Everything You Need To Know About Power Supplies</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.nipron.co.jp/english/product_info/encyclopedia/2_1.htm">What is power supply for computers?</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20180929234006/https://www.nipron.co.jp/english/product_info/encyclopedia/2_1.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.playtool.com/pages/psuconnectors/connectors.html">Various power supply cables and connectors</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201101014955/http://www.playtool.com/pages/psuconnectors/connectors.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h3><span id=".E9.9B.BB.E6.BA.90.E4.BE.9B.E6.87.89.E5.99.A8.E5.8A.9F.E7.8E.87.E8.A8.88.E7.AE.97"></span><span class="mw-headline" id="電源供應器功率計算">电源供应器功率计算</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=25" title="编辑章节：电源供应器功率计算"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://extreme.outervision.com/psucalculatorlite.jsp">eXtreme Power Supply Calculator</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150731040315/http://extreme.outervision.com/psucalculatorlite.jsp">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）（频繁更新）</li>
+<li><a rel="nofollow" class="external text" href="http://psucalc.info">SnooP and goodone's Power Supply Calculator</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210411001829/http://psucalc.info/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）; provides rails' amperage distribution</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090904171658/http://www.vbutils.com/power.asp">Computer Power Supply Calculator</a>（已过时）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110713121329/http://www.journeysystems.com/support/calculator/">Journey Systems' online power supply calculator</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.extreme.outervision.com/psucalculatorlite.jsp">功率计算器</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090526075225/http://www.extreme.outervision.com/psucalculatorlite.jsp">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（中文）</span></li></ul>
+<h3><span id="ATX.E9.9B.BB.E6.BA.90.E4.BE.9B.E6.87.89.E5.99.A8.E8.A6.8F.E6.A0.BC"></span><span class="mw-headline" id="ATX電源供應器規格">ATX电源供应器规格</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;action=edit&amp;section=26" title="编辑章节：ATX电源供应器规格"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091122121933/http://www.formfactors.org/developer/specs/ATX12V%20PSDG2.01.pdf">ATX12V电源供应器设计指导，版本2.01</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080920191034/http://www.formfactors.org/developer/specs/ATX12V_PSDG_2_2_public_br2.pdf">ATX12V电源供应器设计指导，版本2.2</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150114105013/http://www.formfactors.org/developer/specs/PSU_DG_rev_1_1.pdf">ATX12V电源供应器设计指导，版本2.3</a>（台式机平台的电源供应器外观尺寸标准，版本1.1）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141028205454/http://formfactors.org/developer/specs/Power_Supply_Design_Guide_Desktop_Platform_Rev_1_2.pdf">ATX12V电源供应器设计指导，版本2.31</a>（台式机平台的电源供应器外观尺寸标准，版本1.2）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141021123124/http://cache-www.intel.com/cd/00/00/52/37/523796_523796.pdf">ATX12V电源供应器设计指导，版本2.4</a>（台式机平台的电源供应器外观尺寸标准，版本1.31）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%94%B5%E8%84%91%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6" title="Template:电脑基本部件"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E7%94%B5%E8%84%91%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6&amp;action=edit&amp;redlink=1" class="new" title="Template talk:电脑基本部件（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%94%B5%E8%84%91%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="电子计算机">电子计算机</a>基本<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" title="计算机硬件">部件</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%BE%93%E5%85%A5%E8%AE%BE%E5%A4%87" title="输入设备">输入设备</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E8%84%91%E9%94%AE%E7%9B%98" title="电脑键盘">键盘</a>
+<ul><li><a href="/wiki/%E6%95%B0%E5%AD%97%E9%94%AE%E7%9B%98" title="数字键盘">数字键盘</a></li></ul></li>
+<li><a href="/wiki/%E5%BD%B1%E5%83%8F%E6%8E%83%E6%8F%8F%E5%99%A8" title="影像扫描仪">影像扫描仪</a></li>
+<li><a href="/wiki/%E6%98%BE%E7%A4%BA%E5%8D%A1" title="显卡">显卡</a>
+<ul><li><a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a></li></ul></li>
+<li><a href="/wiki/%E9%BA%A6%E5%85%8B%E9%A3%8E" title="麦克风">麦克风</a></li>
+<li><a href="/wiki/%E5%AE%9A%E7%82%B9%E8%AE%BE%E5%A4%87" title="定点设备">定点设备</a>
+<ul><li><a href="/wiki/%E6%95%B0%E7%A0%81%E7%BB%98%E5%9B%BE%E6%9D%BF" title="数码绘图板">数码绘图板</a></li>
+<li><a href="/wiki/%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8" title="游戏控制器">游戏控制器</a></li>
+<li><span class="ilh-all" data-orig-title="光筆" data-lang-code="en" data-lang-name="英语" data-foreign-title="Light pen"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E7%AD%86&amp;action=edit&amp;redlink=1" class="new" title="光笔（页面不存在）">光笔</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Light_pen" class="extiw" title="en:Light pen"><span lang="en" dir="auto">Light pen</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%BC%A0%E6%A0%87" title="鼠标">鼠标</a>
+<ul><li><a href="/wiki/%E5%85%89%E7%94%B5%E9%BC%A0%E6%A0%87" title="光电鼠标">光学</a></li></ul></li>
+<li><a href="/wiki/%E6%8C%87%E7%82%B9%E6%9D%86" title="指点杆">指点杆</a></li>
+<li><a href="/wiki/%E8%A7%A6%E6%91%B8%E6%9D%BF" title="触摸板">触摸板</a></li>
+<li><a href="/wiki/%E8%A7%B8%E6%8E%A7%E5%BC%8F%E8%9E%A2%E5%B9%95" title="触摸屏">触摸屏</a></li>
+<li><a href="/wiki/%E8%BD%A8%E8%BF%B9%E7%90%83" title="轨迹球">轨迹球</a></li></ul></li>
+<li><a href="/wiki/%E7%9B%B2%E6%96%87%E6%98%BE%E7%A4%BA%E6%9C%BA" title="盲文显示机">盲文显示机</a></li>
+<li><a href="/wiki/%E5%A3%B0%E5%8D%A1" title="声卡">声卡</a>
+<ul><li><span class="ilh-all" data-orig-title="聲音處理器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sound chip"><span class="ilh-page"><a href="/w/index.php?title=%E8%81%B2%E9%9F%B3%E8%99%95%E7%90%86%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="声音处理器（页面不存在）">声音处理器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sound_chip" class="extiw" title="en:Sound chip"><span lang="en" dir="auto">Sound chip</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E6%91%84%E5%83%8F%E5%A4%B4" title="摄像头">摄像头</a>
+<ul><li><span class="ilh-all" data-orig-title="虛擬攝影機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Softcam"><span class="ilh-page"><a href="/w/index.php?title=%E8%99%9B%E6%93%AC%E6%94%9D%E5%BD%B1%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="虚拟摄影机（页面不存在）">虚拟</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Softcam" class="extiw" title="en:Softcam"><span lang="en" dir="auto">Softcam</span></a></span>）</span></span></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87" title="输出设备">输出设备</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%BE%E7%A4%BA%E5%99%A8" title="计算机显示器">显示器</a>
+<ul><li><a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A6%96%E8%A6%BA%E5%8C%96%E9%A1%AF%E7%A4%BA%E5%99%A8" title="电子可视化显示器">屏幕</a></li></ul></li>
+<li><a href="/wiki/%E7%9B%B2%E6%96%87%E6%98%BE%E7%A4%BA%E6%9C%BA" title="盲文显示机">盲文显示机</a></li>
+<li><a href="/wiki/%E6%89%93%E5%8D%B0%E6%9C%BA" title="打印机">打印机</a>
+<ul><li><span class="ilh-all" data-orig-title="繪圖儀" data-lang-code="en" data-lang-name="英语" data-foreign-title="Plotter"><span class="ilh-page"><a href="/w/index.php?title=%E7%B9%AA%E5%9C%96%E5%84%80&amp;action=edit&amp;redlink=1" class="new" title="绘图仪（页面不存在）">绘图仪</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Plotter" class="extiw" title="en:Plotter"><span lang="en" dir="auto">Plotter</span></a></span>）</span></span></li></ul></li>
+<li><span class="ilh-all" data-orig-title="電腦揚聲器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer speakers"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E8%85%A6%E6%8F%9A%E8%81%B2%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="电脑扬声器（页面不存在）">扬声器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer_speakers" class="extiw" title="en:Computer speakers"><span lang="en" dir="auto">Computer speakers</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A3%B0%E5%8D%A1" title="声卡">声卡</a></li>
+<li><a href="/wiki/%E6%98%BE%E7%A4%BA%E5%8D%A1" title="显卡">显卡</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A7%BB%E5%8A%A8%E5%AD%98%E5%82%A8" title="移动存储">移动存储</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="磁碟組" data-lang-code="en" data-lang-name="英语" data-foreign-title="Disk pack"><span class="ilh-page"><a href="/w/index.php?title=%E7%A3%81%E7%A2%9F%E7%B5%84&amp;action=edit&amp;redlink=1" class="new" title="磁盘组（页面不存在）">磁盘组</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Disk_pack" class="extiw" title="en:Disk pack"><span lang="en" dir="auto">Disk pack</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BD%AF%E7%9B%98" title="软盘">软盘</a></li>
+<li><a href="/wiki/%E5%85%89%E7%A2%9F" title="光盘">光盘</a>
+<ul><li><a href="/wiki/%E9%9B%B7%E5%B0%84%E5%94%B1%E7%89%87" title="激光唱片">CD</a></li>
+<li><a href="/wiki/DVD" title="DVD">DVD</a></li>
+<li><a href="/wiki/%E8%97%8D%E5%85%89%E5%85%89%E7%A2%9F" title="蓝光光盘">BD</a></li></ul></li>
+<li><a href="/wiki/%E9%97%AA%E5%AD%98" title="闪存">闪存</a>
+<ul><li><a href="/wiki/%E8%A8%98%E6%86%B6%E5%8D%A1" title="存储卡">存储卡</a></li>
+<li><a href="/wiki/%E9%97%AA%E5%AD%98%E7%9B%98" title="闪存盘">闪存盘</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%BA%E7%AE%B1" title="机箱">机箱</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8" title="中央处理器">中央处理器</a>
+<ul><li><a href="/wiki/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8" title="微处理器">微处理器</a></li></ul></li>
+<li><a href="/wiki/%E4%B8%BB%E6%9D%BF" title="主板">主板</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E8%A8%98%E6%86%B6%E9%AB%94" title="电脑存储器">存储器</a>
+<ul><li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E5%AD%98%E5%8F%96%E5%AD%98%E5%82%A8%E5%99%A8" title="随机存取存储器">随机存取</a></li>
+<li><a href="/wiki/%E9%9D%9E%E6%98%93%E5%A4%B1%E6%80%A7BIOS%E5%AD%98%E5%84%B2%E5%99%A8" title="非易失性BIOS存储器">BIOS</a></li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E6%95%B8%E6%93%9A%E5%AD%98%E8%B2%AF%E5%99%A8" title="电脑数据存贮器">数据存贮器</a>
+<ul><li><a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘</a></li>
+<li><a href="/wiki/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98" title="固态硬盘">固态硬盘</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98" title="混合固态硬盘">混合固态硬盘</a></li></ul></li>
+<li><a class="mw-selflink selflink">电源供应器</a>
+<ul><li><a href="/wiki/%E9%96%8B%E9%97%9C%E6%A8%A1%E5%BC%8F%E9%9B%BB%E6%BA%90" title="开关模式电源">开关模式电源</a></li></ul></li>
+<li><a href="/wiki/%E9%87%91%E5%B1%AC%E6%B0%A7%E5%8C%96%E7%89%A9%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A0%B4%E6%95%88%E9%9B%BB%E6%99%B6%E9%AB%94" title="金属氧化物半导体场效晶体管">金属氧化物半导体场效晶体管</a>
+<ul><li><a href="/wiki/%E5%8A%9F%E7%8E%87MOSFET" title="功率MOSFET">功率</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%A3%93%E8%AA%BF%E7%AF%80%E6%A8%A1%E7%B5%84" title="电压调节模块">电压调节模块</a></li></ul></li>
+<li><a href="/wiki/%E7%BD%91%E5%8D%A1" title="网卡">网卡</a></li>
+<li><span class="ilh-all" data-orig-title="傳真數據機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fax modem"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%B3%E7%9C%9F%E6%95%B8%E6%93%9A%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="传真调制解调器（页面不存在）">传真调制解调器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fax_modem" class="extiw" title="en:Fax modem"><span lang="en" dir="auto">Fax modem</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%93%B4%E5%85%85%E5%8D%A1" title="扩展卡">扩展卡</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="计算机硬件端口" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer port (hardware)"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E7%AB%AF%E5%8F%A3&amp;action=edit&amp;redlink=1" class="new" title="计算机硬件端口（页面不存在）">接口</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer_port_(hardware)" class="extiw" title="en:Computer port (hardware)"><span lang="en" dir="auto">Computer port (hardware)</span></a></span>）</span></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91" title="以太网">以太网</a></li>
+<li><a href="/wiki/IEEE_1394" title="IEEE 1394">FireWire</a></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E7%AB%AF%E5%8F%A3" title="并行端口">并行</a></li>
+<li><a href="/wiki/%E4%B8%B2%E8%A1%8C%E7%AB%AF%E5%8F%A3" title="串行端口">序列</a></li>
+<li><a href="/wiki/PS/2%E6%8E%A5%E5%8F%A3" title="PS/2接口">PS/2</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/Thunderbolt" title="Thunderbolt">Thunderbolt</a></li>
+<li><a href="/wiki/DisplayPort" title="DisplayPort">DisplayPort</a>／<a href="/wiki/HDMI" title="HDMI">HDMI</a>／<a href="/wiki/DVI" title="DVI">DVI</a>／<a href="/wiki/VGA%E7%AB%AF%E5%AD%90" title="VGA端子">VGA</a></li>
+<li><a href="/wiki/SATA" title="SATA">SATA</a></li>
+<li><a href="/wiki/TRS%E7%AB%AF%E5%AD%90" title="TRS端子">TRS</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%9B%B4%E6%B5%81%E9%9B%BB%E6%BA%90%E5%82%B3%E8%BC%B8" title="Template:直流电源传输"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%9B%B4%E6%B5%81%E9%9B%BB%E6%BA%90%E5%82%B3%E8%BC%B8" title="Template talk:直流电源传输"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%9B%B4%E6%B5%81%E9%9B%BB%E6%BA%90%E5%82%B3%E8%BC%B8&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="直流电">直流电</a>源传输</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">以<a href="/wiki/USB" title="USB">USB</a>为基础</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="通用外接电源" data-lang-code="en" data-lang-name="英语" data-foreign-title="Common external power supply"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%9A%E7%94%A8%E5%A4%96%E6%8E%A5%E7%94%B5%E6%BA%90&amp;action=edit&amp;redlink=1" class="new" title="通用外接电源（页面不存在）">通用外接电源</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Common_external_power_supply" class="extiw" title="en:Common external power supply"><span lang="en" dir="auto">Common external power supply</span></a></span>）</span></span>（用于移动电话）</li>
+<li><a href="/wiki/USB_Power_Delivery" title="USB Power Delivery">USB PD</a></li>
+<li><span class="ilh-all" data-orig-title="PoweredUSB" data-lang-code="en" data-lang-name="英语" data-foreign-title="PoweredUSB"><span class="ilh-page"><a href="/w/index.php?title=PoweredUSB&amp;action=edit&amp;redlink=1" class="new" title="PoweredUSB（页面不存在）">PoweredUSB</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/PoweredUSB" class="extiw" title="en:PoweredUSB"><span lang="en" dir="auto">PoweredUSB</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">非USB基础</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BA%A4%E6%B5%81%E9%85%8D%E6%8E%A5%E5%99%A8" title="交流适配器">交流适配器</a></li>
+<li><a class="mw-selflink selflink">电源供应器</a>（<a href="/wiki/ATX%E8%A6%8F%E6%A0%BC" title="ATX规格">ATX规格</a>）</li>
+<li><span class="ilh-all" data-orig-title="移动设备用通用电源适配器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Universal Power Adapter for Mobile Devices"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E7%94%A8%E9%80%9A%E7%94%A8%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="移动设备用通用电源适配器（页面不存在）">移动设备用通用电源适配器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Universal_Power_Adapter_for_Mobile_Devices" class="extiw" title="en:Universal Power Adapter for Mobile Devices"><span lang="en" dir="auto">Universal Power Adapter for Mobile Devices</span></a></span>）</span></span>（IEEE P1823）</li>
+<li>笔记本电脑直流电源（<span class="ilh-all" data-orig-title="IEC 62700" data-lang-code="en" data-lang-name="英语" data-foreign-title="IEC 62700"><span class="ilh-page"><a href="/w/index.php?title=IEC_62700&amp;action=edit&amp;redlink=1" class="new" title="IEC 62700（页面不存在）">IEC 62700</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/IEC_62700" class="extiw" title="en:IEC 62700"><span lang="en" dir="auto">IEC 62700</span></a></span>）</span></span>）</li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐nh7q2
+Cached time: 20240402034546
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.758 seconds
+Real time usage: 0.974 seconds
+Preprocessor visited node count: 4186/1000000
+Post‐expand include size: 325715/2097152 bytes
+Template argument size: 6531/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 15/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58695/5000000 bytes
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 7057364/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  656.736      1 -total
+ 33.45%  219.703      1 Template:Reflist
+ 18.68%  122.666     22 Template:Cite_web
+ 12.64%   82.985      2 Template:Navbox
+ 10.73%   70.440      1 Template:电脑基本部件
+  9.05%   59.421      2 Template:Dead_link
+  8.46%   55.547      1 Template:Commons_category
+  8.24%   54.090      1 Template:Sister_project
+  8.15%   53.498      2 Template:Fix
+  7.99%   52.473      1 Template:Side_box
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:1081719-0!userlang=zh-cn!zh-cn and timestamp 20240402034546 and revision id 78941335. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=電源供應器&amp;oldid=78941335">https://zh.wikipedia.org/w/index.php?title=電源供應器&amp;oldid=78941335</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%9B%BB%E6%BA%90" title="Category:電源">电源</a></li><li><a href="/wiki/Category:%E9%9B%BB%E8%85%A6%E7%A1%AC%E9%AB%94" title="Category:電腦硬體">电脑硬件</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B46%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2020年6月带有失效链接的条目">自2020年6月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E6%9D%A1%E7%9B%AE%E6%9C%89%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%95%88%E7%9A%84%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Category:条目有永久失效的外部链接">条目有永久失效的外部链接</a></li><li><a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF%EF%BC%9A%E6%97%A5%E6%9C%9F" title="Category:引文格式1错误：日期">引文格式1错误：日期</a></li><li><a href="/wiki/Category:%E8%87%AA2015%E5%B9%B43%E6%9C%88%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2015年3月需补充来源的条目">自2015年3月需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A82%E8%99%9F%E5%8F%83%E6%95%B8%E5%82%B3%E9%81%9EPortal%E6%A8%A1%E6%9D%BF%E5%9C%96%E5%83%8F%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:使用2號參數傳遞Portal模板圖像的頁面">使用2号参数传递Portal模板图像的页面</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年9月16日 (星期六) 07:13。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-s4wt6","wgBackendResponseTime":192,"wgPageParseReport":{"limitreport":{"cputime":"0.758","walltime":"0.974","ppvisitednodes":{"value":4186,"limit":1000000},"postexpandincludesize":{"value":325715,"limit":2097152},"templateargumentsize":{"value":6531,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58695,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  656.736      1 -total"," 33.45%  219.703      1 Template:Reflist"," 18.68%  122.666     22 Template:Cite_web"," 12.64%   82.985      2 Template:Navbox"," 10.73%   70.440      1 Template:电脑基本部件","  9.05%   59.421      2 Template:Dead_link","  8.46%   55.547      1 Template:Commons_category","  8.24%   54.090      1 Template:Sister_project","  8.15%   53.498      2 Template:Fix","  7.99%   52.473      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":7057364,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-nh7q2","timestamp":"20240402034546","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u96fb\u6e90\u4f9b\u61c9\u5668","url":"https:\/\/zh.wikipedia.org\/wiki\/%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3972","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3972","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-07-06T03:11:03Z","dateModified":"2023-09-16T07:13:04Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/62\/PSU-Open1.jpg","headline":"\u96fb\u8166\u7684\u7d44\u6210\u90e8\u5206\u4e4b\u4e00"}</script>
+</body>
+</html>

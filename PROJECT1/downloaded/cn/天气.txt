@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>天气 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"30487def-668d-4ebe-87b2-fe922f1c5cf1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"天气","wgTitle":"天气","wgCurRevisionId":81746925,"wgRevisionId":81746925,"wgArticleId":11878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2011年6月带有失效链接的条目","自2017年12月带有失效链接的条目","条目有永久失效的外部链接","Webarchive模板archiveis链接","维基共享资源分类链接使用了维基数据上的匹配项","包含AAT标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NARA标识符的维基百科条目",
+"包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","天氣"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"天气","wgRelevantArticleId":11878,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":
+true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q11663","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements",
+"mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints",
+"ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/1200px-Thunder_lightning_Garajau_Madeira_289985700.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="885">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/800px-Thunder_lightning_Garajau_Madeira_289985700.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="590">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/640px-Thunder_lightning_Garajau_Madeira_289985700.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="472">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="天气 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%A4%A9%E6%B0%94">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B0%94">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-天气 rootpage-天气 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%A4%A9%E6%B0%94" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%A4%A9%E6%B0%94" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%A4%A9%E6%B0%94" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%A4%A9%E6%B0%94" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-基本原理"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#基本原理">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>基本原理</div>
+		</a>
+		
+		<ul id="toc-基本原理-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-气象数据"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#气象数据">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>气象数据</div>
+		</a>
+		
+		<ul id="toc-气象数据-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-天气和气候"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#天气和气候">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>天气和气候</div>
+		</a>
+		
+		<ul id="toc-天气和气候-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-预报"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#预报">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>预报</div>
+		</a>
+		
+		<ul id="toc-预报-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-地球上的极端天气"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#地球上的极端天气">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>地球上的极端天气</div>
+		</a>
+		
+		<ul id="toc-地球上的极端天气-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-太空天气"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#太空天气">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>太空天气</div>
+		</a>
+		
+		<ul id="toc-太空天气-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參見"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參見">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>参见</div>
+		</a>
+		
+		<ul id="toc-參見-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">天气</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。145种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-145" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">145种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Weer_(meteorologie)" title="Weer (meteorologie) – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Wetter" title="Wetter – 瑞士德语" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Orache" title="Orache – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ang mw-list-item"><a href="https://ang.wikipedia.org/wiki/Weder" title="Weder – 古英语" lang="ang" hreflang="ang" class="interlanguage-link-target"><span>Ænglisc</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D9%82%D8%B3" title="طقس – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A6%A4%E0%A7%B0" title="বতৰ – 阿萨姆语" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Tiempu_atmosf%C3%A9ricu" title="Tiempu atmosféricu – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-av mw-list-item"><a href="https://av.wikipedia.org/wiki/%D0%93%D1%8C%D0%B0%D0%B2%D0%B0-%D0%B1%D0%B0%D0%BA%D1%8A" title="Гьава-бакъ – 阿瓦尔语" lang="av" hreflang="av" class="interlanguage-link-target"><span>Авар</span></a></li><li class="interlanguage-link interwiki-awa mw-list-item"><a href="https://awa.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – 阿瓦德语" lang="awa" hreflang="awa" class="interlanguage-link-target"><span>अवधी</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D2%BA%D0%B0%D1%83%D0%B0_%D1%82%D0%BE%D1%80%D0%BE%D1%88%D0%BE" title="Һауа торошо – 巴什基尔语" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Weda" title="Weda – 巴伐利亞文" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Uor%C4%81" title="Uorā – 薩莫吉希亞文" lang="sgs" hreflang="sgs" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Panahon_(meteorolohiya)" title="Panahon (meteorolohiya) – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B2%D0%BE%D1%80%E2%80%99%D0%B5" title="Надвор’е – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B2%D0%BE%D1%80%E2%80%99%D0%B5" title="Надвор’е – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Време (метеорология) – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="আবহাওয়া – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Amzer_(meteorologiezh)" title="Amzer (meteorologiezh) – 布列塔尼语" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Vrijeme_(meteorologija)" title="Vrijeme (meteorologija) – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-bxr mw-list-item"><a href="https://bxr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B3%D0%B0%D0%B9_%D1%83%D0%BB%D0%B0%D1%80%D0%B8%D0%BB" title="Сагай уларил – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target"><span>Буряад</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Temps_atmosf%C3%A8ric" title="Temps atmosfèric – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-chr mw-list-item"><a href="https://chr.wikipedia.org/wiki/%E1%8F%99%E1%8F%AF%E1%8F%97%E1%8F%9C_%E1%8F%82%E1%8E%A6%E1%8E%B5%E1%8F%8D%E1%8F%94%E1%8F%85%E1%8F%8D%E1%8E%AC" title="ᏙᏯᏗᏜ ᏂᎦᎵᏍᏔᏅᏍᎬ – 切罗基语" lang="chr" hreflang="chr" class="interlanguage-link-target"><span>ᏣᎳᎩ</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%95%D8%B4%D9%88%DA%BE%DB%95%D9%88%D8%A7" title="کەشوھەوا – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Po%C4%8Das%C3%AD" title="Počasí – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wikipedia.org/wiki/Wiodro" title="Wiodro – 卡舒比语" lang="csb" hreflang="csb" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%C3%87%D0%B0%D0%BD%D1%82%D0%B0%D0%BB%C4%83%D0%BA" title="Çанталăк – 楚瓦什语" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Tywydd" title="Tywydd – 威尔士语" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Vejr" title="Vejr – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Wetter" title="Wetter – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-dty mw-list-item"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target"><span>डोटेली</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%B9%CF%81%CF%8C%CF%82" title="Καιρός – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en badge-Q17437798 badge-goodarticle mw-list-item" title="优良条目"><a href="https://en.wikipedia.org/wiki/Weather" title="Weather – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Vetero" title="Vetero – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tiempo_atmosf%C3%A9rico" title="Tiempo atmosférico – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Ilm" title="Ilm – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Eguraldi" title="Eguraldi – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D9%88%D8%A7" title="هوا – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/S%C3%A4%C3%A4" title="Sää – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fiu-vro mw-list-item"><a href="https://fiu-vro.wikipedia.org/wiki/Ilm" title="Ilm – 佛羅文" lang="vro" hreflang="vro" class="interlanguage-link-target"><span>Võro</span></a></li><li class="interlanguage-link interwiki-fj mw-list-item"><a href="https://fj.wikipedia.org/wiki/Draki" title="Draki – 斐济语" lang="fj" hreflang="fj" class="interlanguage-link-target"><span>Na Vosa Vakaviti</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Ve%C3%B0ur" title="Veður – 法罗语" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Temps_(m%C3%A9t%C3%A9orologie)" title="Temps (météorologie) – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Weder" title="Weder – 北弗里西亚语" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Aimsir_(meit%C3%A9areola%C3%ADocht)" title="Aimsir (meitéareolaíocht) – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gcr mw-list-item"><a href="https://gcr.wikipedia.org/wiki/Tan_(m%C3%A9t%C3%A9oroloji)" title="Tan (météoroloji) – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target"><span>Kriyòl gwiyannen</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/Aimsir" title="Aimsir – 苏格兰盖尔语" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Tempo_atmosf%C3%A9rico" title="Tempo atmosférico – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gom mw-list-item"><a href="https://gom.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8" title="हवामान – 孔卡尼文" lang="gom" hreflang="gom" class="interlanguage-link-target"><span>गोंयची कोंकणी / Gõychi Konknni</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B9%E0%AA%B5%E0%AA%BE%E0%AA%AE%E0%AA%BE%E0%AA%A8" title="હવામાન – 古吉拉特语" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wikipedia.org/wiki/Yanayi" title="Yanayi – 豪萨语" lang="ha" hreflang="ha" class="interlanguage-link-target"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%92_%D7%90%D7%95%D7%95%D7%99%D7%A8" title="מזג אוויר – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Vrijeme_(meteorologija)" title="Vrijeme (meteorologija) – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Id%C5%91j%C3%A1r%C3%A1s" title="Időjárás – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B5%D5%B2%D5%A1%D5%B6%D5%A1%D5%AF" title="Եղանակ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Tempore_(meteorologia)" title="Tempore (meteorologia) – 国际语" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Cuaca" title="Cuaca – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wikipedia.org/wiki/Tempe" title="Tempe – 国际文字（E）" lang="ie" hreflang="ie" class="interlanguage-link-target"><span>Interlingue</span></a></li><li class="interlanguage-link interwiki-ik mw-list-item"><a href="https://ik.wikipedia.org/wiki/Si%E1%B8%B7a" title="Siḷa – 伊努皮克语" lang="ik" hreflang="ik" class="interlanguage-link-target"><span>Iñupiatun</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Tiempo_(atmosperiko)" title="Tiempo (atmosperiko) – 伊洛卡诺语" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-inh mw-list-item"><a href="https://inh.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BE%D1%82%D1%82%D0%B0%D0%BC" title="Хаоттам – 印古什语" lang="inh" hreflang="inh" class="interlanguage-link-target"><span>ГӀалгӀай</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Vetero" title="Vetero – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Ve%C3%B0ur" title="Veður – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Tempo_(meteorologia)" title="Tempo (meteorologia) – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%B0%97%E8%B1%A1" title="気象 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jam mw-list-item"><a href="https://jam.wikipedia.org/wiki/Weda" title="Weda – 牙買加克里奧爾英文" lang="jam" hreflang="jam" class="interlanguage-link-target"><span>Patois</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Cuaca" title="Cuaca – 爪哇语" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%98" title="ამინდი – 格鲁吉亚语" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kaa mw-list-item"><a href="https://kaa.wikipedia.org/wiki/Hawa_ray%C4%B1" title="Hawa rayı – 卡拉卡尔帕克语" lang="kaa" hreflang="kaa" class="interlanguage-link-target"><span>Qaraqalpaqsha</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Tignewt" title="Tignewt – 卡拜尔语" lang="kab" hreflang="kab" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%90%D1%83%D0%B0_%D1%80%D0%B0%D0%B9%D1%8B" title="Ауа райы – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kl mw-list-item"><a href="https://kl.wikipedia.org/wiki/Silasiorneq" title="Silasiorneq – 格陵兰语" lang="kl" hreflang="kl" class="interlanguage-link-target"><span>Kalaallisut</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%B5%E0%B2%BE%E0%B2%AE%E0%B2%BE%E0%B2%A8" title="ಹವಾಮಾನ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%83%81" title="기상 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-krc mw-list-item"><a href="https://krc.wikipedia.org/wiki/%D0%9A%D1%8E%D0%BD%D0%BD%D1%8E_%D1%85%D0%B0%D0%BB%D1%8B" title="Кюнню халы – 卡拉恰伊巴尔卡尔语" lang="krc" hreflang="krc" class="interlanguage-link-target"><span>Къарачай-малкъар</span></a></li><li class="interlanguage-link interwiki-kw mw-list-item"><a href="https://kw.wikipedia.org/wiki/Kewer" title="Kewer – 康沃尔语" lang="kw" hreflang="kw" class="interlanguage-link-target"><span>Kernowek</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0_%D1%8B%D1%80%D0%B0%D0%B9%D1%8B" title="Аба ырайы – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Status_caeli" title="Status caeli – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Wieder" title="Wieder – 卢森堡语" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lfn mw-list-item"><a href="https://lfn.wikipedia.org/wiki/Clima" title="Clima – 新共同語言" lang="lfn" hreflang="lfn" class="interlanguage-link-target"><span>Lingua Franca Nova</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/Waer" title="Waer – 林堡语" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Temp_(atmosfera)" title="Temp (atmosfera) – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Orai" title="Orai – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Laikapst%C4%81k%C4%BCi" title="Laikapstākļi – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – 迈蒂利语" lang="mai" hreflang="mai" class="interlanguage-link-target"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-mdf mw-list-item"><a href="https://mdf.wikipedia.org/wiki/%D0%A3%D1%88%D0%B5%D1%81%D1%8C" title="Ушесь – 莫克沙语" lang="mdf" hreflang="mdf" class="interlanguage-link-target"><span>Мокшень</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Toetrandro" title="Toetrandro – 马拉加斯语" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B4%B2%E0%B4%BE%E0%B4%B5%E0%B4%B8%E0%B5%8D%E0%B4%A5" title="കാലാവസ്ഥ – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%A6%D0%B0%D0%B3_%D0%B0%D0%B3%D0%B0%D0%B0%D1%80" title="Цаг агаар – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8" title="हवामान – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Cuaca" title="Cuaca – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9C%E1%80%B1%E1%80%9D%E1%80%9E" title="မိုးလေဝသ – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-myv mw-list-item"><a href="https://myv.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D0%BB%D1%8C%D0%BA%D1%81" title="Венелькс – 厄尔兹亚语" lang="myv" hreflang="myv" class="interlanguage-link-target"><span>Эрзянь</span></a></li><li class="interlanguage-link interwiki-nds-nl mw-list-item"><a href="https://nds-nl.wikipedia.org/wiki/Weer" title="Weer – 低萨克森语" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target"><span>Nedersaksies</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE" title="मौसम – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Weer_(meteorologie)" title="Weer (meteorologie) – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/V%C3%AAr" title="Vêr – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/V%C3%A6r_(meteorologi)" title="Vær (meteorologi) – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nso mw-list-item"><a href="https://nso.wikipedia.org/wiki/Boso" title="Boso – 北索托语" lang="nso" hreflang="nso" class="interlanguage-link-target"><span>Sesotho sa Leboa</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Temps_(meteorologia)" title="Temps (meteorologia) – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%AA%E0%AC%BE%E0%AC%A3%E0%AC%BF%E0%AC%AA%E0%AC%BE%E0%AC%97" title="ପାଣିପାଗ – 奥里亚语" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A9%8C%E0%A8%B8%E0%A8%AE" title="ਮੌਸਮ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pap mw-list-item"><a href="https://pap.wikipedia.org/wiki/W%C3%A8r" title="Wèr – 帕皮阿门托语" lang="pap" hreflang="pap" class="interlanguage-link-target"><span>Papiamentu</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Pogoda" title="Pogoda – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%85" title="موسم – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Tempo_(meteorologia)" title="Tempo (meteorologia) – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Vreme" title="Vreme – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0" title="Погода – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/%D0%A5%D0%B2%D1%96%D0%BB%D1%8F" title="Хвіля – 盧森尼亞文" lang="rue" hreflang="rue" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D2%AF%D0%BD-%D0%B4%D1%8C%D1%8B%D0%BB_%D1%82%D1%83%D1%80%D1%83%D0%B3%D0%B0" title="Күн-дьыл туруга – 萨哈语" lang="sah" hreflang="sah" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Wather" title="Wather – 苏格兰语" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%85" title="موسم – 信德语" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Vrijeme_(meteorologija)" title="Vrijeme (meteorologija) – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%8F%E0%B6%BD%E0%B6%9C%E0%B7%94%E0%B6%AB%E0%B6%BA" title="කාලගුණය – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Weather" title="Weather – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Po%C4%8Dasie" title="Počasie – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Vreme" title="Vreme – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sn mw-list-item"><a href="https://sn.wikipedia.org/wiki/Hwewa" title="Hwewa – 绍纳语" lang="sn" hreflang="sn" class="interlanguage-link-target"><span>ChiShona</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Moti" title="Moti – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5_(%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0)" title="Време (метеорологија) – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-stq mw-list-item"><a href="https://stq.wikipedia.org/wiki/Weeder" title="Weeder – 沙特菲士蘭文" lang="stq" hreflang="stq" class="interlanguage-link-target"><span>Seeltersk</span></a></li><li class="interlanguage-link interwiki-sv badge-Q17559452 badge-recommendedarticle mw-list-item" title="推荐条目"><a href="https://sv.wikipedia.org/wiki/V%C3%A4der" title="Väder – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Hali_ya_hewa" title="Hali ya hewa – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%B2%E0%AF%88" title="வானிலை – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tay mw-list-item"><a href="https://tay.wikipedia.org/wiki/kayal(%E5%A4%A9%E7%A9%BA;%E5%A4%A9%E6%B0%A3)" title="kayal(天空;天氣) – Tayal" lang="tay" hreflang="tay" class="interlanguage-link-target"><span>Tayal</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B0%B5%E0%B0%A8%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%BF%E0%B0%A4%E0%B0%BF" title="పవనస్థితి – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%A1%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8" title="ลมฟ้าอากาศ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Panahon_(meteorolohiya)" title="Panahon (meteorolohiya) – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-to mw-list-item"><a href="https://to.wikipedia.org/wiki/%CA%BBEa" title="ʻEa – 汤加语" lang="to" hreflang="to" class="interlanguage-link-target"><span>Lea faka-Tonga</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Hava_durumu" title="Hava durumu – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-ts mw-list-item"><a href="https://ts.wikipedia.org/wiki/Maxelo" title="Maxelo – 聪加语" lang="ts" hreflang="ts" class="interlanguage-link-target"><span>Xitsonga</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D2%BA%D0%B0%D0%B2%D0%B0_%D1%82%D0%BE%D1%80%D1%8B%D1%88%D1%8B" title="Һава торышы – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0" title="Погода – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%85" title="موسم – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Ob-havo" title="Ob-havo – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/S%C3%A4" title="Sä – 维普森语" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_ti%E1%BA%BFt" title="Thời tiết – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Panahon_(meteorolohiya)" title="Panahon (meteorolohiya) – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%A4%A9%E6%B0%A3" title="天氣 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A2%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%98" title="ტაროსი – 明格列爾文" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%A2%D7%98%D7%A2%D7%A8" title="וועטער – 意第绪语" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-za mw-list-item"><a href="https://za.wikipedia.org/wiki/Dienheiq" title="Dienheiq – 壮语" lang="za" hreflang="za" class="interlanguage-link-target"><span>Vahcuengh</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Thi%E2%81%BF-kh%C3%AC" title="Thiⁿ-khì – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A4%A9%E6%B0%A3" title="天氣 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11663#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%A9%E6%B0%94" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%A4%A9%E6%B0%94" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%A4%A9%E6%B0%94" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%A4%A9%E6%B0%94" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%A4%A9%E6%B0%94" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%A4%A9%E6%B0%94" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%A4%A9%E6%B0%94" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%A4%A9%E6%B0%94" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%A4%A9%E6%B0%94" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%A4%A9%E6%B0%94" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%A4%A9%E6%B0%94" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%A9%E6%B0%94"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%A4%A9%E6%B0%94"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%A4%A9%E6%B0%94" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%A4%A9%E6%B0%94" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;oldid=81746925" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%A4%A9%E6%B0%94&amp;id=81746925&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25A4%25A9%25E6%25B0%2594"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25A4%25A9%25E6%25B0%2594"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11663" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%A4%A9%E6%B0%94&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Weather" hreflang="en"><span>维基共享资源</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://zh.wikinews.org/wiki/Category:%E5%A4%A9%E6%B0%94" hreflang="zh"><span>维基新闻</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>关于苹果公司开发的同名应用，请见“<b><a href="/wiki/%E5%A4%A9%E6%B0%A3_(%E8%98%8B%E6%9E%9C)" title="天气 (苹果)">天气 (苹果)</a></b>”。</div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Thunder_lightning_Garajau_Madeira_289985700.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/250px-Thunder_lightning_Garajau_Madeira_289985700.jpg" decoding="async" width="250" height="184" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/375px-Thunder_lightning_Garajau_Madeira_289985700.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thunder_lightning_Garajau_Madeira_289985700.jpg/500px-Thunder_lightning_Garajau_Madeira_289985700.jpg 2x" data-file-width="1259" data-file-height="928" /></a><figcaption><a href="/wiki/%E9%A6%AC%E5%BE%B7%E6%8B%89" class="mw-redirect" title="马德拉">马德拉</a>加拉乔附近的雷暴</figcaption></figure>
+<style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r78559700">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:100%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar sidebar-collapse nomobile nowraplinks hlist"><tbody><tr><td class="sidebar-pretitle"><a class="mw-selflink selflink">天气</a>条目系列之一</td></tr><tr><th class="sidebar-title-with-pretitle"><a class="mw-selflink selflink">天气</a></th></tr><tr><td class="sidebar-image"><span typeof="mw:File"><a href="/wiki/File:Global_tropical_cyclone_tracks-edit2.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Global_tropical_cyclone_tracks-edit2.jpg/200px-Global_tropical_cyclone_tracks-edit2.jpg" decoding="async" width="200" height="100" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Global_tropical_cyclone_tracks-edit2.jpg/300px-Global_tropical_cyclone_tracks-edit2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Global_tropical_cyclone_tracks-edit2.jpg/400px-Global_tropical_cyclone_tracks-edit2.jpg 2x" data-file-width="8000" data-file-height="4000" /></a></span></td></tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/%E5%AD%A3%E8%8A%82" title="季节">温带及极地季节</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/%E6%98%A5%E5%AD%A3" title="春季">春季</a></li>
+<li><a href="/wiki/%E5%A4%8F%E5%AD%A3" title="夏季">夏季</a></li>
+<li><a href="/wiki/%E7%A7%8B%E5%AD%A3" title="秋季">秋季</a></li>
+<li><a href="/wiki/%E5%86%AC%E5%AD%A3" title="冬季">冬季</a></li>
+<li><a href="/wiki/%E6%9E%81%E6%98%BC" title="极昼">极昼</a></li>
+<li><a href="/wiki/%E6%9E%81%E5%A4%9C" title="极夜">极夜</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/%E7%83%AD%E5%B8%A6" title="热带">热带季节</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/%E6%97%B1%E5%AD%A3" title="旱季">旱季</a>
+<ul><li><span class="ilh-all" data-orig-title="哈麥丹風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Harmattan"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%88%E9%BA%A5%E4%B8%B9%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="哈麦丹风（页面不存在）">哈麦丹风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Harmattan" class="extiw" title="en:Harmattan"><span lang="en" dir="auto">Harmattan</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E9%9B%A8%E5%AD%A3" title="雨季">雨季</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/%E9%A3%8E%E6%9A%B4" title="风暴">风暴</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/%E4%BA%91" title="云">云</a>
+<ul><li><a href="/wiki/%E7%A7%AF%E9%9B%A8%E4%BA%91" title="积雨云">积雨云</a></li>
+<li><a href="/wiki/%E5%BC%A7%E7%8B%80%E9%9B%B2" title="弧状云">弧状云</a></li></ul></li>
+<li><a href="/wiki/%E4%B8%8B%E6%93%8A%E6%9A%B4%E6%B5%81" title="下击暴流">下击暴流</a>
+<ul><li><a href="/wiki/%E5%BE%AE%E4%B8%8B%E6%93%8A%E6%9A%B4%E6%B5%81" title="微下击暴流">微下击暴流</a></li>
+<li><a href="/wiki/%E7%86%B1%E6%9A%B4%E6%B5%81" title="热暴流">热暴流</a></li>
+<li><span class="ilh-all" data-orig-title="反射回波" data-lang-code="en" data-lang-name="英语" data-foreign-title="Derecho"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%8D%E5%B0%84%E5%9B%9E%E6%B3%A2&amp;action=edit&amp;redlink=1" class="new" title="反射回波（页面不存在）">反射回波</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Derecho" class="extiw" title="en:Derecho"><span lang="en" dir="auto">Derecho</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E9%97%AA%E7%94%B5" title="闪电">闪电</a>
+<ul><li><a href="/wiki/%E7%81%AB%E5%B1%B1%E9%9B%B7" title="火山雷">火山雷</a></li></ul></li>
+<li><a href="/wiki/%E9%9B%B7%E6%9A%B4" title="雷暴">雷暴</a>
+<ul><li><span class="ilh-all" data-orig-title="氣團雷暴" data-lang-code="en" data-lang-name="英语" data-foreign-title="Air-mass thunderstorm"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%A3%E5%9C%98%E9%9B%B7%E6%9A%B4&amp;action=edit&amp;redlink=1" class="new" title="气团雷暴（页面不存在）">气团雷暴</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Air-mass_thunderstorm" class="extiw" title="en:Air-mass thunderstorm"><span lang="en" dir="auto">Air-mass thunderstorm</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%B7%E6%89%93%E9%9B%AA" title="雷打雪">雷打雪</a></li>
+<li><span class="ilh-all" data-orig-title="乾燥雷暴" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dry thunderstorm"><span class="ilh-page"><a href="/w/index.php?title=%E4%B9%BE%E7%87%A5%E9%9B%B7%E6%9A%B4&amp;action=edit&amp;redlink=1" class="new" title="干燥雷暴（页面不存在）">干燥雷暴</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dry_thunderstorm" class="extiw" title="en:Dry thunderstorm"><span lang="en" dir="auto">Dry thunderstorm</span></a></span>）</span></span></li></ul></li>
+<li><span class="ilh-all" data-orig-title="內消旋旋風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mesocyclone"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%A7%E6%B6%88%E6%97%8B%E6%97%8B%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="内消旋旋风（页面不存在）">内消旋旋风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mesocyclone" class="extiw" title="en:Mesocyclone"><span lang="en" dir="auto">Mesocyclone</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E8%B6%85%E7%BA%A7%E5%8D%95%E4%BD%93" title="超级单体">超大胞</a></li></ul></li>
+<li><a href="/wiki/%E9%BE%8D%E6%8D%B2%E9%A2%A8" title="龙卷风">龙卷风</a>
+<ul><li><span class="ilh-all" data-orig-title="反氣旋龍捲風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Anticyclonic tornado"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%8D%E6%B0%A3%E6%97%8B%E9%BE%8D%E6%8D%B2%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="反气旋龙卷风（页面不存在）">反气旋龙卷风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Anticyclonic_tornado" class="extiw" title="en:Anticyclonic tornado"><span lang="en" dir="auto">Anticyclonic tornado</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%99%B8%E9%BE%8D%E6%8D%B2" title="陆龙卷">陆龙卷</a></li>
+<li><a href="/wiki/%E6%B5%B7%E9%BE%8D%E6%8D%B2%E9%A2%A8" title="海龙卷风">海龙卷风</a></li></ul></li>
+<li><a href="/wiki/%E5%A1%B5%E6%8D%B2%E9%A2%A8" title="尘卷风">尘卷风</a></li>
+<li><a href="/wiki/%E7%81%AB%E9%BE%8D%E6%8D%B2" title="火龙卷">火龙卷</a></li>
+<li><a href="/wiki/%E5%8F%8D%E6%B0%94%E6%97%8B" title="反气旋">反气旋</a></li>
+<li><a href="/wiki/%E6%B0%94%E6%97%8B" title="气旋">气旋</a></li>
+<li><a href="/wiki/%E6%A5%B5%E5%9C%B0%E4%BD%8E%E5%A3%93" title="极地低压">极地低压</a></li>
+<li><a href="/wiki/%E6%BA%AB%E5%B8%B6%E6%B0%A3%E6%97%8B" title="温带气旋">温带气旋</a>
+<ul><li><span class="ilh-all" data-orig-title="歐洲風暴" data-lang-code="en" data-lang-name="英语" data-foreign-title="European windstorm"><span class="ilh-page"><a href="/w/index.php?title=%E6%AD%90%E6%B4%B2%E9%A2%A8%E6%9A%B4&amp;action=edit&amp;redlink=1" class="new" title="欧洲风暴（页面不存在）">欧洲风暴</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/European_windstorm" class="extiw" title="en:European windstorm"><span lang="en" dir="auto">European windstorm</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%9C%E5%8C%97%E9%A3%8E%E6%9A%B4" title="东北风暴">东北风暴</a></li></ul></li>
+<li><a href="/wiki/%E5%89%AF%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B" title="副热带气旋">副热带气旋</a></li>
+<li><a href="/wiki/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B" title="热带气旋">热带气旋</a>
+<ul><li><span class="ilh-all" data-orig-title="大西洋颶風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Atlantic hurricane"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E9%A2%B6%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="大西洋飓风（页面不存在）">大西洋飓风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Atlantic_hurricane" class="extiw" title="en:Atlantic hurricane"><span lang="en" dir="auto">Atlantic hurricane</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%A2%B1%E9%A2%A8" title="台风">台风</a></li></ul></li>
+<li><a href="/wiki/%E9%A3%8E%E6%9A%B4%E6%BD%AE" title="风暴潮">风暴潮</a></li>
+<li><a href="/wiki/%E6%B2%99%E5%B0%98%E6%9A%B4" title="沙尘暴">沙尘暴</a>
+<ul><li><a href="/wiki/%E8%90%A8%E5%A7%86%E9%A3%8E" class="mw-redirect" title="萨姆风">萨姆风</a></li>
+<li><span class="ilh-all" data-orig-title="哈布風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Haboob"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%88%E5%B8%83%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="哈布风（页面不存在）">哈布风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Haboob" class="extiw" title="en:Haboob"><span lang="en" dir="auto">Haboob</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%AD%A3%E9%A3%8E" title="季风">季风</a>
+<ul><li><span class="ilh-all" data-orig-title="菲律賓信風" data-lang-code="en" data-lang-name="英语" data-foreign-title="Amihan"><span class="ilh-page"><a href="/w/index.php?title=%E8%8F%B2%E5%BE%8B%E8%B3%93%E4%BF%A1%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="菲律宾信风（页面不存在）">菲律宾信风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Amihan" class="extiw" title="en:Amihan"><span lang="en" dir="auto">Amihan</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%83%88%E9%A2%A8" title="烈风">烈风</a></li>
+<li><a href="/wiki/%E8%A5%BF%E6%B4%9B%E5%8F%AF%E9%A3%8E" title="西洛可风">西洛可风</a></li>
+<li><a href="/wiki/%E7%81%AB%E7%81%BD%E6%9A%B4%E9%A2%A8" title="火灾暴风">火灾暴风</a></li>
+<li><a href="/wiki/%E5%86%AC%E5%AD%A3%E9%A3%8E%E6%9A%B4" title="冬季风暴">冬季风暴</a>
+<ul><li><a href="/wiki/%E5%86%B0%E6%9A%B4" title="冰暴">冰暴</a></li>
+<li><a href="/wiki/%E9%9B%AA%E6%9A%B4" title="雪暴">雪暴</a></li>
+<li><span class="ilh-all" data-orig-title="地面暴風雪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ground blizzard"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E9%9D%A2%E6%9A%B4%E9%A2%A8%E9%9B%AA&amp;action=edit&amp;redlink=1" class="new" title="地面暴风雪（页面不存在）">地面暴风雪</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ground_blizzard" class="extiw" title="en:Ground blizzard"><span lang="en" dir="auto">Ground blizzard</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="飑雪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Snow squall"><span class="ilh-page"><a href="/w/index.php?title=%E9%A3%91%E9%9B%AA&amp;action=edit&amp;redlink=1" class="new" title="飑雪（页面不存在）">飑雪</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Snow_squall" class="extiw" title="en:Snow squall"><span lang="en" dir="auto">Snow squall</span></a></span>）</span></span></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/%E9%99%8D%E6%B0%B4" title="降水">降水</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/%E6%AF%9B%E6%AF%9B%E9%9B%A8" title="毛毛雨">毛毛雨</a>
+<ul><li><span class="ilh-all" data-orig-title="冻毛毛雨" data-lang-code="en" data-lang-name="英语" data-foreign-title="Freezing drizzle"><span class="ilh-page"><a href="/w/index.php?title=%E5%86%BB%E6%AF%9B%E6%AF%9B%E9%9B%A8&amp;action=edit&amp;redlink=1" class="new" title="冻毛毛雨（页面不存在）">冻毛毛雨</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Freezing_drizzle" class="extiw" title="en:Freezing drizzle"><span lang="en" dir="auto">Freezing drizzle</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E9%9C%B0" title="霰">霰</a></li>
+<li><a href="/wiki/%E5%86%B0%E9%9B%B9" title="冰雹">冰雹</a>
+<ul><li><span class="ilh-all" data-orig-title="大型冰雹" data-lang-code="en" data-lang-name="英语" data-foreign-title="Megacryometeor"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E5%9E%8B%E5%86%B0%E9%9B%B9&amp;action=edit&amp;redlink=1" class="new" title="大型冰雹（页面不存在）">大型冰雹</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Megacryometeor" class="extiw" title="en:Megacryometeor"><span lang="en" dir="auto">Megacryometeor</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%86%B0%E7%8F%A0" title="冰珠">冰珠</a></li>
+<li><a href="/wiki/%E9%92%BB%E7%9F%B3%E5%B0%98" title="钻石尘">钻石尘</a></li>
+<li><a href="/wiki/%E9%9B%A8" title="雨">雨</a>
+<ul><li><a href="/wiki/%E5%86%BB%E9%9B%A8" title="冻雨">冻雨</a></li></ul></li>
+<li><a href="/wiki/%E6%9A%B4%E9%9B%A8" title="暴雨">豪雨</a></li>
+<li><a href="/wiki/%E9%9B%AA" title="雪">雪</a>
+<ul><li><a href="/wiki/%E9%9B%A8%E5%A4%BE%E9%9B%AA" title="雨夹雪">雨夹雪</a></li>
+<li><span class="ilh-all" data-orig-title="雪粒" data-lang-code="en" data-lang-name="英语" data-foreign-title="Snow grains"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%AA%E7%B2%92&amp;action=edit&amp;redlink=1" class="new" title="雪粒（页面不存在）">雪粒</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Snow_grains" class="extiw" title="en:Snow grains"><span lang="en" dir="auto">Snow grains</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="雪輥" data-lang-code="en" data-lang-name="英语" data-foreign-title="Snow roller"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%AA%E8%BC%A5&amp;action=edit&amp;redlink=1" class="new" title="雪辊（页面不存在）">雪辊</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Snow_roller" class="extiw" title="en:Snow roller"><span lang="en" dir="auto">Snow roller</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="雪泥" data-lang-code="en" data-lang-name="英语" data-foreign-title="Slush"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%AA%E6%B3%A5&amp;action=edit&amp;redlink=1" class="new" title="雪泥（页面不存在）">雪泥</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Slush" class="extiw" title="en:Slush"><span lang="en" dir="auto">Slush</span></a></span>）</span></span></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><span class="ilh-all" data-orig-title="氣象學主題列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Index of meteorology topics"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%A3%E8%B1%A1%E5%AD%B8%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="气象学主题列表（页面不存在）">主题</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Index_of_meteorology_topics" class="extiw" title="en:Index of meteorology topics"><span lang="en" dir="auto">Index of meteorology topics</span></a></span>）</span></span></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/%E7%A9%BA%E6%B0%A3%E6%B1%A1%E6%9F%93" title="空气污染">空气污染</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%B0%A3%E5%B1%A4" class="mw-redirect" title="大气层">大气层</a>
+<ul><li><a href="/wiki/%E5%A4%A7%E6%B0%94%E5%8C%96%E5%AD%A6" title="大气化学">大气化学</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%B0%A3%E5%B0%8D%E6%B5%81" title="大气对流">大气对流</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%B0%94%E7%89%A9%E7%90%86%E5%AD%A6" title="大气物理学">大气物理学</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%B0%A3%E6%B2%B3%E6%B5%81" title="大气河流">大气河流</a></li></ul></li>
+<li><a href="/wiki/%E6%B0%A3%E5%80%99" title="气候">气候</a></li>
+<li><a href="/wiki/%E4%BA%91" title="云">云</a>
+<ul><li><a href="/wiki/%E4%BA%91%E7%89%A9%E7%90%86%E5%AD%A6" title="云物理学">云物理学</a></li></ul></li>
+<li><a href="/wiki/%E9%9C%A7" title="雾">雾</a>
+<ul><li><span class="ilh-all" data-orig-title="霧季" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fog season"><span class="ilh-page"><a href="/w/index.php?title=%E9%9C%A7%E5%AD%A3&amp;action=edit&amp;redlink=1" class="new" title="雾季（页面不存在）">雾季</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fog_season" class="extiw" title="en:Fog season"><span lang="en" dir="auto">Fog season</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%AF%92%E6%B5%81" class="mw-disambig" title="寒流">寒流</a></li>
+<li><a href="/wiki/%E7%83%AD%E6%B5%AA" title="热浪">热浪</a></li>
+<li><a href="/wiki/%E9%AB%98%E9%80%9F%E6%B0%A3%E6%B5%81" title="高速气流">高速气流</a></li>
+<li><a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">气象学</a></li>
+<li><span class="ilh-all" data-orig-title="惡劣天氣" data-lang-code="en" data-lang-name="英语" data-foreign-title="Severe weather"><span class="ilh-page"><a href="/w/index.php?title=%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3&amp;action=edit&amp;redlink=1" class="new" title="恶劣天气（页面不存在）">恶劣天气</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Severe_weather" class="extiw" title="en:Severe weather"><span lang="en" dir="auto">Severe weather</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="惡劣天氣現象列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of severe weather phenomena"><span class="ilh-page"><a href="/w/index.php?title=%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E7%8F%BE%E8%B1%A1%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="恶劣天气现象列表（页面不存在）">恶劣天气现象列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_severe_weather_phenomena" class="extiw" title="en:List of severe weather phenomena"><span lang="en" dir="auto">List of severe weather phenomena</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%A5%B5%E7%AB%AF%E5%A4%A9%E6%B0%A3" title="极端天气">极端天气</a></li>
+<li>各国恶劣天气术语列表
+<ul><li><span class="ilh-all" data-orig-title="加拿大惡劣天氣術語列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Severe weather terminology (Canada)"><span class="ilh-page"><a href="/w/index.php?title=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E8%A1%93%E8%AA%9E%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="加拿大恶劣天气术语列表（页面不存在）">加拿大恶劣天气术语列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Severe_weather_terminology_(Canada)" class="extiw" title="en:Severe weather terminology (Canada)"><span lang="en" dir="auto">Severe weather terminology (Canada)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="日本惡劣天氣術語列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Severe weather terminology (Japan)"><span class="ilh-page"><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E8%A1%93%E8%AA%9E%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="日本恶劣天气术语列表（页面不存在）">日本恶劣天气术语列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Severe_weather_terminology_(Japan)" class="extiw" title="en:Severe weather terminology (Japan)"><span lang="en" dir="auto">Severe weather terminology (Japan)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="美國惡劣天氣術語列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Severe weather terminology (United States)"><span class="ilh-page"><a href="/w/index.php?title=%E7%BE%8E%E5%9C%8B%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E8%A1%93%E8%AA%9E%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="美国恶劣天气术语列表（页面不存在）">美国恶劣天气术语列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Severe_weather_terminology_(United_States)" class="extiw" title="en:Severe weather terminology (United States)"><span lang="en" dir="auto">Severe weather terminology (United States)</span></a></span>）</span></span></li></ul></li></ul></li>
+<li><a href="/wiki/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" title="天气预报">天气预报</a></li>
+<li><span class="ilh-all" data-orig-title="人為天氣改變" data-lang-code="en" data-lang-name="英语" data-foreign-title="Weather modification"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%BA%E7%82%BA%E5%A4%A9%E6%B0%A3%E6%94%B9%E8%AE%8A&amp;action=edit&amp;redlink=1" class="new" title="人为天气改变（页面不存在）">人为天气改变</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Weather_modification" class="extiw" title="en:Weather modification"><span lang="en" dir="auto">Weather modification</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><b>词汇表</b></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><span class="ilh-all" data-orig-title="氣象學詞彙表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of meteorology"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%A3%E8%B1%A1%E5%AD%B8%E8%A9%9E%E5%BD%99%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="气象学词汇表（页面不存在）">气象学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_meteorology" class="extiw" title="en:Glossary of meteorology"><span lang="en" dir="auto">Glossary of meteorology</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="氣候變化詞彙表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of climate change"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%A3%E5%80%99%E8%AE%8A%E5%8C%96%E8%A9%9E%E5%BD%99%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="气候变化词汇表（页面不存在）">气候变化</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_climate_change" class="extiw" title="en:Glossary of climate change"><span lang="en" dir="auto">Glossary of climate change</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="龍捲風詞彙表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of tornado terms"><span class="ilh-page"><a href="/w/index.php?title=%E9%BE%8D%E6%8D%B2%E9%A2%A8%E8%A9%9E%E5%BD%99%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="龙卷风词汇表（页面不存在）">龙卷风</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_tornado_terms" class="extiw" title="en:Glossary of tornado terms"><span lang="en" dir="auto">Glossary of tornado terms</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="熱帶氣旋詞彙表" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of tropical cyclone terms"><span class="ilh-page"><a href="/w/index.php?title=%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%A9%9E%E5%BD%99%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="热带气旋词汇表（页面不存在）">热带气旋</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_tropical_cyclone_terms" class="extiw" title="en:Glossary of tropical cyclone terms"><span lang="en" dir="auto">Glossary of tropical cyclone terms</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-below" style="border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;">
+<span class="noviewer" typeof="mw:File"><a href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/16px-Cumulus_clouds_in_fair_weather.jpeg" decoding="async" width="16" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg 2x" data-file-width="800" data-file-height="600" /></a></span> <a href="/wiki/Portal:%E6%B0%A3%E8%B1%A1" title="Portal:气象">气象主题</a></td></tr><tr><td class="sidebar-navbar" style="line-height:1.6"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%A4%A9%E6%B0%A3" title="Template:天气"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%A4%A9%E6%B0%A3" title="Template talk:天气"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%A4%A9%E6%B0%A3&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>天气</b>表示<a href="/wiki/%E5%A4%A7%E6%B0%94" class="mw-redirect" title="大气">大气</a>在某个特定时间和空间的状态<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>，能够反映大气的冷热、干湿、平静程度，云量等。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>绝大多数天气现象发生在<a href="/wiki/%E5%B9%B3%E6%B5%81%E5%B1%82" title="平流层">平流层</a>之下的<a href="/wiki/%E5%AF%B9%E6%B5%81%E5%B1%82" title="对流层">对流层</a>。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-trop_4-0" class="reference"><a href="#cite_note-trop-4">&#91;4&#93;</a></sup>天气具有5个要素：<a href="/wiki/%E6%B0%A3%E6%BA%AB" class="mw-redirect" title="气温">气温</a>、<a href="/wiki/%E9%99%8D%E6%B0%B4" title="降水">降水</a>、<a href="/wiki/%E9%A2%A8" title="风">风</a>（包括<a href="/wiki/%E9%A2%A8%E5%90%91" title="风向">风向</a>和<a href="/wiki/%E9%A2%A8%E9%80%9F" title="风速">风速</a>）、<a href="/wiki/%E6%BF%95%E5%BA%A6" class="mw-redirect" title="湿度">湿度</a>和<a href="/wiki/%E6%B0%A3%E5%A3%93" class="mw-redirect" title="气压">气压</a>，其中最重要的是温度和降水。天气通常是描述每日的各要素情况，而<a href="/wiki/%E6%B0%94%E5%80%99" class="mw-redirect" title="气候">气候</a>是指一段长时间内的平均大气状况，基本均以仪器测量的数值和基于数值的分类方式（如高温、小雨、风级等）来描述。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>如果没有特别指明，“天气”一般指的是<a href="/wiki/%E5%9C%B0%E7%90%83" title="地球">地球</a>上的天气。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.9F.BA.E6.9C.AC.E5.8E.9F.E7.90.86"></span><span class="mw-headline" id="基本原理">基本原理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=1" title="编辑章节：基本原理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>天气现象主要源于不同地方的<a href="/wiki/%E6%B8%A9%E5%BA%A6" title="温度">温度</a>差异。从大的尺度来看，接近赤道的地区单位面积接收到的<a href="/wiki/%E5%A4%AA%E9%98%B3" title="太阳">太阳</a>能总的来说比其他地区大。从较小的尺度来看，不同的下边界（如地面和<a href="/wiki/%E6%B5%B7%E6%B4%8B" class="mw-redirect" title="海洋">海洋</a>）由于不同的物理性质，吸收太阳能的<a href="/wiki/%E6%95%88%E7%8E%87" title="效率">效率</a>也不同。
+</p><p>温度差异会导致<a href="/wiki/%E6%B0%94%E5%8E%8B" title="气压">气压</a>差异。若某个表面的温度较高，表面上的空气就会被加热并膨胀上升，表面处的气压就会降低，周围的空气会来补充，于是空气运动产生<a href="/wiki/%E9%A3%8E" class="mw-redirect" title="风">风</a>。另外<a href="/wiki/%E7%A7%91%E9%87%8C%E5%A5%A5%E5%88%A9%E5%8A%9B" title="科里奥利力">科里奥利力</a>会影响气流的运动方向。许多复杂的天气现象都源于这样一个简单的系统，好比<a href="/wiki/%E6%B5%B7%E9%99%86%E9%A3%8E" title="海陆风">海陆风</a>。
+</p><p>天气密度（温度和湿度）是由一个地方和另一个之间的差异。这些差异可能是由于从热带太阳的角度在任何特定地点，由不同纬度。极地和热带空气之间的强烈的温度反差引起的喷流。在天气系统中纬度地区，如温带气旋，造成喷流的不稳定性。由于地球的轴是相对于它的轨道平面倾斜，阳光是在一年中不同时期的不同角度的事件。在地球表面的温度范围40°C（100<a href="/wiki/%C2%B0F" class="mw-redirect" title="°F">°F</a>至-40°F）的一次。几千年来，地球轨道上的变化影响地球接收的太阳能量和分布，并影响长期气候和全球气候变化。
+</p><p>表面温度反过来的差异造成的压力差。天气预报是科学和应用技术，预测国家未来某个时间和位置的大气。天气是一个混沌系统，系统内部分微小的变化，可以影响整体。贯穿人类历史，人类有时试图控制天气，有证据表明，人类活动（如农业和工业）在不经意间改变天气模式。
+</p><p>研究其他行星上的天气有助于了解地球上的天气。太阳系著名的地标－<a href="/wiki/%E6%9C%A8%E6%98%9F" title="木星">木星</a>的<a href="/wiki/%E5%A4%A7%E7%B4%85%E6%96%91" title="大红斑">大红斑</a>，是一种反气旋风暴，已知有至少有300年的历史。然而，天气并不限于行星。广义的天气可以包含整个星系空间中气体（气态及离子态的元素）的变化，恒星的<a href="/wiki/%E6%97%A5%E5%86%95" class="mw-redirect" title="日冕">日冕</a>不断的喷发，在整个太阳系创造一个本质上非常稀薄的气层。可以说，<a href="/wiki/%E5%A4%AA%E9%99%BD%E9%A2%A8" class="mw-redirect" title="太阳风">太阳风</a>这种太阳大规模喷出的运动，也是一种<a href="/wiki/%E5%A4%AA%E9%99%BD%E7%B3%BB" class="mw-redirect" title="太阳系">太阳系</a>内的天气。
+</p>
+<h2><span id=".E6.B0.94.E8.B1.A1.E6.95.B0.E6.8D.AE"></span><span class="mw-headline" id="气象数据">气象数据</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=2" title="编辑章节：气象数据"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">气象学</a>是研究大气运动的科学。下面是天气的主要数据和现象：
+</p>
+<ul><li><a href="/wiki/%E6%B0%94%E6%B8%A9" class="mw-redirect" title="气温">气温</a>·<a href="/wiki/%E6%B9%BF%E5%BA%A6" title="湿度">湿度</a>·<a href="/wiki/%E6%B0%94%E5%8E%8B" title="气压">气压</a>·<a href="/wiki/%E4%BA%91" title="云">云</a>（<a href="/w/index.php?title=%E9%81%AE%E7%9B%96%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="遮盖率（页面不存在）">遮盖率</a>）·<a href="/wiki/%E9%A3%8E" class="mw-redirect" title="风">风</a>（<a href="/wiki/%E9%A2%A8%E5%90%91" title="风向">风向</a>·<a href="/wiki/%E9%A3%8E%E5%8A%9B" class="mw-disambig" title="风力">风力</a>）·<a href="/wiki/%E9%99%8D%E6%B0%B4" title="降水">降水</a>(<a href="/wiki/%E9%9B%A8" title="雨">雨</a>·<a href="/wiki/%E5%86%B0%E9%9B%B9" title="冰雹">冰雹</a>·<a href="/wiki/%E9%9B%AA" title="雪">雪</a>·<a href="/wiki/%E9%99%8D%E6%B0%B4%E9%87%8F" title="降水量">降水量</a>）·<a href="/wiki/%E8%83%BD%E8%A7%81%E5%BA%A6" class="mw-redirect" title="能见度">能见度</a>·<a href="/wiki/%E6%97%A5%E7%85%A7%E6%97%B6%E6%95%B0" class="mw-redirect" title="日照时数">日照时数</a></li>
+<li><a href="/wiki/%E9%9B%BE" class="mw-redirect" title="雾">雾</a>·<a href="/wiki/%E9%9B%B7%E7%94%B5" class="mw-redirect" title="雷电">雷电</a>·<a href="/wiki/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC" title="海市蜃楼">海市蜃楼</a>·<a href="/wiki/%E5%BD%A9%E8%99%B9" title="彩虹">彩虹</a>·<a href="/wiki/%E9%BE%99%E5%8D%B7%E9%A3%8E" class="mw-redirect" title="龙卷风">龙卷风</a>·<a href="/wiki/%E6%A5%B5%E5%85%89" class="mw-redirect" title="极光">极光</a></li></ul>
+<p><a href="/wiki/%E6%B0%94%E8%B1%A1%E7%AB%99" title="气象站">气象站</a>、<a href="/wiki/%E8%BD%AE%E8%88%B9" class="mw-redirect" title="轮船">轮船</a>、<a href="/wiki/%E6%B0%94%E8%B1%A1%E6%B0%94%E7%90%83" title="气象气球">气象气球</a>、<a href="/wiki/%E9%A3%9E%E6%9C%BA" class="mw-redirect" title="飞机">飞机</a>、<a href="/wiki/%E6%B5%AE%E6%A0%87" class="mw-disambig" title="浮标">浮标</a>、<a href="/wiki/%E4%BA%BA%E9%80%A0%E5%8D%AB%E6%98%9F" class="mw-redirect" title="人造卫星">人造卫星</a>等可以收集气象数据。
+</p>
+<h2><span id=".E5.A4.A9.E6.B0.94.E5.92.8C.E6.B0.94.E5.80.99"></span><span class="mw-headline" id="天气和气候">天气和气候</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=3" title="编辑章节：天气和气候"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>天气是指一个地区短时间局部的，临时的大气现象。
+</p><p><a href="/wiki/%E6%B0%94%E5%80%99" class="mw-redirect" title="气候">气候</a>是指一个地区长时间（比如30年）的大气平均物理状态。
+</p>
+<h2><span id=".E9.A2.84.E6.8A.A5"></span><span class="mw-headline" id="预报">预报</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=4" title="编辑章节：预报"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" title="天气预报">天气预报</a>和<a href="/wiki/%E5%A4%A9%E6%B0%94%E8%B0%9A%E8%AF%AD" class="mw-redirect" title="天气谚语">天气谚语</a></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Day5pressureforecast.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Day5pressureforecast.png/250px-Day5pressureforecast.png" decoding="async" width="250" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Day5pressureforecast.png/375px-Day5pressureforecast.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Day5pressureforecast.png/500px-Day5pressureforecast.png 2x" data-file-width="1024" data-file-height="613" /></a><figcaption>2008年的北美洲气压图</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg/250px-Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg" decoding="async" width="250" height="250" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg/375px-Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg/500px-Paul-McCrone-DMSP-F18-FClr-Day-Fog-Stratus-Fullq-281641Z-DEC-10_1293583405.jpg 2x" data-file-width="1024" data-file-height="1024" /></a><figcaption>北欧卫星云图</figcaption></figure>
+<p>天气预报将科技应用于预测<a href="/wiki/%E5%9C%B0%E7%90%83%E5%A4%A7%E6%B0%94%E5%B1%82" title="地球大气层">大气</a>在未来时刻的指定地点的状态。百万年以前人类就一直试图预测天气，直到19世纪才开始有了正式的天气预报。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>天气预报需要收集当前大气状态的定量数据，然后运用我们<a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">对大气过程的科学理解</a>来预测大气将如何变化。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>开始是完全依靠人力来根据<a href="/wiki/%E6%B0%94%E5%8E%8B" title="气压">气压</a>变化、当前天气状况以及天空情况做预报，<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>现在则使用<a href="/wiki/%E6%95%B0%E5%80%BC%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" class="mw-redirect" title="数值天气预报">预报模式</a>预测未来的天气。人力仍然被需要用来挑选最可能优秀的预报模式来做预报，需要考虑模式识别技巧、<a href="/wiki/%E9%81%A5%E7%9B%B8%E5%85%B3" title="遥相关">遥相关</a>、模式效能以及模式偏差。大气的<a href="/wiki/%E6%B7%B7%E6%B2%8C%E7%90%86%E8%AE%BA" title="混沌理论">混沌</a>本质、求解描述大气的方程组所需的大量的计算资源、在测量初始情况时所带来的误差、以及对大气过程的仍不完整的理解，种种这些因素使得预报的越早以及预报的时间（预报<i>范围</i>）越长则预报结果越差。<a href="/w/index.php?title=%E9%9B%86%E5%90%88%E9%A2%84%E6%8A%A5&amp;action=edit&amp;redlink=1" class="new" title="集合预报（页面不存在）">集合预报</a>的使用可以帮助我们减小误差和挑选出最可能的结果。<sup id="cite_ref-Klaus_11-0" class="reference"><a href="#cite_note-Klaus-11">&#91;11&#93;</a></sup><sup id="cite_ref-TBK_12-0" class="reference"><a href="#cite_note-TBK-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>天气预报有各种各样的终端用户。天气警报被用于保护生命和财产，是重要的预报。<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>基于气温和<a href="/wiki/%E9%99%8D%E6%B0%B4" title="降水">降水</a>的预报对农业很重要，<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>因而也受到股票和<a href="/wiki/%E6%9C%9F%E8%B4%A7" title="期货">期货</a>市场里那些<a href="/wiki/%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81" class="mw-redirect" title="大宗商品">大宗商品</a>交易者的重视。公共事业公司也依靠气温预报来估计未来的需求。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>每日里，人们参考天气预报来决定日常的穿戴。因为户外活动会被大雨、雪以及<a href="/wiki/%E9%A3%8E%E5%AF%92%E6%8C%87%E6%95%B0" class="mw-redirect" title="风寒指数">寒风</a>所严重影响，人们依靠预报来计划活动和为坏天气做些预先准备。
+</p>
+<h2><span id=".E5.9C.B0.E7.90.83.E4.B8.8A.E7.9A.84.E6.9E.81.E7.AB.AF.E5.A4.A9.E6.B0.94"></span><span class="mw-headline" id="地球上的极端天气">地球上的极端天气</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=5" title="编辑章节：地球上的极端天气"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="/wiki/%E5%A4%A9%E6%B0%A3%E7%B4%80%E9%8C%84%E5%88%97%E8%A1%A8" title="天气纪录列表">天气纪录列表</a></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Bratislava_sun.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bratislava_sun.jpg/250px-Bratislava_sun.jpg" decoding="async" width="250" height="67" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bratislava_sun.jpg/375px-Bratislava_sun.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bratislava_sun.jpg/500px-Bratislava_sun.jpg 2x" data-file-width="5000" data-file-height="1340" /></a><figcaption><a href="/wiki/%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B" title="斯洛伐克">斯洛伐克</a><a href="/wiki/%E5%B8%83%E6%8B%89%E8%BF%AA%E6%96%AF%E6%8B%89%E5%8F%91" title="布拉迪斯拉发">布拉迪斯拉发</a>清晨的阳光</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Bratislava_snowy.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bratislava_snowy.jpg/250px-Bratislava_snowy.jpg" decoding="async" width="250" height="65" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bratislava_snowy.jpg/375px-Bratislava_snowy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bratislava_snowy.jpg/500px-Bratislava_snowy.jpg 2x" data-file-width="5000" data-file-height="1292" /></a><figcaption>同一区域经过小雪在3小时后</figcaption></figure>
+<p>地球上，气温的年平均值在±40°C（从100°F至−40°F）的范围内。整个星球的纬度和气候的大跨度变化范围使得有些地方的极端气温可能会超出这个范围。地球上有记录的最低气温是−89.2 °C（−128.6 °F），发生在1983年7月21日<a href="/wiki/%E5%8D%97%E6%9E%81%E6%B4%B2" title="南极洲">南极</a>的<a href="/wiki/%E6%B2%83%E6%96%AF%E6%89%98%E5%85%8B%E7%AB%99" title="沃斯托克站">沃斯托克站</a>。有史以来的最高气温是57.8 °C（136.0 °F），发生在1922年9月13日<a href="/wiki/%E9%98%BF%E9%BD%90%E6%B5%8E%E8%80%B6%E7%9C%81" class="mw-redirect" title="阿齐济耶省">阿齐济耶省</a><sup id="cite_ref-NCDC_23-0" class="reference"><a href="#cite_note-NCDC-23">&#91;23&#93;</a></sup>，不过这一纪录被人质疑。最高的年平均气温是34.4 °C（93.9 °F），发生在埃塞俄比亚的<a href="/wiki/%E9%81%94%E6%B4%9B%E7%88%BE" title="达洛尔">达洛尔</a>。<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>最低的年平均气温是−55.1 °C（−67.2 °F），发生在<a href="/wiki/%E5%8D%97%E6%9E%81%E6%B4%B2" title="南极洲">南极</a>的<a href="/wiki/%E6%B2%83%E6%96%AF%E6%89%98%E5%85%8B%E7%AB%99" title="沃斯托克站">沃斯托克站</a>。<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>在人类定居区的最低年平均气温发生在加拿大境内<a href="/wiki/%E5%8A%AA%E7%B4%8D%E6%AD%A6%E7%89%B9" class="mw-redirect" title="努纳武特">努纳武特</a>地区的<span class="ilh-all" data-orig-title="尤里卡 (努纳武特)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Eureka, Nunavut"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%A4%E9%87%8C%E5%8D%A1_(%E5%8A%AA%E7%BA%B3%E6%AD%A6%E7%89%B9)&amp;action=edit&amp;redlink=1" class="new" title="尤里卡 (努纳武特)（页面不存在）">尤里卡</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Eureka,_Nunavut" class="extiw" title="en:Eureka, Nunavut"><span lang="en" dir="auto">Eureka, Nunavut</span></a></span>）</span></span>，达到−19.7 °C（−3.5 °F）。<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h2><span id=".E5.A4.AA.E7.A9.BA.E5.A4.A9.E6.B0.94"></span><span class="mw-headline" id="太空天气">太空天气</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=6" title="编辑章节：太空天气"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Polarlicht.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Polarlicht.jpg/250px-Polarlicht.jpg" decoding="async" width="250" height="163" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Polarlicht.jpg/375px-Polarlicht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Polarlicht.jpg/500px-Polarlicht.jpg 2x" data-file-width="3008" data-file-height="1960" /></a><figcaption><a href="/wiki/%E6%A5%B5%E5%85%89" class="mw-redirect" title="极光">北极光</a></figcaption></figure>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%A4%AA%E7%A9%BA%E5%A4%A9%E6%B0%A3" title="太空天气">太空天气</a></div>
+<p>天气不仅仅发生在行星上。和所有恒星一样，太阳的<a href="/wiki/%E6%97%A5%E5%86%95" class="mw-redirect" title="日冕">日冕</a>持续的损耗在太空中，并在整个<a href="/wiki/%E5%A4%AA%E9%98%B3%E7%B3%BB" title="太阳系">太阳系</a>产生了一个非常稀薄的<a href="/wiki/%E5%A4%A7%E6%B0%94%E5%B1%82" title="大气层">大气</a>。太阳喷射出的物质的移动被称为<a href="/wiki/%E5%A4%AA%E9%98%B3%E9%A3%8E" title="太阳风">太阳风</a>。太阳表面的大型活动（例如<a href="/wiki/%E6%97%A5%E5%86%95%E7%89%A9%E8%B4%A8%E6%8A%9B%E5%B0%84" class="mw-redirect" title="日冕物质抛射">日冕物质抛射</a>）以及太阳风的发生反复无常，使得产生了一个特性与常规天气系统（例如气压和风）相似的系统，常常被称为<a href="/wiki/%E5%A4%AA%E7%A9%BA%E5%A4%A9%E6%B0%A3" title="太空天气">太空天气</a>。太阳系中日冕物质抛射的范围已经被观察到可以远至<a href="/wiki/%E5%9C%9F%E6%98%9F" title="土星">土星</a>。<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>太空天气也可能会影响到行星大气，有时还会到星球表面。太阳风和地球大气的相互作用可以产生壮观的<a href="/wiki/%E6%9E%81%E5%85%89" title="极光">极光</a>，<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>也可能对电敏感系统（如<a href="/wiki/%E8%BE%93%E7%94%B5%E7%B3%BB%E7%BB%9F" class="mw-redirect" title="输电系统">输电系统</a>和无线电信号）产生重大损害。<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=7" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">氣象學與生活. 北京: 电子工业出版社. 2016: 3. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9787121299209" title="Special:网络书源/9787121299209"><span title="国际标准书号">ISBN</span>&#160;9787121299209</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%A4%A9%E6%B0%94&amp;rft.btitle=%E6%B0%A3%E8%B1%A1%E5%AD%B8%E8%88%87%E7%94%9F%E6%B4%BB&amp;rft.date=2016&amp;rft.genre=book&amp;rft.isbn=9787121299209&amp;rft.pages=3&amp;rft.place=%E5%8C%97%E4%BA%AC&amp;rft.pub=%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%A5%AD%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Merriam-Webster Dictionary. <a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/weather">Weather.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20170709032002/http://www.merriam-webster.com/dictionary/weather">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 27 June 2008.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Glossary of Meteorology. <a rel="nofollow" class="external text" href="http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=hydrosphere&amp;submit=Search">Hydrosphere.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20120315161323/http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=hydrosphere&amp;submit=Search">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 27 June 2008.</span>
+</li>
+<li id="cite_note-trop-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-trop_4-0">^</a></b></span> <span class="reference-text">Glossary of Meteorology. <a rel="nofollow" class="external text" href="http://amsglossary.allenpress.com/glossary/browse?s=t&amp;p=51">Troposphere.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20120928061111/http://amsglossary.allenpress.com/glossary/browse?s=t&amp;p=51">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 27 June 2008.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=climate1">Climate</a>. Glossary of Meteorology. <a href="/wiki/American_Meteorological_Society" class="mw-redirect" title="American Meteorological Society">American Meteorological Society</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">14 May</span> 2008&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110707113544/http://amsglossary.allenpress.com/glossary/search?id=climate1">存档</a>于2011-07-07）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%A4%A9%E6%B0%94&amp;rft.atitle=Climate&amp;rft.btitle=Glossary+of+Meteorology&amp;rft.genre=bookitem&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dclimate1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2011年6月失效">失效链接</span></a>&#93;</span></sup> Mistic House. <a rel="nofollow" class="external text" href="http://www.mistichouse.com/astrology-lessons.htm">Astrology Lessons, History, Prediction, Skeptics, and Astrology Compatibility.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080608133837/http://www.mistichouse.com/astrology-lessons.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 12 January 2008.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Eric D. Craft. <a rel="nofollow" class="external text" href="http://eh.net/encyclopedia/article/craft.weather.forcasting.history"><i>An Economic History of Weather Forecasting</i>.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20070503193324/http://eh.net/encyclopedia/article/craft.weather.forcasting.history">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 15 April 2007.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/NASA" class="mw-redirect" title="NASA">NASA</a>. <a rel="nofollow" class="external text" href="http://earthobservatory.nasa.gov/Library/WxForecasting/wx2.html">Weather Forecasting Through the Ages.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20050910210732/http://earthobservatory.nasa.gov/Library/WxForecasting/wx2.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Weather Doctor. <a rel="nofollow" class="external text" href="http://www.islandnet.com/~see/weather/eyes/barometer3.htm">Applying The Barometer To Weather Watching.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080509105153/http://www.islandnet.com/~see/weather/eyes/barometer3.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Mark Moore. <a rel="nofollow" class="external text" href="http://www.nwac.us/education_resources/Field_forecasting.pdf">Field Forecasting: A Short Summary.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090325034756/http://www.nwac.us/education_resources/Field_forecasting.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-Klaus-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Klaus_11-0">^</a></b></span> <span class="reference-text">Klaus Weickmann, Jeff Whitaker, Andres Roubicek and Catherine Smith. <a rel="nofollow" class="external text" href="http://www.cdc.noaa.gov/spotlight/12012001/">The Use of Ensemble Forecasts to Produce Improved Medium Range (3–15 days) Weather Forecasts.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20071215055130/http://www.cdc.noaa.gov/spotlight/12012001/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 16 February 2007.</span>
+</li>
+<li id="cite_note-TBK-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-TBK_12-0">^</a></b></span> <span class="reference-text">Todd Kimberlain. <a rel="nofollow" class="external text" href="http://www.hpc.ncep.noaa.gov/research/TropicalTalk.ppt">Tropical cyclone motion and intensity talk (June 2007).</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20131016231757/http://www.hpc.ncep.noaa.gov/research/TropicalTalk.ppt">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 21 July 2007.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Richard J. Pasch, Mike Fiorino, and <a href="/w/index.php?title=Chris_Landsea&amp;action=edit&amp;redlink=1" class="new" title="Chris Landsea（页面不存在）">Chris Landsea</a>. <a rel="nofollow" class="external text" href="http://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2006/TPC-NCEP2006.ppt">TPC/NHC’S REVIEW OF THE NCEP PRODUCTION SUITE FOR 2006.</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2017年12月失效">永久失效链接</span></a>&#93;</span></sup> Retrieved on 5 May 2008.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="/wiki/National_Weather_Service" class="mw-redirect" title="National Weather Service">National Weather Service</a>. <a rel="nofollow" class="external text" href="https://www.weather.gov/mission.shtml">National Weather Service Mission Statement.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20131124214601/http://www.weather.gov/mission.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120618145647/http://www.meteo.si/met/en/app/webmet/#webmet==8Sdwx2bhR2cv0WZ0V2bvEGcw9ydlJWblR3LwVnaz9Ccy92ZvIXZhxWbvkWbhdWZvA3bp5GdugXbsxXZ1J3bwVGfp1WYnVGf7R2btFWaupzJzx2b2VmbpF2JsAXYyFWblRXZypzJTFEVFxETJRVRfxUQUV0UUdSf;">National Meteorological Service of Slovenia</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2012-09-06</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.meteo.si/met/en/app/webmet/#webmet==8Sdwx2bhR2cv0WZ0V2bvEGcw9ydlJWblR3LwVnaz9Ccy92ZvIXZhxWbvkWbhdWZvA3bp5GdugXbsxXZ1J3bwVGfp1WYnVGf7R2btFWaupzJzx2b2VmbpF2JsAXYyFWblRXZypzJTFEVFxETJRVRfxUQUV0UUdSf;">原始内容</a>存档于2012-06-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%A4%A9%E6%B0%94&amp;rft.btitle=National+Meteorological+Service+of+Slovenia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.meteo.si%2Fmet%2Fen%2Fapp%2Fwebmet%2F%23webmet%3D%3D8Sdwx2bhR2cv0WZ0V2bvEGcw9ydlJWblR3LwVnaz9Ccy92ZvIXZhxWbvkWbhdWZvA3bp5GdugXbsxXZ1J3bwVGfp1WYnVGf7R2btFWaupzJzx2b2VmbpF2JsAXYyFWblRXZypzJTFEVFxETJRVRfxUQUV0UUdSf%3B&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Blair Fannin. <a rel="nofollow" class="external text" href="http://southwestfarmpress.com/news/061406-Texas-weather/">Dry weather conditions continue for Texas.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090703095038/http://southwestfarmpress.com/news/061406-Texas-weather/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 26 May 2008.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Dr. Terry Mader. <a rel="nofollow" class="external text" href="http://beef.unl.edu/stories/200004030.shtml">Drought Corn Silage.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20111005203246/http://beef.unl.edu/stories/200004030.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 26 May 2008.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Kathryn C. Taylor. <a rel="nofollow" class="external text" href="http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm">Peach Orchard Establishment and Young Tree Care.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20081224112403/http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 26 May 2008.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="/wiki/Associated_Press" class="mw-redirect" title="Associated Press">Associated Press</a>. <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1E30F937A25752C0A967958260">After Freeze, Counting Losses to Orange Crop.</a> Retrieved on 26 May 2008.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="/wiki/The_New_York_Times" class="mw-redirect" title="The New York Times">The New York Times</a>. <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D9123AF935A15751C0A965958260">FUTURES/OPTIONS; Cold Weather Brings Surge In Prices of Heating Fuels.</a> Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a href="/wiki/BBC" class="mw-redirect" title="BBC">BBC</a>. <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/5212724.stm">Heatwave causes electricity surge.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090520060913/http://news.bbc.co.uk/1/hi/uk/5212724.stm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Toronto Catholic Schools. <a rel="nofollow" class="external text" href="http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf">The Seven Key Messages of the Energy Drill Program.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20120217042744/http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 25 May 2008.</span>
+</li>
+<li id="cite_note-NCDC-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-NCDC_23-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncdc.noaa.gov/oa/climate/globalextremes.html">Global Measured Extremes of Temperature and Precipitation.</a> <a href="/wiki/Archive.is" title="Archive.is">Archive.is</a>的<a rel="nofollow" class="external text" href="https://archive.today/20120525195312/http://www.ncdc.noaa.gov/oa/climate/globalextremes.html">存档</a>，存档日期2012-05-25 <a href="/w/index.php?title=National_Climatic_Data_Center&amp;action=edit&amp;redlink=1" class="new" title="National Climatic Data Center（页面不存在）">National Climatic Data Center</a>. Retrieved on 21 June 2007.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Glenn Elert. <a rel="nofollow" class="external text" href="http://hypertextbook.com/facts/2000/MichaelLevin.shtml">Hottest Temperature on Earth.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210214045855/http://hypertextbook.com/facts/2000/MichaelLevin.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 28 June 2008.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Glenn Elert. <a rel="nofollow" class="external text" href="http://hypertextbook.com/facts/2000/YongLiLiang.shtml">Coldest Temperature On Earth.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20070910101217/http://hypertextbook.com/facts/2000/YongLiLiang.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 28 June 2008.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.climate.weatheroffice.ec.gc.ca/climate_normals/results_e.html?Province=ALL&amp;StationName=Eureka&amp;SearchType=BeginsWith&amp;LocateBy=Province&amp;Proximity=25&amp;ProximityFrom=City&amp;StationNumber=&amp;IDType=MSC&amp;CityName=&amp;ParkName=&amp;LatitudeDegrees=&amp;LatitudeMinutes=&amp;LongitudeDegrees=&amp;LongitudeMinutes=&amp;NormalsClass=A&amp;SelNormals=&amp;StnId=1750&amp;">Canadian Climate Normals 1971–2000 – Eureka</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2013-09-03</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20071111091104/http://www.climate.weatheroffice.ec.gc.ca/climate_normals/results_e.html?Province=ALL&amp;StationName=Eureka&amp;SearchType=BeginsWith&amp;LocateBy=Province&amp;Proximity=25&amp;ProximityFrom=City&amp;StationNumber=&amp;IDType=MSC&amp;CityName=&amp;ParkName=&amp;LatitudeDegrees=&amp;LatitudeMinutes=&amp;LongitudeDegrees=&amp;LongitudeMinutes=&amp;NormalsClass=A&amp;SelNormals=&amp;StnId=1750&amp;">存档</a>于2007-11-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%A4%A9%E6%B0%94&amp;rft.btitle=Canadian+Climate+Normals+1971%E2%80%932000+%E2%80%93+Eureka&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climate.weatheroffice.ec.gc.ca%2Fclimate_normals%2Fresults_e.html%3FProvince%3DALL%26StationName%3DEureka%26SearchType%3DBeginsWith%26LocateBy%3DProvince%26Proximity%3D25%26ProximityFrom%3DCity%26StationNumber%3D%26IDType%3DMSC%26CityName%3D%26ParkName%3D%26LatitudeDegrees%3D%26LatitudeMinutes%3D%26LongitudeDegrees%3D%26LongitudeMinutes%3D%26NormalsClass%3DA%26SelNormals%3D%26StnId%3D1750%26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Bill Christensen. <a rel="nofollow" class="external text" href="http://www.space.com/businesstechnology/technology/technovel_shock_041105.html">Shock to the (Solar) System: Coronal Mass Ejection Tracked to </a><a href="/wiki/Saturn" class="mw-redirect" title="Saturn">Saturn</a>. （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110101202451/http://www.space.com/businesstechnology/technology/technovel_shock_041105.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 28 June 2008.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">AlaskaReport. <a rel="nofollow" class="external text" href="http://alaskareport.com/science10043.htm">What Causes the Aurora Borealis?</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20160303231153/http://alaskareport.com/science10043.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Retrieved on 28 June 2008.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Rodney Viereck. <a rel="nofollow" class="external text" href="http://asp.colorado.edu/~reu/summer-2007/presentations/SW_Intro_Viereck.ppt">Space Weather: What is it? How Will it Affect You?</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2017年12月失效">永久失效链接</span></a>&#93;</span></sup> Retrieved on 28 June 2008.</span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=8" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Weather" class="extiw" title="commons:Category:Weather"><span style="font-weight:bold;">天气</span></a></td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120930102455/http://ucblibraries.colorado.edu/govpubs/us/climate.htm">Climate and Weather</a> from <i>UCB Libraries GovPubs</i></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110824095635/http://www.economics.noaa.gov/?goal=weather&amp;file=events%2F">The Economics of Extreme Weather Events on Society</a> NOAA Economics</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170420115805/http://rainradar.net/">RainRadar: Worldwide radar directory</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.weather.gov/">National Weather Service</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20080529000056/http://www.weather.gov/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://worldweather.wmo.int/tc/">世界天气信息服务网</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210110013348/http://worldweather.wmo.int/tc/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://amindi.tv/">amindi</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20080529000056/https://amindi.tv/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h2><span id=".E5.8F.83.E8.A6.8B"></span><span class="mw-headline" id="參見">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;action=edit&amp;section=9" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" decoding="async" width="32" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></span></span></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:%E5%A4%A9%E6%B0%A3" class="mw-redirect" title="Portal:天气">天气主题</a></span></li></ul></div>
+<ul><li><a href="/wiki/%E5%A4%A9%E6%B0%A3%E5%AD%B8" class="mw-redirect" title="天气学">天气学</a></li></ul>
+<div style="clear: both; height: 1em"></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E8%87%AA%E7%84%B6%E7%9A%84%E7%BB%84%E6%88%90" title="Template:自然的组成"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E8%87%AA%E7%84%B6%E7%9A%84%E7%BB%84%E6%88%90" title="Template talk:自然的组成"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E8%87%AA%E7%84%B6%E7%9A%84%E7%BB%84%E6%88%90&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%87%AA%E7%84%B6" title="自然">自然</a>的组成</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%AE%87%E5%AE%99" title="宇宙">宇宙</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A9%BA%E9%96%93" title="空间">空间</a></li>
+<li><a href="/wiki/%E6%97%B6%E9%97%B4" title="时间">时间</a></li>
+<li><a href="/wiki/%E7%89%A9%E8%B4%A8" title="物质">物质</a></li>
+<li><a href="/wiki/%E8%83%BD%E9%87%8F" title="能量">能量</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%9C%B0%E7%90%83" title="地球">地球</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6" title="地球科学">地球科学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E6%AD%B7%E5%8F%B2" title="地球历史">地球历史</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%9A%84%E6%9C%AA%E4%BE%86" title="地球的未来">地球的未来</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E6%A7%8B%E9%80%A0" title="地球构造">地球构造</a></li>
+<li><a href="/wiki/%E6%9D%BF%E5%9D%97%E6%9E%84%E9%80%A0%E8%AE%BA" title="板块构造论">板块构造论</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E5%9C%B0%E8%B4%A8%E5%8E%86%E5%8F%B2" title="地球地质历史">地球地质历史</a></li>
+<li><a href="/wiki/%E5%9C%B0%E8%B4%A8%E5%AD%A6" title="地质学">地质学</a></li>
+<li><a href="/wiki/%E6%B4%8B" title="洋">大洋</a></li>
+<li><a href="/wiki/%E5%B1%B1" title="山">山</a></li>
+<li><a href="/wiki/%E8%93%8B%E4%BA%9E%E5%81%87%E8%AA%AA" title="盖亚假说">盖亚假说</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a class="mw-selflink selflink">天气</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">气象学</a></li>
+<li><a href="/wiki/%E6%B0%A3%E5%80%99" title="气候">气候</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E5%A4%A7%E6%B0%94%E5%B1%82" title="地球大气层">地球大气层</a></li>
+<li><a href="/wiki/%E4%BA%91" title="云">云</a></li>
+<li><a href="/wiki/%E9%99%8D%E6%B0%B4" title="降水">降水</a></li>
+<li><a href="/wiki/%E5%A4%AA%E9%98%B3%E5%85%89" title="太阳光">太阳光</a></li>
+<li><a href="/wiki/%E6%BD%AE%E6%B1%90" title="潮汐">潮汐</a></li>
+<li><a href="/wiki/%E9%A3%8E" class="mw-redirect" title="风">风</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%87%AA%E7%84%B6%E7%8E%AF%E5%A2%83" title="自然环境">环境</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E6%80%81%E5%AD%A6" title="生态学">生态学</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F" title="生态系统">生态系统</a></li>
+<li><a href="/wiki/%E5%9C%BA_(%E7%89%A9%E7%90%86)" title="场 (物理)">场</a></li>
+<li><a href="/wiki/%E8%BE%90%E5%B0%84" title="辐射">辐射</a></li>
+<li><a href="/wiki/%E5%8E%9F%E9%87%8E" title="原野">原野</a></li>
+<li><a href="/wiki/%E9%87%8E%E7%81%AB" title="野火">野火</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%94%9F%E7%89%A9" title="生物">生物</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%9C%88" title="生物圈">生物圈</a></li>
+<li><a href="/wiki/%E7%94%9F%E5%91%BD%E8%B5%B7%E6%BA%90" title="生命起源">生命起源</a></li>
+<li><a href="/wiki/%E7%94%9F%E5%91%BD%E5%8F%B2" title="生命史">生命演化史</a></li>
+<li><a href="/wiki/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9" title="真核生物">真核生物</a>
+<ul><li><a href="/wiki/%E6%A4%8D%E7%89%A9" title="植物">植物</a>/<a href="/wiki/%E6%A4%8D%E7%89%A9%E7%9B%B8" title="植物相">植物相</a></li>
+<li><a href="/wiki/%E5%8A%A8%E7%89%A9" title="动物">动物</a>/<a href="/wiki/%E5%8B%95%E7%89%A9%E7%9B%B8" title="动物相">动物相</a></li>
+<li><a href="/wiki/%E7%9C%9F%E8%8F%8C" title="真菌">真菌</a></li>
+<li><a href="/wiki/%E5%8E%9F%E7%94%9F%E7%94%9F%E7%89%A9" title="原生生物">原生生物</a></li></ul></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%AD%A6" title="生物学">生物学</a>
+<ul><li><a href="/wiki/%E5%A4%A9%E9%AB%94%E7%94%9F%E7%89%A9%E5%AD%B8" title="天体生物学">天体生物学</a></li></ul></li>
+<li><a href="/wiki/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9" title="原核生物">原核生物</a>
+<ul><li><a href="/wiki/%E5%8F%A4%E8%8F%8C" title="古菌">古菌</a></li>
+<li><a href="/wiki/%E7%BB%86%E8%8F%8C" title="细菌">细菌</a></li></ul></li>
+<li><a href="/wiki/%E7%97%85%E6%AF%92" title="病毒">病毒</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E8%87%AA%E7%84%B6" title="Category:自然">分类:自然</a></b></li>
+<li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Portal:%E7%A7%91%E5%AD%B8" title="Portal:科学">科学主题</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q11663" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E8%97%9D%E8%A1%93%E8%88%87%E5%BB%BA%E7%AF%89%E7%B4%A2%E5%BC%95%E5%85%B8" title="艺术与建筑索引典">AAT</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://vocab.getty.edu/page/aat/300055366">300055366</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4065852-1">4065852-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007553646705171">987007553646705171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85145843">sh85145843</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E5%92%8C%E8%AE%B0%E5%BD%95%E7%AE%A1%E7%90%86%E5%B1%80" title="国家档案和记录管理局">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10642860">10642860</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00566010">00566010</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph124495&amp;CON_LNG=ENG">ph124495</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐hsd8l
+Cached time: 20240401224218
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.502 seconds
+Real time usage: 0.899 seconds
+Preprocessor visited node count: 4169/1000000
+Post‐expand include size: 120720/2097152 bytes
+Template argument size: 5337/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 37/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 32032/5000000 bytes
+Lua time usage: 0.211/10.000 seconds
+Lua memory usage: 6816971/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  717.690      1 -total
+ 51.41%  368.993      1 Template:Reflist
+ 23.96%  171.978      1 Template:Cite_book
+ 21.68%  155.626      1 Template:天氣
+ 21.40%  153.588      1 Template:Sidebar_with_collapsible_lists
+ 14.14%  101.509      3 Template:Dead_link
+  9.41%   67.512      1 Template:Commons_category
+  9.19%   65.978      1 Template:Sister_project
+  8.99%   64.494      1 Template:Side_box
+  7.86%   56.435      3 Template:Fix
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:11878-0!userlang=zh-cn!zh-cn and timestamp 20240401224218 and revision id 81746925. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=天气&amp;oldid=81746925">https://zh.wikipedia.org/w/index.php?title=天气&amp;oldid=81746925</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%A4%A9%E6%B0%A3" title="Category:天氣">天气</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2011%E5%B9%B46%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2011年6月带有失效链接的条目">自2011年6月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2017%E5%B9%B412%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2017年12月带有失效链接的条目">自2017年12月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E6%9D%A1%E7%9B%AE%E6%9C%89%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%95%88%E7%9A%84%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Category:条目有永久失效的外部链接">条目有永久失效的外部链接</a></li><li><a href="/wiki/Category:Webarchive%E6%A8%A1%E6%9D%BFarchiveis%E9%93%BE%E6%8E%A5" title="Category:Webarchive模板archiveis链接">Webarchive模板archiveis链接</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABAAT%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含AAT标识符的维基百科条目">包含AAT标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNARA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NARA标识符的维基百科条目">包含NARA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月2日 (星期六) 11:30。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%A4%A9%E6%B0%94&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2439","wgBackendResponseTime":189,"wgPageParseReport":{"limitreport":{"cputime":"0.502","walltime":"0.899","ppvisitednodes":{"value":4169,"limit":1000000},"postexpandincludesize":{"value":120720,"limit":2097152},"templateargumentsize":{"value":5337,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":32032,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  717.690      1 -total"," 51.41%  368.993      1 Template:Reflist"," 23.96%  171.978      1 Template:Cite_book"," 21.68%  155.626      1 Template:天氣"," 21.40%  153.588      1 Template:Sidebar_with_collapsible_lists"," 14.14%  101.509      3 Template:Dead_link","  9.41%   67.512      1 Template:Commons_category","  9.19%   65.978      1 Template:Sister_project","  8.99%   64.494      1 Template:Side_box","  7.86%   56.435      3 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.211","limit":"10.000"},"limitreport-memusage":{"value":6816971,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-hsd8l","timestamp":"20240401224218","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5929\u6c14","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%A4%A9%E6%B0%94","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11663","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11663","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-04T20:48:51Z","dateModified":"2024-03-02T11:30:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fc\/Thunder_lightning_Garajau_Madeira_289985700.jpg","headline":"\u5927\u6c23\u5c64\u7684\u72c0\u614b"}</script>
+</body>
+</html>

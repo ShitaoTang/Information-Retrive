@@ -1,0 +1,1595 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>开放式最短路径优先 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"a51d3948-7d1b-4128-a3f9-c9eed0209248","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"开放式最短路径优先","wgTitle":"开放式最短路径优先","wgCurRevisionId":79886655,"wgRevisionId":79886655,"wgArticleId":112912,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["需要校對的頁面","粗劣翻译","需要從英語維基百科翻譯的條目","需要從德語維基百科翻譯的條目","含有多个问题的条目","含有英語的條目","有未列明来源语句的条目","引文格式1维护：冗余文本","CS1英语来源 (en)","使用RFC魔术链接的页面","路由协议","网际协议","互联网标准"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"开放式最短路径优先","wgRelevantArticleId":112912,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q220169","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness",
+"brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="开放式最短路径优先 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-开放式最短路径优先 rootpage-开放式最短路径优先 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-区域"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#区域">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>区域</div>
+		</a>
+		
+			<button aria-controls="toc-区域-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关区域子章节</span>
+			</button>
+		
+		<ul id="toc-区域-sublist" class="vector-toc-list">
+			<li id="toc-骨干区域"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#骨干区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>骨干区域</div>
+			</a>
+			
+			<ul id="toc-骨干区域-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-传送区域"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#传送区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>传送区域</div>
+			</a>
+			
+			<ul id="toc-传送区域-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-末梢区域"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#末梢区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>末梢区域</div>
+			</a>
+			
+			<ul id="toc-末梢区域-sublist" class="vector-toc-list">
+				<li id="toc-不完全末梢区域"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#不完全末梢区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.1</span>不完全末梢区域</div>
+			</a>
+			
+			<ul id="toc-不完全末梢区域-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-完全末梢区域"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#完全末梢区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.2</span>完全末梢区域</div>
+			</a>
+			
+			<ul id="toc-完全末梢区域-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-完全非纯末梢区域"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#完全非纯末梢区域">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.3</span>完全非纯末梢区域</div>
+			</a>
+			
+			<ul id="toc-完全非纯末梢区域-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-OSPF路由器类型"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPF路由器类型">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>OSPF路由器类型</div>
+		</a>
+		
+			<button aria-controls="toc-OSPF路由器类型-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关OSPF路由器类型子章节</span>
+			</button>
+		
+		<ul id="toc-OSPF路由器类型-sublist" class="vector-toc-list">
+			<li id="toc-内部路由器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#内部路由器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>内部路由器</div>
+			</a>
+			
+			<ul id="toc-内部路由器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-骨干路由器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#骨干路由器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>骨干路由器</div>
+			</a>
+			
+			<ul id="toc-骨干路由器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-区域边界路由器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#区域边界路由器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>区域边界路由器</div>
+			</a>
+			
+			<ul id="toc-区域边界路由器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-自治系统边界路由器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#自治系统边界路由器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>自治系统边界路由器</div>
+			</a>
+			
+			<ul id="toc-自治系统边界路由器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-OSPF网络类型"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPF网络类型">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>OSPF网络类型</div>
+		</a>
+		
+			<button aria-controls="toc-OSPF网络类型-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关OSPF网络类型子章节</span>
+			</button>
+		
+		<ul id="toc-OSPF网络类型-sublist" class="vector-toc-list">
+			<li id="toc-点到点网络"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#点到点网络">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>点到点网络</div>
+			</a>
+			
+			<ul id="toc-点到点网络-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-广播网络"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#广播网络">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>广播网络</div>
+			</a>
+			
+			<ul id="toc-广播网络-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-非广播多路访问网络"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#非广播多路访问网络">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>非广播多路访问网络</div>
+			</a>
+			
+			<ul id="toc-非广播多路访问网络-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-点到多点网络"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#点到多点网络">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>点到多点网络</div>
+			</a>
+			
+			<ul id="toc-点到多点网络-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-虚链路"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#虚链路">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>虚链路</div>
+		</a>
+		
+		<ul id="toc-虚链路-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-指定路由器和备份指定路由器"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#指定路由器和备份指定路由器">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>指定路由器和备份指定路由器</div>
+		</a>
+		
+		<ul id="toc-指定路由器和备份指定路由器-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-OSPF邻接关系"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPF邻接关系">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>OSPF邻接关系</div>
+		</a>
+		
+		<ul id="toc-OSPF邻接关系-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-OSPFv2数据包类型和格式"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPFv2数据包类型和格式">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>OSPFv2数据包类型和格式</div>
+		</a>
+		
+			<button aria-controls="toc-OSPFv2数据包类型和格式-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关OSPFv2数据包类型和格式子章节</span>
+			</button>
+		
+		<ul id="toc-OSPFv2数据包类型和格式-sublist" class="vector-toc-list">
+			<li id="toc-OSPF包头"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#OSPF包头">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>OSPF包头</div>
+			</a>
+			
+			<ul id="toc-OSPF包头-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Hello包"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hello包">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>Hello包</div>
+			</a>
+			
+			<ul id="toc-Hello包-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-数据库描述包"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#数据库描述包">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.3</span>数据库描述包</div>
+			</a>
+			
+			<ul id="toc-数据库描述包-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-链路状态请求包"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#链路状态请求包">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.4</span>链路状态请求包</div>
+			</a>
+			
+			<ul id="toc-链路状态请求包-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-链路状态更新包"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#链路状态更新包">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.5</span>链路状态更新包</div>
+			</a>
+			
+			<ul id="toc-链路状态更新包-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-链路状态确认包"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#链路状态确认包">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.6</span>链路状态确认包</div>
+			</a>
+			
+			<ul id="toc-链路状态确认包-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-LSA类型"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#LSA类型">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>LSA类型</div>
+		</a>
+		
+		<ul id="toc-LSA类型-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-OSPF路径选择"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPF路径选择">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>OSPF路径选择</div>
+		</a>
+		
+		<ul id="toc-OSPF路径选择-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-OSPF的反击机制"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#OSPF的反击机制">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>OSPF的反击机制</div>
+		</a>
+		
+		<ul id="toc-OSPF的反击机制-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-注释"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#注释">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>注释</div>
+		</a>
+		
+		<ul id="toc-注释-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>参考文献</div>
+		</a>
+		
+			<button aria-controls="toc-参考文献-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关参考文献子章节</span>
+			</button>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+			<li id="toc-引用"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#引用">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.1</span>引用</div>
+			</a>
+			
+			<ul id="toc-引用-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-来源"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#来源">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.2</span>来源</div>
+			</a>
+			
+			<ul id="toc-来源-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">13</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">14</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">开放式最短路径优先</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。43种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-43" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">43种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1_%D8%A3%D9%88%D9%84%D8%A7" title="بروتوكول المسار الأقصر أولا – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/OSPF" title="OSPF – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/OSPF" title="OSPF – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/OSPF" title="OSPF – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7_%DA%A9%D9%88%D8%AA%D8%A7%D9%87%E2%80%8C%D8%AA%D8%B1%DB%8C%D9%86_%D9%85%D8%B3%DB%8C%D8%B1_%D8%B1%D8%A7_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8_%DA%A9%D8%B1%D8%AF%D9%86" title="ابتدا کوتاه‌ترین مسیر را انتخاب کردن – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/OSPF" title="OSPF – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%93%E0%AA%AA%E0%AA%A8_%E0%AA%B6%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%9F%E0%AB%87%E0%AA%B8%E0%AB%8D%E0%AA%9F_%E0%AA%AA%E0%AA%BE%E0%AA%A5_%E0%AA%AB%E0%AA%B0%E0%AB%8D%E0%AA%B8%E0%AB%8D%E0%AA%9F" title="ઓપન શોર્ટેસ્ટ પાથ ફર્સ્ટ – 古吉拉特语" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%93%E0%A4%AA%E0%A4%A8_%E0%A4%B6%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F_%E0%A4%AA%E0%A4%BE%E0%A4%A5_%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F" title="ओपन शोर्टेस्ट पाथ फर्स्ट – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/OSPF" title="OSPF – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%8B%A8_%EA%B2%BD%EB%A1%9C_%EC%9A%B0%EC%84%A0_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C" title="최단 경로 우선 프로토콜 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/OSPF" title="OSPF – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%93%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%BA_%E0%B4%B7%E0%B5%8B%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%86%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%AA%E0%B4%BE%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8D_%E0%B4%AB%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="ഓപ്പൺ ഷോർട്ടെസ്റ്റ് പാത്ത് ഫസ്റ്റ് – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%AD%E1%80%AF%E1%80%A1%E1%80%80%E1%80%BA%E1%80%85%E1%80%BA%E1%80%95%E1%80%AE%E1%80%A1%E1%80%80%E1%80%BA%E1%80%96%E1%80%BA" title="အိုအက်စ်ပီအက်ဖ် – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/OSPF" title="OSPF – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/OSPF" title="OSPF – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/OSPF" title="OSPF – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/OSPF" title="OSPF – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/OSPF" title="OSPF – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/OSPF" title="OSPF – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/OSPF" title="OSPF – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Open_Shortest_Path_First" title="Open Shortest Path First – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BF%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%88%E0%AE%AF%E0%AF%88_%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D" title="மிகக்குறுகிய பாதையை முதலில் திறத்தல் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/OSPF" title="OSPF – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/OSPF" title="OSPF – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/OSPF" title="OSPF – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q220169#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;oldid=79886655" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;id=79886655&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%2580%25E6%2594%25BE%25E5%25BC%258F%25E6%259C%2580%25E7%259F%25AD%25E8%25B7%25AF%25E5%25BE%2584%25E4%25BC%2598%25E5%2585%2588"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%2580%25E6%2594%25BE%25E5%25BC%258F%25E6%259C%2580%25E7%259F%25AD%25E8%25B7%25AF%25E5%25BE%2584%25E4%25BC%2598%25E5%2585%2588"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q220169" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Open_Shortest_Path_First" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-b479ee8c" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-b479ee8c" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-hans:链路层; zh-hant:連結層;"></div></div></div>
+<table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible mw-collapsed" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="Talk:开放式最短路径优先">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">编修</a>，以确保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字词">用词、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">标点</a>等使用恰当。</b><span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>请按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">校对指引</a>，帮助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit">编辑</a>这个条目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">帮助</a>、<a href="/wiki/Talk:%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88" title="Talk:开放式最短路径优先">讨论</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Rough_translation plainlinks metadata ambox ambox-style ambox-rough_translation" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Translation_to_zh_arrow.svg" class="mw-file-description" title="翻译标记"><img alt="翻译标记" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b><a href="/wiki/Wikipedia:%E7%BF%BB%E8%AD%AF%E6%8C%87%E5%BC%95" title="Wikipedia:翻译指引">翻译</a>质量不佳。</b><span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>翻译者可能不熟悉中文或原文语言，也可能使用了<a href="/wiki/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91" title="机器翻译">机器翻译</a>。请<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit">协助翻译</a>本条目或重新编写，并注意避免<a href="/wiki/Wikipedia:TNESE" class="mw-redirect" title="Wikipedia:TNESE">翻译腔</a>的问题。<b>明显拙劣</b>的翻译请改挂<code>{{<a href="/wiki/Template:D" class="mw-redirect" title="Template:D">d</a>&#124;<a href="/wiki/Wikipedia:CSD#G13" class="mw-redirect" title="Wikipedia:CSD">G13</a>}}</code>提交删除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expand_English plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>可参照<a href="https://en.wikipedia.org/wiki/Open_Shortest_Path_First" class="extiw" title="en:Open Shortest Path First">英语维基百科</a>相应条目来扩充</b>。<span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低质量内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">著作权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#翻譯文章" title="Wikipedia:编辑摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expand_language plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>可参照<a href="https://de.wikipedia.org/wiki/Open_Shortest_Path_First" class="extiw" title="de:Open Shortest Path First">德语维基百科</a>相应条目来扩充</b>。<span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低质量内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">著作权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#翻譯文章" title="Wikipedia:编辑摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r78559700">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:100%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar nomobile nowraplinks hlist"><tbody><tr><th class="sidebar-title"><a href="/wiki/TCP/IP%E5%8D%8F%E8%AE%AE%E6%97%8F" title="TCP/IP协议族">互联网协议套组</a></th></tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E5%BA%94%E7%94%A8%E5%B1%82" title="应用层">应用层</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E8%BE%B9%E7%95%8C%E7%BD%91%E5%85%B3%E5%8D%8F%E8%AE%AE" title="边界网关协议">BGP</a></li>
+<li><a href="/wiki/%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E8%AE%BE%E7%BD%AE%E5%8D%8F%E8%AE%AE" title="动态主机设置协议">DHCP</a></li>
+<li><a href="/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F" title="域名系统">DNS</a></li>
+<li><a href="/wiki/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="文件传输协议">FTP</a></li>
+<li><a href="/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="超文本传输协议">HTTP</a></li>
+<li><a href="/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE" title="超文本传输安全协议">HTTPS</a></li>
+<li><a href="/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91%E4%BF%A1%E6%81%AF%E8%AE%BF%E9%97%AE%E5%8D%8F%E8%AE%AE" title="因特网信息访问协议">IMAP</a></li>
+<li><a href="/wiki/%E8%BD%BB%E5%9E%8B%E7%9B%AE%E5%BD%95%E8%AE%BF%E9%97%AE%E5%8D%8F%E8%AE%AE" title="轻型目录访问协议">LDAP</a></li>
+<li><span class="ilh-all" data-orig-title="媒體閘道控制協定" data-lang-code="en" data-lang-name="英语" data-foreign-title="Media Gateway Control Protocol"><span class="ilh-page"><a href="/w/index.php?title=%E5%AA%92%E9%AB%94%E9%96%98%E9%81%93%E6%8E%A7%E5%88%B6%E5%8D%94%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="媒体网关控制协议（页面不存在）">MGCP</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Media_Gateway_Control_Protocol" class="extiw" title="en:Media Gateway Control Protocol"><span lang="en" dir="auto">Media Gateway Control Protocol</span></a></span>）</span></span></li>
+<li><a href="/wiki/MQTT" title="MQTT">MQTT</a></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E6%96%B0%E8%81%9E%E5%82%B3%E8%BC%B8%E5%8D%94%E5%AE%9A" title="网络新闻传输协议">NNTP</a></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E6%99%82%E9%96%93%E5%8D%94%E5%AE%9A" title="网络时间协议">NTP</a></li>
+<li><a href="/wiki/%E9%83%B5%E5%B1%80%E5%8D%94%E5%AE%9A" title="邮局协议">POP</a></li>
+<li><a href="/wiki/%E9%96%8B%E6%94%BE%E7%B6%B2%E8%B7%AF%E9%81%8B%E7%AE%97%E9%81%A0%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%BC%E5%8F%AB" title="开放网络运算远程过程调用">ONC/RPC</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="实时传输协议">RTP</a></li>
+<li><a href="/wiki/%E5%8D%B3%E6%99%82%E4%B8%B2%E6%B5%81%E5%8D%94%E5%AE%9A" title="即时流协议">RTSP</a></li>
+<li><a href="/wiki/%E5%B0%8D%E8%A9%B1%E5%95%9F%E5%8B%95%E5%8D%94%E5%AE%9A" title="对话启动协议">SIP</a></li>
+<li><a href="/wiki/%E7%AE%80%E5%8D%95%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="简单邮件传输协议">SMTP</a></li>
+<li><a href="/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%8D%8F%E8%AE%AE" title="简单网络管理协议">SNMP</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">Telnet</a></li>
+<li><a href="/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A" title="传输层安全性协议">TLS／SSL</a></li>
+<li><a href="/wiki/Secure_Shell" title="Secure Shell">SSH</a></li>
+<li><a href="/wiki/XMPP" title="XMPP">XMPP</a></li>
+<li><a href="/wiki/Category:%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE" title="Category:应用层协议"><i>更多...</i></a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82" title="传输层">传输层</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE" title="传输控制协议">TCP</a></li>
+<li><a href="/wiki/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE" title="用户数据报协议">UDP</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE" title="数据拥塞控制协议">DCCP</a></li>
+<li><a href="/wiki/%E6%B5%81%E6%8E%A7%E5%88%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="流控制传输协议">SCTP</a></li>
+<li><a href="/wiki/%E8%B5%84%E6%BA%90%E9%A2%84%E7%95%99%E5%8D%8F%E8%AE%AE" title="资源预留协议">RSVP</a></li>
+<li><a href="/wiki/Category:%E4%BC%A0%E8%BE%93%E5%B1%82%E5%8D%8F%E8%AE%AE" title="Category:传输层协议"><i>更多...</i></a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E7%B6%B2%E7%B5%A1%E5%B1%A4" class="mw-redirect" title="网络层">网络层</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE" title="网际协议">IP</a>
+<ul><li><a href="/wiki/IPv4" title="IPv4">IPv4</a></li>
+<li><a href="/wiki/IPv6" title="IPv6">IPv6</a></li></ul></li>
+<li><a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%8E%A7%E5%88%B6%E6%B6%88%E6%81%AF%E5%8D%8F%E8%AE%AE" title="互联网控制消息协议">ICMP</a></li>
+<li><a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%8E%A7%E5%88%B6%E6%B6%88%E6%81%AF%E5%8D%8F%E8%AE%AE%E7%AC%AC%E5%85%AD%E7%89%88" title="互联网控制消息协议第六版">ICMPv6</a></li>
+<li><a href="/wiki/%E6%98%BE%E5%BC%8F%E6%8B%A5%E5%A1%9E%E9%80%9A%E7%9F%A5" title="显式拥塞通知">ECN</a></li>
+<li><a href="/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91%E7%BB%84%E7%AE%A1%E7%90%86%E5%8D%8F%E8%AE%AE" title="因特网组管理协议">IGMP</a></li>
+<li><a class="mw-selflink selflink">OSPF</a></li>
+<li><a href="/wiki/IPsec" title="IPsec">IPsec</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1%E4%BF%A1%E6%81%AF%E5%8D%8F%E8%AE%AE" title="路由信息协议">RIP</a></li>
+<li><a href="/wiki/Category:%E7%BD%91%E7%BB%9C%E5%B1%82%E5%8D%8F%E8%AE%AE" title="Category:网络层协议"><i>更多...</i></a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E9%80%A3%E7%B5%90%E5%B1%A4" title="链路层">链路层</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8D%8F%E8%AE%AE" title="地址解析协议">ARP</a></li>
+<li><a href="/wiki/%E9%82%BB%E5%B1%85%E5%8F%91%E7%8E%B0%E5%8D%8F%E8%AE%AE" title="邻居发现协议">NDP</a></li>
+<li><a href="/wiki/%E9%9A%A7%E9%81%93%E5%8D%8F%E8%AE%AE" title="隧道协议">Tunnels</a>
+<ul><li><a href="/wiki/%E7%AC%AC%E4%BA%8C%E5%B1%82%E9%9A%A7%E9%81%93%E5%8D%8F%E8%AE%AE" title="第二层隧道协议">L2TP</a></li></ul></li>
+<li><a href="/wiki/%E7%82%B9%E5%AF%B9%E7%82%B9%E5%8D%8F%E8%AE%AE" title="点对点协议">PPP</a></li>
+<li><a href="/wiki/%E4%BB%8B%E8%B4%A8%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6" title="介质访问控制">MAC</a>
+<ul><li><a href="/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91" title="以太网">Ethernet</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%A8%E6%88%B7%E7%BA%BF%E8%B7%AF" title="数字用户线路">DSL</a></li>
+<li><a href="/wiki/%E7%BB%BC%E5%90%88%E4%B8%9A%E5%8A%A1%E6%95%B0%E5%AD%97%E7%BD%91" title="综合业务数字网">ISDN</a></li>
+<li><a href="/wiki/%E5%85%89%E7%BA%A4%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%8F%A3" title="光纤分布式数据接口">FDDI</a></li></ul></li>
+<li><a href="/wiki/Category:%E9%93%BE%E8%B7%AF%E5%8D%8F%E8%AE%AE" title="Category:链路协议"><i>更多...</i></a></li></ul></td>
+</tr><tr><td class="sidebar-navbar" style="line-height:1.6"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE" title="Template:网络协议"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE" title="Template talk:网络协议"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>开放式最短路径优先</b>（英语：<span lang="en">Open Shortest Path First</span>，缩写为 OSPF）是广泛使用的一种路由协议，它属于链路状态路由协议，具有路由变化收敛速度快、无路由环路、支持变长子网掩码（VLSM）和汇总、层次区域划分等优点。
+</p><p>OSPF是一种基于<a href="/wiki/IP%E5%8D%8F%E8%AE%AE" class="mw-redirect" title="IP协议">IP协议</a>的<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE" title="路由协议">路由协议</a>。它是大中型网络上使用较为广泛的<a href="/wiki/%E5%86%85%E9%83%A8%E7%BD%91%E5%85%B3%E5%8D%8F%E8%AE%AE" title="内部网关协议">IGP</a>协议。OSPF是对<span class="ilh-all" data-orig-title="链路状态路由协议" data-lang-code="en" data-lang-name="英语" data-foreign-title="Link-state routing protocol"><span class="ilh-page"><a href="/w/index.php?title=%E9%93%BE%E8%B7%AF%E7%8A%B6%E6%80%81%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE&amp;action=edit&amp;redlink=1" class="new" title="链路状态路由协议（页面不存在）">链路状态路由协议</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Link-state_routing_protocol" class="extiw" title="en:Link-state routing protocol"><span lang="en" dir="auto">Link-state routing protocol</span></a></span>）</span></span>的一种实现，运作于<a href="/wiki/%E8%87%AA%E6%B2%BB%E7%B3%BB%E7%BB%9F" title="自治系统">自治系统</a>内部。OSPF分为OSPFv2和OSPFv3两个版本：OSPFv2定义于<a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2328">RFC 2328</a>（1998），支持<a href="/wiki/IPv4" title="IPv4">IPv4</a>网络；而OSPFv3定义于<a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc5340">RFC 5340</a>（2008），支持<a href="/wiki/IPv6" title="IPv6">IPv6</a>网络。
+</p><p>它采用<a href="/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95" title="戴克斯特拉算法">戴克斯特拉算法</a>来计算<a href="/wiki/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E6%A0%91" class="mw-redirect" title="最短路径树">最短路径树</a>。它使用“开销（Cost）”作为路由度量。链路状态数据库（LSDB）用来保存当前<a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a>结构，<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a>上属于同一区域的链路状态数据库是相同的（属于多个区域的路由器会为每个区域维护一份链路状态数据库）。
+</p><p>OSPF提出了“区域（Area）”的概念，一个网络可以由单一区域或者多个区域组成。其中，一个特别的区域被称为骨干区域（Backbone Area），该区域是整个OSPF网络的核心区域，并且所有其他的区域都与之直接连接。所有的内部路由都通过骨干区域传递到其他非骨干区域。所有的区域都必须直接连接到骨干区域，如果不能建立直接连接，那么可以通过<a href="/w/index.php?title=%E8%99%9A%E9%93%BE%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="虚链路（页面不存在）">虚链路</a>（virtual link）和骨干区域建立<a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E8%BF%9E%E6%8E%A5&amp;action=edit&amp;redlink=1" class="new" title="虚拟连接（页面不存在）">虚拟连接</a>。
+</p><p>同一个<a href="/wiki/%E5%B9%BF%E6%92%AD%E5%9F%9F" title="广播域">广播域</a>（Broadcast Domain）的<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a>或者一个<a href="/wiki/%E7%82%B9%E5%AF%B9%E7%82%B9" class="mw-redirect" title="点对点">点对点</a>（Point To Point）连接的两端的路由器，在发现彼此的时候，建立邻接（Adjacencies）<span id="noteTag-cite_ref-sup"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;注 1&#93;</a></sup></span>。多路访问网络以及非广播多路访问网络的路由器会选举指定路由器（Designated Router, DR）和备份指定路由器（Backup Designated Router, BDR），DR和BDR作为网络的中心负责路由器之间的信息交换从而降低了网络中的信息流量。OSPF协议同时使用<a href="/wiki/%E5%96%AE%E6%92%AD" title="单播">单播</a>（Unicast）和<a href="/wiki/%E7%B5%84%E6%92%AD" class="mw-redirect" title="组播">群播</a>（Multicast）来发送<a href="/w/index.php?title=Hello%E5%8C%85&amp;action=edit&amp;redlink=1" class="new" title="Hello包（页面不存在）">Hello包</a>和链路状态更新（Link State Updates），使用的群播<a href="/wiki/IP%E5%9C%B0%E5%9D%80" title="IP地址">地址</a>为224.0.0.5和224.0.0.6。与<a href="/wiki/%E8%B7%AF%E7%94%B1%E4%BF%A1%E6%81%AF%E5%8D%8F%E8%AE%AE" title="路由信息协议">RIP</a>和<a href="/wiki/BGP" class="mw-redirect" title="BGP">BGP</a>不同的是，OSPF协议不使用TCP或者UDP协议而是直接承载在IP协议之上，<a href="/wiki/IP%E5%8D%8F%E8%AE%AE%E5%8F%B7%E5%88%97%E8%A1%A8" title="IP协议号列表">IP协议号</a>为89。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="区域">区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=1" title="编辑章节：区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:OSPF_area.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/OSPF_area.jpg/400px-OSPF_area.jpg" decoding="async" width="400" height="160" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/OSPF_area.jpg/600px-OSPF_area.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/OSPF_area.jpg/800px-OSPF_area.jpg 2x" data-file-width="807" data-file-height="323" /></a><figcaption>一个多区域OSPF网络，注意所有的非骨干区域都和骨干区域直接相连，并且R2和R3属于多个区域。</figcaption></figure>
+<p>一个OSPF网络分为多个区域。区域将网络中的路由器在逻辑上分组并以区域为单位向网络的其余部分发送汇总路由信息。区域编号由一个长度为32位的字段所定义，区域编号有两种表示方法，一种为<a href="/wiki/%E7%82%B9%E5%88%86%E5%8D%81%E8%BF%9B%E5%88%B6" title="点分十进制">点分十进制</a>（如Area 1.1.1.1，写法规则同<a href="/wiki/IPv4" title="IPv4">IPv4</a>地址）；另外一种为十进制数字格式（如Area 1，注意Area 1不等于Area 1.1.1.1，而是0.0.0.1）。根据 RFC2328 描述，区域编号通常使用 32 bits的点分十进制表示。区域编号不是IP地址，用于IPv6网络的OSPFv3也使用同样的（形似IPv4地址的）区域编号格式。
+</p><p>区域是以<a href="/wiki/%E4%BB%8B%E9%9D%A2_(%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80)" title="接口 (信息技术)">接口</a>（Interface）为单位来划分的，所以一台多接口路由器可能属于多个区域。相同区域内的所有路由器都维护一份相同的链路状态数据库（LSDB），如果一台路由器属于多个区域，那么它将为每一个区域维护一份LSDB。
+<mark class="template-facttext" title="需要提供文献来源">将一个网络划分为多个区域有以下优点：</mark><sup class="noprint Template-Fact"><a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源"><span style="white-space: nowrap;" title="来源请求。">&#91;来源请求&#93;</span></a></sup>
+</p>
+<ul><li>某一区域内的路由器只需要维护该区域的<a href="/w/index.php?title=%E9%93%BE%E8%B7%AF%E7%8A%B6%E6%80%81%E6%95%B0%E6%8D%AE%E5%BA%93&amp;action=edit&amp;redlink=1" class="new" title="链路状态数据库（页面不存在）">链路状态数据库</a>，而不用维护整个OSPF网络的链路状态数据库。</li>
+<li>将某一区域网络拓扑变化的影响限制在该区域内，不会影响到整个OSPF网络，从而减小OSPF计算的频率。</li>
+<li>将链路状态通告（LSA）的洪泛限制在本区域内，从而降低OSPF协议产生的数据量。</li>
+<li>划分区域可以对网络进行层次化结构设计。</li>
+<li>划分区域有利于资源合理调配，核心区域部署性能较好的设备资源，边缘区域部署性能较差的设备资源即可。</li></ul>
+<p>OSPF有多种区域类型，其中定义了几种特殊的区域：
+</p>
+<h3><span id=".E9.AA.A8.E5.B9.B2.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="骨干区域">骨干区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=2" title="编辑章节：骨干区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>骨干区域（Backbone Area），Area 0（点分十进制表示为0.0.0.0），是整个OSPF域的核心区域。所有其他非骨干区域必须和骨干区域直接或间接相连。骨干区域的功能是在不同的非骨干区域之间分发路由信息。
+</p><p>骨干区域必须是唯一而且连续的，但不需要在物理上连续：它可以使用虚拟连接。
+</p>
+<h3><span id=".E4.BC.A0.E9.80.81.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="传送区域">传送区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=3" title="编辑章节：传送区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>传送区域连接至少2个其他区域，它将通告从一个区域传送到另一个区域。
+</p>
+<h3><span id=".E6.9C.AB.E6.A2.A2.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="末梢区域">末梢区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=4" title="编辑章节：末梢区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>末梢区域（Stub Area）是一个不允许AS外部路由通告（AS External LSA，即类型5 LSA）在其内部进行洪泛扩散的区域。末梢区域的<a href="#区域边界路由器">ABR</a>会通告一条默认路由（default route）到该区域内所有路由器，任何发往AS外部网络的数据流都将依据<a href="/wiki/%E9%BB%98%E8%AE%A4%E8%B7%AF%E7%94%B1" title="默认路由">默认路由</a>来转发。
+</p>
+<h4><span id=".E4.B8.8D.E5.AE.8C.E5.85.A8.E6.9C.AB.E6.A2.A2.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="不完全末梢区域">不完全末梢区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=5" title="编辑章节：不完全末梢区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>非纯末梢区域（Not-So-Stubby Area，NSSA）允许引入AS外部路由并且扩散到其他区域，但是NSSA仍旧不允许其他区域通告的AS外部路由进入该区域。为了使NSSA能够引入AS外部路由，OSPF定义了新的LSA类型，即NSSA External LSA（类型7 LSA）。NSSA ASBR将产生类型7 LSA，并在NSSA区域内洪泛。NSSA ABR将会把类型7 LSA转换成5类LSA，并洪泛到其他区域。
+</p>
+<h4><span id=".E5.AE.8C.E5.85.A8.E6.9C.AB.E6.A2.A2.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="完全末梢区域">完全末梢区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=6" title="编辑章节：完全末梢区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>完全末梢区域（Totally Stubby Areas）是 <a href="/wiki/Cisco" class="mw-redirect" title="Cisco">Cisco</a> 特有的区域类型。完全末梢区域不仅不允许AS外部路由通告在其内部洪泛，还不允许区域间汇总路由（Network Summary LSA
+，即类3 LSA）在其内部洪泛。同末梢区域一样，完全末梢区域ABR也会向该区域内所有路由器通告一条默认路由，任何发往其他区域以及AS外部网络的数据流都将依据默认路由来转发。将区域设置为完全末梢区域可以显著的降低路由表条目的数量。
+</p>
+<h4><span id=".E5.AE.8C.E5.85.A8.E9.9D.9E.E7.BA.AF.E6.9C.AB.E6.A2.A2.E5.8C.BA.E5.9F.9F"></span><span class="mw-headline" id="完全非纯末梢区域">完全非纯末梢区域</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=7" title="编辑章节：完全非纯末梢区域"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>完全非纯末梢区域（Totally NSSA）也是 Cisco 特有的区域类型，该种区域除了拥有和NSSA相同的特性外，还不允许类型3 LSA在该区域内部洪泛。完全非纯末梢区域ABR也会向该区域内所有路由器通告一条默认路由。将区域设置为完全非纯末梢区域也会显著的降低路由表条目的数量。
+</p>
+<h2><span id="OSPF.E8.B7.AF.E7.94.B1.E5.99.A8.E7.B1.BB.E5.9E.8B"></span><span class="mw-headline" id="OSPF路由器类型">OSPF路由器类型</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=8" title="编辑章节：OSPF路由器类型"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:OSPF_router.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OSPF_router.jpg/400px-OSPF_router.jpg" decoding="async" width="400" height="161" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OSPF_router.jpg/600px-OSPF_router.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OSPF_router.jpg/800px-OSPF_router.jpg 2x" data-file-width="807" data-file-height="325" /></a><figcaption>R2既是骨干路由器，也同时是ABR和ASBR（R2和R5之间运行了BGP，并且R2将BGP路由重分发进OSPF）。R3是一台ABR，R1和R4是内部路由器。</figcaption></figure>
+<p>OSPF定义了以下4种<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a>类型：
+</p>
+<ul><li>内部路由器（Internal Router）</li>
+<li>骨干路由器（Backbone Router）</li>
+<li>区域边界路由器（Area Border Router，ABR）</li>
+<li><a href="/wiki/%E8%87%AA%E6%B2%BB%E7%B3%BB%E7%BB%9F" title="自治系统">自治系统</a>边界路由器（Autonomous System Boundary Router，ASBR）</li></ul>
+<p>一台路由器可以同时属于多种类型，如右图所示，R2同时属于多种类型路由器。
+</p><p>每一台OSPF路由器都有一个路由器标识符（Identifier），一般写作路由器ID。路由器ID由一个长度为32 bits的字段所定义，通常用IPv4地址格式来表示（如1.2.2.2）。如果没有显式的设置路由器ID，则该路由器上最大的活跃<a href="/wiki/%E9%80%BB%E8%BE%91" title="逻辑">逻辑</a>接口IP地址将成为路由器ID；如果路由器不存在逻辑接口，则最大的活跃物理接口IP地址将成为路由器ID。注意，不要将路由器类型和指定路由器（Designated Router，DR）、备份指定路由器（Backup Designated Router，BDR）混淆，DR和BDR是路由器接口属性，而不是整个路由器的属性。
+</p>
+<h3><span id=".E5.86.85.E9.83.A8.E8.B7.AF.E7.94.B1.E5.99.A8"></span><span class="mw-headline" id="内部路由器">内部路由器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=9" title="编辑章节：内部路由器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>如果一台路由器上所有启用了OSPF的接口都在同一区域，那么这台路由器就是内部路由器。
+</p>
+<h3><span id=".E9.AA.A8.E5.B9.B2.E8.B7.AF.E7.94.B1.E5.99.A8"></span><span class="mw-headline" id="骨干路由器">骨干路由器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=10" title="编辑章节：骨干路由器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>骨干路由器是指至少有一个启用了OSPF的接口是和骨干区域（Area 0）相连的路由器。一台骨干路由器也可以同时是ABR或ASBR，如上图中的R2和R3。
+</p>
+<h3><span id=".E5.8C.BA.E5.9F.9F.E8.BE.B9.E7.95.8C.E8.B7.AF.E7.94.B1.E5.99.A8"></span><span class="mw-headline" id="区域边界路由器">区域边界路由器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=11" title="编辑章节：区域边界路由器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>区域边界路由器是指连接一个或者多个区域的路由器。区域边界路由器为每一个与之相连的区域维护一份链路状态数据库，因此区域边界路由器需要比内部路由器更多的内存资源和更高性能的<a href="/wiki/%E5%A4%84%E7%90%86%E5%99%A8" class="mw-redirect mw-disambig" title="处理器">处理器</a>。
+</p>
+<h3><span id=".E8.87.AA.E6.B2.BB.E7.B3.BB.E7.BB.9F.E8.BE.B9.E7.95.8C.E8.B7.AF.E7.94.B1.E5.99.A8"></span><span class="mw-headline" id="自治系统边界路由器">自治系统边界路由器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=12" title="编辑章节：自治系统边界路由器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>自治系统边界路由器（ASBR）用来把从其他路由协议（如<a href="/wiki/BGP" class="mw-redirect" title="BGP">BGP</a>、<a href="/wiki/EIGRP" class="mw-redirect" title="EIGRP">EIGRP</a>、<a href="/w/index.php?title=%E5%85%B6%E4%BB%96%E8%BF%9B%E7%A8%8B%E5%8F%B7%E7%9A%84OSPF&amp;action=edit&amp;redlink=1" class="new" title="其他进程号的OSPF（页面不存在）">其他进程号的OSPF</a>等）学习到的路由以<a href="/w/index.php?title=%E8%B7%AF%E7%94%B1%E9%87%8D%E5%88%86%E5%8F%91&amp;action=edit&amp;redlink=1" class="new" title="路由重分发（页面不存在）">路由重分发</a>的方式注入到OSPF进程中，从而使得整个OSPF域内的路由器都可以学习到这些路由（除了末梢区域内的路由器）。一台ASBR可以是OSPF域内非末梢区域的任何路由器，它可以是内部路由器、区域边界路由器、骨干路由器。
+</p>
+<h2><span id="OSPF.E7.BD.91.E7.BB.9C.E7.B1.BB.E5.9E.8B"></span><span class="mw-headline" id="OSPF网络类型">OSPF网络类型</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=13" title="编辑章节：OSPF网络类型"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>OSPF定义了以下4种网络类型：<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;1&#93;</a></sup>
+</p>
+<ul><li>点到点网络（point-to-point）</li>
+<li>广播网络（broadcast）</li>
+<li>非广播多路访问网络（non-broadcast multi-access，NBMA）</li>
+<li>点到多点网络（Point-to-MultiPoint）</li></ul>
+<h3><span id=".E7.82.B9.E5.88.B0.E7.82.B9.E7.BD.91.E7.BB.9C"></span><span class="mw-headline" id="点到点网络">点到点网络</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=14" title="编辑章节：点到点网络"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>点到点网络，例如E1、SONET，是单独连接一对路由器的网络。点到点网络上的一对OSPF路由器形成完全邻接关系（Full Adjacency），并且不进行DR和BDR的选举。点到点网络上的路由器使用群播地址224.0.0.5发送OSPF协议数据包。
+</p>
+<h3><span id=".E5.B9.BF.E6.92.AD.E7.BD.91.E7.BB.9C"></span><span class="mw-headline" id="广播网络">广播网络</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=15" title="编辑章节：广播网络"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>广播网络即可以同时连接多于两台设备的网络，如<a href="/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91" title="以太网">以太网</a>、<a href="/wiki/%E4%BB%A4%E7%89%8C%E7%8E%AF%E7%BD%91" class="mw-redirect" title="令牌环网">令牌环网</a>、<a href="/wiki/FDDI" class="mw-redirect" title="FDDI">FDDI</a>。广播网络上的路由器发送的<a href="/wiki/%E7%B5%84%E6%92%AD" class="mw-redirect" title="组播">群播</a>/广播数据包会被其他与之相连的路由器收到。在广播网络上的OSPF路由器会选举一台指定路由器（DR）和一台备份指定路由器（BDR）。所有始发于DR和BDR的OSPF数据包使用目的地址224.0.0.5，以群播方式发送到所有其他OSPF路由器，所有其他的路由器都将使用目的地址224.0.0.6，以群播方式发送OSPF数据包到DR和BDR。所有其他的路由器只与DR和BDR建立完全邻接关系。
+</p>
+<h3><span id=".E9.9D.9E.E5.B9.BF.E6.92.AD.E5.A4.9A.E8.B7.AF.E8.AE.BF.E9.97.AE.E7.BD.91.E7.BB.9C"></span><span class="mw-headline" id="非广播多路访问网络">非广播多路访问网络</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=16" title="编辑章节：非广播多路访问网络"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>NBMA网络，诸如<a href="/wiki/X.25" title="X.25">X.25</a>、<a href="/wiki/%E5%B8%A7%E4%B8%AD%E7%BB%A7" title="帧中继">帧中继</a>、<a href="/wiki/%E5%BC%82%E6%AD%A5%E4%BC%A0%E8%BE%93%E6%A8%A1%E5%BC%8F" title="异步传输模式">ATM</a>等，可以同时连接两台以上的路由器，但是这种网络没有广播数据包的能力。一台处于NBMA网络上的路由器发送的群播/广播数据包将不能被其他与之相连的路由器收到。在NBMA网络上需要选举DR和BDR，并且所有的OSPF数据包都是单播发送的。
+</p>
+<h3><span id=".E7.82.B9.E5.88.B0.E5.A4.9A.E7.82.B9.E7.BD.91.E7.BB.9C"></span><span class="mw-headline" id="点到多点网络">点到多点网络</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=17" title="编辑章节：点到多点网络"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>点到多点网络是NBMA网络的一个特殊设置，可以看作是一群点到点链路的集合，因此在该种网络上不必选举DR和BDR。点到多点网络上OSPF的行为和点到点网络OSPF的行为一样，也使用群播地址224.0.0.5发送OSPF协议数据包。
+</p>
+<h2><span id=".E8.99.9A.E9.93.BE.E8.B7.AF"></span><span class="mw-headline" id="虚链路">虚链路</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=18" title="编辑章节：虚链路"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>虚链路被路由器认为是没有编号的点到点网络的一种特殊设置，在虚链路上OSPF数据包是以单播方式发送的。不能人工设置一个接口的网络类型为虚链路。
+</p><p>此外还有一种特殊的网络类型，称之Loopback类型。OSPF路由器上的环回接口在默认状态下均为此类型。不能人工设置一个接口的网络类型为Loopback。
+</p>
+<h2><span id=".E6.8C.87.E5.AE.9A.E8.B7.AF.E7.94.B1.E5.99.A8.E5.92.8C.E5.A4.87.E4.BB.BD.E6.8C.87.E5.AE.9A.E8.B7.AF.E7.94.B1.E5.99.A8"></span><span class="mw-headline" id="指定路由器和备份指定路由器">指定路由器和备份指定路由器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=19" title="编辑章节：指定路由器和备份指定路由器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:OSPF_dr.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OSPF_dr.jpg/250px-OSPF_dr.jpg" decoding="async" width="250" height="310" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OSPF_dr.jpg/375px-OSPF_dr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OSPF_dr.jpg/500px-OSPF_dr.jpg 2x" data-file-width="583" data-file-height="724" /></a><figcaption>多路访问网络上OSPF邻接关系示意图</figcaption></figure><p>在广播多路访问网络和NBMA网络上会选举DR和BDR。所有其他路由器只与DR和BDR建立完全邻居关系，其他路由器之间的邻居状态停留在2-Way状态。所有其他路由器使用群播目的地址224.0.0.6向DR和BDR发送链路状态更新。
+</p><p>如果在多路访问网络中不选举DR，所有路由器之间都建立完全邻接关系，会产生很多不必要的LSA。假设一个多路访问网络上有n台路由器，那么就会建立n(n-1)/2个邻接关系。每台路由器都会产生n-1条LSA到与之建立邻接关系的路由器，再加上1条网络LSA，最终这个网络上会产生n²条LSA，并且其中很多都是重复的LSA副本。
+</p><p>DR完成以下工作：
+</p>
+<ul><li>描述该多路访问网络和与其相连的路由器。</li>
+<li>管理该多路访问网络上的LSA洪泛扩散过程。</li></ul>
+<p>DR本后的概念是将多路访问网络看作一个“伪节点（Pseudo Node）”。当SPF进行计算的时候，把链路看作一个节点，与该链路相连的路由器也是连接到这个节点上的。从与伪节点相连的路由器到这个伪节点的代价是该路由器与这个多路访问网络相连的接口的出站代价，从伪节点到任何与之相连的路由器的代价都为0。一台路由器可能连接到多个多路访问网络，该路由器可能是它所连接的其中一个多路访问网络的DR，也可能不是它所连接的另一个多路访问网络的DR，也就是说，DR是路由器接口的属性，而不是整个路由器的属性。
+</p><p>为了避免因DR失效导致的单点故障，多路访问网络上还将选举BDR。DR失效时，BDR将成为DR，由于网络上其他路由器已经和BDR形成了完全邻接关系，因此可以将DR失效对网络的影响降至最低。
+</p><p>DR和BDR的相关选举规则如下：
+</p>
+<ul><li>如果一台OSPF路由器的接口优先级（Priority）为0，那么这台路由器永远不能成为DR或BDR。</li>
+<li>具有最高优先级的路由器将会选举为DR，具有次高优先级的路由器将会选举为BDR。</li>
+<li>如果同时有多台路由器具有相同的优先级，那么具有最高路由器ID的路由器将会选举为DR。</li>
+<li>当DR失效时，BDR将成为DR，并将重新选举一个BDR。</li>
+<li>优先级的取值范围为0-255，更高的优先级意味着路由器有更大的机会成为DR。</li>
+<li>如果一台具有更高优先级的路由器在选举完DR和BDR之后接入网络，该路由器将不会成为DR或BDR，直到DR和BDR失效，当DR失效，具有更高优先级的路由器也只会成为BDR。即DR和BDR的选举不是抢占式的。</li></ul>
+<h2><span id="OSPF.E9.82.BB.E6.8E.A5.E5.85.B3.E7.B3.BB"></span><span class="mw-headline" id="OSPF邻接关系">OSPF邻接关系</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=20" title="编辑章节：OSPF邻接关系"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>在OSPF路由器之间互相交换信息之前，必须先建立邻接关系。
+</p><p>两台OSPF路由器要建立完全邻接关系，以下参数必须相同：
+</p>
+<ol><li>Hello时间间隔</li>
+<li>Dead时间间隔</li>
+<li>区域编号</li>
+<li>认证（如果启用了认证）</li>
+<li>链路MTU大小</li>
+<li>子网掩码</li>
+<li>子网号</li>
+<li>末梢区域设置</li></ol>
+<p>一般来说，建立OSPF完全邻接时会经过以下状态：
+</p>
+<ol><li>失效状态（Down）：这是邻居会话的初始状态，表示最近没有从邻居收到信息。在NBMA网络上，可能仍然会以较低频率向处于Down状态的邻居发送Hello数据包。</li>
+<li>尝试状态（Attempt）：该状态仅仅适用于连接在NBMA网络上的邻居。该状态表示最近没有从邻居收到信息，但仍需要作进一步的尝试，来联系邻居。这时按某一特定间隔向邻居发送Hello数据包。</li>
+<li>初始状态（Init）:在此状态下，表示最近收到了从邻居发来的Hello数据包。但是，仍然没有和邻居建立双向通信（Bidirectional Communication），例如，路由器自身并没有出现在邻居发送的Hello数据包中。</li>
+<li>双向通信状态（2-Way）：此状态意味着两台路由器之间建立了双向通信。在此状态下还将进行DR和BDR的选举（只有处于2-Way状态的路由器才有资格参选DR和BDR）</li>
+<li>信息交换初始状态（ExStart）：这个状态是建立邻接关系的第一步。该状态的目标是决定信息交换时路由器的主从关系，并确定初始数据库描述（DD）数据包的序列号。具有最高路由器ID的路由器将成为主路由器。</li>
+<li>信息交换状态（ExChange）：在此状态的路由器通过向邻居发送DD数据包来描述其完整的链路状态数据库。每一个DD数据包都有一个序列号，并且需要被显式的确认。在任何时候，每次只能发送一个DD数据包。在此状态下，路由器也可以发送链路状态请求数据包，用来向邻居请求最新的LSA。实际上，这些状态的邻接关系完全有能力发送和接收所有类型的OSPF协议数据包。</li>
+<li>信息加载状态（Loading）：在此状态下，路由器将会向邻居路由器发送链路状态请求数据包，用来请求信息交换状态发现的最新的LSA。</li>
+<li>完全邻接状态（Full）：在此状态下，邻居路由器形成完全邻接关系。这些邻接关系将会在路由器LSA和网络LSA中被描述。</li></ol>
+<h2><span id="OSPFv2.E6.95.B0.E6.8D.AE.E5.8C.85.E7.B1.BB.E5.9E.8B.E5.92.8C.E6.A0.BC.E5.BC.8F"></span><span class="mw-headline" id="OSPFv2数据包类型和格式">OSPFv2数据包类型和格式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=21" title="编辑章节：OSPFv2数据包类型和格式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>OSPFv2定义了以下5种协议数据包类型：
+</p>
+<ol><li>Hello包         HELLO</li>
+<li>数据库描述包    DBD</li>
+<li>链路状态请求包  LSR</li>
+<li>链路状态更新包  LSU</li>
+<li>链路状态确认包  LSAck</li></ol>
+<h3><span id="OSPF.E5.8C.85.E5.A4.B4"></span><span class="mw-headline" id="OSPF包头">OSPF包头</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=22" title="编辑章节：OSPF包头"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>5种OSPF消息有共通的24字节的头部结构。其结构如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>位
+</th>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th>第4字节
+</th></tr>
+<tr>
+<td>0~31
+</td>
+<td>Version #
+</td>
+<td>type
+</td>
+<td colspan="2">Packet length
+</td></tr>
+<tr>
+<td>32~63
+</td>
+<td colspan="4">Router ID
+</td></tr>
+<tr>
+<td>64~95
+</td>
+<td colspan="4">Area ID
+</td></tr>
+<tr>
+<td>96~127
+</td>
+<td colspan="2">Checksum
+</td>
+<td colspan="2">AuthType
+</td></tr>
+<tr>
+<td>128~159
+</td>
+<td colspan="4">Authentication
+</td></tr>
+<tr>
+<td>160~191
+</td>
+<td colspan="4">Authentication
+</td></tr></tbody></table>
+<h3><span id="Hello.E5.8C.85"></span><span class="mw-headline" id="Hello包">Hello包</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=23" title="编辑章节：Hello包"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hello包的OSPF包类型为1。这些包被周期性的从各个接口（包括虚链路）发出，用来建立和维护邻居关系。另外，在支持群播或广播的物理网络上，Hello包使用群播地址（通常为224.0.0.5)发送。
+Hello包的发送间隔由HelloInterval指定（通常为10s），路由器将会先发出不包含邻居字段的空Hello包，当收到邻接路由器的Hello包之后，将对方的路由器标识放入本机的Hello包中进行群播，这种包含邻居字段的包，也被称为HelloSeen包。假如在间隔达到RouterDeadInterval所规定的时长（通常为40s）内仍未收到一个已建立连接的路由器的Hello包，路由器将会终止这一连接。将对方的状态转为Down。
+Hello包的格式如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>位
+</th>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th>第4字节
+</th></tr>
+<tr>
+<td>0~191
+</td>
+<td colspan="4"><a href="#OSPF包头">OSPF包头</a>
+</td></tr>
+<tr>
+<td>192~223
+</td>
+<td colspan="4">Network Mask
+</td></tr>
+<tr>
+<td>224~255
+</td>
+<td colspan="2">HelloInterval
+</td>
+<td>Options
+</td>
+<td>Rtr Pri
+</td></tr>
+<tr>
+<td>256~287
+</td>
+<td colspan="4">RouterDeadInterval
+</td></tr>
+<tr>
+<td>288~319
+</td>
+<td colspan="4">Designated Router
+</td></tr>
+<tr>
+<td>320~351
+</td>
+<td colspan="4">Backup Designated Router
+</td></tr>
+<tr>
+<td>352~383
+</td>
+<td colspan="4">Neighbor
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">……
+</td></tr></tbody></table>
+<h3><span id=".E6.95.B0.E6.8D.AE.E5.BA.93.E6.8F.8F.E8.BF.B0.E5.8C.85"></span><span class="mw-headline" id="数据库描述包">数据库描述包</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=24" title="编辑章节：数据库描述包"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>数据库描述包（Database Description）的OSPF包类型为2。当邻接关系初始化后，便开始交换这些数据包。它们描述了链路状态数据库的摘要信息（只包含LSA的头部信息）。<br />
+</p><p>数据库描述包包含两种，即空数据库描述包和包含LSA头部信息的数据库描述包。 <br />
+</p><p>当两个路由器互相收到HelloSeen包之后，他们将会开始互相发送空数据库描述包，空数据库描述包被用来进行主从关系的确定。
+通常以路由标识较大的为Master，当主从关系确立之后，从机将会使用主机的序号向主机发送第一个包含LSA头部信息的数据库描述包。主机将会在收到从机的数据库描述包之后发送自己的序号加一的数据库描述包，作为对于从机的收到确认。在这样的交互过程中，只有主机可以更改序号(DD sequence number)，从机使用主机序号。数据库描述包的格式如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">位
+</th>
+<th>0~7
+</th>
+<th>8~15
+</th>
+<th>16~23
+</th>
+<th>24
+</th>
+<th>25
+</th>
+<th>26
+</th>
+<th>17
+</th>
+<th>28
+</th>
+<th>29
+</th>
+<th>30
+</th>
+<th>31
+</th></tr>
+<tr>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th colspan="8">第4字节
+</th></tr>
+<tr>
+<td>0~191
+</td>
+<td colspan="11">OSPF包头
+</td></tr>
+<tr>
+<td>192~223
+</td>
+<td colspan="2">Interface MTU
+</td>
+<td>Options
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>I
+</td>
+<td>M
+</td>
+<td>MS
+</td></tr>
+<tr>
+<td>224~255
+</td>
+<td colspan="11">DD sequence number
+</td></tr>
+<tr>
+<td>256~287
+</td>
+<td colspan="11" rowspan="5">An LSA Header
+</td></tr>
+<tr>
+<td>288~319
+</td></tr>
+<tr>
+<td>320~351
+</td></tr>
+<tr>
+<td>352~383
+</td></tr>
+<tr>
+<td>384~415
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="11">……
+</td></tr></tbody></table>
+<h3><span id=".E9.93.BE.E8.B7.AF.E7.8A.B6.E6.80.81.E8.AF.B7.E6.B1.82.E5.8C.85"></span><span class="mw-headline" id="链路状态请求包">链路状态请求包</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=25" title="编辑章节：链路状态请求包"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>链路状态请求包（Link State Request）的OSPF包类型为3。在交换数据库描述包之后，路由器便知道其自身链路状态数据库缺少哪些LSA，以及哪些LSA是过期的。这时就可以发送链路状态请求包来请求对方发送缺少的LSA和最新的LSA。链路状态请求包格式如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>位
+</th>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th>第4字节
+</th></tr>
+<tr>
+<td>0~191
+</td>
+<td colspan="4">OSPF包头
+</td></tr>
+<tr>
+<td>192~223
+</td>
+<td colspan="4">LS type
+</td></tr>
+<tr>
+<td>224~255
+</td>
+<td colspan="4">Link State ID
+</td></tr>
+<tr>
+<td>256~287
+</td>
+<td colspan="4">Advertising Router
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">……
+</td></tr></tbody></table>
+<h3><span id=".E9.93.BE.E8.B7.AF.E7.8A.B6.E6.80.81.E6.9B.B4.E6.96.B0.E5.8C.85"></span><span class="mw-headline" id="链路状态更新包">链路状态更新包</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=26" title="编辑章节：链路状态更新包"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>链路状态更新包（Link State Update）的OSPF包类型为4。LSA的洪泛就是由此类型的包实现的。每一个链路状态更新包可能包含多条LSA信息。这里的LSA信息是完整的，而不像数据库描述包只包含LSA的头部信息。
+</p><p>链路状态更新包的格式如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>位
+</th>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th>第4字节
+</th></tr>
+<tr>
+<td>0~191
+</td>
+<td colspan="4">OSPF包头
+</td></tr>
+<tr>
+<td>192~223
+</td>
+<td colspan="4"># LSAs
+</td></tr>
+<tr>
+<td>224~255
+</td>
+<td colspan="4" rowspan="3">LSAs
+</td></tr>
+<tr>
+<td>256~287
+</td></tr>
+<tr>
+<td>288~319
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">……
+</td></tr></tbody></table>
+<h3><span id=".E9.93.BE.E8.B7.AF.E7.8A.B6.E6.80.81.E7.A1.AE.E8.AE.A4.E5.8C.85"></span><span class="mw-headline" id="链路状态确认包">链路状态确认包</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=27" title="编辑章节：链路状态确认包"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>链路状态确认包（Link State Acknowledgement）的OSPF包类型为5。为了确保LSA的洪泛是可靠的，LSA信息必须被显式的确认。链路状态确认包的格式如下：
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>位
+</th>
+<th>第1字节
+</th>
+<th>第2字节
+</th>
+<th>第3字节
+</th>
+<th>第4字节
+</th></tr>
+<tr>
+<td>0~191
+</td>
+<td colspan="4">OSPF包头
+</td></tr>
+<tr>
+<td>192~223
+</td>
+<td colspan="4" rowspan="5">An LSA Header
+</td></tr>
+<tr>
+<td>224~255
+</td></tr>
+<tr>
+<td>256~287
+</td></tr>
+<tr>
+<td>288~319
+</td></tr>
+<tr>
+<td>320~351
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">……
+</td></tr></tbody></table>
+<h2><span id="LSA.E7.B1.BB.E5.9E.8B"></span><span class="mw-headline" id="LSA类型">LSA类型</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=28" title="编辑章节：LSA类型"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E9%93%BE%E8%B7%AF%E7%8A%B6%E6%80%81%E9%80%9A%E5%91%8A" title="链路状态通告">链路状态通告</a></div>
+<p>OSPF定义了11种LSA，所有类型的LSA都以一个20字节的通用LSA头部开始。这些不同类型的LSA共同描述了OSPF域内的网络拓扑结构。所有的LSA都保存在LSDB中。SPF算法根据LSDB中的信息计算出最佳路径。
+</p>
+<ol><li>路由器LSA（Router-LSA）：路由器LSA的类型为1。每一台OSPF路由器生成一条路由器LSA。该LSA描述了路由器的接口状态，以及每一个接口的出站代价。路由器LSA只能在始发他们的OSPF区域内进行洪泛，不能洪泛到其他区域。</li>
+<li>网络LSA（Network-LSA）：网络LSA的类型为2。网络LSA是DR为了描述连接到多路访问网络并且和DR建立了完全邻接关系的路由器而生成的，包括DR本身。和路由器LSA一样，网络LSA也只能在始发这条LSA的区域内进行洪泛。</li>
+<li>汇总LSA（Summary-LSA）：汇总LSA的类型为3。此类LSA描述了区域间的网络，由ABR生成。对于末梢区域，汇总LSA同样被用于描述默认路由。</li>
+<li>ASBR汇总LSA（ASBR Summary-LSA）：ASBR汇总LSA的类型为4，也是由ABR生成。ASBR汇总LSA通告的是一台区域外部的ASBR路由器，而不像汇总LSA通告的是区域外的网络。</li>
+<li>自治系统外部LSA（AS-External-LSA）：自治系统外部LSA的类型为5，由ASBR生成。此类LSA描述AS外部的网络，并可以洪泛到所有非末梢区域中去。</li>
+<li>组成员LSA（Group-Membership-LSA ）：组成员LSA类型为6。组成员LSA是对标准OSPF的一个扩展，使其支持群播路由功能，扩展后的OSPF称之Multicast Open Shortest Path First（MOSPF）。</li>
+<li>NSSA外部LSA（NSSA-External-LSA）：NSSA外部LSA类型为7。此类LSA由NSSA区域内的ASBR生成，也用来描述AS外部的网络。NSSA外部LSA仅仅在始发他们的NSSA区域内进行洪泛，而不像自治系统外部LSA可以洪泛到所有非末梢区域。</li>
+<li>链路本地LSA（Link-Local LSA）：链路本地LSA类型为8。该LSA专门用于OSPFv3（用于IPv6网络的OSPF）。链路本地LSA包含了每一个接口的链路本地地址和一个IPv6地址栏表。</li></ol>
+<p><a href="//tools.ietf.org/html/rfc2370" class="extiw" title="rfc:2370">RFC2370</a>定义了3种新的LSA，称作不透明LSA（Opaque LSA）。这3种新的LSA为OSPF的扩展性提供了通用的机制。它们可以携带用于OSPF的信息，也可以直接携带应用的信息。
+目前有以下3种不透明LSA，它们的区别主要是洪泛范围不同：
+</p>
+<ul><li>类型9不透明LSA：洪泛范围仅仅是本地链路。</li>
+<li>类型10不透明LSA：洪泛范围是始发该LSA的区域。</li>
+<li>类型11不透明LSA：洪泛范围是整个OSPF域。</li></ul>
+<h2><span id="OSPF.E8.B7.AF.E5.BE.84.E9.80.89.E6.8B.A9"></span><span class="mw-headline" id="OSPF路径选择">OSPF路径选择</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=29" title="编辑章节：OSPF路径选择"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>OSPF使用“开销（Cost）”作为路由的<a href="/w/index.php?title=%E5%BA%A6%E9%87%8F%E5%80%BC&amp;action=edit&amp;redlink=1" class="new" title="度量值（页面不存在）">度量值</a>（Metric），路径的度量值越低，说明该路径越好，具有最低度量值的路径将装入路由表。开销是根据接口所配置的带宽来计算的，带宽越高，开销越低。在Cisco路由器上，默认情况下使用公式10^8/带宽（10^8是基准值，可以调整；带宽的单位是bit/s）来计算代价。例如，接口带宽为100Mbit/s，则开销为1；接口带宽为1000Mbit/s，计算所得的开销还是1（如果计算所得的开销小于1，则按1计算）。
+OSPF有以下4种路由类型，优先级由高到低排序如下：
+</p>
+<ol><li>内部路由：去往区域内部网络的路由。</li>
+<li>区域间路由：去往不同区域网络的路由。</li>
+<li>类型1的外部路由：去往OSPF域外的路由，类型1的外部路由的度量值包括了外部路由的度量值和到ASBR的度量值。</li>
+<li>类型2的外部路由：去往OSPF域外的路由，类型2的外部路由的度量值只包括了外部路由的度量值。</li></ol>
+<p>因此如果有多条去往相同目的地的路由具有相同的度量值，那么将比较它们的路由类型。假设有两条去往相同目的地的路由A和路由B的度量值都是30，A是内部路由，B区域间路由，则A将会被装入<a href="/wiki/%E8%B7%AF%E7%94%B1%E8%A1%A8" title="路由表">路由表</a>。如果有多条去往相同目的地的路由具有相同的类型，相同的度量值，则它们都将被装入路由表，并在不同路由之间进行负载均衡。
+</p>
+<h2><span id="OSPF.E7.9A.84.E5.8F.8D.E5.87.BB.E6.9C.BA.E5.88.B6"></span><span class="mw-headline" id="OSPF的反击机制">OSPF的反击机制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=30" title="编辑章节：OSPF的反击机制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>大多数运行OSPF的路由器具有一种被称为(fight back)的安全机制。即当一个路由器收到关于自己的虚假或者不正确的LSA信息时，它将立刻发出一个包含自己正确的LSA的LSU报文，这一机制被称为反击或者自反击。
+不过需要注意的是，反击机制并不是OSPF协议官方规定的安全机制。在RFC2328中，没有对此机制的任何描述。
+</p>
+<h2><span id=".E6.B3.A8.E9.87.8A"></span><span class="mw-headline" id="注释">注释</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=31" title="编辑章节：注释"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="references-NoteFoot"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">实际上，广播网路中的路由器彼此之间并不一定建立邻接，这取决于网络中指定路由器的选举结果，所有的路由器都与同一个广播网络中的指定路由器以及备份指定路由器建立邻接，而非指定路由器之间彼此仅仅纪录对方为双工通信可能而不建立邻接。</span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=32" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E5.BC.95.E7.94.A8"></span><span class="mw-headline" id="引用">引用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=33" title="编辑章节：引用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210427201423/https://tools.ietf.org/html/rfc2328">RFC 2328 - OSPF Version 2</a>. RFC.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-07-20</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc2328">原始内容</a>存档于2021-04-27）. <q>The neighborhood of each network node in the graph depends on the network's type (point-to-point, broadcast, NBMA or Point-to-MultiPoint) and the number of routers having an interface to the network.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;rft.atitle=&#82;FC+2328+-+OSPF+Version+2&amp;rft.genre=unknown&amp;rft.jtitle=&#82;FC&amp;rft_id=https%3A%2F%2Ftools.ietf.org%2Fhtml%2Frfc2328&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h3><span id=".E6.9D.A5.E6.BA.90"></span><span class="mw-headline" id="来源">来源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=34" title="编辑章节：来源"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r80540462">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation book">Jeff Doyle; Jennifer Carroll. Routing TCP/IP. Volume I Second Edition. America: Cisco Press. 2005-10-19 <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;rft.au=Jeff+Doyle&amp;rft.au=Jennifer+Carroll&amp;rft.btitle=Routing+TCP%2FIP&amp;rft.date=2005-10-19&amp;rft.edition=Second+Edition&amp;rft.genre=book&amp;rft.place=America&amp;rft.pub=Cisco+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33"> 引文格式1维护：冗余文本 (<a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E7%BB%B4%E6%8A%A4%EF%BC%9A%E5%86%97%E4%BD%99%E6%96%87%E6%9C%AC" title="Category:引文格式1维护：冗余文本">link</a>)</span></li></ul>
+</div>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=35" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E4%B8%AD%E9%97%B4%E7%B3%BB%E7%BB%9F%E5%88%B0%E4%B8%AD%E9%97%B4%E7%B3%BB%E7%BB%9F" title="中间系统到中间系统">中间系统到中间系统</a> - Intermediate system to intermediate system (IS-IS)</li>
+<li><a href="/wiki/IEEE_802.1aq" title="IEEE 802.1aq">IEEE 802.1aq</a> - <a href="/wiki/Shortest_Path_Bridging" class="mw-redirect" title="Shortest Path Bridging">Shortest Path Bridging (SPB)</a></li>
+<li><a href="/wiki/%E9%AB%98%E7%BA%A7%E7%BB%BC%E5%90%88" title="高级综合">高级综合</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%8A%B6%E7%BD%91%E7%BB%9C" title="网状网络">网状网络</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1" title="路由">路由</a></li>
+<li><a href="/wiki/%E6%9C%80%E7%9F%AD%E8%B7%AF%E9%97%AE%E9%A2%98" title="最短路问题">最短路问题</a></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;action=edit&amp;section=36" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050323231653/http://ietf.org/html.charters/ospf-charter.html">IETF OSPF Working Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.zebra.org">Zebra</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20220201081032/http://www.zebra.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） free router software which supports OSPF</li>
+<li><a rel="nofollow" class="external text" href="http://www.quagga.net">Quagga</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080421163151/http://www.quagga.net/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） a <a href="/w/index.php?title=Fork_(software)&amp;action=edit&amp;redlink=1" class="new" title="Fork (software)（页面不存在）">fork</a> of Zebra</li>
+<li><a rel="nofollow" class="external text" href="http://www.cisco.com/en/US/tech/tk365/technologies_white_paper09186a0080094e9e.shtml">OSPF Design Guide On Cisco.com</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140127194012/http://www.cisco.com/en/US/tech/tk365/technologies_white_paper09186a0080094e9e.shtml">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc5187">RFC 5187</a> OSPF Version 3 Graceful Restart, Juni 2008</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2740">RFC 2740</a> OSPF Version 3, Dezember 1999</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2370">RFC 2370</a> OSPF Opaque LSA Option, Juli 1998</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2328">RFC 2328</a> OSPF Version 2, April 1998</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1850">RFC 1850</a> OSPF Version 2 MIB, November 1995</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1793">RFC 1793</a> Extending OSPF to Support Demand Circuits, April 1995</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1587">RFC 1587</a> OSPF NSSA Option, März 1994</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1253">RFC 1253</a> OSPF Version 2 MIB, August 1991, ersetzt durch <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1850">RFC 1850</a></li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1247">RFC 1247</a> OSPF Version 2, Juli 1991, ersetzt durch <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2370">RFC 2370</a></li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1131">RFC 1131</a> OSPF Version 2, Juli 1991, ersetzt durch <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1247">RFC 1247</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐tbjll
+Cached time: 20240331032154
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.599 seconds
+Real time usage: 0.761 seconds
+Preprocessor visited node count: 2323/1000000
+Post‐expand include size: 253066/2097152 bytes
+Template argument size: 13922/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10267/5000000 bytes
+Lua time usage: 0.283/10.000 seconds
+Lua memory usage: 19321676/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  526.299      1 -total
+ 31.84%  167.574      1 Template:Multiple_issues
+ 23.66%  124.502      5 Template:Ambox
+ 19.89%  104.659      1 Template:Lang-en
+ 16.22%   85.343      1 Template:网络协议
+ 13.36%   70.316      1 Template:NoteTA
+ 11.40%   59.995      2 Template:Expand_language
+ 10.27%   54.057      1 Template:Expand_english
+  8.64%   45.473      1 Template:Reflist
+  8.01%   42.167      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:112912-0!userlang=zh-cn!zh-cn and timestamp 20240331032154 and revision id 79886655. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=开放式最短路径优先&amp;oldid=79886655">https://zh.wikipedia.org/w/index.php?title=开放式最短路径优先&amp;oldid=79886655</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE" title="Category:路由协议">路由协议</a></li><li><a href="/wiki/Category:%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE" title="Category:网际协议">网际协议</a></li><li><a href="/wiki/Category:%E4%BA%92%E8%81%94%E7%BD%91%E6%A0%87%E5%87%86" title="Category:互联网标准">互联网标准</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E6%A0%A1%E5%B0%8D%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:需要校對的頁面">需要校对的页面</a></li><li><a href="/wiki/Category:%E7%B2%97%E5%8A%A3%E7%BF%BB%E8%AF%91" title="Category:粗劣翻译">粗劣翻译</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:需要從英語維基百科翻譯的條目">需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E5%BE%9E%E5%BE%B7%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:需要從德語維基百科翻譯的條目">需要从德语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E6%9C%89%E6%9C%AA%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:有未列明来源语句的条目">有未列明来源语句的条目</a></li><li><a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E7%BB%B4%E6%8A%A4%EF%BC%9A%E5%86%97%E4%BD%99%E6%96%87%E6%9C%AC" title="Category:引文格式1维护：冗余文本">引文格式1维护：冗余文本</a></li><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8RFC%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用RFC魔术链接的页面">使用RFC魔术链接的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年11月27日 (星期一) 02:52。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2432","wgBackendResponseTime":149,"wgPageParseReport":{"limitreport":{"cputime":"0.599","walltime":"0.761","ppvisitednodes":{"value":2323,"limit":1000000},"postexpandincludesize":{"value":253066,"limit":2097152},"templateargumentsize":{"value":13922,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10267,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  526.299      1 -total"," 31.84%  167.574      1 Template:Multiple_issues"," 23.66%  124.502      5 Template:Ambox"," 19.89%  104.659      1 Template:Lang-en"," 16.22%   85.343      1 Template:网络协议"," 13.36%   70.316      1 Template:NoteTA"," 11.40%   59.995      2 Template:Expand_language"," 10.27%   54.057      1 Template:Expand_english","  8.64%   45.473      1 Template:Reflist","  8.01%   42.167      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.283","limit":"10.000"},"limitreport-memusage":{"value":19321676,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-tbjll","timestamp":"20240331032154","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5f00\u653e\u5f0f\u6700\u77ed\u8def\u5f84\u4f18\u5148","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%BC%80%E6%94%BE%E5%BC%8F%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88","sameAs":"http:\/\/www.wikidata.org\/entity\/Q220169","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q220169","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-01T07:27:15Z","dateModified":"2023-11-27T02:52:30Z","headline":"\u7db2\u969b\u7db2\u7d61\u5354\u5b9a"}</script>
+</body>
+</html>

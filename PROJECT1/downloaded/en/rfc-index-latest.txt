@@ -1,0 +1,87 @@
+
+===========================================================================
+  This is a list of the latest RFCs only.
+  To get the full list of RFCs, please look up rfc-index.txt
+===========================================================================
+
+9535 JSONPath: Query Expressions for JSON. S. GÃ¶ssner, Ed., G.
+     Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
+
+9537 Redacted Fields in the Registration Data Access Protocol (RDAP)
+     Response. J. Gould, D. Smith, J. Kolker, R. Carney. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9537) 
+
+9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
+     Automated Certificate Management Environment. F. Fieau, Ed., E.
+     Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9538) 
+
+9539 Unilateral Opportunistic Deployment of Encrypted
+     Recursive-to-Authoritative DNS. D. K. Gillmor, Ed., J. Salazar, Ed.,
+     P. Hoffman, Ed.. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9539) 
+
+9540 Discovery of Oblivious Services via Service Binding Records. T.
+     Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
+
+9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance
+     Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN). J.
+     Rabadan, Ed., S. Sathappan, K. Nagaraj, M. Miyake, T. Matsuda. March
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9541) 
+
+9543 A Framework for Network Slices in Networks Built from IETF
+     Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
+     Makhijani, L. Contreras, J. Tantsura. March 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9543) 
+
+9544 Precision Availability Metrics (PAMs) for Services Governed by
+     Service Level Objectives (SLOs). G. Mirsky, J. Halpern, X. Min, A.
+     Clemm, J. Strassner, J. FranÃ§ois. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9544) 
+
+9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
+     Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9545) 
+
+9546 Operations, Administration, and Maintenance (OAM) for Deterministic
+     Networking (DetNet) with the MPLS Data Plane. G. Mirsky, M. Chen, B.
+     Varga. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9546) 
+
+9547 Report from the IAB Workshop on Environmental Impact of Internet
+     Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
+     Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9547) 
+
+9549 Internationalization Updates to RFC 5280. R. Housley. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8399) (Updates RFC5280)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9549) 
+
+9550 Deterministic Networking (DetNet): Packet Ordering Function. B.
+     Varga, Ed., J. Farkas, S. Kehrer, T. Heer. March 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9550) 
+
+9551 Framework of Operations, Administration, and Maintenance (OAM) for
+     Deterministic Networking (DetNet). G. Mirsky, F. Theoleyre, G.
+     Papadopoulos, CJ. Bernardos, B. Varga, J. Farkas. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9551) 
+
+9552 Distribution of Link-State and Traffic Engineering Information Using
+     BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9552) 
+
+9565 An Update to the tcpControlBits IP Flow Information Export (IPFIX)
+     Information Element. M. Boucadair. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9565) 
+
+===========================================================================
+ - This file last updated Mon 01 Apr 2024 02:30:02 AM PDT
+

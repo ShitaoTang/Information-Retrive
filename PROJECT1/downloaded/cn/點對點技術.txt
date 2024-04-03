@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>点对点网络 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"dc3fe685-e486-4d73-ba38-08306505d69a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"對等網路","wgTitle":"對等網路","wgCurRevisionId":78874751,"wgRevisionId":78874751,"wgArticleId":82040,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2012年12月需要计算机科学专家关注的页面","所有需要專家關注的頁面","需要计算机科学专家关注的页面","自2013年12月待更新条目","自2013年12月需要校對的頁面","含有多个问题的条目","含有英語的條目","维基共享资源分类链接由本地定义","使用RFC魔术链接的页面","使用ISBN魔术链接的页面","P2P","檔案分享","下载协议"],"wgPageViewLanguage":"zh-cn",
+"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"對等網路","wgRelevantArticleId":82040,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"點對點技術","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,
+"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q161410","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=[
+"mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions",
+"wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/1200px-P2P-network.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1240">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/800px-P2P-network.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="827">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/640px-P2P-network.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="662">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="点对点网络 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-對等網路 rootpage-對等網路 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-历史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#历史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>历史</div>
+		</a>
+		
+		<ul id="toc-历史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-分类"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#分类">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>分类</div>
+		</a>
+		
+			<button aria-controls="toc-分类-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关分类子章节</span>
+			</button>
+		
+		<ul id="toc-分类-sublist" class="vector-toc-list">
+			<li id="toc-根据中央化程度"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#根据中央化程度">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>根据中央化程度</div>
+			</a>
+			
+			<ul id="toc-根据中央化程度-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-根据网路拓扑结构"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#根据网路拓扑结构">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>根据网路拓扑结构</div>
+			</a>
+			
+			<ul id="toc-根据网路拓扑结构-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-P2P网络的优势"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#P2P网络的优势">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>P2P网络的优势</div>
+		</a>
+		
+		<ul id="toc-P2P网络的优势-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-应用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#应用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>应用</div>
+		</a>
+		
+			<button aria-controls="toc-应用-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关应用子章节</span>
+			</button>
+		
+		<ul id="toc-应用-sublist" class="vector-toc-list">
+			<li id="toc-学术性P2P网络"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#学术性P2P网络">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>学术性P2P网络</div>
+			</a>
+			
+			<ul id="toc-学术性P2P网络-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-优点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#优点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>优点</div>
+		</a>
+		
+		<ul id="toc-优点-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-缺点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#缺点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>缺点</div>
+		</a>
+		
+		<ul id="toc-缺点-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-争议"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#争议">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>争议</div>
+		</a>
+		
+			<button aria-controls="toc-争议-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关争议子章节</span>
+			</button>
+		
+		<ul id="toc-争议-sublist" class="vector-toc-list">
+			<li id="toc-法律方面"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#法律方面">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>法律方面</div>
+			</a>
+			
+			<ul id="toc-法律方面-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-安全方面"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#安全方面">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>安全方面</div>
+			</a>
+			
+			<ul id="toc-安全方面-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-计算技术展望"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#计算技术展望">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>计算技术展望</div>
+		</a>
+		
+		<ul id="toc-计算技术展望-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-限制"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#限制">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>限制</div>
+		</a>
+		
+			<button aria-controls="toc-限制-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关限制子章节</span>
+			</button>
+		
+		<ul id="toc-限制-sublist" class="vector-toc-list">
+			<li id="toc-中华人民共和国"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#中华人民共和国">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.1</span>中华人民共和国</div>
+			</a>
+			
+			<ul id="toc-中华人民共和国-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-日本"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#日本">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.2</span>日本</div>
+			</a>
+			
+			<ul id="toc-日本-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-新西兰"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#新西兰">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.3</span>新西兰</div>
+			</a>
+			
+			<ul id="toc-新西兰-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">点对点网络</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。59种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-59" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">59种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Eweknienetwerk" title="Eweknienetwerk – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%AF_%D9%84%D9%86%D8%AF" title="ند لند – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0" title="Еднорангова мрежа – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/D%27igual_a_igual" title="D&#039;igual a igual – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Peer-to-Peer" title="Peer-to-Peer – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Samtavola_komunikado" title="Samtavola komunikado – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/P2P-v%C3%B5rgustik" title="P2P-võrgustik – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/P2P" title="P2P – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AA%D8%A7%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%AA%D8%A7_(%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87)" title="همتابه‌همتا (رایانه) – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Vertaisverkko" title="Vertaisverkko – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Pair-%C3%A0-pair" title="Pair-à-pair – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%99%D7%AA_%D7%9C%D7%A2%D7%9E%D7%99%D7%AA" title="עמית לעמית – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B8%E0%A4%B9%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80" title="सहकर्मी-से-सहकर्मी – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Peer_to_peer" title="Peer to peer – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Padan-ke-padan" title="Padan-ke-padan – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Peer_to_Peer" title="Peer to Peer – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/P2P" title="P2P – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B3%D0%B8%D0%B7_%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA" title="Тегиз тармак – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/P2P" title="P2P – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Vien%C4%81dranga_t%C4%ABkls" title="Vienādranga tīkls – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%BF%E0%B4%AF%E0%B5%BC-%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81-%E0%B4%AA%E0%B4%BF%E0%B4%AF%E0%B5%BC_%E0%B4%A8%E0%B5%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B5%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D" title="പിയർ-റ്റു-പിയർ നെറ്റ്വർക്ക് – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/Peer_to_peer_computing" title="Peer to peer computing – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Rakan-ke-rakan" title="Rakan-ke-rakan – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%AF%E1%80%95%E1%80%BA%E1%80%85%E1%80%AF%E1%80%90%E1%80%B0%E1%80%A1%E1%80%86%E1%80%84%E1%80%B7%E1%80%BA%E1%80%90%E1%80%B0%E1%80%A1%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="အုပ်စုတူအဆင့်တူအချင်းချင်းများ – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Like-til-like" title="Like-til-like – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%84_%D9%BE%D9%87_%D8%B3%DB%8C%D8%A7%D9%84_(%D8%B4%D8%A8%DA%A9%D9%87)" title="سیال په سیال (شبکه) – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/P2P" title="P2P – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Одноранговая сеть – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Peer_to_peer" title="Peer to peer – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Sie%C5%A5_so_vz%C3%A1jomn%C3%BDm_spr%C3%ADstup%C5%88ovan%C3%ADm" title="Sieť so vzájomným sprístupňovaním – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/P2P_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0" title="P2P мрежа – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Peer_to_Peer" title="Peer to Peer – 巽他语" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/P2P-n%C3%A4tverk" title="P2P-nätverk – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/P2P" title="P2P – 西里西亚语" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%AE%E0%AE%B5%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81_%E0%AE%AA%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D" title="சமவுரிமைப் பகிர்வு பிணையம் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%BE%DB%8C%D8%A6%D8%B1_%D9%B9%D9%88_%D9%BE%DB%8C%D8%A6%D8%B1" title="پیئر ٹو پیئر – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Conpagno_a_conpagno_(informadega)" title="Conpagno a conpagno (informadega) – 威尼斯语" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/M%E1%BA%A1ng_ngang_h%C3%A0ng" title="Mạng ngang hàng – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%82%B9%E5%AF%B9%E7%82%B9%E7%BD%91%E7%BB%9C" title="点对点网络 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%9C%D7%A2%D7%92_%D7%A6%D7%95_%D7%A7%D7%90%D7%9C%D7%A2%D7%92" title="קאלעג צו קאלעג – 意第绪语" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%BB%9E%E5%B0%8D%E9%BB%9E" title="點對點 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q161410#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;oldid=78874751" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;id=78874751&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B0%258D%25E7%25AD%2589%25E7%25B6%25B2%25E8%25B7%25AF"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B0%258D%25E7%25AD%2589%25E7%25B6%25B2%25E8%25B7%25AF"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q161410" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Peer-to-peer" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-74488bc2" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E9%BB%9E%E5%B0%8D%E9%BB%9E%E6%8A%80%E8%A1%93&amp;redirect=no" class="mw-redirect" title="點對點技術">點對點技術</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>关于与“<b>对等网络</b>”标题相近或相同的条目页，请见“<b><a href="/wiki/P2P" class="mw-disambig" title="P2P">P2P</a></b>”。</div>
+<div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r74069148"><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>关于与“<b>对等网络</b>”标题相近或相同的条目页，请见“<b><a href="/wiki/%E9%BB%9E%E5%B0%8D%E9%BB%9E_(%E6%B6%88%E6%AD%A7%E7%BE%A9)" class="mw-disambig" title="点对点 (消歧义)">点对点 (消歧义)</a></b>”。</div>
+<table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="Talk:对等网络">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目需要<b>精通或熟悉<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a>的编者</b>参与及协助编辑。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2012年12月26日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a href="/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84" title="Wikipedia:专家邀请工作小组">邀请</a>适合的人士<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit">改善本条目</a>。更多的细节与详情请参见<a href="/wiki/Talk:%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="Talk:对等网络">讨论页</a>。<br />另见其他<a href="/wiki/Category:%E9%9C%80%E8%A6%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E5%AE%B6%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:需要计算机科学专家关注的页面">需要计算机科学专家关注的页面</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Update plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/60px-Ambox_outdated_serious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/80px-Ambox_outdated_serious.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要更新</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2013年12月15日</span>)</i></small><span class="hide-when-compact"><br /><small>请更新本文以反映近况和新增内容。完成修改后请移除本模板。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">编修</a>，以确保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字词">用词、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">标点</a>等使用恰当。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2013年12月15日</span>)</i></small><span class="hide-when-compact"><br /><small>请按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">校对指引</a>，帮助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit">编辑</a>这个条目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">帮助</a>、<a href="/wiki/Talk:%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="Talk:对等网络">讨论</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-74488bc2" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div><div data-noteta-group-source="module" data-noteta-group="Communication"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:P2P-network.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/200px-P2P-network.svg.png" decoding="async" width="200" height="207" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/300px-P2P-network.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P2P-network.svg/400px-P2P-network.svg.png 2x" data-file-width="119" data-file-height="123" /></a><figcaption>无中心服务器的对等网络系统</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Server-based-network.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Server-based-network.svg/200px-Server-based-network.svg.png" decoding="async" width="200" height="207" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Server-based-network.svg/300px-Server-based-network.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Server-based-network.svg/400px-Server-based-network.svg.png 2x" data-file-width="119" data-file-height="123" /></a><figcaption>有中心服务器的中央网络系统</figcaption></figure>
+<p><b>对等式网络</b>（英语：<span lang="en">peer-to-peer</span>， 简称<b>P2P</b>），又称<b>点对点技术</b>，是<a href="/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96" title="去中心化">去中心化</a>、依靠用户群（peers）交换信息的互联网体系，它的作用在于，减低以往网路传输中的节点，以降低资料遗失的风险。与有中心服务器的中央网络系统不同，对等网络的每个用户端既是一个节点，也有服务器的功能，任何一个节点无法直接找到其他节点，必须依靠其户群进行信息交流。
+</p><p>P2P节点能遍布整个互联网，也给包括开发者在内的任何人、组织或政府带来监控难题。P2P在网络隐私要求高和<a href="/wiki/%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB" title="文件分享">文件共享</a>领域中，得到了广泛的应用。使用一般型P2P技术的网络系统有<a href="/wiki/%E6%AF%94%E7%89%B9%E5%B8%81" title="比特币">比特币</a>、<a href="/wiki/Gnutella" title="Gnutella">Gnutella</a>或<a href="/wiki/%E8%87%AA%E7%94%B1%E7%BD%91" title="自由网">自由网</a>等。另外，P2P技术也被使用在类似VoIP等实时媒体业务的数据通信中。有些网络（如<a href="/wiki/Napster" title="Napster">Napster</a>、<a href="/w/index.php?title=OpenNAP&amp;action=edit&amp;redlink=1" class="new" title="OpenNAP（页面不存在）">OpenNAP</a>、<a href="/wiki/IRC" title="IRC">IRC</a> <a href="/w/index.php?title=Depot_channel&amp;action=edit&amp;redlink=1" class="new" title="Depot channel（页面不存在）">@find</a>）包括搜索的一些功能，也使用客户端-服务器结构，而使用P2P结构来实现另外一些功能。这种网络设计模型不同于<a href="/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%9C%8D%E5%8A%A1%E5%99%A8" class="mw-redirect" title="客户端-服务器">客户端-服务器</a>模型，在客户端-服务器模型中通信通常来往于一个中央服务器。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8E.86.E5.8F.B2"></span><span class="mw-headline" id="历史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=1" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:DHT_en.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/DHT_en.svg/300px-DHT_en.svg.png" decoding="async" width="300" height="126" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/DHT_en.svg/450px-DHT_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/DHT_en.svg/600px-DHT_en.svg.png 2x" data-file-width="840" data-file-height="352" /></a><figcaption>分布式<a href="/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8" title="哈希表">哈希表</a></figcaption></figure>
+<p>P2P架构体现了一个网际网路技术的关键概念，这一概念被描述在1969年4月7日第一份<a href="/wiki/RFC" title="RFC">RFC</a>文档“<a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc1">RFC 1</a>，主机软件”<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>中。在不用中心索引<a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="服务器">服务器</a>结构交换多媒体文件的大趋势下，这个概念已经得到广泛普及。
+</p>
+<h2><span id=".E5.88.86.E7.B1.BB"></span><span class="mw-headline" id="分类">分类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=2" title="编辑章节：分类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.A0.B9.E6.8D.AE.E4.B8.AD.E5.A4.AE.E5.8C.96.E7.A8.8B.E5.BA.A6"></span><span class="mw-headline" id="根据中央化程度">根据中央化程度</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=3" title="编辑章节：根据中央化程度"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><dl><dt>一般型P2P</dt></dl>
+<ul><li>节点同时作为<a href="/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF" title="客户端">客户端</a>和<a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF" class="mw-redirect" title="服务器端">服务器端</a>。</li>
+<li>没有中心<a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="服务器">服务器</a>。</li>
+<li>没有中心<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a>。</li>
+<li>如<a href="/wiki/Gnutella" title="Gnutella">Gnutella</a>。</li></ul></li></ul>
+<ul><li><dl><dt>特殊型P2P</dt></dl>
+<ul><li>有一个中心服务器保存<a href="/wiki/%E8%8A%82%E7%82%B9" class="mw-redirect mw-disambig" title="节点">节点</a>的信息并对请求这些信息的要求做出响应。</li>
+<li>节点负责发布这些信息（因为中心服务器并不保存文件），让中心服务器知道它们想共享什么文件，让需要它的节点下载其可共享的资源。</li>
+<li>路由终端使用地址，通过被一组<a href="/wiki/%E7%B4%A2%E5%BC%95" title="索引">索引</a>引用来获取绝对地址。</li>
+<li>如最原始的<a href="/wiki/Napster" title="Napster">Napster</a>。</li></ul></li></ul>
+<ul><li><dl><dt>混合型P2P</dt></dl>
+<ul><li>同时含有一般型P2P和特殊型P2P的特点。</li>
+<li>如<a href="/wiki/Skype" title="Skype">Skype</a>。</li></ul></li></ul>
+<h3><span id=".E6.A0.B9.E6.8D.AE.E7.BD.91.E8.B7.AF.E6.8B.93.E6.89.91.E7.BB.93.E6.9E.84"></span><span class="mw-headline" id="根据网路拓扑结构">根据网路拓扑结构</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=4" title="编辑章节：根据网路拓扑结构"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><dl><dt>结构P2P</dt></dl>
+<ul><li>点对点之间互有链接信息，彼此形成特定规则拓扑结构。</li>
+<li>需要请求某资源时，依该拓扑结构规则寻找，若存在则一定找得到。</li>
+<li>如<a href="/w/index.php?title=Chord&amp;action=edit&amp;redlink=1" class="new" title="Chord（页面不存在）">Chord</a>、<a href="/wiki/YaCy" title="YaCy">YaCy</a>、<a href="/wiki/Kademlia" title="Kademlia">Kademlia</a>。</li></ul></li></ul>
+<ul><li><dl><dt>无结构P2P</dt></dl>
+<ul><li>点对点之间互有链接信息，彼此形成无规则<a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网状拓扑</a>结构。</li>
+<li>需要请求某资源节点时，以<a href="/wiki/%E5%B9%BF%E6%92%AD" title="广播">广播</a>方式寻找，通常会设<a href="/wiki/%E5%AD%98%E6%B4%BB%E6%99%82%E9%96%93" title="存活时间">TTL</a>，即使存在也不一定找得到。</li>
+<li>如<a href="/wiki/Gnutella" title="Gnutella">Gnutella</a>。</li></ul></li></ul>
+<ul><li><dl><dt>松散结构P2P</dt></dl>
+<ul><li>点对点之间互有链接信息，彼此形成无规则网状拓扑结构。</li>
+<li>需要请求某资源时，依现有信息推测寻找，介于结构P2P和无结构P2P之间。</li>
+<li>如<a href="/wiki/Freenet" class="mw-redirect" title="Freenet">Freenet</a>、<a href="/wiki/Zeronet" class="mw-redirect" title="Zeronet">Zeronet</a>。</li></ul></li></ul>
+<h2><span id="P2P.E7.BD.91.E7.BB.9C.E7.9A.84.E4.BC.98.E5.8A.BF"></span><span class="mw-headline" id="P2P网络的优势">P2P网络的优势</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=5" title="编辑章节：P2P网络的优势"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>P2P网络的一个重要的目标就是让所有的客户端都能提供资源，包括<a href="/wiki/%E5%B8%A6%E5%AE%BD" title="带宽">带宽</a>，存储空间和算力。因此，当有节点加入且对系统请求增多，整个系统的容量也增大。这是具有一组固定服务器的Client-Server结构不能实现的，因为在上述这种结构中，客户端的增加意味着所有用户更慢的数据传输。
+</p><p>P2P网络的分布特性通过在多节点上复制数据，也增加了防故障的健壮性，并且在一般型P2P网络中，节点不需要依靠一个中心索引服务器来发现数据。在后一种情况下，系统也不会出现单点崩溃。
+</p><p>当用P2P来描述Napster 网络时，对等<a href="/wiki/%E5%8D%8F%E8%AE%AE" class="mw-disambig" title="协议">协议</a>被认为是重要的，但是，实际中，Napster 网络获取的成就是对等节点（就像网络的末枝）联合一个中心索引来实现。这可以使它能快速并且高效的定位可用的内容。对等协议只是一种通用的方法来实现这一点。
+</p>
+<h2><span id=".E5.BA.94.E7.94.A8"></span><span class="mw-headline" id="应用">应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=6" title="编辑章节：应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Emule049b_vista.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emule049b_vista.jpg/220px-Emule049b_vista.jpg" decoding="async" width="220" height="132" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emule049b_vista.jpg/330px-Emule049b_vista.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emule049b_vista.jpg/440px-Emule049b_vista.jpg 2x" data-file-width="800" data-file-height="480" /></a><figcaption><a href="/wiki/EMule" title="EMule">eMule</a></figcaption></figure>
+<p>点对点技术有许多应用。共享包含各种格式音频，视频，数据等的文件是非常普遍的，即时数据（如IP电话通信，Anychat音视频开发软件）也可以使用P2P技术来传送。
+</p><p>有些网络和通信渠道，像Napster、OpenNAP和IRC@find，一方面使用了主从式架构结构来处理一些任务（如搜索功能），另一方面又同时使用P2P结构来处理其他任务。而有些网络，如Gnutella和Freenet，使用P2P结构来处理所有的任务，有时被认为是真正的P2P网路。尽管Gnutella也使用了目录服务器来方便节点得到其它节点的网络地址。
+</p><p>点对点技术亦常应用于<a href="/wiki/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3" title="加密货币">加密货币</a>上。<a href="/wiki/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%AD%B7%E5%8F%B2" title="比特币历史">比特币</a>的白皮书<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>标题正是“一种点对点式的电子现金交易系统”。点对点网络中每个节点的地位相当，没有任何节点属于中央控制地位，也没有任何节点扮演交易中介的角色；网络中每个节点既是服务端，亦是客户端；节点可以选择随时加入，随时退出；节点可以选择运行所有的功能，也可以选择运行部分的功能；节点越多，整个系统的运算能力越强，数据安全性越高，抗破坏能力越强。 <a href="/wiki/%E6%AF%94%E7%89%B9%E5%B9%A3%E6%AD%B7%E5%8F%B2" title="比特币历史">比特币</a>便是采用了这种P2P网络协议，其后的许多<a href="/wiki/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3" title="加密货币">加密货币</a>，如<a href="/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A" title="以太坊">以太坊</a>﹑<a rel="nofollow" class="external text" href="https://eos.io">EOS</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200229071809/https://eos.io/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）等仍然继续采用。
+</p>
+<h3><span id=".E5.AD.A6.E6.9C.AF.E6.80.A7P2P.E7.BD.91.E7.BB.9C"></span><span class="mw-headline" id="学术性P2P网络">学术性P2P网络</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=7" title="编辑章节：学术性P2P网络"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2015年1月28日，<a href="/wiki/%E5%AE%BE%E8%A5%BF%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="宾西法尼亚州立大学">宾西法尼亚州立大学</a>的开发者，联合了<a href="/wiki/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2" title="麻省理工学院">麻省理工学院</a>开放知识行动，<a href="/wiki/%E8%A5%BF%E8%92%99%E5%BC%97%E9%9B%B7%E6%B3%BD%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="西蒙弗雷泽大学">西蒙弗雷泽大学</a>的研究人员，还有第二代网际网络P2P工作组，正在开发一个P2P网络的学术性应用。这个项目称为LionShare，基于第二代网络技术，更详细地说是Gnutella模型。这个网络的主要目的是让众多不同学术机构的用户能够共享学术材料。LionShare网络使用特殊型P2P网络类型，混合了Gnutella分散的P2P网络和传统的C/S网络。这个程序的用户能够上传文件到一个服务器上，不管用户是否在线，都能够持续的共享。这个网络也允许在比正常小得多的共享社区中使用。
+</p><p>这个网络与当前正在使用的其他P2P网络的主要不同是LionShare网络不允许匿名用户。这样做的目的是防止著作权材料在网络上共享，这同时也避免了法律纠纷。另一个不同是对不同组有选择性的共享个别的文件。用户能个别选择哪些用户可以接收这一个文件或者这一组文件。
+</p><p>学术社区需要这种技术，因为有越来越多的多媒体文件应用在课堂上。越来越多的教授使用多媒体文件，像音频文件，视频文件和幻灯片。把这些文件传给学生是件困难的任务，而这如果用LionShare这类网络则容易的多。
+</p>
+<h2><span id=".E4.BC.98.E7.82.B9"></span><span class="mw-headline" id="优点">优点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=8" title="编辑章节：优点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>拥有较佳的并行处理能力。</li>
+<li>运用内存来管理交换资料，大幅度提高性能。</li>
+<li>不用投资大量金钱在服务器的软、硬件设备。</li>
+<li>适用于小规模的网路，维护容易。</li></ul>
+<h2><span id=".E7.BC.BA.E7.82.B9"></span><span class="mw-headline" id="缺点">缺点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=9" title="编辑章节：缺点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>架构较为复杂，除了要有开发服务端，还要有专用的客户端。</li>
+<li>用在大规模的网路，资源分享紊乱，管理较难，安全性较低。</li></ul>
+<h2><span id=".E4.BA.89.E8.AE.AE"></span><span class="mw-headline" id="争议">争议</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=10" title="编辑章节：争议"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.B3.95.E5.BE.8B.E6.96.B9.E9.9D.A2"></span><span class="mw-headline" id="法律方面">法律方面</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=11" title="编辑章节：法律方面"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在美国法律中，“<a href="/w/index.php?title=Betamax%E5%88%A4%E5%86%B3&amp;action=edit&amp;redlink=1" class="new" title="Betamax判决（页面不存在）">Betamax判决</a>”<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>的判例坚持，如果它们有实质性非侵权用途，复制“技术”就不是本质非法的。这个<a href="/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91" class="mw-redirect" title="因特网">因特网</a>广泛使用之前的决定被应用于大部分的数据网络，包括P2P网络，因为已得到认可的文件的传播也是可以的。这些非法侵犯的使用包括开放源代码软件，<a href="/wiki/%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F" title="公共领域">公共领域</a>文件和不在著作权范围之内的作品。其他司法部门也可用类似的方式看待这个情况。
+</p><p>实际上，大多数在P2P网络上共享的文件是著作权流行音乐和电影，包括各种格式（MP3，MPEG，RM 等）。在多数司法范围中，共享这些复本是非法的。这让很多观察者，包括多数的媒体公司和一些P2P的倡导者，批评这种网络已经对现有的发行模式造成了巨大的威胁。试图测量实际金钱损失的研究多少有些意义不明。虽然纸面上这些网络的存在而导致的大量损失，而实际上自从这些网络建成以来，实际的收入并没有多大的变化。不管这种威胁是否存在，<a href="/wiki/%E7%BE%8E%E5%9C%8B%E5%94%B1%E7%89%87%E6%A5%AD%E5%8D%94%E6%9C%83" title="美国唱片业协会">美国唱片业协会</a>和<a href="/wiki/%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8D%8F%E4%BC%9A" class="mw-redirect" title="美国电影协会">美国电影协会</a>正花费大量的钱来试着游说立法者来建立新的法律。一些著作权拥有者也向公司出钱希望帮助在法律上挑战从事非法共享他们材料的用户。
+</p><p>尽管有Betamax判决，P2P网络已经成为那些艺术家和著作权许可组织的代表攻击的靶子。这里面包括美国唱片协会和美国电影协会等行业组织。Napster 服务由于美国唱片协会的投诉而被迫关闭。在这个案例中，Napster故意地买卖这些并没有从著作权所有者那得到许可发行的音像文件。
+</p><p>随着媒体公司打击著作权侵犯的行为扩大，这些网络也迅速不断地作了调整，让其无论从技术上还是法律上都难于撤除。这导致真正犯法的用户成为目标，因为虽然潜在的技术是合法的，但是用侵犯著作权的方式来传播的个人对它的滥用很明显是非法的。
+</p><p>匿名P2P网络允许发布材料，无论合法不合法，在各种司法范围内都很少或不承担法律责任。很多人表示这将导致更多的非法材料更容易传播，甚至（有些人指出）促进<a href="/wiki/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89" title="恐怖主义">恐怖主义</a>，要求在这些领域对其进行规范。而其他人则反对说，非法使用的潜在能力不能阻止这种技术作为合法目的的使用，无罪推定必须得以应用，像其他非P2P技术的匿名服务，如<a href="/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6" title="电子邮件">电子邮件</a>，同样有着相似的能力。
+</p><p>重要案例：
+</p>
+<ul><li>美国法律
+<ul><li>Sony Corp. vs Universal City Studios ( Betamax判决)</li>
+<li>MGM vs Grokster</li></ul></li></ul>
+<h3><span id=".E5.AE.89.E5.85.A8.E6.96.B9.E9.9D.A2"></span><span class="mw-headline" id="安全方面">安全方面</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=12" title="编辑章节：安全方面"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>许多P2P网络一直受到怀有各种目的的人的持续攻击。例子包括：
+</p>
+<ul><li>中毒攻击（提供内容与描述不同的文件）</li>
+<li>拒绝服务攻击（使网络运行非常慢甚至完全崩溃）</li>
+<li>背叛攻击（吸血）（用户或软件使用网络却没有贡献出自己的资源）</li>
+<li>在数据中插入病毒（如，下载或传递的文件可能被感染了病毒或木马）</li>
+<li>P2P软件本身的木马（如，软件可能含有间谍软件）</li>
+<li>过滤（网络运营商可能会试图禁止传递来自P2P网络上的数据）</li>
+<li>身份攻击（如，跟踪网络上用户并且进行不断骚扰式的或者是用合法性地攻击他们）</li>
+<li>垃圾信息（如在网络上发送未请求的信息--不一定是拒绝服务攻击）</li></ul>
+<p>如果精心设计P2P网络，使用加密技术，大部分的攻击都可以避免或控制，P2P网络安全事实上与<a href="/wiki/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98" title="拜占庭将军问题">拜占庭将军问题</a>有密切联系。然而，当很多的节点试着破坏它时，几乎任何网络也都会失效，而且许多协议会因用户少而表现得很失败。
+</p><p>2007年4月23日，<a href="/wiki/CA%E5%85%AC%E5%8F%B8" class="mw-redirect" title="CA公司">CA公司</a>发表资安警讯，指出<a href="/wiki/Foxy" title="Foxy">Foxy</a>、<a href="/wiki/BitComet" title="BitComet">BitComet</a>、<a href="/wiki/EDonkey" class="mw-redirect" title="EDonkey">eDonkey</a>、<a href="/wiki/%CE%9CTorrent" title="ΜTorrent">µTorrent</a>、<a href="/wiki/Ares" class="mw-redirect" title="Ares">Ares</a>、<a href="/wiki/Vuze" title="Vuze">Azureus</a>、<a href="/w/index.php?title=BearShare&amp;action=edit&amp;redlink=1" class="new" title="BearShare（页面不存在）">BearShare</a>、<a href="/wiki/Lphant" title="Lphant">Lphant</a>、<a href="/wiki/Shareaza" title="Shareaza">Shareaza</a>、<a href="/w/index.php?title=Hamachi&amp;action=edit&amp;redlink=1" class="new" title="Hamachi（页面不存在）">Hamachi</a>、<a href="/wiki/Exeem" title="Exeem">exeem</a> lite、<a href="/w/index.php?title=Fpsetup&amp;action=edit&amp;redlink=1" class="new" title="Fpsetup（页面不存在）">Fpsetup</a>、<span class="ilh-all" data-orig-title="Morpheus (檔案分享軟體)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Morpheus (software)"><span class="ilh-page"><a href="/w/index.php?title=Morpheus_(%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB%E8%BB%9F%E9%AB%94)&amp;action=edit&amp;redlink=1" class="new" title="Morpheus (文件分享软件)（页面不存在）">Morpheus</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Morpheus_(software)" class="extiw" title="en:Morpheus (software)"><span lang="en" dir="auto">Morpheus (software)</span></a></span>）</span></span>、<a href="/w/index.php?title=IMesh&amp;action=edit&amp;redlink=1" class="new" title="IMesh（页面不存在）">iMesh</a>等14款P2P软件都存在安全威胁，这些P2P软体的潜在威胁来源包括可能会覆写档案，为档案重命名，删除档案，被第三方植入<a href="/wiki/%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6" title="恶意软件">恶意程序</a>等。
+</p>
+<h2><span id=".E8.AE.A1.E7.AE.97.E6.8A.80.E6.9C.AF.E5.B1.95.E6.9C.9B"></span><span class="mw-headline" id="计算技术展望">计算技术展望</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=13" title="编辑章节：计算技术展望"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>技术角度严格来讲，对等网络双方严格对等并同等地提供和使用数据 ，没有服务器和客户端的区别。但这样的一般型P2P应用和网络少之又少，大部分称为P2P的网络和应用实际上依赖或包含像<a href="/wiki/DNS" class="mw-redirect" title="DNS">DNS</a>这样的一些非对等单元。同时应用中实际也使用了多个协议，使节点可以同时或分时成为客户端、服务器、和对等节点；譬如<a href="/wiki/Usenet" title="Usenet">Usenet</a>(1979年)和<a href="/wiki/FidoNet" title="FidoNet">FidoNet</a>(1984年)这样已经使用多年完全的分布式对等网络。
+</p><p>很多P2P系统使用更强的对等点（称为超级对等点(Super Node)）作为服务器，那些客户节点以星状方式连接到一个超级对等点上。
+</p><p>在1990年代末期，早在即时通信流行之前，为了促进对等网络应用的发展，<a href="/wiki/%E6%98%87%E9%99%BD" class="mw-redirect" title="昇阳">昇阳</a>（SUN）公司在<a href="/wiki/Java" title="Java">Java</a>技术中增加累一些<i>类</i>，以便开发者能开发不受控于中心服务器的的实时聊天applet及应用。这个工作现在由<a href="/w/index.php?title=JXTA&amp;action=edit&amp;redlink=1" class="new" title="JXTA（页面不存在）">JXTA</a>工程来继续。
+</p><p>P2P系统和应用已经吸引了计算机科学研究的大量关注，在这一领域有包括<a href="/w/index.php?title=Chord%E8%AE%A1%E5%88%92&amp;action=edit&amp;redlink=1" class="new" title="Chord计划（页面不存在）">Chord计划</a>，<a href="/wiki/ARPANET" title="ARPANET">ARPANET</a>，the PAST storage utility，<a href="/w/index.php?title=P-Grid&amp;action=edit&amp;redlink=1" class="new" title="P-Grid（页面不存在）">P-Grid</a>（一个自发组织的新兴覆盖性网络），和<a href="/w/index.php?title=CoopNet%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="CoopNet内容分发系统（页面不存在）">CoopNet内容分发系统</a>在内的一系列卓越的研究计划。
+</p>
+<h2><span id=".E9.99.90.E5.88.B6"></span><span class="mw-headline" id="限制">限制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=14" title="编辑章节：限制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.B8.AD.E5.8D.8E.E4.BA.BA.E6.B0.91.E5.85.B1.E5.92.8C.E5.9B.BD"></span><span class="mw-headline" id="中华人民共和国">中华人民共和国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=15" title="编辑章节：中华人民共和国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>P2P技术在中国法律方面处于空白状态，原则上不受中国政府的官方限制。但由于P2P技术会大量占用网络带宽，并且由于中国的网络设施的现状和<a href="/wiki/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5" class="mw-redirect" title="中国网络审查">中国对网络管理</a>的态度，都不同程度的对P2P通信方式有所限制。
+</p><p>目前中国各大<a href="/wiki/ISP" class="mw-redirect" title="ISP">ISP</a>对网络接入都进行了限速，对占用带宽的应用比如P2P，会采取措施，常用的手段有限制<a href="/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE" title="传输控制协议">TCP</a>连接数，封锁P2P协议，限制下载/上传速度等。但是由于这些行为大部分都是秘密进行，因此中国众多P2P用户称，此举严重侵犯了他们的<a href="/wiki/%E7%9F%A5%E6%83%85%E6%AC%8A" title="知情权">知情权</a>和<a href="/wiki/%E4%BD%BF%E7%94%A8%E6%AC%8A" title="使用权">使用权</a>。在中国，被限制最多的P2P软件是<a href="/wiki/BitTorrent" class="mw-disambig" title="BitTorrent">BitTorrent</a>系列软件和<a href="/wiki/EMule" title="EMule">eMule</a>。
+</p><p>在日趋稀少的<a href="/wiki/IPv4" title="IPv4">IPv4</a>地址资源的情况下，中国大部分地区开始采用“大内网”的方式，减少对IP地址资源的消耗，即大部分的家庭及个人用户将连接<a href="/wiki/ISP" class="mw-redirect" title="ISP">ISP</a>的<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由器</a>，使用<a href="/wiki/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2" title="网络地址转换">网络地址转换</a>方式连接外部网络。因<a href="/wiki/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2" title="网络地址转换">NAT</a>和部分P2P协议的限制，导致P2P软件大多只能在内网进行传输，对P2P产业链产生了很大影响。
+</p><p>此外，中国出于对国内产业支持和信息控制的考虑，也会限制一些P2P方式的即时通信软件。中国信息产业部曾发文要求VOIP只能在指定的网络运营商进行试验，并有地区封杀<a href="/wiki/Skype" title="Skype">skype</a>，不过也有官员对此否认并说明只是针对PC-Phone<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>。
+</p><p>2009年12月，中国广电总局以无视听许可证为由，由工信部撤消了Btchina网站的备案号，使其被迫关站。此次行动还影响了包括悠悠鸟论坛等BT站点。
+</p>
+<h3><span id=".E6.97.A5.E6.9C.AC"></span><span class="mw-headline" id="日本">日本</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=16" title="编辑章节：日本"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>，根据日本现行<a href="/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A%E6%B3%95" class="mw-redirect" title="著作权法">著作权法</a>，日本境内一切免费提供商业软件/或其他数据下载的网站均属非法。违法情节严重的可被判处<a href="/wiki/%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91" title="有期徒刑">有期徒刑</a>，同时处以<a href="/wiki/%E7%BD%9A%E6%AC%BE" class="mw-redirect" title="罚款">罚款</a>。BitTorrent系列软件和eMule均被禁止。但因为<a href="/wiki/Share" title="Share">Share</a>和<a href="/wiki/Winny" title="Winny">Winny</a>软件的存在，P2P技术在日本仍然流行。这两款软件都采用了IP加密和数据加密的技术，目前日本有几百万人使用这两款软件来交流动画，游戏，音乐，软件等数据，但显然警方已经掌控了追查用户的方法。2008年5月9日，三名在share上发布大量著作权保护作品的职人遭到逮捕。这两款软件的流行也带来了一些负面问题，比如机密资料的泄漏和<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92" title="计算机病毒">计算机病毒</a>的传播。
+</p>
+<h3><span id=".E6.96.B0.E8.A5.BF.E5.85.B0"></span><span class="mw-headline" id="新西兰">新西兰</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=17" title="编辑章节：新西兰"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在<a href="/wiki/%E6%96%B0%E8%A5%BF%E5%85%B0" title="新西兰">新西兰</a>，根据新西兰2011年9月实施的<a href="/wiki/%E7%89%88%E6%9D%83%E6%B3%95" class="mw-redirect" title="著作权法">著作权法</a>，新西兰境内下载受著作权保护的内容为违法，主要针对的就是<a href="/wiki/%E5%AF%B9%E7%AD%89%E7%BD%91%E7%BB%9C" class="mw-redirect" title="对等网络">P2P</a>技术的下载。如果下载的内容收到著作权方提诉，ISP会根据用户在下载的时间评估，如有<a href="/wiki/%E7%89%88%E6%9D%83" class="mw-redirect" title="著作权">著作权</a>侵犯，用户将被警告，警告三次将被罚款15000新西兰元，约合75000人民币。不过需要注意的是对于在线观看以及文件托管类网站却不在此次罚款范围内。也就是说用户通过Torrent软件的BT种子下载一个受著作权保护的作品可能会被罚款，但是如果利用离线文件下载方式则不会受到惩罚。而且在新西兰收著作权保护的著作权所有者通常仅包括欧美一些公司，所以对当地华人来说，即使使用p2p技术下载中国，韩国等亚洲地区综艺电影同样不会被提诉。
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=18" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ietf.org/rfc/rfc1.txt">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2005-11-19</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180611081405/http://www.ietf.org/rfc/rfc1.txt">存档</a>于2018-06-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ietf.org%2Frfc%2Frfc1.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://bitcoin.org/bitcoin.pdf">存档副本</a> <span style="font-size:85%;">(PDF)</span>. bitcoin.org.  <span class="reference-accessdate"> &#91;<span class="nowrap">2019-01-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140320135003/https://bitcoin.org/bitcoin.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2014-03-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;rft.atitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft.jtitle=bitcoin.org&amp;rft_id=https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Feder, Jesse M. Is Betamax Obsolete: <i>Sony Corp. of America v. Universal City Studios, Inc.</i> in the Age of Napster. Creighton Law Review. 2003, <b>37</b>: 859. <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0011-1155"><span title="国际标准连续出版物号">ISSN&#160;0011-1155</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;rft.atitle=Is+Betamax+Obsolete%3A+Sony+Corp.+of+America+v.+Universal+City+Studios%2C+Inc.+in+the+Age+of+Napster&amp;rft.aufirst=Jesse+M.&amp;rft.aulast=Feder&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issn=0011-1155&amp;rft.jtitle=Creighton+Law+Review&amp;rft.pages=859&amp;rft.volume=37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tech.sina.com.cn/t/2005-09-20/0806724044.shtml">信息产业部严控网络电话 铁通卫通面临出局</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2007-04-22</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190610061811/http://tech.sina.com.cn/t/2005-09-20/0806724044.shtml">存档</a>于2019-06-10）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;rft.btitle=%E4%BF%A1%E6%81%AF%E4%BA%A7%E4%B8%9A%E9%83%A8%E4%B8%A5%E6%8E%A7%E7%BD%91%E7%BB%9C%E7%94%B5%E8%AF%9D+%E9%93%81%E9%80%9A%E5%8D%AB%E9%80%9A%E9%9D%A2%E4%B8%B4%E5%87%BA%E5%B1%80&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftech.sina.com.cn%2Ft%2F2005-09-20%2F0806724044.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<style data-mw-deduplicate="TemplateStyles:r80540462">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul><li>内政部警政署刑事警察局科技犯罪防制中心，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928080515/http://www.cib.gov.tw/news/news02_2.aspx?no=289">〈小心使用P2P软件，以免你的个人文件也分享出去〉</a>，2006年11月27日。</li>
+<li>Taiwan.<a href="/wiki/CNET" title="CNET">CNET</a>.com新闻专区，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070717002600/http://taiwan.cnet.com/news/software/0,2000064574,20117183,00.htm">〈CA点名多家P2P软件藏危机〉</a>，2007年4月23日。</li>
+<li>Ross J. Anderson. <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/users/rja14/eternity/eternity.html">The eternity service</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090607073922/http://www.cl.cam.ac.uk/users/rja14/eternity/eternity.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）. In <i>Pragocrypt 1996</i>, 1996.</li>
+<li>Stephanos Androutsellis-Theotokis and Diomidis Spinellis. <a rel="nofollow" class="external text" href="http://www.spinellis.gr/pubs/jrnl/2004-ACMCS-p2p/html/AS04.html">A survey of peer-to-peer content distribution technologies</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201109023714/http://www.spinellis.gr/pubs/jrnl/2004-ACMCS-p2p/html/AS04.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）. ACM Computing Surveys, 36(4):335–371, December 2004. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1145/1041680.1041681">doi:10.1145/1041680.1041681</a>.</li>
+<li>Biddle, Peter, Paul England, Marcus Peinado, and Bryan Willman, <a rel="nofollow" class="external text" href="http://crypto.stanford.edu/DRM2002/darknet5.doc">The Darknet and the Future of Content Distribution</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110727174231/http://crypto.stanford.edu/DRM2002/darknet5.doc">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）. In <i>2002 ACM Workshop on Digital Rights Management</i>, 18 November 2002.</li>
+<li>Antony Rowstron and Peter Druschel, Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems.  In proceedings <i>Middleware 2001&#160;: IFIP/ACM International Conference on Distributed Systems Platforms</i>. Heidelberg, Germany, November 12-16, 2001. Lecture Notes in Computer Science, Volume 2218, Jan 2001, Page 329.</li>
+<li>Andy Oram et al., Peer-to-Peer:Harnessing the Power of Disruptive Technologies, Oreilly 2001</li>
+<li>I. Stoica, R. Morris, D. Karger, M. F. Kaashoek, and H. Balakrishnan. Chord: A scalable peer-to-peer lookup service for internet applications. In <i>Proceedings of SIGCOMM 2001</i>, August 2001.</li>
+<li>Ralf Steinmetz, Klaus Wehrle (Eds). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051103051636/http://www.peer-to-peer.info/">Peer-to-Peer Systems and Applications</a>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/354029192X" class="internal mw-magiclink-isbn">ISBN 3-540-29192-X</a>, Lecture Notes in Computer Science, Volume 3485, Sep 2005</li></ul>
+</div>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=19" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Foxy" title="Foxy">Foxy</a></li>
+<li><a href="/wiki/EMule" title="EMule">eMule</a></li>
+<li><a href="/wiki/BitTorrent%E5%8D%8F%E8%AE%AE" class="mw-redirect" title="BitTorrent协议">BitTorrent协议</a></li>
+<li><a href="/w/index.php?title=BitTorrent%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83&amp;action=edit&amp;redlink=1" class="new" title="BitTorrent协议规范（页面不存在）">BitTorrent协议规范</a></li>
+<li><a href="/wiki/I2P" title="I2P">I2P</a></li>
+<li><a href="/wiki/%E5%88%86%E6%95%A3%E7%BD%91%E7%BB%9C" title="分散网络">分散网络</a></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;action=edit&amp;section=20" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:P2P" class="extiw" title="commons:Category:P2P"><span style="font-weight:bold;">点对点网络</span></a></td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.p2pna.com/glossary.html">Glossary</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090922214835/http://www.p2pna.com/glossary.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） of P2P terminology</li>
+<li><a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/issue/5624-2008-999689997-678759">Foundation of Peer-to-Peer Computing</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090217141525/http://www.sciencedirect.com/science/issue/5624-2008-999689997-678759">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）, Special Issue, Elsevier Journal of Computer Communication, (Ed) Javed I. Khan and Adam Wierzbicki, Volume 31, Issue 2, February 2008</li>
+<li>Ross J. Anderson. <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/users/rja14/eternity/eternity.html">The eternity service</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090607073922/http://www.cl.cam.ac.uk/users/rja14/eternity/eternity.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）. In <i>Pragocrypt 1996</i>, 1996.</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%8A%A0%E5%AF%86%E8%BD%AF%E4%BB%B6" title="Template:加密软件"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%8A%A0%E5%AF%86%E8%BD%AF%E4%BB%B6" title="Template talk:加密软件"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%8A%A0%E5%AF%86%E8%BD%AF%E4%BB%B6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><span class="ilh-all" data-orig-title="加密軟體" data-lang-code="en" data-lang-name="英语" data-foreign-title="Encryption software"><span class="ilh-page"><a href="/w/index.php?title=%E5%8A%A0%E5%AF%86%E8%BB%9F%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="加密软件（页面不存在）">加密软件</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Encryption_software" class="extiw" title="en:Encryption software"><span lang="en" dir="auto">Encryption software</span></a></span>）</span></span></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E7%94%A8%E6%88%B6%E7%AB%AF" title="电子邮件客户端">电子邮件客户端</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%83%B5%E4%BB%B6_(%E8%98%8B%E6%9E%9C)" title="邮件 (苹果)">邮件</a></li>
+<li><span class="ilh-all" data-orig-title="Autocrypt" data-lang-code="en" data-lang-name="英语" data-foreign-title="Autocrypt"><span class="ilh-page"><a href="/w/index.php?title=Autocrypt&amp;action=edit&amp;redlink=1" class="new" title="Autocrypt（页面不存在）">Autocrypt</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Autocrypt" class="extiw" title="en:Autocrypt"><span lang="en" dir="auto">Autocrypt</span></a></span>）</span></span></li>
+<li><a href="/wiki/Claws_Mail" title="Claws Mail">Claws Mail</a></li>
+<li><a href="/wiki/Enigmail" title="Enigmail">Enigmail</a></li>
+<li><a href="/wiki/GnuPG" title="GnuPG">GPG</a>
+<ul><li><a href="/wiki/Gpg4win" title="Gpg4win">Gpg4win</a></li></ul></li>
+<li><a href="/wiki/Kontact" title="Kontact">Kontact</a></li>
+<li><a href="/wiki/Microsoft_Outlook" title="Microsoft Outlook">Outlook</a></li>
+<li><span class="ilh-all" data-orig-title="Pretty_Easy_privacy" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pretty_Easy_privacy"><span class="ilh-page"><a href="/w/index.php?title=Pretty_Easy_privacy&amp;action=edit&amp;redlink=1" class="new" title="Pretty Easy privacy（页面不存在）">p≡p</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pretty_Easy_privacy" class="extiw" title="en:Pretty Easy privacy"><span lang="en" dir="auto">Pretty_Easy_privacy</span></a></span>）</span></span></li>
+<li><a href="/wiki/PGP" title="PGP">PGP</a></li>
+<li><a href="/wiki/Sylpheed" title="Sylpheed">Sylpheed</a></li>
+<li><a href="/wiki/Mozilla_Thunderbird" title="Mozilla Thunderbird">Thunderbird</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="安全通信" data-lang-code="en" data-lang-name="英语" data-foreign-title="Secure communication"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E9%80%9A%E4%BF%A1&amp;action=edit&amp;redlink=1" class="new" title="安全通信（页面不存在）">安全通信</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Secure_communication" class="extiw" title="en:Secure communication"><span lang="en" dir="auto">Secure communication</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%B8%8D%E7%95%99%E8%AE%B0%E5%BD%95%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF" title="不留记录即时通信">OTR</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adium" title="Adium">Adium</a></li>
+<li><span class="ilh-all" data-orig-title="BitlBee" data-lang-code="en" data-lang-name="英语" data-foreign-title="BitlBee"><span class="ilh-page"><a href="/w/index.php?title=BitlBee&amp;action=edit&amp;redlink=1" class="new" title="BitlBee（页面不存在）">BitlBee</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/BitlBee" class="extiw" title="en:BitlBee"><span lang="en" dir="auto">BitlBee</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Centericq" data-lang-code="en" data-lang-name="英语" data-foreign-title="Centericq"><span class="ilh-page"><a href="/w/index.php?title=Centericq&amp;action=edit&amp;redlink=1" class="new" title="Centericq（页面不存在）">Centericq</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Centericq" class="extiw" title="en:Centericq"><span lang="en" dir="auto">Centericq</span></a></span>）</span></span></li>
+<li><a href="/wiki/ChatSecure" title="ChatSecure">ChatSecure</a></li>
+<li><span class="ilh-all" data-orig-title="climm" data-lang-code="en" data-lang-name="英语" data-foreign-title="climm"><span class="ilh-page"><a href="/w/index.php?title=Climm&amp;action=edit&amp;redlink=1" class="new" title="Climm（页面不存在）">climm</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/climm" class="extiw" title="en:climm"><span lang="en" dir="auto">climm</span></a></span>）</span></span></li>
+<li><a href="/wiki/Jitsi" title="Jitsi">Jitsi</a></li>
+<li><a href="/wiki/Kopete" title="Kopete">Kopete</a></li>
+<li><span class="ilh-all" data-orig-title="MCabber" data-lang-code="en" data-lang-name="英语" data-foreign-title="MCabber"><span class="ilh-page"><a href="/w/index.php?title=MCabber&amp;action=edit&amp;redlink=1" class="new" title="MCabber（页面不存在）">MCabber</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/MCabber" class="extiw" title="en:MCabber"><span lang="en" dir="auto">MCabber</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Profanity (instant messaging client)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Profanity (instant messaging client)"><span class="ilh-page"><a href="/w/index.php?title=Profanity_(instant_messaging_client)&amp;action=edit&amp;redlink=1" class="new" title="Profanity (instant messaging client)（页面不存在）">Profanity</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Profanity_(instant_messaging_client)" class="extiw" title="en:Profanity (instant messaging client)"><span lang="en" dir="auto">Profanity (instant messaging client)</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/Secure_Shell" title="Secure Shell">SSH</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dropbear" title="Dropbear">Dropbear</a></li>
+<li><a href="/wiki/Lsh" title="Lsh">Lsh</a></li>
+<li><a href="/wiki/OpenSSH" title="OpenSSH">OpenSSH</a></li>
+<li><a href="/wiki/PuTTY" title="PuTTY">PuTTY</a>
+<ul><li><a href="/wiki/PieTTY" title="PieTTY">PieTTY</a></li></ul></li>
+<li><a href="/wiki/SecureCRT" title="SecureCRT">SecureCRT</a></li>
+<li><a href="/wiki/WinSCP" title="WinSCP">WinSCP</a></li>
+<li><span class="ilh-all" data-orig-title="wolfSSH" data-lang-code="en" data-lang-name="英语" data-foreign-title="wolfSSH"><span class="ilh-page"><a href="/w/index.php?title=WolfSSH&amp;action=edit&amp;redlink=1" class="new" title="WolfSSH（页面不存在）">wolfSSH</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/wolfSSH" class="extiw" title="en:wolfSSH"><span lang="en" dir="auto">wolfSSH</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A" title="传输层安全性协议">TLS &amp; SSL</a>(<a href="/wiki/TLS%E7%9A%84%E5%BA%94%E7%94%A8%E5%AF%B9%E6%AF%94" title="TLS的应用对比">比较</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="Bouncy Castle (cryptography)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bouncy Castle (cryptography)"><span class="ilh-page"><a href="/w/index.php?title=Bouncy_Castle_(cryptography)&amp;action=edit&amp;redlink=1" class="new" title="Bouncy Castle (cryptography)（页面不存在）">Bouncy Castle</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bouncy_Castle_(cryptography)" class="extiw" title="en:Bouncy Castle (cryptography)"><span lang="en" dir="auto">Bouncy Castle (cryptography)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Botan (programming library)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Botan (programming library)"><span class="ilh-page"><a href="/w/index.php?title=Botan_(programming_library)&amp;action=edit&amp;redlink=1" class="new" title="Botan (programming library)（页面不存在）">Botan</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Botan_(programming_library)" class="extiw" title="en:Botan (programming library)"><span lang="en" dir="auto">Botan (programming library)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="cryptlib" data-lang-code="en" data-lang-name="英语" data-foreign-title="cryptlib"><span class="ilh-page"><a href="/w/index.php?title=Cryptlib&amp;action=edit&amp;redlink=1" class="new" title="Cryptlib（页面不存在）">cryptlib</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/cryptlib" class="extiw" title="en:cryptlib"><span lang="en" dir="auto">cryptlib</span></a></span>）</span></span></li>
+<li><a href="/wiki/GnuTLS" title="GnuTLS">GnuTLS</a></li>
+<li><span class="ilh-all" data-orig-title="Java安全套接字扩展" data-lang-code="en" data-lang-name="英语" data-foreign-title="Java Secure Socket Extension"><span class="ilh-page"><a href="/w/index.php?title=Java%E5%AE%89%E5%85%A8%E5%A5%97%E6%8E%A5%E5%AD%97%E6%89%A9%E5%B1%95&amp;action=edit&amp;redlink=1" class="new" title="Java安全套接字扩展（页面不存在）">JSSE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Java_Secure_Socket_Extension" class="extiw" title="en:Java Secure Socket Extension"><span lang="en" dir="auto">Java Secure Socket Extension</span></a></span>）</span></span></li>
+<li><a href="/wiki/MatrixSSL" title="MatrixSSL">MatrixSSL</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1" title="网络安全服务">NSS</a></li>
+<li><a href="/wiki/OpenSSL" title="OpenSSL">OpenSSL</a>
+<ul><li><a href="/wiki/OpenSSL#BoringSSL" title="OpenSSL">BoringSSL</a></li>
+<li><a href="/wiki/LibreSSL" title="LibreSSL">LibreSSL</a></li></ul></li>
+<li><a href="/wiki/Mbed_TLS" title="Mbed TLS">Mbed TLS</a></li>
+<li><span class="ilh-all" data-orig-title="RSA BSAFE" data-lang-code="en" data-lang-name="英语" data-foreign-title="RSA BSAFE"><span class="ilh-page"><a href="/w/index.php?title=RSA_BSAFE&amp;action=edit&amp;redlink=1" class="new" title="RSA BSAFE（页面不存在）">RSA BSAFE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RSA_BSAFE" class="extiw" title="en:RSA BSAFE"><span lang="en" dir="auto">RSA BSAFE</span></a></span>）</span></span></li>
+<li><a href="/wiki/SSPI" title="SSPI">SChannel</a></li>
+<li><a href="/wiki/SSLeay" title="SSLeay">SSLeay</a></li>
+<li><a href="/wiki/Stunnel" title="Stunnel">Stunnel</a></li>
+<li><a href="/wiki/WolfSSL" title="WolfSSL">WolfSSL</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" title="虚拟专用网">VPN</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="Check Point VPN-1" data-lang-code="en" data-lang-name="英语" data-foreign-title="Check Point VPN-1"><span class="ilh-page"><a href="/w/index.php?title=Check_Point_VPN-1&amp;action=edit&amp;redlink=1" class="new" title="Check Point VPN-1（页面不存在）">Check Point VPN-1</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Check_Point_VPN-1" class="extiw" title="en:Check Point VPN-1"><span lang="en" dir="auto">Check Point VPN-1</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="LogMeIn Hamachi" data-lang-code="en" data-lang-name="英语" data-foreign-title="LogMeIn Hamachi"><span class="ilh-page"><a href="/w/index.php?title=LogMeIn_Hamachi&amp;action=edit&amp;redlink=1" class="new" title="LogMeIn Hamachi（页面不存在）">Hamachi</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/LogMeIn_Hamachi" class="extiw" title="en:LogMeIn Hamachi"><span lang="en" dir="auto">LogMeIn Hamachi</span></a></span>）</span></span></li>
+<li><a href="/wiki/Openswan" title="Openswan">Openswan</a></li>
+<li><a href="/wiki/OpenVPN" title="OpenVPN">OpenVPN</a></li>
+<li><a href="/wiki/SoftEther_VPN" title="SoftEther VPN">SoftEther VPN</a></li>
+<li><a href="/wiki/StrongSwan" title="StrongSwan">StrongSwan</a></li>
+<li><a href="/wiki/Tinc" title="Tinc">Tinc</a></li>
+<li><a href="/wiki/WireGuard" title="WireGuard">WireGuard</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="ZRTP" data-lang-code="en" data-lang-name="英语" data-foreign-title="ZRTP"><span class="ilh-page"><a href="/w/index.php?title=ZRTP&amp;action=edit&amp;redlink=1" class="new" title="ZRTP（页面不存在）">ZRTP</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ZRTP" class="extiw" title="en:ZRTP"><span lang="en" dir="auto">ZRTP</span></a></span>）</span></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="CSipSimple" data-lang-code="en" data-lang-name="英语" data-foreign-title="CSipSimple"><span class="ilh-page"><a href="/w/index.php?title=CSipSimple&amp;action=edit&amp;redlink=1" class="new" title="CSipSimple（页面不存在）">CSipSimple</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CSipSimple" class="extiw" title="en:CSipSimple"><span lang="en" dir="auto">CSipSimple</span></a></span>）</span></span></li>
+<li><a href="/wiki/Jitsi" title="Jitsi">Jitsi</a></li>
+<li><a href="/wiki/Linphone" title="Linphone">Linphone</a></li>
+<li><a href="/wiki/Jami_(%E8%BB%9F%E9%AB%94)" title="Jami (软件)">Jami</a></li>
+<li><span class="ilh-all" data-orig-title="Zfone" data-lang-code="en" data-lang-name="英语" data-foreign-title="Zfone"><span class="ilh-page"><a href="/w/index.php?title=Zfone&amp;action=edit&amp;redlink=1" class="new" title="Zfone（页面不存在）">Zfone</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Zfone" class="extiw" title="en:Zfone"><span lang="en" dir="auto">Zfone</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a class="mw-selflink selflink">P2P</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%AF%94%E7%89%B9%E4%BF%A1" title="比特信">比特信</a></li>
+<li><span class="ilh-all" data-orig-title="RetroShare" data-lang-code="en" data-lang-name="英语" data-foreign-title="RetroShare"><span class="ilh-page"><a href="/w/index.php?title=RetroShare&amp;action=edit&amp;redlink=1" class="new" title="RetroShare（页面不存在）">RetroShare</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RetroShare" class="extiw" title="en:RetroShare"><span lang="en" dir="auto">RetroShare</span></a></span>）</span></span></li>
+<li><a href="/wiki/Tox" title="Tox">Tox</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%8F%8C%E6%A3%98%E8%BD%AE%E7%AE%97%E6%B3%95" title="双棘轮算法">DRA</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Matrix_(%E5%8D%8F%E8%AE%AE)" title="Matrix (协议)">Matrix</a></li>
+<li><a href="/wiki/OMEMO" title="OMEMO">OMEMO</a>
+<ul><li><a href="/wiki/Cryptocat" title="Cryptocat">Cryptocat</a></li>
+<li><a href="/wiki/ChatSecure" title="ChatSecure">ChatSecure</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="Wire Swiss" data-lang-code="en" data-lang-name="英语" data-foreign-title="Wire Swiss"><span class="ilh-page"><a href="/w/index.php?title=Wire_Swiss&amp;action=edit&amp;redlink=1" class="new" title="Wire Swiss（页面不存在）">Proteus</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Wire_Swiss" class="extiw" title="en:Wire Swiss"><span lang="en" dir="auto">Wire Swiss</span></a></span>）</span></span></li>
+<li><a href="/wiki/Signal%E5%8D%8F%E8%AE%AE" title="Signal协议">Signal协议</a>
+<ul><li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Facebook Messenger</a></li>
+<li><a href="/wiki/Google_Allo" title="Google Allo">Google Allo</a></li>
+<li><a href="/wiki/Messages_(Google)" title="Messages (Google)">Messages (Google)</a></li>
+<li><a href="/wiki/Signal_(%E8%BB%9F%E4%BB%B6)" title="Signal (软件)">Signal</a></li>
+<li><a href="/wiki/TextSecure" title="TextSecure">TextSecure</a></li>
+<li><a href="/wiki/WhatsApp" title="WhatsApp">WhatsApp</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A3%81%E7%9B%98%E5%8A%A0%E5%AF%86" title="磁盘加密">磁盘加密</a><span style="font-weight:normal">(<span class="ilh-all" data-orig-title="磁盘加密软件比较" data-lang-code="en" data-lang-name="英语" data-foreign-title="Comparison of disk encryption software"><span class="ilh-page"><a href="/w/index.php?title=%E7%A3%81%E7%9B%98%E5%8A%A0%E5%AF%86%E8%BD%AF%E4%BB%B6%E6%AF%94%E8%BE%83&amp;action=edit&amp;redlink=1" class="new" title="磁盘加密软件比较（页面不存在）">比较</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software" class="extiw" title="en:Comparison of disk encryption software"><span lang="en" dir="auto">Comparison of disk encryption software</span></a></span>）</span></span>)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="BestCrypt" data-lang-code="en" data-lang-name="英语" data-foreign-title="BestCrypt"><span class="ilh-page"><a href="/w/index.php?title=BestCrypt&amp;action=edit&amp;redlink=1" class="new" title="BestCrypt（页面不存在）">BestCrypt</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/BestCrypt" class="extiw" title="en:BestCrypt"><span lang="en" dir="auto">BestCrypt</span></a></span>）</span></span></li>
+<li><a href="/wiki/BitLocker" title="BitLocker">BitLocker</a></li>
+<li><span class="ilh-all" data-orig-title="CrossCrypt" data-lang-code="en" data-lang-name="英语" data-foreign-title="CrossCrypt"><span class="ilh-page"><a href="/w/index.php?title=CrossCrypt&amp;action=edit&amp;redlink=1" class="new" title="CrossCrypt（页面不存在）">CrossCrypt</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CrossCrypt" class="extiw" title="en:CrossCrypt"><span lang="en" dir="auto">CrossCrypt</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Cryptoloop" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cryptoloop"><span class="ilh-page"><a href="/w/index.php?title=Cryptoloop&amp;action=edit&amp;redlink=1" class="new" title="Cryptoloop（页面不存在）">Cryptoloop</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cryptoloop" class="extiw" title="en:Cryptoloop"><span lang="en" dir="auto">Cryptoloop</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="DiskCryptor" data-lang-code="en" data-lang-name="英语" data-foreign-title="DiskCryptor"><span class="ilh-page"><a href="/w/index.php?title=DiskCryptor&amp;action=edit&amp;redlink=1" class="new" title="DiskCryptor（页面不存在）">DiskCryptor</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/DiskCryptor" class="extiw" title="en:DiskCryptor"><span lang="en" dir="auto">DiskCryptor</span></a></span>）</span></span></li>
+<li><a href="/wiki/Dm-crypt" title="Dm-crypt">dm-crypt</a></li>
+<li><span class="ilh-all" data-orig-title="DriveSentry" data-lang-code="en" data-lang-name="英语" data-foreign-title="DriveSentry"><span class="ilh-page"><a href="/w/index.php?title=DriveSentry&amp;action=edit&amp;redlink=1" class="new" title="DriveSentry（页面不存在）">DriveSentry</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/DriveSentry" class="extiw" title="en:DriveSentry"><span lang="en" dir="auto">DriveSentry</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="E4M" data-lang-code="en" data-lang-name="英语" data-foreign-title="E4M"><span class="ilh-page"><a href="/w/index.php?title=E4M&amp;action=edit&amp;redlink=1" class="new" title="E4M（页面不存在）">E4M</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/E4M" class="extiw" title="en:E4M"><span lang="en" dir="auto">E4M</span></a></span>）</span></span></li>
+<li><a href="/wiki/ECryptfs" title="ECryptfs">ECryptfs</a></li>
+<li><a href="/wiki/FileVault" title="FileVault">FileVault</a></li>
+<li><span class="ilh-all" data-orig-title="FreeOTFE" data-lang-code="en" data-lang-name="英语" data-foreign-title="FreeOTFE"><span class="ilh-page"><a href="/w/index.php?title=FreeOTFE&amp;action=edit&amp;redlink=1" class="new" title="FreeOTFE（页面不存在）">FreeOTFE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/FreeOTFE" class="extiw" title="en:FreeOTFE"><span lang="en" dir="auto">FreeOTFE</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="GBDE" data-lang-code="en" data-lang-name="英语" data-foreign-title="GBDE"><span class="ilh-page"><a href="/w/index.php?title=GBDE&amp;action=edit&amp;redlink=1" class="new" title="GBDE（页面不存在）">GBDE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/GBDE" class="extiw" title="en:GBDE"><span lang="en" dir="auto">GBDE</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Geli（软件）" data-lang-code="en" data-lang-name="英语" data-foreign-title="geli (software)"><span class="ilh-page"><a href="/w/index.php?title=Geli%EF%BC%88%E8%BD%AF%E4%BB%B6%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="Geli（软件）（页面不存在）">geli</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/geli_(software)" class="extiw" title="en:geli (software)"><span lang="en" dir="auto">geli (software)</span></a></span>）</span></span></li>
+<li><a href="/wiki/Linux%E7%B5%B1%E4%B8%80%E5%AF%86%E9%91%B0%E8%A8%AD%E7%BD%AE" title="Linux统一密钥设置">LUKS</a></li>
+<li><span class="ilh-all" data-orig-title="PGPDisk" data-lang-code="en" data-lang-name="英语" data-foreign-title="PGPDisk"><span class="ilh-page"><a href="/w/index.php?title=PGPDisk&amp;action=edit&amp;redlink=1" class="new" title="PGPDisk（页面不存在）">PGPDisk</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/PGPDisk" class="extiw" title="en:PGPDisk"><span lang="en" dir="auto">PGPDisk</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Private Disk" data-lang-code="en" data-lang-name="英语" data-foreign-title="Private Disk"><span class="ilh-page"><a href="/w/index.php?title=Private_Disk&amp;action=edit&amp;redlink=1" class="new" title="Private Disk（页面不存在）">Private Disk</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Private_Disk" class="extiw" title="en:Private Disk"><span lang="en" dir="auto">Private Disk</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Scramdisk" data-lang-code="en" data-lang-name="英语" data-foreign-title="Scramdisk"><span class="ilh-page"><a href="/w/index.php?title=Scramdisk&amp;action=edit&amp;redlink=1" class="new" title="Scramdisk（页面不存在）">Scramdisk</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Scramdisk" class="extiw" title="en:Scramdisk"><span lang="en" dir="auto">Scramdisk</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Sentry 2020" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentry 2020"><span class="ilh-page"><a href="/w/index.php?title=Sentry_2020&amp;action=edit&amp;redlink=1" class="new" title="Sentry 2020（页面不存在）">Sentry 2020</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentry_2020" class="extiw" title="en:Sentry 2020"><span lang="en" dir="auto">Sentry 2020</span></a></span>）</span></span></li>
+<li><a href="/wiki/TrueCrypt" title="TrueCrypt">TrueCrypt</a>
+<ul><li><span class="ilh-all" data-orig-title="TrueCrypt版本历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="TrueCrypt version history"><span class="ilh-page"><a href="/w/index.php?title=TrueCrypt%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="TrueCrypt版本历史（页面不存在）">历史</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/TrueCrypt_version_history" class="extiw" title="en:TrueCrypt version history"><span lang="en" dir="auto">TrueCrypt version history</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/VeraCrypt" title="VeraCrypt">VeraCrypt</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%8C%BF%E5%90%8D#互联网上的匿名" title="匿名">匿名软件</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="GNUnet" data-lang-code="en" data-lang-name="英语" data-foreign-title="GNUnet"><span class="ilh-page"><a href="/w/index.php?title=GNUnet&amp;action=edit&amp;redlink=1" class="new" title="GNUnet（页面不存在）">GNUnet</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/GNUnet" class="extiw" title="en:GNUnet"><span lang="en" dir="auto">GNUnet</span></a></span>）</span></span></li>
+<li><a href="/wiki/I2P" title="I2P">I2P</a></li>
+<li><a href="/wiki/Java_Anon_Proxy" title="Java Anon Proxy">Java Anon Proxy</a></li>
+<li><a href="/wiki/Tor" title="Tor">Tor</a>
+<ul><li><a href="/wiki/Vidalia" title="Vidalia">Vidalia</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="RetroShare" data-lang-code="en" data-lang-name="英语" data-foreign-title="RetroShare"><span class="ilh-page"><a href="/w/index.php?title=RetroShare&amp;action=edit&amp;redlink=1" class="new" title="RetroShare（页面不存在）">RetroShare</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RetroShare" class="extiw" title="en:RetroShare"><span lang="en" dir="auto">RetroShare</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Ricochet (software)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ricochet (software)"><span class="ilh-page"><a href="/w/index.php?title=Ricochet_(software)&amp;action=edit&amp;redlink=1" class="new" title="Ricochet (software)（页面不存在）">Ricochet</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ricochet_(software)" class="extiw" title="en:Ricochet (software)"><span lang="en" dir="auto">Ricochet (software)</span></a></span>）</span></span></li>
+<li><a href="/wiki/Wickr" title="Wickr">Wickr</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="文件系统">文件系统</a> <span style="font-weight:normal">(<span class="ilh-all" data-orig-title="加密文件系统列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of cryptographic file systems"><span class="ilh-page"><a href="/w/index.php?title=%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="加密文件系统列表（页面不存在）">列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_cryptographic_file_systems" class="extiw" title="en:List of cryptographic file systems"><span lang="en" dir="auto">List of cryptographic file systems</span></a></span>）</span></span>)</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/EncFS" title="EncFS">EncFS</a></li>
+<li><a href="/wiki/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="加密文件系统">EFS</a></li>
+<li><a href="/wiki/ECryptfs" title="ECryptfs">ECryptfs</a></li>
+<li><span class="ilh-all" data-orig-title="Linux Unified Key Setup" data-lang-code="en" data-lang-name="英语" data-foreign-title="Linux Unified Key Setup"><span class="ilh-page"><a href="/w/index.php?title=Linux_Unified_Key_Setup&amp;action=edit&amp;redlink=1" class="new" title="Linux Unified Key Setup（页面不存在）">LUKS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup" class="extiw" title="en:Linux Unified Key Setup"><span lang="en" dir="auto">Linux Unified Key Setup</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="PEFS" data-lang-code="en" data-lang-name="英语" data-foreign-title="PEFS"><span class="ilh-page"><a href="/w/index.php?title=PEFS&amp;action=edit&amp;redlink=1" class="new" title="PEFS（页面不存在）">PEFS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/PEFS" class="extiw" title="en:PEFS"><span lang="en" dir="auto">PEFS</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Rubberhose (file system)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rubberhose (file system)"><span class="ilh-page"><a href="/w/index.php?title=Rubberhose_(file_system)&amp;action=edit&amp;redlink=1" class="new" title="Rubberhose (file system)（页面不存在）">Rubberhose</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rubberhose_(file_system)" class="extiw" title="en:Rubberhose (file system)"><span lang="en" dir="auto">Rubberhose (file system)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="StegFS" data-lang-code="en" data-lang-name="英语" data-foreign-title="StegFS"><span class="ilh-page"><a href="/w/index.php?title=StegFS&amp;action=edit&amp;redlink=1" class="new" title="StegFS（页面不存在）">StegFS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/StegFS" class="extiw" title="en:StegFS"><span lang="en" dir="auto">StegFS</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Tahoe-LAFS" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tahoe-LAFS"><span class="ilh-page"><a href="/w/index.php?title=Tahoe-LAFS&amp;action=edit&amp;redlink=1" class="new" title="Tahoe-LAFS（页面不存在）">Tahoe-LAFS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tahoe-LAFS" class="extiw" title="en:Tahoe-LAFS"><span lang="en" dir="auto">Tahoe-LAFS</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="安全聚焦作業系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="Security-focused operating system"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E8%81%9A%E7%84%A6%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="安全聚焦操作系统（页面不存在）">安全聚焦操作系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Security-focused_operating_system" class="extiw" title="en:Security-focused operating system"><span lang="en" dir="auto">Security-focused operating system</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tails_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)" title="Tails (操作系统)">Tails</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">服务供应商</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E7%94%B1%E7%BD%91" title="自由网">自由网</a></li>
+<li><span class="ilh-all" data-orig-title="Tresorit" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tresorit"><span class="ilh-page"><a href="/w/index.php?title=Tresorit&amp;action=edit&amp;redlink=1" class="new" title="Tresorit（页面不存在）">Tresorit</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tresorit" class="extiw" title="en:Tresorit"><span lang="en" dir="auto">Tresorit</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Wuala" data-lang-code="en" data-lang-name="英语" data-foreign-title="Wuala"><span class="ilh-page"><a href="/w/index.php?title=Wuala&amp;action=edit&amp;redlink=1" class="new" title="Wuala（页面不存在）">Wuala</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Wuala" class="extiw" title="en:Wuala"><span lang="en" dir="auto">Wuala</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">教学</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="CrypTool" data-lang-code="en" data-lang-name="英语" data-foreign-title="CrypTool"><span class="ilh-page"><a href="/w/index.php?title=CrypTool&amp;action=edit&amp;redlink=1" class="new" title="CrypTool（页面不存在）">CrypTool</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CrypTool" class="extiw" title="en:CrypTool"><span lang="en" dir="auto">CrypTool</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">相关主题</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AF%86%E7%A2%BC%E5%AD%B8%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8" title="密码学主题列表">密码学主题列表</a></li>
+<li><span class="ilh-all" data-orig-title="密码学时间线" data-lang-code="en" data-lang-name="英语" data-foreign-title="Timeline of cryptography"><span class="ilh-page"><a href="/w/index.php?title=%E5%AF%86%E7%A0%81%E5%AD%A6%E6%97%B6%E9%97%B4%E7%BA%BF&amp;action=edit&amp;redlink=1" class="new" title="密码学时间线（页面不存在）">密码学时间线</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Timeline_of_cryptography" class="extiw" title="en:Timeline of cryptography"><span lang="en" dir="auto">Timeline of cryptography</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8" title="散列函数">散列函数</a>
+<ul><li><a href="/wiki/%E5%8A%A0%E5%AF%86%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B0" class="mw-redirect" title="加密散列函数">加密散列函数</a></li>
+<li><span class="ilh-all" data-orig-title="散列函数列表列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of hash functions"><span class="ilh-page"><a href="/w/index.php?title=%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B0%E5%88%97%E8%A1%A8%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="散列函数列表列表（页面不存在）">列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_hash_functions" class="extiw" title="en:List of hash functions"><span lang="en" dir="auto">List of hash functions</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86" title="端到端加密">端到端加密</a></li>
+<li><a href="/wiki/S/MIME" title="S/MIME">S/MIME</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E5%8A%A0%E5%AF%86%E8%BD%AF%E4%BB%B6" title="Category:加密软件">分类</a></b></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptographic_software" class="extiw" title="commons:Category:Cryptographic software">共享资源</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐5p99w
+Cached time: 20240331050635
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.697 seconds
+Real time usage: 0.916 seconds
+Preprocessor visited node count: 4618/1000000
+Post‐expand include size: 407195/2097152 bytes
+Template argument size: 11864/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 58/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8863/5000000 bytes
+Lua time usage: 0.293/10.000 seconds
+Lua memory usage: 26106342/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  616.801      1 -total
+ 32.03%  197.548      2 Template:Navbox
+ 26.58%  163.958      1 Template:加密软件
+ 17.30%  106.720      1 Template:Lang-en
+ 16.63%  102.588     52 Template:Tsl
+ 13.90%   85.757      2 Template:Otheruses
+ 13.63%   84.081      1 Template:问题条目
+ 13.35%   82.321      2 Template:Hatnote
+  8.32%   51.332      1 Template:Reflist
+  8.14%   50.231      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:82040-0!userlang=zh-cn!zh-cn and timestamp 20240331050635 and revision id 78874751. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=對等網路&amp;oldid=78874751">https://zh.wikipedia.org/w/index.php?title=對等網路&amp;oldid=78874751</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:P2P" title="Category:P2P">P2P</a></li><li><a href="/wiki/Category:%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB" title="Category:檔案分享">档案分享</a></li><li><a href="/wiki/Category:%E4%B8%8B%E8%BD%BD%E5%8D%8F%E8%AE%AE" title="Category:下载协议">下载协议</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2012%E5%B9%B412%E6%9C%88%E9%9C%80%E8%A6%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E5%AE%B6%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:自2012年12月需要计算机科学专家关注的页面">自2012年12月需要计算机科学专家关注的页面</a></li><li><a href="/wiki/Category:%E6%89%80%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:所有需要專家關注的頁面">所有需要专家关注的页面</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E5%AE%B6%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:需要计算机科学专家关注的页面">需要计算机科学专家关注的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2013%E5%B9%B412%E6%9C%88%E5%BE%85%E6%9B%B4%E6%96%B0%E6%9D%A1%E7%9B%AE" title="Category:自2013年12月待更新条目">自2013年12月待更新条目</a></li><li><a href="/wiki/Category:%E8%87%AA2013%E5%B9%B412%E6%9C%88%E9%9C%80%E8%A6%81%E6%A0%A1%E5%B0%8D%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:自2013年12月需要校對的頁面">自2013年12月需要校对的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E7%94%B1%E6%9C%AC%E5%9C%B0%E5%AE%9A%E4%B9%89" title="Category:维基共享资源分类链接由本地定义">维基共享资源分类链接由本地定义</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8RFC%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用RFC魔术链接的页面">使用RFC魔术链接的页面</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年9月10日 (星期日) 18:43。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-7b8b7ccc4-7vk9k","wgBackendResponseTime":186,"wgPageParseReport":{"limitreport":{"cputime":"0.697","walltime":"0.916","ppvisitednodes":{"value":4618,"limit":1000000},"postexpandincludesize":{"value":407195,"limit":2097152},"templateargumentsize":{"value":11864,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":58,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8863,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  616.801      1 -total"," 32.03%  197.548      2 Template:Navbox"," 26.58%  163.958      1 Template:加密软件"," 17.30%  106.720      1 Template:Lang-en"," 16.63%  102.588     52 Template:Tsl"," 13.90%   85.757      2 Template:Otheruses"," 13.63%   84.081      1 Template:问题条目"," 13.35%   82.321      2 Template:Hatnote","  8.32%   51.332      1 Template:Reflist","  8.14%   50.231      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.293","limit":"10.000"},"limitreport-memusage":{"value":26106342,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-5p99w","timestamp":"20240331050635","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5c0d\u7b49\u7db2\u8def","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF","sameAs":"http:\/\/www.wikidata.org\/entity\/Q161410","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q161410","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-05T21:59:49Z","dateModified":"2023-09-10T18:43:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/P2P-network.svg","headline":"\u7c7b\u578b\u7684\u5206\u6563\u548c\u5206\u5e03\u5f0f\u7f51\u7edc\u4f53\u7cfb\u7ed3\u6784"}</script>
+</body>
+</html>

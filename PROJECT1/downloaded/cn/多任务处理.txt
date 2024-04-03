@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>多任务处理 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"4854f7d0-c379-463d-a8a7-5756ece60fde","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"多任务处理","wgTitle":"多任务处理","wgCurRevisionId":74532796,"wgRevisionId":74532796,"wgArticleId":1414004,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2022年8月需要從英語維基百科翻譯的條目","需要從英語維基百科翻譯的條目","自2022年8月缺少来源的条目","含有多个问题的条目","含有英語的條目","全部小作品","電腦小作品","维基共享资源分类链接由本地定义","電腦架構"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"多任务处理","wgRelevantArticleId":
+1414004,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q192969","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink",
+"ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2f/CTOS-B25.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2f/CTOS-B25.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="多任务处理 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-多任务处理 rootpage-多任务处理 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-多道程序"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#多道程序">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>多道程序</div>
+		</a>
+		
+		<ul id="toc-多道程序-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">多任务处理</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。40种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-40" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">40种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8_%D9%85%D8%AA%D8%B9%D8%AF%D8%AF_%D8%A7%D9%84%D9%85%D9%87%D8%A7%D9%85" title="حاسوب متعدد المهام – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C3%87oxtap%C5%9F%C4%B1r%C4%B1ql%C4%B1l%C4%B1q_(informatika)" title="Çoxtapşırıqlılıq (informatika) – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Multitasca" title="Multitasca – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%81%D8%B1%DB%95%DA%A9%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%DB%8C_%DA%A9%DB%86%D9%85%D9%BE%DB%8C%D9%88%D8%AA%DB%95%D8%B1" title="فرەکرداریی کۆمپیوتەر – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Multitasking" title="Multitasking – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Multitasking" title="Multitasking – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Multitasking" title="Multitasking – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Computer_multitasking" title="Computer multitasking – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Plurtaskado_(komputilo)" title="Plurtaskado (komputilo) – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Multitarea" title="Multitarea – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Multitegumt%C3%B6%C3%B6" title="Multitegumtöö – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Multiataza" title="Multiataza – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%86%D9%86%D8%AF%DA%A9%D8%A7%D8%B1%DA%AF%DB%8C_(%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87)" title="چندکارگی (رایانه) – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Moniajo" title="Moniajo – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Multit%C3%A2che" title="Multitâche – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%99%D7%91%D7%95%D7%99_%D7%9E%D7%A9%D7%99%D7%9E%D7%95%D7%AA" title="ריבוי משימות – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Vi%C5%A1ezada%C4%87nost" title="Višezadaćnost – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/T%C3%B6bbfeladatoss%C3%A1g" title="Többfeladatosság – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%A6%D5%B4%D5%A1%D5%AD%D5%B6%D5%A4%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Բազմախնդրություն – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Tugas_ganda" title="Tugas ganda – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Fj%C3%B6lverkavinnsla" title="Fjölverkavinnsla – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Multitasking" title="Multitasking – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AF" title="マルチタスク – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D3%A9%D0%BF%D1%82%D0%B0%D0%BF%D1%81%D1%8B%D1%80%D0%BC%D0%B0%D0%BB%D1%8B%D0%BB%D1%8B%D2%9B" title="Көптапсырмалылық – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%A4%91%EC%9E%91%EC%97%85" title="다중작업 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Multitasking" title="Multitasking – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Multitasking_(computer)" title="Multitasking (computer) – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Multik%C3%B8yring" title="Multikøyring – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Fleroppgavekj%C3%B8ring" title="Fleroppgavekjøring – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Wielozadaniowo%C5%9B%C4%87" title="Wielozadaniowość – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Multitarefa" title="Multitarefa – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Multitasking" title="Multitasking – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многозадачность – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Computer_multitasking" title="Computer multitasking – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Multitasking_(po%C4%8D%C3%ADta%C4%8De)" title="Multitasking (počítače) – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Ve%C4%8Dopravilnost_(ra%C4%8Dunalni%C5%A1tvo)" title="Večopravilnost (računalništvo) – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Multik%C3%B6rning" title="Multikörning – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B4%E0%B8%87" title="มัลติทาสกิง – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Багатозадачність – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90a_nhi%E1%BB%87m_m%C3%A1y_t%C3%ADnh" title="Đa nhiệm máy tính – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192969#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;oldid=74532796" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;id=74532796&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25A4%259A%25E4%25BB%25BB%25E5%258A%25A1%25E5%25A4%2584%25E7%2590%2586"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25A4%259A%25E4%25BB%25BB%25E5%258A%25A1%25E5%25A4%2584%25E7%2590%2586"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192969" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-f3e2a619" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="Talk:多任务处理">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Expand_language plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>可参照<a href="https://en.wikipedia.org/wiki/Computer_multitasking" class="extiw" title="en:Computer multitasking">英语维基百科</a>相应条目来扩充</b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2022年8月4日</span>)</i></small><span class="hide-when-compact"><br /><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">版权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#翻譯文章" title="Wikipedia:编辑摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>没有列出任何<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">参考或来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2022年8月4日</span>)</i></small><span class="hide-when-compact"><br /><small>维基百科所有的内容都应该<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查证">可供查证</a>。请协助补充<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit">改善这篇条目</a>。无法查证的内容可能会因为异议提出而被移除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-f3e2a619" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:CTOS-B25.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CTOS-B25.JPG/220px-CTOS-B25.JPG" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CTOS-B25.JPG/330px-CTOS-B25.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CTOS-B25.JPG/440px-CTOS-B25.JPG 2x" data-file-width="640" data-file-height="480" /></a><figcaption>运作早期多工操作系统<a href="/w/index.php?title=CTOS&amp;action=edit&amp;redlink=1" class="new" title="CTOS（页面不存在）">CTOS</a>的电脑</figcaption></figure>
+<p><b>多任务处理</b>（英语：<span lang="en">Computer multitasking</span>）是指<a href="/wiki/%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="电子计算机">计算机</a>同时运行多个<a href="/wiki/%E7%A8%8B%E5%BA%8F" class="mw-disambig" title="程序">程序</a>的能力。多任务的一般方法是运行第一个程序的一段代码，保存工作环境；再运行第二个程序的一段代码，保存环境；……恢复第一个程序的工作环境，执行第一个程序的下一段代码……现代的多任务，每个程序的时间分配相对平均。
+</p>
+<h2><span id=".E5.A4.9A.E9.81.93.E7.A8.8B.E5.BA.8F"></span><span class="mw-headline" id="多道程序">多道程序</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit&amp;section=1" title="编辑章节：多道程序"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>计算机的早期，多任务被称作<b>多道程序</b>（<span lang="en">multiprogramming</span>）。多道程序是令<a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a>一次读取多个程序放入<a href="/wiki/%E5%86%85%E5%AD%98" class="mw-redirect" title="内存">内存</a>，先运行第一个程序直到它出现了IO操作。因为IO操作慢，CPU需要等待。为了提高CPU利用率，此时运行第二个程序。即，第n+1个程序得以执行的条件是第n个程序进行IO操作或已经运行完毕。这种方式每个程序的时间分配是不均等的，很可能第一个程序运行了几个小时而不出现IO操作，故第二个程序没有运行。
+</p><p>在当初，这种情况是令人接受的。人们一次指定运行多个程序，过几个小时或一天后来看运行结果或拿走打印出来的文件。人们不需要实时获得每个程序的运行情况，只关心运行结果。
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:PC_template.svg" class="mw-file-description"><img alt="小作品图标" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/PC_template.svg/30px-PC_template.svg.png" decoding="async" width="30" height="30" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/PC_template.svg/45px-PC_template.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/PC_template.svg/60px-PC_template.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></td><td style="font-size:smaller">这是一篇与<a href="/wiki/Portal:%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80" title="Portal:信息技术">计算机</a>相关的<a href="/wiki/Wikipedia:%E5%B0%8F%E4%BD%9C%E5%93%81" title="Wikipedia:小作品">小作品</a>。你可以通过<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;action=edit">编辑或修订</a>扩充其内容。<style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Compu-stub" title="Template:Compu-stub"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:Compu-stub" title="Template talk:Compu-stub"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Compu-stub&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="Template:操作系统"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="Template talk:操作系统"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概述</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="操作系统宣传" data-lang-code="en" data-lang-name="英语" data-foreign-title="Operating system advocacy"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%A3%E4%BC%A0&amp;action=edit&amp;redlink=1" class="new" title="操作系统宣传（页面不存在）">宣传</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Operating_system_advocacy" class="extiw" title="en:Operating system advocacy"><span lang="en" dir="auto">Operating system advocacy</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="操作系统比较" data-lang-code="en" data-lang-name="英语" data-foreign-title="Comparison of operating systems"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%AF%94%E8%BE%83&amp;action=edit&amp;redlink=1" class="new" title="操作系统比较（页面不存在）">比较</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Comparison_of_operating_systems" class="extiw" title="en:Comparison of operating systems"><span lang="en" dir="auto">Comparison of operating systems</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="鑑識软件工程" data-lang-code="en" data-lang-name="英语" data-foreign-title="Forensic software engineering"><span class="ilh-page"><a href="/w/index.php?title=%E9%91%91%E8%AD%98%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&amp;action=edit&amp;redlink=1" class="new" title="鉴识软件工程（页面不存在）">鉴识软件工程</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Forensic_software_engineering" class="extiw" title="en:Forensic software engineering"><span lang="en" dir="auto">Forensic software engineering</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%8F%B2" title="操作系统历史">历史</a></li>
+<li><span class="ilh-all" data-orig-title="业余操作系统研发" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hobbyist operating system development"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%9A%E4%BD%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A0%94%E5%8F%91&amp;action=edit&amp;redlink=1" class="new" title="业余操作系统研发（页面不存在）">爱好者开发</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hobbyist_operating_system_development" class="extiw" title="en:Hobbyist operating system development"><span lang="en" dir="auto">Hobbyist operating system development</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8" title="操作系统列表">列表</a></li>
+<li><a href="/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E6%AD%B7%E5%8F%B2%E5%B9%B4%E8%A1%A8" title="操作系统历史年表">年表</a></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E4%BB%BD%E9%A2%9D" title="操作系统使用份额">份额</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%86%85%E6%A0%B8" title="内核">内核</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">系统结构</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Exokernel" title="Exokernel">Exokernel</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E6%A0%B8%E5%BF%83" title="混合核心">混合</a></li>
+<li><a href="/wiki/%E5%BE%AE%E5%85%A7%E6%A0%B8" title="微内核">微内核</a></li>
+<li><a href="/wiki/%E6%95%B4%E5%A1%8A%E6%80%A7%E6%A0%B8%E5%BF%83" title="宏内核">宏内核</a></li>
+<li><span class="ilh-all" data-orig-title="尾闾内核" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rump kernel"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%BE%E9%97%BE%E5%86%85%E6%A0%B8&amp;action=edit&amp;redlink=1" class="new" title="尾闾内核（页面不存在）">尾闾内核</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rump_kernel" class="extiw" title="en:Rump kernel"><span lang="en" dir="auto">Rump kernel</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8D%95%E4%B8%80%E5%86%85%E6%A0%B8" title="单一内核">单一内核</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;">组件</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F" title="驱动程序">驱动程序</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%BC%89%E5%85%A5%E6%A0%B8%E5%BF%83%E6%A8%A1%E7%B5%84" title="可加载核心模块">可加载核心模块</a></li>
+<li><a href="/wiki/%E5%BE%AE%E5%85%A7%E6%A0%B8" title="微内核">微内核</a></li>
+<li><a href="/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%A9%BA%E9%96%93" title="用户空间">用户空间</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A1%8C%E7%A8%8B%E7%AE%A1%E7%90%86" title="行程管理">行程管理</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;">概念</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%A4%E6%8F%9B" title="上下文切换">上下文切换</a></li>
+<li><a href="/wiki/%E4%B8%AD%E6%96%B7" title="中断">中断</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B%E9%96%93%E9%80%9A%E8%A8%8A" title="进程间通信">进程间通信</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B" title="行程">行程</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%A1%A8" title="进程控制块">进程控制块</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="实时操作系统">实时操作系统</a></li>
+<li><a href="/wiki/%E7%BA%BF%E7%A8%8B" title="线程">线程</a></li>
+<li><a href="/wiki/%E5%88%86%E6%99%82%E7%B3%BB%E7%B5%B1" title="分时系统">分时系统</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E8%B0%83%E5%BA%A6_(%E8%AE%A1%E7%AE%97%E6%9C%BA)" title="调度 (计算机)">调度算法</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">多任务处理</a></li>
+<li><span class="ilh-all" data-orig-title="固定优先级抢占" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fixed-priority pre-emptive scheduling"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%BA%E5%AE%9A%E4%BC%98%E5%85%88%E7%BA%A7%E6%8A%A2%E5%8D%A0&amp;action=edit&amp;redlink=1" class="new" title="固定优先级抢占（页面不存在）">固定优先级抢占</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fixed-priority_pre-emptive_scheduling" class="extiw" title="en:Fixed-priority pre-emptive scheduling"><span lang="en" dir="auto">Fixed-priority pre-emptive scheduling</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="多级反馈队列" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multilevel feedback queue"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E7%BA%A7%E5%8F%8D%E9%A6%88%E9%98%9F%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="多级反馈队列（页面不存在）">多级反馈队列</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multilevel_feedback_queue" class="extiw" title="en:Multilevel feedback queue"><span lang="en" dir="auto">Multilevel feedback queue</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%A2%E5%8D%A0%E5%BC%8F%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="抢占式多任务处理">抢占式多任务处理</a></li>
+<li><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%88%B6" title="循环制">循环制</a></li>
+<li><a href="/wiki/%E7%9F%AD%E8%BF%9B%E7%A8%8B%E4%BC%98%E5%85%88" title="短进程优先">短进程优先</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E7%AE%A1%E7%90%86" title="存储器管理">存储器管理</a>和<a href="/wiki/%E8%B3%87%E6%BA%90_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8)" title="资源 (计算机科学)">资源</a>保护</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%80%BB%E7%BA%BF%E9%94%99%E8%AF%AF" title="总线错误">总线错误</a></li>
+<li><a href="/wiki/%E4%B8%80%E8%88%AC%E4%BF%9D%E6%8A%A4%E9%94%99%E8%AF%AF" title="一般保护错误">一般保护错误</a></li>
+<li><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E4%BF%9D%E8%AD%B7" title="存储器保护">存储器保护</a></li>
+<li><a href="/wiki/%E5%88%86%E9%A0%81" title="标签页">标签页</a></li>
+<li><a href="/wiki/%E5%88%86%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%9F%9F" title="分级保护域">分级保护域</a></li>
+<li><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E5%8D%80%E6%AE%B5%E9%8C%AF%E8%AA%A4" title="存储器区段错误">存储器区段错误</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="虚拟内存">虚拟内存</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9D%9E%E6%8F%AE%E7%99%BC%E6%80%A7%E8%A8%98%E6%86%B6%E9%AB%94" title="非易失性存储器">存储</a>访问和<a href="/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="文件系统">文件系统</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%95%9F%E5%8B%95%E7%A8%8B%E5%BC%8F" title="启动程序">启动程序</a></li>
+<li><a href="/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="碎片重组">碎片重组</a></li>
+<li><span class="ilh-all" data-orig-title="设备文件 (Unix)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Device file"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%BE%E5%A4%87%E6%96%87%E4%BB%B6_(Unix)&amp;action=edit&amp;redlink=1" class="new" title="设备文件 (Unix)（页面不存在）">设备文件</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Device_file" class="extiw" title="en:Device file"><span lang="en" dir="auto">Device file</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%96%87%E4%BB%B6%E5%B1%9E%E6%80%A7" title="文件属性">文件属性</a></li>
+<li><a href="/wiki/Inode" title="Inode">Inode</a></li>
+<li><a href="/wiki/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="日志文件系统">日志</a></li>
+<li><a href="/wiki/%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA" title="硬盘分区">分区</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1" title="虚拟文件系统">虚拟文件系统</a></li>
+<li><span class="ilh-all" data-orig-title="虚拟磁带库" data-lang-code="en" data-lang-name="英语" data-foreign-title="Virtual tape library"><span class="ilh-page"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E7%A3%81%E5%B8%A6%E5%BA%93&amp;action=edit&amp;redlink=1" class="new" title="虚拟磁带库（页面不存在）">虚拟磁带库</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Virtual_tape_library" class="extiw" title="en:Virtual tape library"><span lang="en" dir="auto">Virtual tape library</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8" title="操作系统列表">操作系统列表</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></li>
+<li><a href="/wiki/Android" title="Android">Android</a></li>
+<li><a href="/wiki/BeOS" title="BeOS">BeOS</a></li>
+<li><a href="/wiki/BSD" title="BSD">BSD</a></li>
+<li><a href="/wiki/ChromeOS" title="ChromeOS">ChromeOS</a></li>
+<li><a href="/wiki/CP/M" title="CP/M">CP/M</a></li>
+<li><a href="/wiki/DOS" title="DOS">DOS</a></li>
+<li><a href="/wiki/GNU" title="GNU">GNU</a></li>
+<li><a href="/wiki/Haiku" title="Haiku">Haiku</a></li>
+<li><a href="/wiki/%E9%B8%BF%E8%92%99_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)" title="鸿蒙 (操作系统)">鸿蒙</a></li>
+<li><a href="/wiki/Illumos" title="Illumos">Illumos</a></li>
+<li><a href="/wiki/IOS" title="IOS">iOS</a></li>
+<li><a href="/wiki/Linux" title="Linux">Linux</a></li>
+<li><a href="/wiki/%E9%BA%A6%E9%87%91%E5%A1%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="麦金塔操作系统">Macintosh</a>
+<ul><li><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></li>
+<li><a href="/wiki/MacOS" title="MacOS">MacOS</a></li></ul></li>
+<li><a href="/wiki/MINIX" title="MINIX">MINIX</a></li>
+<li><span class="ilh-all" data-orig-title="MorphOS" data-lang-code="en" data-lang-name="英语" data-foreign-title="MorphOS"><span class="ilh-page"><a href="/w/index.php?title=MorphOS&amp;action=edit&amp;redlink=1" class="new" title="MorphOS（页面不存在）">MorphOS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/MorphOS" class="extiw" title="en:MorphOS"><span lang="en" dir="auto">MorphOS</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="MUSIC/SP" data-lang-code="en" data-lang-name="英语" data-foreign-title="MUSIC/SP"><span class="ilh-page"><a href="/w/index.php?title=MUSIC/SP&amp;action=edit&amp;redlink=1" class="new" title="MUSIC/SP（页面不存在）">MUSIC/SP</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/MUSIC/SP" class="extiw" title="en:MUSIC/SP"><span lang="en" dir="auto">MUSIC/SP</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="NOS" data-lang-code="en" data-lang-name="英语" data-foreign-title="NOS (software)"><span class="ilh-page"><a href="/w/index.php?title=NOS&amp;action=edit&amp;redlink=1" class="new" title="NOS（页面不存在）">NOS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NOS_(software)" class="extiw" title="en:NOS (software)"><span lang="en" dir="auto">NOS (software)</span></a></span>）</span></span></li>
+<li><a href="/wiki/NGB_TVOS" class="mw-redirect" title="NGB TVOS">NGB TVOS</a></li>
+<li><a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a></li>
+<li><span class="ilh-all" data-orig-title="ORVYL" data-lang-code="en" data-lang-name="英语" data-foreign-title="ORVYL and WYLBUR"><span class="ilh-page"><a href="/w/index.php?title=ORVYL&amp;action=edit&amp;redlink=1" class="new" title="ORVYL（页面不存在）">ORVYL</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR" class="extiw" title="en:ORVYL and WYLBUR"><span lang="en" dir="auto">ORVYL and WYLBUR</span></a></span>）</span></span></li>
+<li><a href="/wiki/OS/2" title="OS/2">OS/2</a></li>
+<li><span class="ilh-all" data-orig-title="OSv" data-lang-code="en" data-lang-name="英语" data-foreign-title="OSv"><span class="ilh-page"><a href="/w/index.php?title=OSv&amp;action=edit&amp;redlink=1" class="new" title="OSv（页面不存在）">OSv</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/OSv" class="extiw" title="en:OSv"><span lang="en" dir="auto">OSv</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Pick操作系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pick operating system"><span class="ilh-page"><a href="/w/index.php?title=Pick%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="Pick操作系统（页面不存在）">Pick</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pick_operating_system" class="extiw" title="en:Pick operating system"><span lang="en" dir="auto">Pick operating system</span></a></span>）</span></span></li>
+<li><a href="/wiki/QNX" title="QNX">QNX</a></li>
+<li><a href="/wiki/ReactOS" title="ReactOS">ReactOS</a></li>
+<li><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></li>
+<li><span class="ilh-all" data-orig-title="RSTS/E" data-lang-code="en" data-lang-name="英语" data-foreign-title="RSTS/E"><span class="ilh-page"><a href="/w/index.php?title=RSTS/E&amp;action=edit&amp;redlink=1" class="new" title="RSTS/E（页面不存在）">RSTS/E</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RSTS/E" class="extiw" title="en:RSTS/E"><span lang="en" dir="auto">RSTS/E</span></a></span>）</span></span></li>
+<li><a href="/wiki/RSX-11" title="RSX-11">RSX-11</a></li>
+<li><span class="ilh-all" data-orig-title="RT-11" data-lang-code="en" data-lang-name="英语" data-foreign-title="RT-11"><span class="ilh-page"><a href="/w/index.php?title=RT-11&amp;action=edit&amp;redlink=1" class="new" title="RT-11（页面不存在）">RT-11</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RT-11" class="extiw" title="en:RT-11"><span lang="en" dir="auto">RT-11</span></a></span>）</span></span></li>
+<li><a href="/wiki/Solaris" title="Solaris">Solaris</a></li>
+<li><a href="/wiki/TOPS-10" title="TOPS-10">TOPS-10</a>/<span class="ilh-all" data-orig-title="TOPS-20" data-lang-code="en" data-lang-name="英语" data-foreign-title="TOPS-20"><span class="ilh-page"><a href="/w/index.php?title=TOPS-20&amp;action=edit&amp;redlink=1" class="new" title="TOPS-20（页面不存在）">TOPS-20</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/TOPS-20" class="extiw" title="en:TOPS-20"><span lang="en" dir="auto">TOPS-20</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Transaction Processing Facility" data-lang-code="en" data-lang-name="英语" data-foreign-title="Transaction Processing Facility"><span class="ilh-page"><a href="/w/index.php?title=Transaction_Processing_Facility&amp;action=edit&amp;redlink=1" class="new" title="Transaction Processing Facility（页面不存在）">TPF</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Transaction_Processing_Facility" class="extiw" title="en:Transaction Processing Facility"><span lang="en" dir="auto">Transaction Processing Facility</span></a></span>）</span></span></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/UNIX" title="UNIX">UNIX</a></li>
+<li><a href="/wiki/UOS" class="mw-redirect" title="UOS">UOS</a></li>
+<li><span class="ilh-all" data-orig-title="Visi On" data-lang-code="en" data-lang-name="英语" data-foreign-title="Visi On"><span class="ilh-page"><a href="/w/index.php?title=Visi_On&amp;action=edit&amp;redlink=1" class="new" title="Visi On（页面不存在）">Visi On</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Visi_On" class="extiw" title="en:Visi On"><span lang="en" dir="auto">Visi On</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="VM (operating system)" data-lang-code="en" data-lang-name="英语" data-foreign-title="VM (operating system)"><span class="ilh-page"><a href="/w/index.php?title=VM_(operating_system)&amp;action=edit&amp;redlink=1" class="new" title="VM (operating system)（页面不存在）">VM/CMS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/VM_(operating_system)" class="extiw" title="en:VM (operating system)"><span lang="en" dir="auto">VM (operating system)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="VS/9" data-lang-code="en" data-lang-name="英语" data-foreign-title="VS/9"><span class="ilh-page"><a href="/w/index.php?title=VS/9&amp;action=edit&amp;redlink=1" class="new" title="VS/9（页面不存在）">VS/9</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/VS/9" class="extiw" title="en:VS/9"><span lang="en" dir="auto">VS/9</span></a></span>）</span></span></li>
+<li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a></li>
+<li><span class="ilh-all" data-orig-title="Xinu" data-lang-code="en" data-lang-name="英语" data-foreign-title="Xinu"><span class="ilh-page"><a href="/w/index.php?title=Xinu&amp;action=edit&amp;redlink=1" class="new" title="Xinu（页面不存在）">Xinu</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Xinu" class="extiw" title="en:Xinu"><span lang="en" dir="auto">Xinu</span></a></span>）</span></span></li>
+<li><a href="/wiki/Z/OS" title="Z/OS">z/OS</a></li>
+<li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">其他概念</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3" title="应用程序接口">应用程序接口</a>（API）</li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a></li>
+<li><a href="/wiki/%E7%A1%AC%E9%AB%94%E6%8A%BD%E8%B1%A1%E5%B1%A4" title="硬件抽象层">硬件抽象层</a>（HAL）</li>
+<li><a href="/wiki/Live_CD" title="Live CD">Live CD</a></li>
+<li><a href="/wiki/Live_USB" title="Live USB">Live USB</a></li>
+<li><a href="/wiki/%E6%AE%BC%E5%B1%A4" title="壳层">壳层</a>（OS Shell）
+<ul><li><a href="/wiki/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2" title="命令行界面">命令行界面</a>（CLI）</li>
+<li><a href="/wiki/%E5%9B%BE%E5%BD%A2%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="图形用户界面">图形用户界面</a>（GUI）</li>
+<li><span class="ilh-all" data-orig-title="文本用户界面" data-lang-code="en" data-lang-name="英语" data-foreign-title="Text-based user interface"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E6%9C%AC%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="文本用户界面（页面不存在）">TUI</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Text-based_user_interface" class="extiw" title="en:Text-based user interface"><span lang="en" dir="auto">Text-based user interface</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="语音用户接口" data-lang-code="en" data-lang-name="英语" data-foreign-title="Voice user interface"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%AD%E9%9F%B3%E7%94%A8%E6%88%B7%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;redlink=1" class="new" title="语音用户接口（页面不存在）">VUI</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Voice_user_interface" class="extiw" title="en:Voice user interface"><span lang="en" dir="auto">Voice user interface</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E9%A2%84%E5%90%AF%E5%8A%A8%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83" title="预启动执行环境">预启动执行环境</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="Template:并行计算"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97&amp;action=edit&amp;redlink=1" class="new" title="Template talk:并行计算（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="并行计算">并行计算</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概论</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B6%E5%8F%91%E8%AE%A1%E7%AE%97" title="并发计算">并发计算</a></li>
+<li><a href="/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97" title="分布式计算">分布式计算</a></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="并行计算">并行计算</a></li>
+<li><a href="/wiki/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%B9%B6%E8%A1%8C" title="大规模并行">大规模并行处理机</a></li>
+<li><a href="/wiki/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97" title="云计算">云计算</a></li>
+<li><a href="/wiki/%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA" title="超级计算机">高性能计算</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多元处理</a></li>
+<li><span class="ilh-all" data-orig-title="大規模多核心處理器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Manycore processor"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%A4%9A%E6%A0%B8%E5%BF%83%E8%99%95%E7%90%86%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="大规模多核心处理器（页面不存在）">大规模多核心处理器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Manycore_processor" class="extiw" title="en:Manycore processor"><span lang="en" dir="auto">Manycore processor</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%99%A8%E9%80%9A%E7%94%A8%E8%AE%A1%E7%AE%97" title="图形处理器通用计算">GPGPU</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a></li>
+<li><span class="ilh-all" data-orig-title="Systolic array" data-lang-code="en" data-lang-name="英语" data-foreign-title="Systolic array"><span class="ilh-page"><a href="/w/index.php?title=Systolic_array&amp;action=edit&amp;redlink=1" class="new" title="Systolic array（页面不存在）">Systolic array</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Systolic_array" class="extiw" title="en:Systolic array"><span lang="en" dir="auto">Systolic array</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">层级</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BD%8D%E5%85%83%E5%B1%A4%E7%B4%9A%E5%B9%B3%E8%A1%8C" title="比特层级平行">比特</a></li>
+<li><a href="/wiki/%E6%8C%87%E4%BB%A4%E5%B1%A4%E7%B4%9A%E5%B9%B3%E8%A1%8C" title="指令层级平行">指令</a></li>
+<li><a href="/wiki/%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C" title="任务并行">线程</a></li>
+<li><a href="/wiki/%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C" title="任务并行">任务</a></li>
+<li><a href="/wiki/%E8%B3%87%E6%96%99%E5%B9%B3%E8%A1%8C" title="资料平行">数据</a></li>
+<li><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E5%B1%A4%E7%B4%9A%E5%B9%B3%E8%A1%8C" title="存储器层级平行">内存</a></li>
+<li><span class="ilh-all" data-orig-title="Loop-level parallelism" data-lang-code="en" data-lang-name="英语" data-foreign-title="Loop-level parallelism"><span class="ilh-page"><a href="/w/index.php?title=Loop-level_parallelism&amp;action=edit&amp;redlink=1" class="new" title="Loop-level parallelism（页面不存在）">循环</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Loop-level_parallelism" class="extiw" title="en:Loop-level parallelism"><span lang="en" dir="auto">Loop-level parallelism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B5%81%E6%B0%B4%E7%BA%BF_(%E8%AE%A1%E7%AE%97%E6%9C%BA)" title="流水线 (计算机)">流水线</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8B" title="多线程">多线程</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="Temporal multithreading" data-lang-code="en" data-lang-name="英语" data-foreign-title="Temporal multithreading"><span class="ilh-page"><a href="/w/index.php?title=Temporal_multithreading&amp;action=edit&amp;redlink=1" class="new" title="Temporal multithreading（页面不存在）">时间</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Temporal_multithreading" class="extiw" title="en:Temporal multithreading"><span lang="en" dir="auto">Temporal multithreading</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%90%8C%E6%97%B6%E5%A4%9A%E7%BA%BF%E7%A8%8B" title="同时多线程">同时多线程</a>（SMT）</li>
+<li><span class="ilh-all" data-orig-title="Speculative multithreading" data-lang-code="en" data-lang-name="英语" data-foreign-title="Speculative multithreading"><span class="ilh-page"><a href="/w/index.php?title=Speculative_multithreading&amp;action=edit&amp;redlink=1" class="new" title="Speculative multithreading（页面不存在）">投机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Speculative_multithreading" class="extiw" title="en:Speculative multithreading"><span lang="en" dir="auto">Speculative multithreading</span></a></span>）</span></span>（SpMT）</li>
+<li><a href="/wiki/%E6%8A%A2%E5%8D%A0%E5%BC%8F%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="抢占式多任务处理">抢占式</a></li>
+<li><a class="mw-selflink selflink">协作</a></li>
+<li><a href="/wiki/AMD_Bulldozer" class="mw-redirect" title="AMD Bulldozer">集群多线程</a>（CMT）</li>
+<li><a href="/wiki/%E7%A1%AC%E4%BB%B6%E4%BE%A6%E6%B5%8B" title="硬件侦测">硬件侦测</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">理论</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PRAM%E6%A8%A1%E5%9E%8B" title="PRAM模型">PRAM模型</a></li>
+<li><span class="ilh-all" data-orig-title="并行算法分析" data-lang-code="en" data-lang-name="英语" data-foreign-title="Analysis of parallel algorithms"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90&amp;action=edit&amp;redlink=1" class="new" title="并行算法分析（页面不存在）">并行算法分析</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Analysis_of_parallel_algorithms" class="extiw" title="en:Analysis of parallel algorithms"><span lang="en" dir="auto">Analysis of parallel algorithms</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%98%BF%E5%A7%86%E8%BE%BE%E5%B0%94%E5%AE%9A%E5%BE%8B" title="阿姆达尔定律">阿姆达尔定律</a></li>
+<li><span class="ilh-all" data-orig-title="Gustafson&#39;s law" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gustafson&#39;s law"><span class="ilh-page"><a href="/w/index.php?title=Gustafson%27s_law&amp;action=edit&amp;redlink=1" class="new" title="Gustafson&#39;s law（页面不存在）">Gustafson's law</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gustafson%27s_law" class="extiw" title="en:Gustafson&#39;s law"><span lang="en" dir="auto">Gustafson's law</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Cost efficiency" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cost efficiency"><span class="ilh-page"><a href="/w/index.php?title=Cost_efficiency&amp;action=edit&amp;redlink=1" class="new" title="Cost efficiency（页面不存在）">Cost efficiency</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cost_efficiency" class="extiw" title="en:Cost efficiency"><span lang="en" dir="auto">Cost efficiency</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Karp–Flatt metric" data-lang-code="en" data-lang-name="英语" data-foreign-title="Karp–Flatt metric"><span class="ilh-page"><a href="/w/index.php?title=Karp%E2%80%93Flatt_metric&amp;action=edit&amp;redlink=1" class="new" title="Karp–Flatt metric（页面不存在）">Karp–Flatt metric</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Karp%E2%80%93Flatt_metric" class="extiw" title="en:Karp–Flatt metric"><span lang="en" dir="auto">Karp–Flatt metric</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Parallel slowdown" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parallel slowdown"><span class="ilh-page"><a href="/w/index.php?title=Parallel_slowdown&amp;action=edit&amp;redlink=1" class="new" title="Parallel slowdown（页面不存在）">减速</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parallel_slowdown" class="extiw" title="en:Parallel slowdown"><span lang="en" dir="auto">Parallel slowdown</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8A%A0%E9%80%9F%E6%AF%94" title="加速比">加速比</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">元素</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%A1%8C%E7%A8%8B" title="行程">行程</a></li>
+<li><a href="/wiki/%E7%BA%BF%E7%A8%8B" title="线程">线程</a></li>
+<li><a href="/wiki/%E7%BA%96%E7%A8%8B" title="纤程">纤程</a></li>
+<li><span class="ilh-all" data-orig-title="指令窗口" data-lang-code="en" data-lang-name="英语" data-foreign-title="Instruction window"><span class="ilh-page"><a href="/w/index.php?title=%E6%8C%87%E4%BB%A4%E7%AA%97%E5%8F%A3&amp;action=edit&amp;redlink=1" class="new" title="指令窗口（页面不存在）">指令窗口</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Instruction_window" class="extiw" title="en:Instruction window"><span lang="en" dir="auto">Instruction window</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">协调</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多元处理</a></li>
+<li><span class="ilh-all" data-orig-title="内存一致性" data-lang-code="en" data-lang-name="英语" data-foreign-title="Memory coherence"><span class="ilh-page"><a href="/w/index.php?title=%E5%86%85%E5%AD%98%E4%B8%80%E8%87%B4%E6%80%A7&amp;action=edit&amp;redlink=1" class="new" title="内存一致性（页面不存在）">内存一致性</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Memory_coherence" class="extiw" title="en:Memory coherence"><span lang="en" dir="auto">Memory coherence</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%BF%AB%E5%8F%96%E4%B8%80%E8%87%B4%E6%80%A7" title="缓存一致性">缓存一致性</a></li>
+<li><span class="ilh-all" data-orig-title="高速缓存失效" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cache invalidation"><span class="ilh-page"><a href="/w/index.php?title=%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E5%A4%B1%E6%95%88&amp;action=edit&amp;redlink=1" class="new" title="高速缓存失效（页面不存在）">高速缓存失效</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cache_invalidation" class="extiw" title="en:Cache invalidation"><span lang="en" dir="auto">Cache invalidation</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%90%8C%E6%AD%A5%E5%B1%8F%E9%9A%9C" title="同步屏障">屏障</a></li>
+<li><a href="/wiki/%E5%90%8C%E6%AD%A5_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" title="同步 (计算机科学)">同步</a></li>
+<li><span class="ilh-all" data-orig-title="应用程序检查点" data-lang-code="en" data-lang-name="英语" data-foreign-title="Application checkpointing"><span class="ilh-page"><a href="/w/index.php?title=%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%A3%80%E6%9F%A5%E7%82%B9&amp;action=edit&amp;redlink=1" class="new" title="应用程序检查点（页面不存在）">应用程序检查点</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Application_checkpointing" class="extiw" title="en:Application checkpointing"><span lang="en" dir="auto">Application checkpointing</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1" title="程序设计">编程</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%B2%E6%B5%81%E8%99%95%E7%90%86" title="流处理">流处理</a></li>
+<li><span class="ilh-all" data-orig-title="数据流处理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dataflow programming"><span class="ilh-page"><a href="/w/index.php?title=%E6%95%B0%E6%8D%AE%E6%B5%81%E5%A4%84%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="数据流处理（页面不存在）">数据流处理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dataflow_programming" class="extiw" title="en:Dataflow programming"><span lang="en" dir="auto">Dataflow programming</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B" title="并行编程模型">模型</a>
+<ul><li><span class="ilh-all" data-orig-title="隐式并行" data-lang-code="en" data-lang-name="英语" data-foreign-title="Implicit parallelism"><span class="ilh-page"><a href="/w/index.php?title=%E9%9A%90%E5%BC%8F%E5%B9%B6%E8%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="隐式并行（页面不存在）">隐式并行</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Implicit_parallelism" class="extiw" title="en:Implicit parallelism"><span lang="en" dir="auto">Implicit parallelism</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="显式并行" data-lang-code="en" data-lang-name="英语" data-foreign-title="Explicit parallelism"><span class="ilh-page"><a href="/w/index.php?title=%E6%98%BE%E5%BC%8F%E5%B9%B6%E8%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="显式并行（页面不存在）">显式并行</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Explicit_parallelism" class="extiw" title="en:Explicit parallelism"><span lang="en" dir="auto">Explicit parallelism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B9%B6%E5%8F%91%E6%80%A7" title="并发性">并发性</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="非阻塞算法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Non-blocking algorithm"><span class="ilh-page"><a href="/w/index.php?title=%E9%9D%9E%E9%98%BB%E5%A1%9E%E7%AE%97%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="非阻塞算法（页面不存在）">非阻塞算法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Non-blocking_algorithm" class="extiw" title="en:Non-blocking algorithm"><span lang="en" dir="auto">Non-blocking algorithm</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A1%AC%E4%BB%B6" class="mw-disambig" title="硬件">硬件</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%B2%BB%E6%9E%97%E5%88%86%E9%A1%9E%E6%B3%95" title="费林分类法">费林分类法</a>
+<ul><li><a href="/wiki/%E5%96%AE%E6%8C%87%E4%BB%A4%E6%B5%81%E5%96%AE%E6%95%B8%E6%93%9A%E6%B5%81" title="单指令流单数据流">单指令流单数据流</a></li>
+<li><a href="/wiki/%E5%8D%95%E6%8C%87%E4%BB%A4%E6%B5%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%B5%81" title="单指令流多数据流">单指令流多数据流</a></li>
+<li><span class="ilh-all" data-orig-title="单指令多线程" data-lang-code="en" data-lang-name="英语" data-foreign-title="Single instruction, multiple threads"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%95%E6%8C%87%E4%BB%A4%E5%A4%9A%E7%BA%BF%E7%A8%8B&amp;action=edit&amp;redlink=1" class="new" title="单指令多线程（页面不存在）">单指令多线程</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_threads" class="extiw" title="en:Single instruction, multiple threads"><span lang="en" dir="auto">Single instruction, multiple threads</span></a></span>）</span></span>（SIMT）</li>
+<li><a href="/wiki/%E5%A4%9A%E6%8C%87%E4%BB%A4%E6%B5%81%E5%96%AE%E6%95%B8%E6%93%9A%E6%B5%81" title="多指令流单数据流">多指令流单数据流</a></li>
+<li><a href="/wiki/%E5%A4%9A%E6%8C%87%E4%BB%A4%E6%B5%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%B5%81" title="多指令流多数据流">多指令流多数据流</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="数据流架构" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dataflow architecture"><span class="ilh-page"><a href="/w/index.php?title=%E6%95%B0%E6%8D%AE%E6%B5%81%E6%9E%B6%E6%9E%84&amp;action=edit&amp;redlink=1" class="new" title="数据流架构（页面不存在）">数据流架构</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dataflow_architecture" class="extiw" title="en:Dataflow architecture"><span lang="en" dir="auto">Dataflow architecture</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8C%87%E4%BB%A4%E7%AE%A1%E7%B7%9A%E5%8C%96" title="指令流水线">指令流水线</a></li>
+<li><a href="/wiki/%E8%B6%85%E7%B4%94%E9%87%8F" title="超标量">超标量</a></li>
+<li><a href="/wiki/%E5%90%91%E9%87%8F%E5%A4%84%E7%90%86%E5%99%A8" title="向量处理器">并行向量处理机</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多处理器</a>
+<ul><li><a href="/wiki/%E5%AF%B9%E7%A7%B0%E5%A4%9A%E5%A4%84%E7%90%86" title="对称多处理">对称</a></li>
+<li><a href="/wiki/%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%A4%9A%E8%99%95%E7%90%86" title="非对称多处理">非对称</a></li></ul></li>
+<li><a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8" title="半导体存储器">内存</a>
+<ul><li><a href="/wiki/%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98" title="共享内存">共享</a></li>
+<li><span class="ilh-all" data-orig-title="分布式内存" data-lang-code="en" data-lang-name="英语" data-foreign-title="Distributed memory"><span class="ilh-page"><a href="/w/index.php?title=%E5%88%86%E5%B8%83%E5%BC%8F%E5%86%85%E5%AD%98&amp;action=edit&amp;redlink=1" class="new" title="分布式内存（页面不存在）">分布式内存</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Distributed_memory" class="extiw" title="en:Distributed memory"><span lang="en" dir="auto">Distributed memory</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E5%85%B1%E4%BA%AB%E5%AD%98%E5%82%A8%E5%A4%84%E7%90%86%E6%9C%BA" title="分布式共享存储处理机">分布式共享</a></li>
+<li><a href="/wiki/%E5%9D%87%E5%8C%80%E8%AE%BF%E5%AD%98%E6%A8%A1%E5%9E%8B" title="均匀访存模型">UMA</a></li>
+<li><a href="/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E8%AE%BF%E5%AD%98%E6%A8%A1%E5%9E%8B" title="非均匀访存模型">NUMA</a></li>
+<li><span class="ilh-all" data-orig-title="仅缓存内存架构" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cache-only memory architecture"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%85%E7%BC%93%E5%AD%98%E5%86%85%E5%AD%98%E6%9E%B6%E6%9E%84&amp;action=edit&amp;redlink=1" class="new" title="仅缓存内存架构（页面不存在）">COMA</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cache-only_memory_architecture" class="extiw" title="en:Cache-only memory architecture"><span lang="en" dir="auto">Cache-only memory architecture</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%B9%B6%E8%A1%8C" title="大规模并行">大规模并行处理机</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9B%86%E7%BE%A4" title="计算机集群">计算机集群</a></li>
+<li><a href="/wiki/%E7%BD%91%E6%A0%BC%E8%AE%A1%E7%AE%97" title="网格计算">网格计算</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3" title="应用程序接口">API</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="Ateji PX" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ateji PX"><span class="ilh-page"><a href="/w/index.php?title=Ateji_PX&amp;action=edit&amp;redlink=1" class="new" title="Ateji PX（页面不存在）">Ateji PX</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ateji_PX" class="extiw" title="en:Ateji PX"><span lang="en" dir="auto">Ateji PX</span></a></span>）</span></span></li>
+<li><a href="/wiki/Boost_C%2B%2B_Libraries" title="Boost C++ Libraries">Boost.Thread</a></li>
+<li><span class="ilh-all" data-orig-title="Charm++" data-lang-code="en" data-lang-name="英语" data-foreign-title="Charm%2B%2B"><span class="ilh-page"><a href="/w/index.php?title=Charm%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Charm++（页面不存在）">Charm++</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Charm%2B%2B" class="extiw" title="en:Charm++"><span lang="en" dir="auto">Charm%2B%2B</span></a></span>）</span></span></li>
+<li><a href="/wiki/Cilk" title="Cilk">Cilk</a></li>
+<li><span class="ilh-all" data-orig-title="Coarray Fortran" data-lang-code="en" data-lang-name="英语" data-foreign-title="Coarray Fortran"><span class="ilh-page"><a href="/w/index.php?title=Coarray_Fortran&amp;action=edit&amp;redlink=1" class="new" title="Coarray Fortran（页面不存在）">Coarray Fortran</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Coarray_Fortran" class="extiw" title="en:Coarray Fortran"><span lang="en" dir="auto">Coarray Fortran</span></a></span>）</span></span></li>
+<li><a href="/wiki/CUDA" title="CUDA">CUDA</a></li>
+<li><span class="ilh-all" data-orig-title="Dryad (programming)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dryad (programming)"><span class="ilh-page"><a href="/w/index.php?title=Dryad_(programming)&amp;action=edit&amp;redlink=1" class="new" title="Dryad (programming)（页面不存在）">Dryad</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dryad_(programming)" class="extiw" title="en:Dryad (programming)"><span lang="en" dir="auto">Dryad (programming)</span></a></span>）</span></span></li>
+<li><a href="/wiki/C%2B%2B_AMP" title="C++ AMP">C++ AMP</a></li>
+<li><span class="ilh-all" data-orig-title="Global Arrays" data-lang-code="en" data-lang-name="英语" data-foreign-title="Global Arrays"><span class="ilh-page"><a href="/w/index.php?title=Global_Arrays&amp;action=edit&amp;redlink=1" class="new" title="Global Arrays（页面不存在）">Global Arrays</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Global_Arrays" class="extiw" title="en:Global Arrays"><span lang="en" dir="auto">Global Arrays</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%A8%8A%E6%81%AF%E5%82%B3%E9%81%9E%E4%BB%8B%E9%9D%A2" title="消息传递接口">MPI</a></li>
+<li><a href="/wiki/OpenMP" title="OpenMP">OpenMP</a></li>
+<li><a href="/wiki/OpenCL" title="OpenCL">OpenCL</a></li>
+<li><a href="/wiki/HMPP%E5%BC%80%E6%94%BE%E6%A0%87%E5%87%86" title="HMPP开放标准">HMPP开放标准</a></li>
+<li><a href="/wiki/OpenACC" title="OpenACC">OpenACC</a></li>
+<li><span class="ilh-all" data-orig-title="任务并行库" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parallel Extensions#Task Parallel Library"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C%E5%BA%93&amp;action=edit&amp;redlink=1" class="new" title="任务并行库（页面不存在）">TPL</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parallel_Extensions#Task_Parallel_Library" class="extiw" title="en:Parallel Extensions"><span lang="en" dir="auto">Parallel Extensions#Task Parallel Library</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Parallel Extensions#PLINQ" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parallel Extensions#PLINQ"><span class="ilh-page"><a href="/w/index.php?title=Parallel_Extensions&amp;action=edit&amp;redlink=1" class="new" title="Parallel Extensions（页面不存在）">PLINQ</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parallel_Extensions#PLINQ" class="extiw" title="en:Parallel Extensions"><span lang="en" dir="auto">Parallel Extensions#PLINQ</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="并行虚拟机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parallel Virtual Machine"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B6%E8%A1%8C%E8%99%9A%E6%8B%9F%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="并行虚拟机（页面不存在）">并行虚拟机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parallel_Virtual_Machine" class="extiw" title="en:Parallel Virtual Machine"><span lang="en" dir="auto">Parallel Virtual Machine</span></a></span>）</span></span>（PVM）</li>
+<li><a href="/wiki/POSIX%E7%BA%BF%E7%A8%8B" title="POSIX线程">POSIX线程</a></li>
+<li><span class="ilh-all" data-orig-title="RaftLib" data-lang-code="en" data-lang-name="英语" data-foreign-title="RaftLib"><span class="ilh-page"><a href="/w/index.php?title=RaftLib&amp;action=edit&amp;redlink=1" class="new" title="RaftLib（页面不存在）">RaftLib</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RaftLib" class="extiw" title="en:RaftLib"><span lang="en" dir="auto">RaftLib</span></a></span>）</span></span></li>
+<li><a href="/wiki/Unified_Parallel_C" title="Unified Parallel C">UPC</a></li>
+<li><span class="ilh-all" data-orig-title="Threading Building Blocks" data-lang-code="en" data-lang-name="英语" data-foreign-title="Threading Building Blocks"><span class="ilh-page"><a href="/w/index.php?title=Threading_Building_Blocks&amp;action=edit&amp;redlink=1" class="new" title="Threading Building Blocks（页面不存在）">TBB</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Threading_Building_Blocks" class="extiw" title="en:Threading Building Blocks"><span lang="en" dir="auto">Threading Building Blocks</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">问题</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="软件闭锁" data-lang-code="en" data-lang-name="英语" data-foreign-title="Software lockout"><span class="ilh-page"><a href="/w/index.php?title=%E8%BD%AF%E4%BB%B6%E9%97%AD%E9%94%81&amp;action=edit&amp;redlink=1" class="new" title="软件闭锁（页面不存在）">软件闭锁</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Software_lockout" class="extiw" title="en:Software lockout"><span lang="en" dir="auto">Software lockout</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%AF%E7%BC%A9%E6%94%BE%E6%80%A7" title="可缩放性">可缩放性</a></li>
+<li><a href="/wiki/%E7%AB%B6%E7%88%AD%E5%8D%B1%E5%AE%B3" title="竞争危害">竞争危害</a></li>
+<li><a href="/wiki/%E6%AD%BB%E9%94%81" title="死锁">死锁</a></li>
+<li><a href="/wiki/%E6%AD%BB%E9%94%81" title="死锁">活锁</a></li>
+<li><span class="ilh-all" data-orig-title="饥饿 (计算机科学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Starvation (computer science)"><span class="ilh-page"><a href="/w/index.php?title=%E9%A5%A5%E9%A5%BF_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="饥饿 (计算机科学)（页面不存在）">饥饿</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Starvation_(computer_science)" class="extiw" title="en:Starvation (computer science)"><span lang="en" dir="auto">Starvation (computer science)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%AE%97%E6%B3%95" title="确定性算法">确定性算法</a></li>
+<li><span class="ilh-all" data-orig-title="并行变慢" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parallel slowdown"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B6%E8%A1%8C%E5%8F%98%E6%85%A2&amp;action=edit&amp;redlink=1" class="new" title="并行变慢（页面不存在）">并行变慢</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parallel_slowdown" class="extiw" title="en:Parallel slowdown"><span lang="en" dir="auto">Parallel slowdown</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span>&#160;<a href="/wiki/Category:%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="Category:并行计算">分类：并行计算</a></li>
+<li><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" class="extiw" title="commons:Category:并行计算">多任务处理</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2361
+Cached time: 20240331040644
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.570 seconds
+Real time usage: 0.749 seconds
+Preprocessor visited node count: 5066/1000000
+Post‐expand include size: 404029/2097152 bytes
+Template argument size: 12043/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 64/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9322/5000000 bytes
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 25829444/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  544.620      1 -total
+ 36.28%  197.594      2 Template:Navbox
+ 22.77%  124.006     60 Template:Tsl
+ 22.12%  120.462      1 Template:Multiple_issues
+ 22.05%  120.071      1 Template:并行计算
+ 17.91%   97.556      1 Template:Lang-en
+ 15.82%   86.169      1 Template:Expand_language
+ 15.08%   82.105      3 Template:Ambox
+ 15.06%   82.015      1 Template:操作系统
+  9.12%   49.643      1 Template:NoteTA
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:1414004-0!userlang=zh-cn!zh-cn and timestamp 20240331040644 and revision id 74532796. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=多任务处理&amp;oldid=74532796">https://zh.wikipedia.org/w/index.php?title=多任务处理&amp;oldid=74532796</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%9B%BB%E8%85%A6%E6%9E%B6%E6%A7%8B" title="Category:電腦架構">电脑架构</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2022%E5%B9%B48%E6%9C%88%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:自2022年8月需要從英語維基百科翻譯的條目">自2022年8月需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:需要從英語維基百科翻譯的條目">需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2022%E5%B9%B48%E6%9C%88%E7%BC%BA%E5%B0%91%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2022年8月缺少来源的条目">自2022年8月缺少来源的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%85%A8%E9%83%A8%E5%B0%8F%E4%BD%9C%E5%93%81" title="Category:全部小作品">全部小作品</a></li><li><a href="/wiki/Category:%E9%9B%BB%E8%85%A6%E5%B0%8F%E4%BD%9C%E5%93%81" title="Category:電腦小作品">电脑小作品</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E7%94%B1%E6%9C%AC%E5%9C%B0%E5%AE%9A%E4%B9%89" title="Category:维基共享资源分类链接由本地定义">维基共享资源分类链接由本地定义</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2022年11月9日 (星期三) 10:37。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-r78h2","wgBackendResponseTime":188,"wgPageParseReport":{"limitreport":{"cputime":"0.570","walltime":"0.749","ppvisitednodes":{"value":5066,"limit":1000000},"postexpandincludesize":{"value":404029,"limit":2097152},"templateargumentsize":{"value":12043,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":64,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9322,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  544.620      1 -total"," 36.28%  197.594      2 Template:Navbox"," 22.77%  124.006     60 Template:Tsl"," 22.12%  120.462      1 Template:Multiple_issues"," 22.05%  120.071      1 Template:并行计算"," 17.91%   97.556      1 Template:Lang-en"," 15.82%   86.169      1 Template:Expand_language"," 15.08%   82.105      3 Template:Ambox"," 15.06%   82.015      1 Template:操作系统","  9.12%   49.643      1 Template:NoteTA"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":25829444,"limit":52428800}},"cachereport":{"origin":"mw2361","timestamp":"20240331040644","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u591a\u4efb\u52a1\u5904\u7406","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86","sameAs":"http:\/\/www.wikidata.org\/entity\/Q192969","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q192969","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-09-16T03:12:40Z","dateModified":"2022-11-09T10:37:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/CTOS-B25.JPG"}</script>
+</body>
+</html>

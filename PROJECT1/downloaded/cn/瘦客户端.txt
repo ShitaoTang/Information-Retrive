@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>瘦客户端 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"c896c2ec-3d91-49dd-aa7b-99c73adc4cb6","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"瘦客户端","wgTitle":"瘦客户端","wgCurRevisionId":77677492,"wgRevisionId":77677492,"wgArticleId":333697,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2018年7月缺少来源的条目","自2022年3月缺少来源以彰显关注度的条目","需要從英語維基百科翻譯的條目","含有多个问题的条目","含有英語的條目","维基共享资源分类链接使用了维基数据上的匹配项","微電腦","電腦輸出裝置","瘦客戶端"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"瘦客户端",
+"wgRelevantArticleId":333697,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q918090","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips",
+"ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/02/ClientronU700.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1395">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ClientronU700.jpg/800px-ClientronU700.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="930">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ClientronU700.jpg/640px-ClientronU700.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="744">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="瘦客户端 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-瘦客户端 rootpage-瘦客户端 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-简介"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#简介">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>简介</div>
+		</a>
+		
+		<ul id="toc-简介-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-与网络计算机的区别"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#与网络计算机的区别">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>与网络计算机的区别</div>
+		</a>
+		
+			<button aria-controls="toc-与网络计算机的区别-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关与网络计算机的区别子章节</span>
+			</button>
+		
+		<ul id="toc-与网络计算机的区别-sublist" class="vector-toc-list">
+			<li id="toc-应用程序"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#应用程序">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>应用程序</div>
+			</a>
+			
+			<ul id="toc-应用程序-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-用户界面设备"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#用户界面设备">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>用户界面设备</div>
+			</a>
+			
+			<ul id="toc-用户界面设备-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-軟體式精簡客戶端"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#軟體式精簡客戶端">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>软件式精简客户端</div>
+			</a>
+			
+			<ul id="toc-軟體式精簡客戶端-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-瘦客户端的优点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#瘦客户端的优点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>瘦客户端的优点</div>
+		</a>
+		
+		<ul id="toc-瘦客户端的优点-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-传统客户端的优点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#传统客户端的优点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>传统客户端的优点</div>
+		</a>
+		
+		<ul id="toc-传统客户端的优点-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-虚拟网络磁盘终端的优缺点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#虚拟网络磁盘终端的优缺点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>虚拟网络磁盘终端的优缺点</div>
+		</a>
+		
+			<button aria-controls="toc-虚拟网络磁盘终端的优缺点-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关虚拟网络磁盘终端的优缺点子章节</span>
+			</button>
+		
+		<ul id="toc-虚拟网络磁盘终端的优缺点-sublist" class="vector-toc-list">
+			<li id="toc-优点"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#优点">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>优点</div>
+			</a>
+			
+			<ul id="toc-优点-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-缺点"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#缺点">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>缺点</div>
+			</a>
+			
+			<ul id="toc-缺点-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-协议"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#协议">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>协议</div>
+		</a>
+		
+		<ul id="toc-协议-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-瘦客戶端的主要生產商"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#瘦客戶端的主要生產商">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>瘦客户端的主要生产商</div>
+		</a>
+		
+		<ul id="toc-瘦客戶端的主要生產商-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-开源项目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#开源项目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>开源项目</div>
+		</a>
+		
+		<ul id="toc-开源项目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr">瘦客户端</h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。24种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-24" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">24种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%8A%D9%84_%D9%85%D9%86%D8%AE%D9%81%D8%B6_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1" title="عميل منخفض الأداء – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D1%96_%D0%BA%D0%BB%D1%96%D0%B5%D0%BD%D1%82" title="Тонкі кліент – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%8A%D0%BD%D1%8A%D0%BA_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" title="Тънък клиент – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Client_lleuger" title="Client lleuger – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Tenk%C3%BD_klient" title="Tenký klient – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Thin_Client" title="Thin Client – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Thin_client" title="Thin client – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Cliente_liviano" title="Cliente liviano – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%86_%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA" title="تین کلاینت – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kevyt_asiakasp%C3%A4%C3%A4te" title="Kevyt asiakaspääte – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Client_l%C3%A9ger" title="Client léger – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Tanki_klijent" title="Tanki klijent – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Thin_client" title="Thin client – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88" title="シンクライアント – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%96%D2%B1%D2%9B%D0%B0_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" title="Жұқа клиент – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%8B%A0_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8" title="신 클라이언트 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Thin_client" title="Thin client – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Tynnklient" title="Tynnklient – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Cienki_klient" title="Cienki klient – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Thin_client" title="Thin client – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" title="Тонкий клиент – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Tunn_klient" title="Tunn klient – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%96%D1%94%D0%BD%D1%82" title="Тонкий клієнт – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Thin_client" title="Thin client – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q918090#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;oldid=77677492" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;id=77677492&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%2598%25A6%25E5%25AE%25A2%25E6%2588%25B7%25E7%25AB%25AF"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%2598%25A6%25E5%25AE%25A2%25E6%2588%25B7%25E7%25AB%25AF"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q918090" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Thin_clients" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-54077136" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF" title="Talk:瘦客户端">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>没有列出任何<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">参考或来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年7月1日</span>)</i></small><span class="hide-when-compact"><br /><small>维基百科所有的内容都应该<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查证">可供查证</a>。请协助补充<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit">改善这篇条目</a>。无法查证的内容可能会因为异议提出而被移除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Notability_Unreferenced plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/50px-Tango-nosources.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/75px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/100px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span"><b>此条目也许具备<a href="/wiki/Wikipedia:%E5%85%B3%E6%B3%A8%E5%BA%A6" title="Wikipedia:关注度">关注度</a>，但需要<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">可靠的来源</a></b>来加以彰显。<small><i>（2022年3月19日）</i></small><span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>请协助补充<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit">改善这篇条目</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expand_English plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>可参照<a href="https://en.wikipedia.org/wiki/Thin_client" class="extiw" title="en:Thin client">英语维基百科</a>相应条目来扩充</b>。<span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>若您熟悉来源语言和主题，请协助<a href="/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:翻译守则">参考外语维基百科扩充条目</a>。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依<a href="/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9" title="Wikipedia:在维基百科内复制内容">版权协议</a>，译文需<a href="/wiki/Wikipedia:%E7%B7%A8%E8%BC%AF%E6%91%98%E8%A6%81#翻譯文章" title="Wikipedia:编辑摘要">在编辑摘要注明来源</a>，或于讨论页顶部标记<code>{{<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>}}</code>标签。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<p><br />
+</p>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-54077136" class="noteTA"><div class="noteTA-title" data-noteta-code="zh-hans:瘦客户端; zh-tw:精簡型用戶端; zh-sg:精简客户端;"></div><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-hans:瘦客户端; zh-tw:精簡型用戶端; zh-sg:精简客户端;"></div><div data-noteta-code="zh-cn:客户端;zh-tw:用戶端;"></div></div></div>
+<table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:88%;line-height:1.5em;margin: 0 0 1em 1em; float: right;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:;">“<span lang="en">thin client</span>”的各地常用名称</th></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">中国大陆</th><td style="white-space: nowrap; font-size: 1rem;;">瘦客户端、瘦客户机 </td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;">台湾</th><td style="white-space: nowrap; font-size: 1rem;;">精简型用户端、精简型电脑 </td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap; background-color:; width:4em;;"><style data-mw-deduplicate="TemplateStyles:r79005747">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><span class="rt-commentedText tooltip tooltip-dotted" title="新加坡、马来西亚">新马</span></th><td style="white-space: nowrap; font-size: 1rem;;">精简客户端 </td></tr></tbody></table>
+<p><b>瘦客户端</b>（英语：<span lang="en">thin client</span>）指的是在<a href="/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%9C%8D%E5%8A%A1%E5%99%A8" class="mw-redirect" title="客户端-服务器">客户端-服务器</a>网络体系中的一个基本无需<a href="/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F" title="应用程序">应用程序</a>的计算<a href="/wiki/%E5%93%91%E7%BB%88%E7%AB%AF" title="哑终端">哑终端</a>。它通过一些<a href="/wiki/%E5%8D%8F%E8%AE%AE" class="mw-disambig" title="协议">协议</a>和<a href="/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8" title="服务器">服务器</a>通信，进而接入<a href="/wiki/%E5%B1%80%E5%9F%9F%E7%BD%91" title="局域网">局域网</a>。瘦客户端将其<a href="/wiki/%E9%BC%A0%E6%A0%87" title="鼠标">鼠标</a>、<a href="/wiki/%E9%94%AE%E7%9B%98" class="mw-redirect" title="键盘">键盘</a>等输入传送到服务器处理，服务器再把处理结果回传至瘦客户端显示。不同的瘦客户端可以同时登录到服务器上，模拟出一个相互独立又在服务器上的工作环境；与此相反，普通客户端会尽可能多地进行本地数据处理，与服务器（或其他客户端）的通信中只传送必要的通信数据。
+</p>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:ClientronU700.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/ClientronU700.jpg/200px-ClientronU700.jpg" decoding="async" width="200" height="232" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/ClientronU700.jpg/300px-ClientronU700.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/ClientronU700.jpg/400px-ClientronU700.jpg 2x" data-file-width="881" data-file-height="1024" /></a><figcaption>一般PC 与Clientron公司的U700</figcaption></figure>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.AE.80.E4.BB.8B"></span><span class="mw-headline" id="简介">简介</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=1" title="编辑章节：简介"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Aleutia_E3_Medium_Client_in_Hand.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aleutia_E3_Medium_Client_in_Hand.jpg/220px-Aleutia_E3_Medium_Client_in_Hand.jpg" decoding="async" width="220" height="185" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/d/dc/Aleutia_E3_Medium_Client_in_Hand.jpg 1.5x" data-file-width="274" data-file-height="231" /></a><figcaption>2009年E3展览上的掌上型瘦客户端</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Gigabyte_TA7.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gigabyte_TA7.JPG/140px-Gigabyte_TA7.JPG" decoding="async" width="140" height="288" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gigabyte_TA7.JPG/210px-Gigabyte_TA7.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gigabyte_TA7.JPG/280px-Gigabyte_TA7.JPG 2x" data-file-width="1184" data-file-height="2432" /></a><figcaption>技嘉TA7采用模仿<a href="/wiki/PS2" class="mw-redirect" title="PS2">PS2</a>的外观</figcaption></figure>
+<p>设计一个客户端-服务器应用程序的时候，要分配好客户端和服务器需要分别完成的任务。这个分配工作将会极大地影响客户机和主机的成本，应用程序的健壮性和安全，和后期修改、移植灵活度。
+</p><p>其中一个难点是客户端软件应该多大程度上特定于应用程序。使用标准化的客户端软件，如<a href="/wiki/%E7%BD%91%E7%BB%9C%E6%B5%8F%E8%A7%88%E5%99%A8" class="mw-redirect" title="网络浏览器">网络浏览器</a>或<a href="/wiki/X11" class="mw-disambig" title="X11">X11</a>，能节省许多设计上的成本，但是缺陷是标准的客户端有很多局限性而无法针对用户个人化。
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Arbyte_nettop.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arbyte_nettop.jpg/220px-Arbyte_nettop.jpg" decoding="async" width="220" height="260" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arbyte_nettop.jpg/330px-Arbyte_nettop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arbyte_nettop.jpg/440px-Arbyte_nettop.jpg 2x" data-file-width="541" data-file-height="640" /></a><figcaption>附挂于屏幕后方的瘦客户端</figcaption></figure>
+<h2><span id=".E4.B8.8E.E7.BD.91.E7.BB.9C.E8.AE.A1.E7.AE.97.E6.9C.BA.E7.9A.84.E5.8C.BA.E5.88.AB"></span><span class="mw-headline" id="与网络计算机的区别">与网络计算机的区别</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=2" title="编辑章节：与网络计算机的区别"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>和<a href="/wiki/%E7%BD%91%E7%BB%9C%E8%AE%A1%E7%AE%97%E6%9C%BA" class="mw-redirect" title="网络计算机">网络计算机</a>（Network Computer、NetPC）最大的不同在于，瘦客户端无需<a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘</a>，所有的数据处理均由服务器完成。
+</p>
+<h3><span id=".E5.BA.94.E7.94.A8.E7.A8.8B.E5.BA.8F"></span><span class="mw-headline" id="应用程序">应用程序</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=3" title="编辑章节：应用程序"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span id=".E7.94.A8.E6.88.B7.E7.95.8C.E9.9D.A2.E8.AE.BE.E5.A4.87"></span><span class="mw-headline" id="用户界面设备">用户界面设备</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=4" title="编辑章节：用户界面设备"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>把瘦客户端作为一个设备，指的是把它设计成只提供对<a href="/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="用户界面">用户界面</a>程序有用的功能。通常这些设备都不配备<a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘</a>，因为在安装<a href="/wiki/%E6%83%A1%E6%84%8F%E8%BB%9F%E9%AB%94" class="mw-redirect" title="恶意软件">恶意程序</a>或非兼容程序时硬盘将有可能损坏。出于低维护成本和增加<a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E8%AE%BE%E5%A4%87%E5%A4%B1%E8%B4%A5%E9%97%B4%E9%9A%94%E6%97%B6%E9%97%B4&amp;action=edit&amp;redlink=1" class="new" title="平均设备失败间隔时间（页面不存在）">平均设备失败间隔时间</a>的需要，瘦客户端使用<a href="/wiki/%E5%8F%AA%E8%AF%BB%E5%AD%98%E5%82%A8%E5%99%A8" class="mw-redirect" title="只读存储器">只读存储器</a>如<a href="/wiki/CD-ROM" title="CD-ROM">光盘驱动器</a>、<a href="/w/index.php?title=%E7%BD%91%E7%BB%9C%E8%99%9A%E6%8B%9F%E9%A9%B1%E5%8A%A8%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="网络虚拟驱动器（页面不存在）">网络虚拟驱动器</a>或<a href="/wiki/%E9%97%AA%E5%AD%98" title="闪存">闪存</a>。
+</p><p>理想情况下，用户将只拥有一台显示器、一个键盘、一个触碰式设备（如有需要）和足够的计算设备以完成显示和通信功能。
+</p>
+<h3><span id=".E8.BB.9F.E9.AB.94.E5.BC.8F.E7.B2.BE.E7.B0.A1.E5.AE.A2.E6.88.B6.E7.AB.AF"></span><span class="mw-headline" id="軟體式精簡客戶端">软件式精简客户端</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=5" title="编辑章节：软件式精简客户端"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>然而多数精简客户端都是软件式，能在标准个人电脑硬件上执行。
+</p>
+<h2><span id=".E7.98.A6.E5.AE.A2.E6.88.B7.E7.AB.AF.E7.9A.84.E4.BC.98.E7.82.B9"></span><span class="mw-headline" id="瘦客户端的优点">瘦客户端的优点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=6" title="编辑章节：瘦客户端的优点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>瘦客户端的应用大大简化了起动映像（boot image）的控制。通常一个起动映像已能满足非常广泛的应用，而且能够集中管理，带来以下的好处：
+</p>
+<ul><li><b>管理成本较低</b> - 管理人员可以在服务器上集中管理瘦客户端的，而瘦客户端可能发生硬件故障的地方也较少。而由于本地环境被严格限制（通常还是没有记忆的），防止了恶意软件的攻击。</li></ul>
+<ul><li><b>数据的保护较容易</b> - 经过适当设计，应用数据完全不会存放在瘦客户端上（它只是把运算结果绘制出来）；对恶意软件防卫也可以集中进行。</li></ul>
+<ul><li><b>硬件成本较低</b> - 因为没有硬盘，存储器，也没有高性能的处理器，瘦客户端一般是较便宜，而且它们也不会常常需要升级或很快老化。即使把服务器的价钱计算在内，使用瘦客户端的总体价钱也往往比传统客户端低。其中一个原因是前者能把硬件物尽其用：传统客户端的处理器虽然强大，但往往只是被闲置。另外，瘦客户端之间可以共享存储器，若是多个用户同时使用一应用程序，那程序要只需在中央服务器上传入，这情况下胖客户端需各自把程序加载到本机的存储器。</li></ul>
+<ul><li><b>耗能量低</b> - 瘦客户端专用的硬件耗能量比胖客户端的低。除了节省了电费外，还可能免去空调或不须要额外的空调，显著地减省了成本又达到节能的目的。</li></ul>
+<ul><li><b>不会引起坏人兴趣</b> - 由于瘦客户端电脑是以专用的硬件或以较旧的硬件组装，它们不能在客户端-服务器以外的环境使用。坏人偷了后很难卖出，即使卖了价钱也不高。</li></ul>
+<ul><li><b>适合恶劣环境</b> - 因为没有散热扇，瘦客户端可在多尘的环境使用，不用担心尘埃积聚阻碍散热扇的运行。</li></ul>
+<ul><li><b>使用较少带宽</b> - 若使用胖客户端，用户开启10MB的文件，便需要把这10MB发送到用户的电脑上，存储时又要把这10MB发送到文件服务器去，打印时亦要把10MB发送到打印机上，这是没有效率的。在瘦客户端的环境下，由于终端服务器和文件服务器通常以高速的主轴网络相连，开启或存储文件的通信得以局限在服务器室里。在服务器和用户之间，只有鼠标和键盘活动，以及屏幕的更新需要发送。使用如ICA等的协议，发送这些消息所需的带宽可低至5kbps。</li></ul>
+<h2><span id=".E4.BC.A0.E7.BB.9F.E5.AE.A2.E6.88.B7.E7.AB.AF.E7.9A.84.E4.BC.98.E7.82.B9"></span><span class="mw-headline" id="传统客户端的优点">传统客户端的优点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=7" title="编辑章节：传统客户端的优点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>对服务器的要求较低</b> - 因为大部分的应用处理都在客户端进行，所以传统客户端不像瘦客户端那样需要高性能的服务器，服务器成本大大降低。</li>
+<li><b>多媒体性能较佳</b> - 在运行多媒体应用程序时，传统客户端较为占优，因为这时瘦客户端需要大量的带宽。例如<a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">电子游戏</a>制就较适合在传统客户端上运行。</li>
+<li><b>弹性较大</b> - 在某些操作系统上（例如Windows），软件是被设计在拥有本地资源的个人电脑上运行的。尝试在瘦客户端的环境下执行这些软件可能会是困难的。</li></ul>
+<h2><span id=".E8.99.9A.E6.8B.9F.E7.BD.91.E7.BB.9C.E7.A3.81.E7.9B.98.E7.BB.88.E7.AB.AF.E7.9A.84.E4.BC.98.E7.BC.BA.E7.82.B9"></span><span class="mw-headline" id="虚拟网络磁盘终端的优缺点">虚拟网络磁盘终端的优缺点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=8" title="编辑章节：虚拟网络磁盘终端的优缺点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.BC.98.E7.82.B9"></span><span class="mw-headline" id="优点">优点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=9" title="编辑章节：优点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>人力花费更少</b>：同上。</li>
+<li><b>更易保全</b>：同上。</li>
+<li><b>硬件价格降低</b>：无需硬盘或<a href="/wiki/%E9%96%83%E5%AD%98" class="mw-redirect" title="闪存">闪存</a>作二级存储设备。</li>
+<li><b>被盗价值低</b>：同上。</li>
+<li><b>服务器需求更低</b>：服务器端只被用作文件服务器，而并非程序服务器。</li>
+<li><b>更佳的多媒体性能</b>：客户端可以使用其自有的硬件资源。</li>
+<li><b>灵活性更高</b>：同上。</li>
+<li><b>可延展性更高</b>：同上。</li></ul>
+<h3><span id=".E7.BC.BA.E7.82.B9"></span><span class="mw-headline" id="缺点">缺点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=10" title="编辑章节：缺点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>需要更快的局域网连接</b>：由于系统没有了本地的存储设备，系统非常依赖网络来交换信息，所以网络连线必须足够快，以应付其大量数据存输。</li></ul>
+<h2><span id=".E5.8D.8F.E8.AE.AE"></span><span class="mw-headline" id="协议">协议</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=11" title="编辑章节：协议"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>在<a href="/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%9C%8D%E5%8A%A1%E5%99%A8" class="mw-redirect" title="客户端-服务器">客户端-服务器</a>通信方式中有几种常用的通信协议：
+</p>
+<dl><dt><a href="/wiki/XML" title="XML">XML</a> over <a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a></dt>
+<dd><a href="/wiki/XHTML" title="XHTML">XHTML</a>和<a href="/w/index.php?title=BXML&amp;action=edit&amp;redlink=1" class="new" title="BXML（页面不存在）">BXML</a>使用此协议</dd></dl>
+<dl><dt><a href="/wiki/X11" class="mw-disambig" title="X11">X11</a></dt>
+<dd>几乎所有<a href="/wiki/Unix" class="mw-redirect" title="Unix">Unix</a>系统及其派生系统都采用此协议 (现阶段可与其竞争的技术有<a href="/wiki/Wayland" title="Wayland">Wayland</a>以及<a href="/wiki/Mir_(%E6%98%BE%E7%A4%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)" title="Mir (显示服务器)">Mir</a>)</dd></dl>
+<dl><dt><a href="/w/index.php?title=NX_technology&amp;action=edit&amp;redlink=1" class="new" title="NX technology（页面不存在）">NX technology</a></dt>
+<dd>X11协议的压缩版，提供高效服务。</dd></dl>
+<dl><dt><a href="/wiki/Virtual_Network_Computing" class="mw-redirect" title="Virtual Network Computing">Virtual Network Computing</a>（VNC）</dt>
+<dd>提供虚拟桌面共享功能</dd></dl>
+<dl><dt><a href="/wiki/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%8D%8F%E8%AE%AE" class="mw-redirect" title="远程桌面协议">远程桌面协议</a>（Remote Desktop Protocol，RDP）</dt>
+<dd><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">MS-Windows</a>上默认安装的远程服务器管理客户端。与其他瘦客户端协议不同的是，RDP技术是使一台瘦客户端访问在服务器执行的<a href="/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虚拟机">虚拟机</a>会话/桌面，而不是软件。</dd></dl>
+<h2><span id=".E7.98.A6.E5.AE.A2.E6.88.B6.E7.AB.AF.E7.9A.84.E4.B8.BB.E8.A6.81.E7.94.9F.E7.94.A2.E5.95.86"></span><span class="mw-headline" id="瘦客戶端的主要生產商">瘦客户端的主要生产商</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=12" title="编辑章节：瘦客户端的主要生产商"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.myelux.com/">eLux NG</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20180211192459/http://www.myelux.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060904185959/http://www.infotronic.com/">INFOTRONIC</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.Rangee.com/">Rangee Thin Clients</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210118035056/http://www.rangee.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.neoware.com/">Neoware Systems</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20071123083401/http://www.neoware.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.Igel.de/">Igel Technology</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210411001940/http://www.igel.de/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.Wyse.de/">Wyse</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20130906163233/http://www.wyse.de/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.atrustcorp.com/">Atrust</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201023000708/http://www.atrustcorp.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060519223027/http://www.thincco.com/">ThinCCo AG</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.linware.de/">LinWare Thin Clients</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20170607204704/http://www.linware.de/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.thinner.de/">Thinner</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20180313225431/http://www.thinner.de/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.liscon.com/">LISCON</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200920013710/http://www.liscon.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.axel.com/">AXEL</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210414133244/http://www.axel.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.levigo.de/thinclients/">levigo ThinClient Suite</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20050907105825/http://www.levigo.de/thinclients/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061029122933/http://h18000.www1.hp.com/products/thinclients/">HP Compaq ThinClient</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090817163655/http://www.termtek.com.tw/">Termtek Computer</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.centerm.com.cn/">CENTERM</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200702050415/http://www.centerm.com.cn/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://www.clientron.com/">Clientron</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20151226113809/https://www.clientron.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h2><span id=".E5.BC.80.E6.BA.90.E9.A1.B9.E7.9B.AE"></span><span class="mw-headline" id="开源项目">开源项目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=13" title="编辑章节：开源项目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://thinstation.sourceforge.net">ThinStation</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210323202446/http://thinstation.sourceforge.net/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://openthinclient.org">OpenThinClient</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20090105191540/http://openthinclient.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=14" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=15" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Thin_clients" class="extiw" title="commons:Category:Thin clients"><span style="font-weight:bold;">瘦客户端</span></a></td></tr></tbody></table>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;action=edit&amp;section=16" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=%E5%B1%80%E5%9F%9F%E7%BD%91%E6%95%B4%E5%90%88%E7%BB%88%E7%AB%AF&amp;action=edit&amp;redlink=1" class="new" title="局域网集成终端（页面不存在）">局域网集成终端</a>（LAN Intergrated Terminals）</li>
+<li><a href="/wiki/%E5%93%91%E7%BB%88%E7%AB%AF" title="哑终端">哑终端</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2339
+Cached time: 20240331075549
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.408 seconds
+Real time usage: 0.533 seconds
+Preprocessor visited node count: 2554/1000000
+Post‐expand include size: 240833/2097152 bytes
+Template argument size: 10901/2097152 bytes
+Highest expansion depth: 35/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 203/5000000 bytes
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 17690028/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  390.283      1 -total
+ 34.66%  135.257      1 Template:Multiple_issues
+ 26.52%  103.502      4 Template:Ambox
+ 25.50%   99.510      1 Template:Lang-en
+ 15.42%   60.179      1 Template:NoteTA
+ 15.38%   60.021      1 Template:Expand_English
+ 14.48%   56.498      1 Template:各地中文名
+ 14.29%   55.766      1 Template:Expand_language
+ 13.98%   54.548      1 Template:各地中文名/infobox
+ 13.36%   52.132      1 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:333697-0!canonical!zh-cn and timestamp 20240331075549 and revision id 77677492. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=瘦客户端&amp;oldid=77677492">https://zh.wikipedia.org/w/index.php?title=瘦客户端&amp;oldid=77677492</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%BE%AE%E9%9B%BB%E8%85%A6" title="Category:微電腦">微电脑</a></li><li><a href="/wiki/Category:%E9%9B%BB%E8%85%A6%E8%BC%B8%E5%87%BA%E8%A3%9D%E7%BD%AE" title="Category:電腦輸出裝置">电脑输出装置</a></li><li><a href="/wiki/Category:%E7%98%A6%E5%AE%A2%E6%88%B6%E7%AB%AF" title="Category:瘦客戶端">瘦客户端</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B47%E6%9C%88%E7%BC%BA%E5%B0%91%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2018年7月缺少来源的条目">自2018年7月缺少来源的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2022%E5%B9%B43%E6%9C%88%E7%BC%BA%E5%B0%91%E6%9D%A5%E6%BA%90%E4%BB%A5%E5%BD%B0%E6%98%BE%E5%85%B3%E6%B3%A8%E5%BA%A6%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2022年3月缺少来源以彰显关注度的条目">自2022年3月缺少来源以彰显关注度的条目</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A6%81%E5%BE%9E%E8%8B%B1%E8%AA%9E%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BF%BB%E8%AD%AF%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:需要從英語維基百科翻譯的條目">需要从英语维基百科翻译的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年6月14日 (星期三) 08:38。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2305","wgBackendResponseTime":156,"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.533","ppvisitednodes":{"value":2554,"limit":1000000},"postexpandincludesize":{"value":240833,"limit":2097152},"templateargumentsize":{"value":10901,"limit":2097152},"expansiondepth":{"value":35,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":203,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  390.283      1 -total"," 34.66%  135.257      1 Template:Multiple_issues"," 26.52%  103.502      4 Template:Ambox"," 25.50%   99.510      1 Template:Lang-en"," 15.42%   60.179      1 Template:NoteTA"," 15.38%   60.021      1 Template:Expand_English"," 14.48%   56.498      1 Template:各地中文名"," 14.29%   55.766      1 Template:Expand_language"," 13.98%   54.548      1 Template:各地中文名/infobox"," 13.36%   52.132      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":17690028,"limit":52428800}},"cachereport":{"origin":"mw2339","timestamp":"20240331075549","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u7626\u5ba2\u6237\u7aef","url":"https:\/\/zh.wikipedia.org\/wiki\/%E7%98%A6%E5%AE%A2%E6%88%B7%E7%AB%AF","sameAs":"http:\/\/www.wikidata.org\/entity\/Q918090","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q918090","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-22T08:10:30Z","dateModified":"2023-06-14T08:38:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/02\/ClientronU700.jpg"}</script>
+</body>
+</html>

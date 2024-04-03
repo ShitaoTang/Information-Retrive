@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>脑机接口 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"2fbf459f-b8d2-44db-ad40-f3aec0e4574e","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"脑机接口","wgTitle":"脑机接口","wgCurRevisionId":79073806,"wgRevisionId":79073806,"wgArticleId":428117,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2018年4月带有失效链接的条目","条目有永久失效的外部链接","Webarchive模板wayback链接","含有过时参数的引用的页面","含有英語的條目","自2012年11月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","使用小型訊息框的頁面","包含BNF标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目",
+"包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目","脑机接口技术","神经修复学","神经工程","人機互動","神经技术"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"脑机接口","wgRelevantArticleId":428117,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"人機介面","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":
+"/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q897410","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="脑机接口 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-脑机接口 rootpage-脑机接口 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-脑机接口与神经修复"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#脑机接口与神经修复">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>脑机接口与神经修复</div>
+		</a>
+		
+		<ul id="toc-脑机接口与神经修复-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-动物脑机接口研究"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#动物脑机接口研究">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>动物脑机接口研究</div>
+		</a>
+		
+			<button aria-controls="toc-动物脑机接口研究-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关动物脑机接口研究子章节</span>
+			</button>
+		
+		<ul id="toc-动物脑机接口研究-sublist" class="vector-toc-list">
+			<li id="toc-早期工作"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#早期工作">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>早期工作</div>
+			</a>
+			
+			<ul id="toc-早期工作-sublist" class="vector-toc-list">
+				<li id="toc-面向运动功能的脑机接口"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#面向运动功能的脑机接口">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1.1</span>面向运动功能的脑机接口</div>
+			</a>
+			
+			<ul id="toc-面向运动功能的脑机接口-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-面向感觉功能的脑机接口"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#面向感觉功能的脑机接口">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1.2</span>面向感觉功能的脑机接口</div>
+			</a>
+			
+			<ul id="toc-面向感觉功能的脑机接口-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-研究进程大事记"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#研究进程大事记">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>研究进程大事记</div>
+			</a>
+			
+			<ul id="toc-研究进程大事记-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-人类脑机接口研究"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#人类脑机接口研究">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>人类脑机接口研究</div>
+		</a>
+		
+			<button aria-controls="toc-人类脑机接口研究-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关人类脑机接口研究子章节</span>
+			</button>
+		
+		<ul id="toc-人类脑机接口研究-sublist" class="vector-toc-list">
+			<li id="toc-侵入式脑机接口"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#侵入式脑机接口">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>侵入式脑机接口</div>
+			</a>
+			
+			<ul id="toc-侵入式脑机接口-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-部分侵入式脑机接口"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#部分侵入式脑机接口">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>部分侵入式脑机接口</div>
+			</a>
+			
+			<ul id="toc-部分侵入式脑机接口-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-非侵入式脑机接口"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#非侵入式脑机接口">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>非侵入式脑机接口</div>
+			</a>
+			
+			<ul id="toc-非侵入式脑机接口-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-成果商品化及公司介绍"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#成果商品化及公司介绍">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>成果商品化及公司介绍</div>
+			</a>
+			
+			<ul id="toc-成果商品化及公司介绍-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-细胞培养物的脑机接口"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#细胞培养物的脑机接口">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>细胞培养物的脑机接口</div>
+		</a>
+		
+		<ul id="toc-细胞培养物的脑机接口-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-伦理问题"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#伦理问题">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>伦理问题</div>
+		</a>
+		
+		<ul id="toc-伦理问题-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-在虛構作品"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#在虛構作品">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>在虚构作品</div>
+		</a>
+		
+		<ul id="toc-在虛構作品-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参閲"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参閲">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>参阅</div>
+		</a>
+		
+		<ul id="toc-参閲-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>外部链接</div>
+		</a>
+		
+			<button aria-controls="toc-外部链接-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关外部链接子章节</span>
+			</button>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+			<li id="toc-相关组织"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#相关组织">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.1</span>相关组织</div>
+			</a>
+			
+			<ul id="toc-相关组织-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-前文提及的研究者"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#前文提及的研究者">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.2</span>前文提及的研究者</div>
+			</a>
+			
+			<ul id="toc-前文提及的研究者-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-链接和文献"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#链接和文献">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.3</span>链接和文献</div>
+			</a>
+			
+			<ul id="toc-链接和文献-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">脑机接口</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。35种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-35" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">35种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA_%D9%88%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8" title="واجهة الدماغ والحاسوب – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ary mw-list-item"><a href="https://ary.wikipedia.org/wiki/%D8%A3%D9%86%D8%B7%D9%8A%D8%B1%D9%81%D8%A7%D8%B5_%D9%85%D8%AE-%D8%A4%D8%B1%D8%AF%D9%8A%D9%86%D8%A7%D8%AA%D9%88%D8%B1" title="أنطيرفاص مخ-ؤرديناتور – 摩洛哥阿拉伯文" lang="ary" hreflang="ary" class="interlanguage-link-target"><span>الدارجة</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Beyin-komp%C3%BCter_interfeysi" title="Beyin-kompüter interfeysi – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Su%C4%8Delje_mozak%E2%80%93ra%C4%8Dunar" title="Sučelje mozak–računar – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Interf%C3%ADcie_cervell-ordinador" title="Interfície cervell-ordinador – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Brain-computer_interface" title="Brain-computer interface – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Brain-computer_interface" title="Brain-computer interface – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Brain-Computer-Interface" title="Brain-Computer-Interface – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface" title="Brain–computer interface – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora" title="Interfaz cerebro-computadora – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Aju-arvuti_liides" title="Aju-arvuti liides – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D8%B3%D8%B7_%D9%85%D8%BA%D8%B2_%D9%88_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87" title="واسط مغز و رایانه – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Aivok%C3%A4ytt%C3%B6liittym%C3%A4" title="Aivokäyttöliittymä – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Interface_neuronale_directe" title="Interface neuronale directe – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%A9%D7%A7_%D7%9E%D7%95%D7%97-%D7%9E%D7%97%D7%A9%D7%91" title="ממשק מוח-מחשב – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Su%C4%8Delje_mozak-ra%C4%8Dunalo" title="Sučelje mozak-računalo – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Antarmuka_otak-komputer" title="Antarmuka otak-komputer – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Interfaccia_neurale" title="Interfaccia neurale – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9" title="ブレイン・マシン・インタフェース – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko badge-Q17437798 badge-goodarticle mw-list-item" title="优良条目"><a href="https://ko.wikipedia.org/wiki/%EB%87%8C-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4" title="뇌-컴퓨터 인터페이스 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%B0%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B5%BB_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BC%E0%B4%AB%E0%B5%87%E0%B4%B8%E0%B5%8D" title="ബ്രെയിൻ കമ്പ്യൂട്ടർ ഇന്റർഫേസ് – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Brain-computer_interface" title="Brain-computer interface – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Interfejs_m%C3%B3zg%E2%80%93komputer" title="Interfejs mózg–komputer – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Interface_c%C3%A9rebro-computador" title="Interface cérebro-computador – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Interfa%C8%9B%C4%83_creier-calculator" title="Interfață creier-calculator – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Нейрокомпьютерный интерфейс – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Mo%C5%BEgansko-ra%C4%8Dunalni%C5%A1ki_vmesnik" title="Možgansko-računalniški vmesnik – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Nd%C3%ABrfaqja_tru-kompjuter" title="Ndërfaqja tru-kompjuter – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Brain-machine_interface" title="Brain-machine interface – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%82%E0%AE%B3%E0%AF%88-%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF_%E0%AE%87%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D" title="மூளை-கணினி இடைமுகம் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="ส่วนต่อประสานสมองกับคอมพิวเตอร์ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Beyin-bilgisayar_aray%C3%BCz%C3%BC" title="Beyin-bilgisayar arayüzü – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BA%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Нейрокомп&#039;ютерний інтерфейс – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Giao_di%E1%BB%87n_n%C3%A3o-m%C3%A1y_t%C3%ADnh" title="Giao diện não-máy tính – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%85%A6%E6%A9%9F%E4%BB%8B%E9%9D%A2" title="腦機介面 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q897410#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;oldid=79073806" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;id=79073806&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2584%2591%25E6%259C%25BA%25E6%258E%25A5%25E5%258F%25A3"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2584%2591%25E6%259C%25BA%25E6%258E%25A5%25E5%258F%25A3"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q897410" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Brain-computer_interfaces" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-22e7caa" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E4%BA%BA%E6%A9%9F%E4%BB%8B%E9%9D%A2&amp;redirect=no" class="mw-redirect" title="人機介面">人機介面</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-22e7caa" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-Hans:脑机; zh-Hant:腦機;"></div></div></div>
+<div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>此条目页的主题是人或动物的脑部（或者脑细胞培养物）与外部设备的电脑或机器建立的直接连接通路。关于机器和电脑系统与用户之间的操作接口或交互关系，请见“<b><a href="/wiki/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92" title="人机交互">人机交互</a></b>”。</div>
+<p><b>脑机接口</b>（英语：<span lang="en"><b>brain-computer interface</b></span>，简称<b>BCI</b>；有时也称作<b>direct neural interface</b>或者<b>brain-machine interface</b>），是在<a href="/wiki/%E4%BA%BA" title="人">人</a>或<a href="/wiki/%E5%8A%A8%E7%89%A9" title="动物">动物</a><a href="/wiki/%E8%84%91" title="脑">脑</a>（或者脑细胞的培养物）与外部设备间建立的直接连接通路。在单向脑机接口的情况下，电脑接受脑传来的命令，或者发送信号到脑，但不能同时发送和接收信号<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。而双向脑机接口允许脑和外部设备间的双向信息交换。 
+</p><p>在该定义中，“脑”一词意指<a href="/w/index.php?title=%E6%9C%89%E6%9C%BA%E7%94%9F%E5%91%BD%E5%BD%A2%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="有机生命形式（页面不存在）">有机生命形式</a>的<a href="/wiki/%E8%84%91" title="脑">脑</a>或<a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%B3%BB%E7%BB%9F" title="神经系统">神经系统</a>，而并非仅仅是抽象的“<a href="/wiki/%E5%BF%83%E6%99%BA" title="心智">心智</a>”（mind）。“机”意指任何处理或运算的设备，其形式可以从简单电路到硅<a href="/wiki/%E6%99%B6%E7%89%87" class="mw-redirect" title="芯片">芯片</a>。 
+</p><p>对脑机接口的研究已持续了超过30年。1990年代中期以来，从实验中获得的此类知识显著增长。在多年来<a href="/wiki/%E5%8B%95%E7%89%A9%E5%AF%A6%E9%A9%97" class="mw-redirect" title="动物实验">动物实验</a>的实践基础上，应用于人体的早期植入设备被设计及制造出来，用于恢复损伤的听觉、视觉和肢体运动能力。研究的主线是大脑不同寻常的<a href="/wiki/%E7%9A%AE%E5%B1%82%E5%8F%AF%E5%A1%91%E6%80%A7" title="皮层可塑性">皮层可塑性</a>，它与脑机接口相适应，可以像自然肢体那样控制植入的假肢。在当前所获取的技术与知识的进展之下，脑机接口研究的先驱者们可令人信服地尝试制造出增强人体功能的脑机接口，而不仅仅止于恢复人体的功能。这种技术在以前还只存在于<a href="/wiki/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4" title="科幻小说">科幻小说</a>之中。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3.E4.B8.8E.E7.A5.9E.E7.BB.8F.E4.BF.AE.E5.A4.8D"></span><span class="mw-headline" id="脑机接口与神经修复">脑机接口与神经修复</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=1" title="编辑章节：脑机接口与神经修复"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/w/index.php?title=%E7%A5%9E%E7%BB%8F%E4%BF%AE%E5%A4%8D&amp;action=edit&amp;redlink=1" class="new" title="神经修复（页面不存在）">神经修复</a></div>
+<p>神经修复是<a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6" title="神经科学">神经科学</a>中和神经的修复相关的领域，即是用人工设备（假体）替换掉原有功能已削弱的部分神经或感觉器官。<a href="/wiki/%E7%A5%9E%E7%BB%8F%E5%81%87%E4%BD%93" class="mw-redirect" title="神经假体">神经假体</a>最广泛的应用是<a href="/wiki/%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97" title="人工耳蜗">人工耳蜗</a>，截止到2006年世界上已有大约十万人植入<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。也有一些神经假体是用于恢复视力的，如<a href="/wiki/Retinal_implant" class="mw-redirect" title="Retinal implant">人工视网膜</a>，但目前在这方面的工作仅仅局限于将人工设备直接植入脑部。
+</p><p>脑机接口和神经修复的区别主要从字面上就可见其端倪：“神经修复”通常指临床上使用的设备，而许多现有的脑机接口仍然是实验性质的。实践上讲神经假体可以和神经系统的任意部分相连接，如外周神经系统；而“脑机接口”通常指一类范围更窄的直接与脑相连接的系统。
+</p><p>由于目标和实现手段的相似性，“神经修复”和“脑机接口”两术语经常可以通用。神经修复和脑机接口尝试达到一个共同的目标，如恢复视觉、听觉、运动能力，甚至是认知的能力。两者都使用类似的实验方法和外科手术技术。
+</p>
+<h2><span id=".E5.8A.A8.E7.89.A9.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3.E7.A0.94.E7.A9.B6"></span><span class="mw-headline" id="动物脑机接口研究">动物脑机接口研究</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=2" title="编辑章节：动物脑机接口研究"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>一些实验室已实现从猴和大鼠的<a href="/wiki/%E5%A4%A7%E8%84%91%E7%9A%AE%E5%B1%82" class="mw-redirect" title="大脑皮层">大脑皮层</a>上记录信号以便操作脑机接口来实现运动控制。实验让猴只是通过回想给定的任务（而没有任何动作发生）来操纵屏幕上的计算机光标并且控制机械臂完成简单的任务。另外在猫上进行的研究对视觉信号进行了解码。
+</p>
+<h3><span id=".E6.97.A9.E6.9C.9F.E5.B7.A5.E4.BD.9C"></span><span class="mw-headline" id="早期工作">早期工作</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=3" title="编辑章节：早期工作"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E9.9D.A2.E5.90.91.E8.BF.90.E5.8A.A8.E5.8A.9F.E8.83.BD.E7.9A.84.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="面向运动功能的脑机接口">面向运动功能的脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=4" title="编辑章节：面向运动功能的脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>在面向运动功能的脑机接口方面，发展<a href="/wiki/%E7%AE%97%E6%B3%95" title="算法">算法</a>重建<a href="/wiki/%E8%BF%90%E5%8A%A8%E7%9A%AE%E5%B1%82" title="运动皮层">运动皮层</a><a href="/wiki/%E7%A5%9E%E7%BB%8F%E5%85%83" class="mw-redirect" title="神经元">神经元</a>对运动的控制，该研究可以回溯到20世纪70年代。Schmidt, Fetz和Baker领导的小组在20世纪70年代证实了<a href="/wiki/%E7%8C%B4" title="猴">猴</a>可以在闭环的<a href="/w/index.php?title=%E6%93%8D%E4%BD%9C%E6%80%A7%E6%9D%A1%E4%BB%B6%E4%BD%9C%E7%94%A8&amp;action=edit&amp;redlink=1" class="new" title="操作性条件作用（页面不存在）">操作性条件作用</a>（closed-loop operant conditioning）后快速学会自由地控制初级运动皮层中单个神经元的放电频率<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。20世纪80年代，<a href="/wiki/%E7%BA%A6%E7%BF%B0%E6%96%AF%C2%B7%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6" title="约翰斯·霍普金斯大学">约翰斯·霍普金斯大学</a>的Apostolos Georgopoulos找到了<a href="/wiki/%E7%8D%BC%E7%8C%B4" title="猕猴">猕猴</a>的上肢运动的方向和运动皮层中单个神经元放电模式的关系。他同时也发现，一组分散的神经元也能够编码肢体运动<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>。
+</p><p>20世纪九十年代中期以来，面向运动的脑机接口经历了迅速的发展<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>。若干研究小组已经能够使用<a href="/w/index.php?title=%E7%A5%9E%E7%BB%8F%E9%9B%86%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="神经集群（页面不存在）">神经集群</a>记录技术实时捕捉<a href="/wiki/%E8%BF%90%E5%8A%A8%E7%9A%AE%E5%B1%82" title="运动皮层">运动皮层</a>中的复杂神经信号，并用来控制外部设备。其中主要包括了Richard Andersen、John Donoghue、Phillip Kennedy、Miguel Nicolelis和Andrew Schwartz等人的研究小组。
+</p>
+<h4><span id=".E9.9D.A2.E5.90.91.E6.84.9F.E8.A7.89.E5.8A.9F.E8.83.BD.E7.9A.84.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="面向感觉功能的脑机接口">面向感觉功能的脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=5" title="编辑章节：面向感觉功能的脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>目前人类已经能够修复或者正在尝试修复的感觉功能包括<a href="/wiki/%E5%90%AC%E8%A7%89" title="听觉">听觉</a>、<a href="/wiki/%E8%A7%86%E8%A7%89" title="视觉">视觉</a>和<a href="/w/index.php?title=%E5%89%8D%E5%BA%AD%E6%84%9F%E8%A7%89&amp;action=edit&amp;redlink=1" class="new" title="前庭感觉（页面不存在）">前庭感觉</a>。
+</p><p><a href="/wiki/%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97" title="人工耳蜗">人工耳蜗</a>是迄今为止最成功、临床应用最普及的脑机接口。
+</p><p>视觉修复技术尚在研发之中。这方面的研究和应用落后于听觉同能的主要原因是视觉传递信息量的巨大和外周感觉器官（<a href="/wiki/%E8%A7%86%E7%BD%91%E8%86%9C" title="视网膜">视网膜</a>）和<a href="/w/index.php?title=%E4%B8%AD%E6%9E%A2%E8%A7%86%E8%A7%89%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="中枢视觉系统（页面不存在）">中枢视觉系统</a>在功能上的相对复杂性。具体参见<a href="/wiki/%E8%A7%86%E8%A7%89%E5%81%87%E4%BD%93" title="视觉假体">视觉假体</a>。
+</p><p>美国<a href="/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="约翰·霍普金斯大学">约翰·霍普金斯大学</a>的Della Santina及其同事最近开发出一种可以修复三维前庭感觉的前庭植入物。
+<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id=".E7.A0.94.E7.A9.B6.E8.BF.9B.E7.A8.8B.E5.A4.A7.E4.BA.8B.E8.AE.B0"></span><span class="mw-headline" id="研究进程大事记">研究进程大事记</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=6" title="编辑章节：研究进程大事记"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Phillip Kennedy及其同事用锥形营养性（neurotrophic-cone）<a href="/wiki/%E7%94%B5%E6%9E%81" title="电极">电极</a>植入术在猴上建造了第一个皮层内脑机接口。
+</p><p>1999年，<a href="/wiki/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6" title="哈佛大学">哈佛大学</a>的Garrett Stanley试图解码<a href="/wiki/%E7%8C%AB" title="猫">猫</a>的<a href="/wiki/%E4%B8%98%E8%84%91" title="丘脑">丘脑</a><a href="/wiki/%E5%A4%96%E4%BE%A7%E8%86%9D%E7%8A%B6%E4%BD%93" class="mw-redirect" title="外侧膝状体">外侧膝状体</a>内的神经元放电信息来重建视觉图像。他们记录了177个神经元的<a href="/w/index.php?title=%E8%84%89%E5%86%B2%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="脉冲列（页面不存在）">脉冲列</a>，使用滤波的方法重建了向猫播放的八段视频，从重建的结果中可以看到可辨认的物体和场景。<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/%E6%9D%9C%E5%85%8B%E5%A4%A7%E5%AD%A6" title="杜克大学">杜克大学</a>的Miguel Nicolelis是支持用覆盖广大皮层区域的电极来提取神经信号、驱动脑机接口的代表。他认为，这种方法的优点是能够降低单个电极或少量电极采集到的神经信号的不稳定性和随机性。Nicolelis在1990年代完成在<a href="/wiki/%E5%A4%A7%E9%BC%A0" class="mw-redirect" title="大鼠">大鼠</a>的初步研究后，在<a href="/w/index.php?title=%E5%A4%9C%E7%8C%B4&amp;action=edit&amp;redlink=1" class="new" title="夜猴（页面不存在）">夜猴</a>内实现了能够提取皮层运动神经元的信号来控制<a href="/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA" title="机器人">机器人</a>手臂的实验。到2000年为止，Nicolelis的研究组成功实现了一个能够在夜猴操纵一个<a href="/wiki/%E6%B8%B8%E6%88%8F%E6%9D%86" class="mw-redirect" title="游戏杆">游戏杆</a>来获取食物时重现其手臂运动的脑机接口。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> 这个脑机接口可以实时工作。它也可以通过<a href="/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91" class="mw-redirect" title="因特网">因特网</a>远程操控机械手臂。不过由于猴子本身不接受来自机械手臂的感觉反馈，这类脑机接口是<a href="/w/index.php?title=%E5%BC%80%E7%8E%AF&amp;action=edit&amp;redlink=1" class="new" title="开环（页面不存在）">开环</a>的。Nicolelis小组后来的工作使用了<a href="/wiki/%E6%81%92%E6%B2%B3%E7%8C%B4" class="mw-redirect" title="恒河猴">恒河猴</a>。<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>其它设计脑机接口算法和系统来解码神经元信号的实验室包括<a href="/wiki/%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6" title="布朗大学">布朗大学</a>的John Donoghue、<a href="/wiki/%E5%8C%B9%E5%85%B9%E5%A0%A1%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="匹兹堡大学">匹兹堡大学</a>的Andrew Schwartz、<a href="/wiki/%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5" class="mw-redirect" title="加州理工">加州理工</a>的Richard Anderson。这些研究者的脑机接在某一时刻使用的神经元数为15-30，比Nicolelis的50-200个显著要少。Donoghue小组的主要工作是实现恒河猴对计算机屏幕上的光标的运动控制来追踪视觉目标。其中猴子不需要运动肢体。<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Schwartz小组的主要工作是<a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a>的三维空间中的视觉目标追踪，以及脑际接口对机械臂的控制。<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>. 这个小组宣称，他们的猴子可以通过脑机接口控制的机械臂来喂自己吃<a href="/wiki/%E8%A5%BF%E8%91%AB%E8%8A%A6" title="西葫芦">西葫芦</a>。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Anderson的小组正在研究从后<a href="/wiki/%E9%A1%B6%E5%8F%B6" title="顶叶">顶叶</a>的神经元提取前运动信号的脑机接口。此类信号包括实验动物在期待奖励时所产生信号。<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>除了以上所提及的这些用于计算肢体的运动参数的脑机接口以外，还有用于计算<a href="/wiki/%E8%82%8C%E8%82%89" title="肌肉">肌肉</a>的电信号（肌电图）的脑机接口。<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> 此类脑机接口的一个应用前景是通过刺激<a href="/wiki/%E7%98%AB%E7%97%AA" title="瘫痪">瘫痪</a>病人的肌肉来重建其自主运动的功能。
+</p>
+<h2><span id=".E4.BA.BA.E7.B1.BB.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3.E7.A0.94.E7.A9.B6"></span><span class="mw-headline" id="人类脑机接口研究">人类脑机接口研究</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=7" title="编辑章节：人类脑机接口研究"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.BE.B5.E5.85.A5.E5.BC.8F.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="侵入式脑机接口">侵入式脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=8" title="编辑章节：侵入式脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>侵入式脑机接口主要用于重建<a href="/wiki/%E7%89%B9%E6%AE%8A%E6%84%9F%E8%A7%89" title="特殊感觉">特殊感觉</a>（例如<a href="/wiki/%E8%A7%86%E8%A7%89" title="视觉">视觉</a>）以及<a href="/wiki/%E7%98%AB%E7%97%AA" title="瘫痪">瘫痪</a>病人的运动功能。此类脑机接口通常直接植入到大脑的灰质，因而所获取的神经信号的质量比较高。但其缺点是容易引发<a href="/wiki/%E5%85%8D%E7%96%AB%E5%8F%8D%E5%BA%94" class="mw-redirect" title="免疫反应">免疫反应</a>和<a href="/w/index.php?title=%E6%84%88%E4%BC%A4%E7%BB%84%E7%BB%87&amp;action=edit&amp;redlink=1" class="new" title="愈伤组织（页面不存在）">愈伤组织</a>（<a href="/wiki/%E7%96%A4" class="mw-redirect" title="疤">疤</a>），进而导致信号质量的衰退甚至消失。
+</p><p>视觉脑机接口方面的一位先驱是William Dobelle。他的皮层<a href="/wiki/%E8%A7%86%E8%A7%89%E5%81%87%E4%BD%93" title="视觉假体">视觉脑机接口</a>主要用于后天失明的病人。1978年，Dobelle在一位男性盲人Jerry的<a href="/wiki/%E8%A7%86%E8%A7%89%E7%9A%AE%E5%B1%82" title="视觉皮层">视觉皮层</a>植入了68个电极的阵列，并成功制造了<a href="/wiki/%E5%85%89%E5%B9%BB%E8%A6%96" title="光幻视">光幻视</a>（Phosphene）。该脑机接口系统包括一个采集视频的<a href="/wiki/%E6%91%84%E5%83%8F%E6%9C%BA" class="mw-redirect" title="摄像机">摄像机</a>，信号处理设备和受驱动的皮层刺激电极。植入后，病人可以在有限的<a href="/wiki/%E8%A7%86%E9%87%8E" class="mw-redirect" title="视野">视野</a>内看到<a href="/wiki/%E7%81%B0%E5%BA%A6" class="mw-redirect" title="灰度">灰度</a>调制的低<a href="/wiki/%E5%88%86%E8%BE%A8%E7%8E%87" title="分辨率">分辨率</a>、低<a href="/wiki/%E5%88%B7%E6%96%B0%E7%8E%87" title="刷新率">刷新率</a>点阵图像。该视觉假体系统是便携式的，且病人可以在不受医师和技师帮助的条件下独立使用。<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>2002年，Jens Naumann成为了接受Dobelle的第二代皮层视觉假体植入的16位病人中的第一位。第二代皮层视觉假体的特点是能将光幻视更好地映射到视野，创建更稳定均一的视觉。其光幻视点阵覆盖的视野更大。接受植入后不久，Jens就可以自己在研究中心附近慢速驾车漫游。
+</p><p>针对“运动神经假体”的脑机接口方面，<a href="/w/index.php?title=Emory%E5%A4%A7%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="Emory大学（页面不存在）">Emory大学</a>的Philip Kennedy和Roy Bakay最先在人植入了可获取足够高质量的神经信号来模拟运动的侵入性脑机接口。他们的病人Johnny Ray患有<a href="/wiki/%E8%84%91%E5%B9%B2" class="mw-redirect" title="脑干">脑干</a><a href="/wiki/%E4%B8%AD%E9%A3%8E" class="mw-redirect" title="中风">中风</a>导致的<a href="/w/index.php?title=%E9%94%81%E9%97%AD%E7%BB%BC%E5%90%88%E5%BE%81&amp;action=edit&amp;redlink=1" class="new" title="锁闭综合征（页面不存在）">锁闭综合征</a>。Ray在1998年接受了植入，并且存活了足够长的时间来学会用该脑机接口来控制电脑光标。<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>2005年，Cyberkinetics公司获得美国<a href="/wiki/%E7%BE%8E%E5%9B%BD%E9%A3%9F%E5%93%81%E8%8D%AF%E5%93%81%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80" title="美国食品药品监督管理局">FDA</a>批准，在九位病人进行了第一期的运动皮层脑机接口临床试验。<a href="/w/index.php?title=%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA&amp;action=edit&amp;redlink=1" class="new" title="四肢瘫痪（页面不存在）">四肢瘫痪</a>的Matt Nagle成为了第一位用侵入式脑机接口来控制机械臂的病人，他能够通过运动意图来完成机械臂控制、电脑光标控制等任务。其植入物位于<a href="/w/index.php?title=%E5%89%8D%E4%B8%AD%E5%9B%9E&amp;action=edit&amp;redlink=1" class="new" title="前中回（页面不存在）">前中回</a>的<a href="/wiki/%E8%BF%90%E5%8A%A8%E7%9A%AE%E5%B1%82" title="运动皮层">运动皮层</a>对应手臂和手部的区域。该植入称为BrainGate，是包含96个电极的阵列。
+<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h3><span id=".E9.83.A8.E5.88.86.E4.BE.B5.E5.85.A5.E5.BC.8F.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="部分侵入式脑机接口">部分侵入式脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=9" title="编辑章节：部分侵入式脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>部分侵入式脑机接口一般植入到<a href="/w/index.php?title=%E9%A2%85%E8%85%94&amp;action=edit&amp;redlink=1" class="new" title="颅腔（页面不存在）">颅腔</a>内，但是位于灰质外。其空间分辨率不如侵入式脑机接口，但是优于非侵入式。其另一优点是引发免疫反应和愈伤组织的几率较小。
+</p><p><a href="/w/index.php?title=%E7%9A%AE%E5%B1%82%E8%84%91%E7%94%B5%E5%9B%BE&amp;action=edit&amp;redlink=1" class="new" title="皮层脑电图（页面不存在）">皮层脑电图</a>（ECoG）的技术基础和<a href="/wiki/%E8%85%A6%E9%9B%BB%E5%9C%96" title="脑电图">脑电图</a>的相似，但是其电极直接植入到大脑皮层上，<a href="/wiki/%E7%A1%AC%E8%85%A6%E8%86%9C" title="硬脑膜">硬脑膜</a>下的区域。<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> 华盛顿大学（圣路易斯）的Eric Leuthardt和Daniel Moran是最早在人体试验皮层脑电图的研究者。根据一则报道，他们的基于皮层脑电图的脑机接口能够让一位少年男性病人玩<a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">电子游戏</a>。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> 同时该研究也发现，用基于皮层脑电图的脑机接口来实现多于一维的运动控制是比较困难的。
+</p><p>基于“光反应成像”的脑机接口尚处在理论阶段。其概念是在颅腔内植入可测量单神经元兴奋状态的微型传感器，以及受其驱动的微型激光源。可用该激光源的波长或时间模式的变化来编码神经元的状态，并将信号发送到颅腔外。该概念的优点是可在感染、免疫反应和愈伤反应的几率较小的条件下长时间监视单个神经元的兴奋状态。
+</p>
+<h3><span id=".E9.9D.9E.E4.BE.B5.E5.85.A5.E5.BC.8F.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="非侵入式脑机接口">非侵入式脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=10" title="编辑章节：非侵入式脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>和侵入式脑机接口一样，研究者也使用非侵入式的<a href="/wiki/%E7%A5%9E%E7%BB%8F%E6%88%90%E5%83%8F%E6%9C%AF" class="mw-redirect" title="神经成像术">神经成像术</a>作为脑机之间的接口在人身上进行了实验。用这种方法记录到的信号被用来加强肌肉植入物的功能并使参加实验的志愿者恢复部分运动能力。虽然这种非侵入式的设备方便佩戴于人体，但是由于颅骨对信号的衰减作用和对神经元发出的电磁波的分散和模糊效应，记录到信号的分辨率并不高。这种信号波仍可被检测到，但很难确定发出信号的脑区或者相关的单个神经元的放电。
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:ElectroEncephalogram.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ElectroEncephalogram.png/220px-ElectroEncephalogram.png" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ElectroEncephalogram.png/330px-ElectroEncephalogram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ElectroEncephalogram.png/440px-ElectroEncephalogram.png 2x" data-file-width="800" data-file-height="600" /></a><figcaption>脑电图机所记录到的多导<a href="/wiki/%E8%85%A6%E9%9B%BB%E5%9C%96" title="脑电图">脑电图</a>信号</figcaption></figure>
+<p><a href="/wiki/%E8%85%A6%E9%9B%BB%E5%9C%96" title="脑电图">脑电图</a>（EEG）作为有潜力的非侵入式脑机接口已得到深入研究，这主要是因为该技术良好的时间分辨率、易用性、便携性和相对低廉的价格。但该技术的一个问题是它对噪声的敏感，另一个使用EEG作为脑机接口的现实障碍是用户在工作之前要进行大量的训练。这方面研究的一个典型例子是德国<a href="/wiki/%E5%9B%BE%E5%AE%BE%E6%A0%B9%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="图宾根大学">图宾根大学</a>的Niels Birbaurmer于1990年代进行的项目。该项目利用瘫痪病人的脑电图信号使其能够控制电脑光标。
+<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+经过训练，十位瘫痪病人能够成功地用脑电图控制光标。但是光标控制的效率较低，在屏幕上写100个字符需要1个小时，且训练过程常耗时几个月。在Birbaumer的后续研究中，多个脑电图成分可被同时测量，包括μ波和β波。病人可以自主选择对其最易用的成分进行对外部的控制。
+</p><p>与上述这种需要训练的EEG脑机接口不同，一种基于脑电P300信号的脑机接口不需要训练，因为P300信号是人看到熟识的物体时非自主地产生的。美国<a href="/wiki/%E7%BD%97%E5%88%87%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="罗切斯特大学">罗切斯特大学</a>的Jessica Bayliss的2000年的一项研究显示，受试者可以通过P300信号来控制<a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a>场景中的一些物体，例如开关灯或者操纵虚拟轿车等。
+<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>1999年，美国<a href="/wiki/%E5%87%B1%E6%96%AF%E8%A5%BF%E5%84%B2%E5%A4%A7%E5%AD%B8" title="凯斯西储大学">凯斯西储大学</a>由Hunter Peckham领导的研究组用64导脑电图恢复了四肢瘫痪病人Jim Jatich的一定的手部运动功能。该技术分析脑电信号中的β波，来分类病人所想的向上和向下两个概念，进而控制一个外部开关。除此以外，该技术还可以使病人控制电脑光标以及驱动其手部的神经控制器，来一定程度上回复运动功能。
+<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>应用<a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="人工神经网络">人工神经网络</a>，计算机可以分担病人的学习负担。Fraunhofer学会2004年用这一技术显著降低了脑机接口训练学习所需的时间。
+<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>Eduardo Miranda的一系列试验旨在提取和音乐相关的脑电信号，使得残疾病人可以通过思考音乐来和外部交流，这种概念称为“脑声机”（encephalophone）.
+<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p><a href="/w/index.php?title=%E8%84%91%E7%A3%81%E5%9B%BE&amp;action=edit&amp;redlink=1" class="new" title="脑磁图（页面不存在）">脑磁图</a>（MEG）以及<a href="/wiki/%E5%8A%9F%E8%83%BD%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E6%88%90%E5%83%8F" class="mw-redirect" title="功能核磁共振成像">功能核磁共振成像</a>（fMRI）都已成功实现非侵入式脑机接口。例如在一项研究中，病人利用<a href="/wiki/%E7%94%9F%E7%89%A9%E5%8F%8D%E9%A6%88" title="生物反馈">生物反馈</a>技术可以用改变fMRI所检测到的脑部血流信号来控制乒乓球运动。
+<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+也有人用fMIR信号来准确实时地控制机械臂，这一控制的延迟大约7秒左右。
+<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h3><span id=".E6.88.90.E6.9E.9C.E5.95.86.E5.93.81.E5.8C.96.E5.8F.8A.E5.85.AC.E5.8F.B8.E4.BB.8B.E7.BB.8D"></span><span class="mw-headline" id="成果商品化及公司介绍">成果商品化及公司介绍</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=11" title="编辑章节：成果商品化及公司介绍"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>John Donoghue及其同事创立了<a href="/wiki/Cyberkinetics" title="Cyberkinetics">Cyberkinetics</a>公司，宗旨是推动实用的人类脑机接口技术的发展。该公司目前以Cybernetics神经技术公司为名在美国股市上市。<a href="/wiki/BrainGate" title="BrainGate">BrainGate</a>是该公司生产的电极阵列，该产品基于美国<a href="/wiki/%E7%8A%B9%E4%BB%96%E5%A4%A7%E5%AD%A6" title="犹他大学">犹他大学</a>的Richard Normann研发的“犹他”电极阵列。
+</p><p>Philip Kennedy创立了<a rel="nofollow" class="external text" href="http://www.neuralsignals.com/">Neural Signals</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210419004250/http://www.neuralsignals.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）公司。该公司生产的脑际接口设备使用玻璃锥内含的<a href="/wiki/%E8%9B%8B%E7%99%BD%E8%B4%A8" title="蛋白质">蛋白质</a>包裹的微电极阵列，旨在促进电极和神经元之间的耦合。该公司除了生产侵入式脑际接口产品，还销售一种可回复言语功能的植入设备。
+</p><p>2004年为止，William Dobelle创建的公司已经在16位失明病人内植入了初级视皮层<a href="/wiki/%E8%A7%86%E8%A7%89%E5%81%87%E4%BD%93" title="视觉假体">视觉假体</a>。该公司目前仍在继续研发视觉植入物，但这类产品至今没有获得<a href="/wiki/%E7%BE%8E%E5%9B%BD%E9%A3%9F%E5%93%81%E8%8D%AF%E5%93%81%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80" title="美国食品药品监督管理局">FDA</a>的批准，因而不能在美国境内使用于人类。
+<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span id=".E7.BB.86.E8.83.9E.E5.9F.B9.E5.85.BB.E7.89.A9.E7.9A.84.E8.84.91.E6.9C.BA.E6.8E.A5.E5.8F.A3"></span><span class="mw-headline" id="细胞培养物的脑机接口">细胞培养物的脑机接口</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=12" title="编辑章节：细胞培养物的脑机接口"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>细胞培养物的脑机接口是动物（或人）体外的培养皿中的神经组织和人造设备之间的通讯机制。
+这方面研究的焦点是建造具有问题解决能力的神经元网络，进而促成生物式计算机。
+研究者有时在<a href="/w/index.php?title=%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%99%B6%E7%89%87&amp;action=edit&amp;redlink=1" class="new" title="半导体芯片（页面不存在）">半导体芯片</a>上培养神经组织，并且从这些神经细胞记录信号或对其进行刺激。这类研究常称为“神经电子学”（Neuroelectronics）或“神经芯片”（Neurochips）。1997年，加州理工Jerome Pine和Michael Maher的团队最先宣称研制成功神经芯片。
+<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>该芯片集成了16个神经元。
+</p><p>2003年，美国<a href="/wiki/%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6" title="南加州大学">南加州大学</a>的Theodore Berger小组开始研制能够模拟<a href="/wiki/%E6%B5%B7%E9%A9%AC%E4%BD%93" title="海马体">海马体</a>功能的神经芯片。该小组的目标是将这种神经芯片植入<a href="/wiki/%E5%A4%A7%E9%BC%A0" class="mw-redirect" title="大鼠">大鼠</a>脑内，使其称为第一种高级脑功能假体。他们之所以选择海马体作为研究对象，是因为其高度有序的组织以及丰富的研究文献。海马体的功能与<a href="/wiki/%E8%AE%B0%E5%BF%86" class="mw-redirect" title="记忆">记忆</a>生成和<a href="/wiki/%E9%95%BF%E6%9C%9F%E8%AE%B0%E5%BF%86" title="长期记忆">长期记忆</a>有关。
+</p><p><a href="/wiki/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%A4%A7%E5%AD%A6" title="佛罗里达大学">佛罗里达大学</a>的Thomas DeMarse用提取自<a href="/wiki/%E5%A4%A7%E9%BC%A0" class="mw-redirect" title="大鼠">大鼠</a>脑的包含25000个神经元的培养物来操控一个<a href="/wiki/F-22" class="mw-redirect" title="F-22">F-22</a>战斗机模拟程序。
+<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> 
+这些神经元提起自<a href="/wiki/%E5%A4%A7%E8%84%91%E7%9A%AE%E5%B1%82" class="mw-redirect" title="大脑皮层">大脑皮层</a>，离体以后，它们在<a href="/wiki/%E5%9F%B9%E5%85%BB%E7%9A%BF" title="培养皿">培养皿</a>上迅速集结成活的神经元网络，并且与60个电极通讯，来控制战斗机的上下和左右摇摆运动。该项目的主要目的是研究人类的脑在细胞层面上如何学习特定的计算任务。
+</p>
+<h2><span id=".E4.BC.A6.E7.90.86.E9.97.AE.E9.A2.98"></span><span class="mw-headline" id="伦理问题">伦理问题</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=13" title="编辑章节：伦理问题"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/35px-Tango-nosources.svg.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/53px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/70px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></td><td class="mbox-text"><span class="mbox-text-span">此章节<b><a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">尚无参考来源</a></b>，内容或许<b><a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查证">无法查证</a></b>。 <small class="date-container"><i>(<span class="date">2012年11月12日</span>)</i></small></span></td></tr></tbody></table>
+<p>目前，关于脑机接口的<a href="/wiki/%E4%BC%A6%E7%90%86%E5%AD%A6" title="伦理学">伦理学</a>争论尚不活跃，动物保护组织也对这方面的研究关注也不多。这主要是因为脑机接口研究的目标是克服多种残疾，也因为脑机接口通常给予病人控制外部世界的能力，而不是被动接受外部世界的控制。（当然<a href="/wiki/%E8%A7%86%E8%A7%89%E5%81%87%E4%BD%93" title="视觉假体">视觉假体</a>、<a href="/wiki/%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97" title="人工耳蜗">人工耳蜗</a>等感觉修复技术是例外。）
+</p><p>可以预见，未来当脑机接口技术发展到一定程度后，将不但能修复残疾人的受损功能，也能增强正常人的功能。例如<a href="/wiki/%E8%85%A6%E6%B7%B1%E5%B1%A4%E5%88%BA%E6%BF%80%E6%89%8B%E8%A1%93" class="mw-redirect" title="脑深层刺激手术">脑深层刺激手术</a>（DBS）技术可以用来治疗<a href="/wiki/%E6%8A%91%E9%83%81%E7%97%87" class="mw-disambig" title="抑郁症">抑郁症</a>和<a href="/wiki/%E5%B8%95%E9%87%91%E6%A3%AE%E6%B0%8F%E7%97%85" class="mw-redirect" title="帕金森氏病">帕金森氏病</a>，将来也可能可以用来改变正常人的一些脑功能和个性。又例如，上文提及的海马体神经芯片将来可能可以用来增强正常人的记忆。这可能将带来一系列关于“何为人类”、“<a href="/wiki/%E5%BF%83%E9%9D%88%E6%8E%A7%E5%88%B6" class="mw-redirect" title="心灵控制">心灵控制</a>”的问题争论。
+</p>
+<h2><span id=".E5.9C.A8.E8.99.9B.E6.A7.8B.E4.BD.9C.E5.93.81"></span><span class="mw-headline" id="在虛構作品">在虚构作品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=14" title="编辑章节：在虚构作品"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>脑机接口或各种脑植入术一直以来都是<a href="/wiki/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4" title="科幻小说">科幻小说</a>、<a href="/wiki/%E5%8A%A8%E6%BC%AB" class="mw-redirect" title="动漫">动漫</a>与<a href="/wiki/%E7%A7%91%E5%B9%BB%E9%9B%BB%E5%BD%B1" class="mw-redirect" title="科幻电影">科幻电影</a>作为科幻主题。
+例如：
+</p>
+<ul><li><a href="/wiki/%E7%9F%A2%E7%AB%8B%E8%82%87" title="矢立肇">矢立肇</a> ，<a href="/wiki/%E5%AF%8C%E9%87%8E%E5%96%9C%E5%B9%B8" class="mw-redirect" title="富野喜幸">富野喜幸</a>（现‧由悠季）的漫画《<a href="/wiki/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88" class="mw-redirect" title="机动战士钢弹">机动战士钢弹</a>》，与其派生作品<a href="/wiki/%E5%BB%88%E9%96%80%E6%BD%A4" title="厦门润">，厦门润</a>的漫画《@假想未来》<a href="/wiki/%E5%A3%AB%E9%83%8E%E6%AD%A3%E5%AE%97" title="士郎正宗">士郎正宗</a>的漫画《<a href="/wiki/%E6%94%BB%E6%AE%BC%E6%A9%9F%E5%8B%95%E9%9A%8A" title="攻壳机动队">攻壳机动队</a>》与其派生作品</li>
+<li><a href="/wiki/%E5%B7%9D%E5%8E%9F%E7%A4%AB" title="川原砾">川原砾</a>的小说《<a href="/wiki/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F" title="刀剑神域">刀剑神域</a>》、《<a href="/wiki/%E5%8A%A0%E9%80%9F%E4%B8%96%E7%95%8C" title="加速世界">加速世界</a>》，与其派生作品</li>
+<li>OVA动画《<a href="/wiki/%E9%A2%A8%E6%9A%B4%E6%88%B0%E5%A3%ABORGUN" title="风暴战士ORGUN">风暴战士ORGUN</a>》</li>
+<li>电影《<a href="/wiki/%E9%98%BF%E5%87%A1%E8%BE%BE" title="阿凡达">阿凡达</a>》、《<a href="/wiki/%E4%B8%80%E7%B4%9A%E7%8E%A9%E5%AE%B6_(%E9%9B%BB%E5%BD%B1)" title="一级玩家 (电影)">一级玩家</a>》</li>
+<li>动画《<a href="/wiki/%E4%BA%9A%E5%9F%BA%E6%8B%89" title="亚基拉">亚基拉</a>》、《<a href="/wiki/%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86" title="怕痛的我，把防御力点满就对了">怕痛的我，把防御力点满就对了</a>》与其原作小说、《<a href="/wiki/%E3%80%88Infinite_Dendrogram%E3%80%89-%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96-" title="〈Infinite Dendrogram〉-无尽连锁-">〈Infinite Dendrogram〉-无尽连锁-</a>》与其原作小说 ，<b>《<a href="/wiki/%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2%EF%BC%9A%E9%82%8A%E7%B7%A3%E8%A1%8C%E8%80%85" class="mw-redirect" title="电驭叛客：边缘行者">电驭叛客：边缘行者</a>》</b></li>
+<li>小说《<a href="/wiki/%E7%A5%9E%E7%BB%8F%E6%BC%AB%E6%B8%B8%E8%80%85" title="神经漫游者">神经漫游者</a>》</li>
+<li>电视剧《<a href="/wiki/%E9%BB%91%E9%8F%A1" title="黑镜">黑镜</a>》（第四季：方舟天使）</li>
+<li>电影《<a href="/wiki/%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832" title="流浪地球2">流浪地球2</a>》</li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=15" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">S. P. Levine, J. E. Huggins, S. L. BeMent, R. K. Kushwaha, L. A. Schuh, M. M. Rohde, E. A. Passaro, D. A. Ross, K. V. Elisevich, and B. J. Smith，"A direct brain interface based on event-related potentials," IEEE Trans Rehabil Eng，vol. 8，第180-5页，2000年</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Laura Bailey. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100107050418/http://www.umich.edu/news/index.html?Releases/2006/Feb06/r020606a">University of Michigan News Service</a>.  <span class="reference-accessdate"> &#91;2006年2月6日&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.umich.edu/news/index.html?Releases/2006/Feb06/r020606a">原始内容</a>存档于2010年1月7日）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;rft.au=Laura+Bailey&amp;rft.btitle=University+of+Michigan+News+Service&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.umich.edu%2Fnews%2Findex.html%3FReleases%2F2006%2FFeb06%2Fr020606a&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Schmidt E M et al 1978 Fine control of operantly conditioned firing patterns of cortical neurons Exp. Neurol. 61 349–69</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Georgopoulos AP, Lurito JT, Petrides M, Schwartz AB, Massey JT (1989) Mental rotation of the neuronal population vector. Science 243: 234-236</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Lebedev MA, Nicolelis MA (2006),<a rel="nofollow" class="external text" href="http://astro.temple.edu/~iobeid/BME%20Reading%20Group_files/Lebedev%20&amp;%20Nicolelis%202006.pdf">Brain-machine interfaces: past, present and future.</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2018年4月失效">永久失效链接</span></a>&#93;</span></sup> Trends Neurosci 29: 536-546 Loaded 18 October 2006</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Della Santina CC, Migliaccio AA, Patel AH (in press 2005) "Electrical Stimulation to Restore Vestibular Function - Development of a 3-D Vestibular Prosthesis," Proceedings of the IEEE-EMBS 2005 International Meeting，上海</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">G. B. Stanley, F. F. Li, and Y. Dan. <a rel="nofollow" class="external text" href="http://people.deas.harvard.edu/~gstanley/publications/stanley_dan_1999.pdf">Reconstruction of natural scenes from ensemble responses in the LGN</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20061207063112/http://people.deas.harvard.edu/~gstanley/publications/stanley_dan_1999.pdf">存档</a>，存档日期2006-12-07.，J. Neurosci.，19(18):8036-8042，1999年</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Wessberg J, Stambaugh CR, Kralik JD, Beck PD, Laubach M, Chapin JK, Kim J, Biggs SJ, Srinivasan MA, Nicolelis MA. (2000) <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v408/n6810/abs/408361a0.html">Real-time prediction of hand trajectory by ensembles of cortical neurons in primates.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20170614184019/http://www.nature.com/nature/journal/v408/n6810/abs/408361a0.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Nature 16: 361-365</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Carmena, J.M., Lebedev, M.A., Crist, R.E., O'Doherty, J.E., Santucci, D.M., Dimitrov, D.F., Patil, P.G., Henriquez, C.S., Nicolelis, M.A.L. (2003) <a rel="nofollow" class="external text" href="http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10%2E1371%2Fjournal%2Epbio%2E0000042">Learning to control a brain-machine interface for reaching and grasping by primates.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080430051411/http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10%2E1371%2Fjournal%2Epbio%2E0000042">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） PLoS Biology, 1: 193-208</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Lebedev, M.A., Carmena, J.M., O'Doherty, J.E., Zacksenhouse, M., Henriquez, C.S., Principe, J.C., Nicolelis, M.A.L. (2005) <a rel="nofollow" class="external text" href="http://www.jneurosci.org/cgi/content/full/25/19/4681">Cortical ensemble adaptation to represent actuators controlled by a brain machine interface.</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110104091514/http://www.jneurosci.org/cgi/content/full/25/19/4681">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） J. Neurosci. 25: 4681-4693</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Serruya M.D., Hatsopoulos, N.G., Paninski, L., Fellows, M.R., Donoghue, J.P.，(2002) Instant neural control of a movement signal. Nature 416: 141-142</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Taylor DM, Tillery SI, Schwartz AB (2002) Direct cortical control of 3D neuroprosthetic devices．Science 296: 1829-1832</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pittsburghlive.com:8000/x/tribunereview/s_469059.html">Pitt team to build on brain-controlled arm</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070704125118/http://www.pittsburghlive.com:8000/x/tribunereview/s_469059.html">存档</a>，存档日期2007-07-04.，<i>Pittsburgh Tribune Review</i>．2006年9月5日.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Musallam S, Corneil BD, Greger B, Scherberger H, Andersen RA (2004) Cognitive control signals for neural prosthetics. Science 305: 258-262</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Santucci, David M.; Kralik, Jerald D.; Lebedev, Mikhail A.; Nicolelis, Miguel A. L. Frontal and parietal cortical ensembles predict single-trial muscle activity during reaching movements in primates. European Journal of Neuroscience (Wiley). 2005-09-27, <b>22</b> (6): 1529–1540. <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0953-816X"><span title="国际标准连续出版物号">ISSN&#160;0953-816X</span></a>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1111%2Fj.1460-9568.2005.04320.x"><span title="数字对象识别号">doi:10.1111/j.1460-9568.2005.04320.x</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;rft.atitle=Frontal+and+parietal+cortical+ensembles+predict+single-trial+muscle+activity+during+reaching+movements+in+primates&amp;rft.au=Kralik%2C+Jerald+D.&amp;rft.au=Lebedev%2C+Mikhail+A.&amp;rft.au=Nicolelis%2C+Miguel+A.+L.&amp;rft.aufirst=David+M.&amp;rft.aulast=Santucci&amp;rft.date=2005-09-27&amp;rft.genre=article&amp;rft.issn=0953-816X&amp;rft.issue=6&amp;rft.jtitle=European+Journal+of+Neuroscience&amp;rft.pages=1529-1540&amp;rft.volume=22&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1460-9568.2005.04320.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/10.09/vision.html">Vision quest</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140318175539/http://www.wired.com/wired/archive/10.09/vision.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），<i>Wired Magazine</i>，2002年9月</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Kennedy, P.R., Bakay R.A. (1998) Restoration of neural output from a paralysed patient by a direct brain connection. Neuroreport. Jun 1;9(8):1707-11</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leigh R. Hochberg; Mijail D. Serruya, Gerhard M. Friehs, Jon A. Mukand, Maryam Saleh, Abraham H. Caplan, Almut Branner, David Chen, Richard D. Penn  and John P. Donoghue. <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v442/n7099/abs/nature04970.html">Neuronal ensemble control of prosthetic devices by a human with tetraplegia</a>. Nature. 13 July 2006, <b>442</b>: 164–171 <span class="reference-accessdate"> &#91;<span class="nowrap">2006-09-10</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170616075450/http://www.nature.com/nature/journal/v442/n7099/abs/nature04970.html">存档</a>于2017-06-16）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;rft.atitle=Neuronal+ensemble+control+of+prosthetic+devices+by+a+human+with+tetraplegia&amp;rft.au=Leigh+R.+Hochberg&amp;rft.date=2006-07-13&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.pages=164-171&amp;rft.volume=442&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv442%2Fn7099%2Fabs%2Fnature04970.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">引文使用过时参数<code style="color:inherit; border:inherit; padding:inherit;">coauthors</code> (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#deprecated_params" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Serruya MD, Donoghue JP．(2003) Chapter III: Design Principles of a Neuromotor Prosthetic Device in Neuroprosthetics: Theory and Practice, ed. Kenneth W. Horch, Gurpreet S. Dhillon. Imperial College Press.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news-info.wustl.edu/news/page/normal/7800.html">Teenager moves video icons just by imagination</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20100103073027/http://news-info.wustl.edu/news/page/normal/7800.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），新闻稿，圣路易斯华盛顿大学，2006年10月9日</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.findarticles.com/p/articles/mi_m1175/is_3_36/ai_n6028127">Just short of telepathy: can you interact with the outside world if you can't even blink an eye?</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080121045726/http://www.findarticles.com/p/articles/mi_m1175/is_3_36/ai_n6028127">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），<i>Psychology Today</i>，2003年5月至6月</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rochester.edu/pr/releases/cs/bayliss.html">新闻稿</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210125223828/http://www.rochester.edu/pr/releases/cs/bayliss.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），罗彻斯特大学，3000年5月3日</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/9.08/assist_pr.html">The Next Brainiacs</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20121227040111/http://www.wired.com/wired/archive/9.08/assist_pr.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<i>Wired Magazine</i>，2001年8月</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www-ti.informatik.uni-tuebingen.de/%7Eschroedm/papers/ne2003_Bogdan.pdf.gz">Artificial Neural Net Based Signal Processing for Interaction with Peripheral Nervous System</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930040330/http://www-ti.informatik.uni-tuebingen.de/~schroedm/papers/ne2003_Bogdan.pdf.gz">存档</a>，存档日期2007-09-30.. In: Proceedings of the 1st International IEEE EMBS Conference on Neural Engineering．第134-137页．2003年3月20-22日</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.plymouth.ac.uk/pages/view.asp?page=11685">Mental ways to make music</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070926232827/http://www.plymouth.ac.uk/pages/view.asp?page=11685">存档</a>，存档日期2007-09-26.，Cane, Alan，<i>Financial Times</i>，伦敦（英国），2005年4月22日，第12页</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/news/2004/040823/pf/040823-18_pf.html">Mental ping-pong could aid paraplegics</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210211223715/http://www.nature.com/news/2004/040823/pf/040823-18_pf.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），<i>Nature</i>，2004年8月27日</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://techon.nikkeibp.co.jp/english/NEWS_EN/20060525/117493/">To operate robot only with brain</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20170623060519/http://techon.nikkeibp.co.jp/english/NEWS_EN/20060525/117493/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），ATR and Honda develop BMI base technology，<i>Tech-on</i>，2006年5月26日</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biotech.sunysb.edu/aboutCBT/documents/ArtificialVisionpr.pdf#search=%22avery%20Dobelle%22">新闻稿</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20060910175247/http://www.biotech.sunysb.edu/aboutCBT/documents/ArtificialVisionpr.pdf">存档</a>，存档日期2006-09-10.，Stony Brook University Center for Biotechnology，2006年5月1日</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pr.caltech.edu/media/lead/102797JP.html">新闻稿</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20070202235512/http://pr.caltech.edu/media/lead/102797JP.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），加州理工学院，1997年10月27日</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cnn.com/2004/TECH/11/02/brain.dish/">'Brain' in a dish flies flight simulator</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210427000838/http://www.cnn.com/2004/TECH/11/02/brain.dish/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），<i>CNN</i>，2004年11月4日</span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.82.E9.96.B2"></span><span class="mw-headline" id="参閲">参阅</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=16" title="编辑章节：参阅"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>技术：</dt>
+<dd><a href="/w/index.php?title=%E8%84%91%E6%A4%8D%E5%85%A5%E6%9C%AF&amp;action=edit&amp;redlink=1" class="new" title="脑植入术（页面不存在）">脑植入术</a>、<a href="/w/index.php?title=Cyberware&amp;action=edit&amp;redlink=1" class="new" title="Cyberware（页面不存在）">Cyberware</a>、<a href="/w/index.php?title=%E7%A5%9E%E7%BB%8F%E4%BF%AE%E5%A4%8D%E6%9C%AF&amp;action=edit&amp;redlink=1" class="new" title="神经修复术（页面不存在）">神经修复术</a>、<a href="/wiki/%E7%A5%9E%E7%BB%8F%E6%8A%80%E6%9C%AF" class="mw-redirect" title="神经技术">神经技术</a>、<a href="/wiki/BrainGate" title="BrainGate">BrainGate</a></dd>
+<dt>科学现象：</dt>
+<dd><a href="/wiki/%E7%9A%AE%E5%B1%82%E5%8F%AF%E5%A1%91%E6%80%A7" title="皮层可塑性">皮层可塑性</a>、<a href="/w/index.php?title=%E7%A5%9E%E7%BB%8F%E9%9B%86%E7%BE%A4&amp;action=edit&amp;redlink=1" class="new" title="神经集群（页面不存在）">神经集群</a>，<a href="/w/index.php?title=%E8%84%91%E7%9A%AE%E5%B1%82%E7%94%B5%E5%9B%BE%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="脑皮层电图学（页面不存在）">脑皮层电图学</a>（ECoG）</dd>
+<dt>学科：</dt>
+<dd><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a>、<a href="/wiki/%E7%A5%9E%E7%BB%8F%E5%B7%A5%E7%A8%8B" title="神经工程">神经工程</a>、<a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6" title="神经科学">神经科学</a>、<a href="/w/index.php?title=NBIC&amp;action=edit&amp;redlink=1" class="new" title="NBIC（页面不存在）">NBIC</a></dd>
+<dt>推想：</dt>
+<dd><a href="/wiki/%E6%84%8F%E8%AF%86%E4%B8%8A%E4%BC%A0" title="意识上传">意识上传</a>、<a href="/w/index.php?title=%E5%BF%83%E6%99%BA%E8%BD%AC%E7%A7%BB&amp;action=edit&amp;redlink=1" class="new" title="心智转移（页面不存在）">心智转移</a>、<a href="/w/index.php?title=%E5%85%A8%E8%BA%AB%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="全身控制（页面不存在）">全身控制</a></dd>
+<dt>其它：</dt>
+<dd><a href="/wiki/%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6" class="mw-redirect" title="精神控制">精神控制</a>、<a href="/wiki/%E8%85%A6%E6%8E%A7" title="脑控">脑控</a>、<a href="/w/index.php?title=%E4%BA%BA%E4%BD%93%E5%A2%9E%E5%BC%BA%E6%9C%AF&amp;action=edit&amp;redlink=1" class="new" title="人体增强术（页面不存在）">人体增强术</a>、<a href="/w/index.php?title=Neurohacking&amp;action=edit&amp;redlink=1" class="new" title="Neurohacking（页面不存在）">Neurohacking</a>、<a href="/w/index.php?title=Transhumanism&amp;action=edit&amp;redlink=1" class="new" title="Transhumanism（页面不存在）">Transhumanism</a>、<a href="/wiki/%E6%80%9D%E6%83%B3%E8%A8%98%E9%8C%84%E8%88%87%E5%86%8D%E7%8F%BE%E8%A3%9D%E7%BD%AE" title="思想记录与再现设备">思想记录与再现设备</a></dd></dl>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=17" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">本条目的部分内容翻译自<a href="/wiki/%E8%8B%B1%E8%AA%9E" class="mw-redirect" title="英语">英语</a>维基百科条目<span lang="en"><a href="https://en.wikipedia.org/wiki/Brain-computer_interface" class="extiw" title="en:Brain-computer interface">Brain-computer interface</a></span>并以<b><a href="/wiki/Wikipedia:CC_BY-SA_4.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" title="Wikipedia:CC BY-SA 4.0协议文本">知识共享-署名-相同方式共享4.0协议</a></b>授权使用。原文作者列表请参阅其<b><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/wiki/Brain-computer_interface?action=history">页面历史</a></span></b>。<span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<h3><span id=".E7.9B.B8.E5.85.B3.E7.BB.84.E7.BB.87"></span><span class="mw-headline" id="相关组织">相关组织</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=18" title="编辑章节：相关组织"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>（相关大学或研究所请参见神经工程学条目“<a href="/wiki/%E7%A5%9E%E7%BB%8F%E5%B7%A5%E7%A8%8B%E5%AD%A6#神经工程学实验室" class="mw-redirect" title="神经工程学">神经工程学实验室</a>”一节）
+</p>
+<ul><li><a href="/wiki/%E8%84%91%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E4%BA%BA%E6%9C%BA%E5%85%B1%E8%9E%8D%E6%B5%B7%E6%B2%B3%E5%AE%9E%E9%AA%8C%E5%AE%A4" title="脑机交互与人机共融海河实验室">脑机交互与人机共融海河实验室</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061111164257/http://www.averybiomedical.com/index.html">Avery Biomedical</a>，侵入式用于视觉恢复的脑机接口</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061106140348/http://www.cyberkineticsinc.com/content/index.jsp">Cyberkinetics Neurotechnology Inc</a>，用于人体的试验性Braingate脑机接口</li>
+<li><a rel="nofollow" class="external text" href="http://www.neuralsignals.com/">Neural Signals</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210419004250/http://www.neuralsignals.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），脑通讯器侵入式脑机接口</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200115130051/https://www.darpa.mil/">US Defense Advanced Research Projects Agency</a>（DARPA）：
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061116082010/http://www.darpa.mil/dso/thrust/biosci/hand.htm">Human-Assisted Neural Devices</a>，发展非侵入式神经假体的脑机接口项目</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061207193531/http://www.darpa.mil/dso/trans/bim.htm">Bio: Info: Micro Interface</a>，发展侵入式脑机接口的项目（已中止，资助撤回）</li></ul></li></ul>
+<h3><span id=".E5.89.8D.E6.96.87.E6.8F.90.E5.8F.8A.E7.9A.84.E7.A0.94.E7.A9.B6.E8.80.85"></span><span class="mw-headline" id="前文提及的研究者">前文提及的研究者</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=19" title="编辑章节：前文提及的研究者"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.neural-prosthesis.com/">Theodore Berger</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210211234311/http://www.neural-prosthesis.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），南加州大学（University of Southern California）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060306054804/http://www.uni-tuebingen.de/uni/tci/personal/nsbirbau.htm">Niels Birbaumer</a>，蒂宾根大学（University of Tübingen）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060901085218/http://www.bme.ufl.edu/contact/directory/detail_person.php?PEOPLE_id=2">Thomas DeMarse</a>，佛罗里达大学（University of Florida）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061108101447/http://donoghue.neuro.brown.edu/">John Donoghue</a>位于布朗大学（Brown University）的实验室</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061110164151/http://www.neurosci.umn.edu/faculty/georgopoulos.html">Apostolos Georgopoulos</a>，明尼苏达大学（University of Minnesota）</li>
+<li><a href="/w/index.php?title=Eduardo_Reck_Miranda&amp;action=edit&amp;redlink=1" class="new" title="Eduardo Reck Miranda（页面不存在）">Eduardo Reck Miranda</a>，德文郡<a href="/wiki/%E6%99%AE%E5%88%A9%E8%8C%85%E6%96%AF" title="普利茅斯">普利茅斯</a><a href="/wiki/%E6%99%AE%E5%88%A9%E8%8C%85%E6%96%AF%E5%A4%A7%E5%AD%A6" title="普利茅斯大学">普利茅斯大学</a>（University of Plymouth）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061106222209/http://neuro.duke.edu/Faculty/Nicolelis.htm">Miguel Nicolelis</a>位于杜克大学（Duke University）的实验室</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060907195810/http://bme.case.edu/faculty_staff/peckham/">Hunter Peckham</a>，凯斯西储大学（Case Western Reserve University）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061030010627/http://www.its.caltech.edu/%7Epinelab/new_pinelab_page/pine_lab.htm">Jerome Pine</a>位于加州理工学院（Caltech）的实验室</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070311191540/http://motorlab.neurobio.pitt.edu/people.php?name=andy">Andrew Schwartz</a>，匹兹堡大学（University of Pittsburgh）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061028151145/http://people.deas.harvard.edu/~gstanley/">Garrett Stanley</a>，哈佛大学（Harvard University）</li>
+<li><a rel="nofollow" class="external text" href="http://www.wadsworth.org/resnres/bios/wolpaw.htm">Jonathan Wolpaw</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20151017190040/http://www.wadsworth.org/resnres/bios/wolpaw.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），纽约州卫生部（New York State Department of Health）</li></ul>
+<h3><span id=".E9.93.BE.E6.8E.A5.E5.92.8C.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="链接和文献">链接和文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;section=20" title="编辑章节：链接和文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bci-info.org/">BCI-info.org</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210212023028/http://www.bci-info.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），BCI新闻与研究门户网站（日文）</li>
+<li><a rel="nofollow" class="external text" href="http://openeeg.sourceforge.net/doc/">The open-source Electroencephalography project</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210428150527/http://openeeg.sourceforge.net/doc/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）和<a rel="nofollow" class="external text" href="http://pceeg.sourceforge.net/">Programmable chip version</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210126023937/http://pceeg.sourceforge.net/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），<i>Sourceforge</i>开源EEG项目</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070208061006/http://ida.first.fraunhofer.de/projects/bci/competition_iii/">BCI Competition</a>，由Franunhofer Institue运营，第三次也是最近一次竞赛于2005年中旬闭幕</li>
+<li><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/9.08/assist_pr.html">The Next Brainiacs</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20121227040111/http://www.wired.com/wired/archive/9.08/assist_pr.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），Wired Magazine，2001年8月，有关Jim Jatich移植的文章</li>
+<li><a rel="nofollow" class="external text" href="http://touchlab.mit.edu/news/documents/ScinetificAmerican_2002.pdf">Controlling robots with the mind</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210212014617/http://touchlab.mit.edu/news/documents/ScinetificAmerican_2002.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），Scientific American，2002年9月16日，有关Miguel Nicolelis的文章</li>
+<li><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/10.09/vision.html">Vision quest</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140318175539/http://www.wired.com/wired/archive/10.09/vision.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），Wired Magazine，2002年9月，有关人工视觉的文章</li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15079856">Lymnaea stagnalis and the development of neuroelectronic technologies</a>，Journal of Neuroscience Research，2004年，academic paper on a cell-culture BCI</li>
+<li><a rel="nofollow" class="external text" href="http://www.cnn.com/2004/TECH/11/02/brain.dish/">'Brain' in a dish flies flight simulator</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210427000838/http://www.cnn.com/2004/TECH/11/02/brain.dish/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），CNN，2004年11月4日，article on cell-culture BCI</li>
+<li><a rel="nofollow" class="external text" href="http://www.slate.com/id/2113353/">How to talk when you can't speak</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20110530205307/http://www.slate.com/id/2113353/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），Slate，2005年2月10日，article on using EEG to communicate with minimally concious patients</li>
+<li><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/13.03/brain.html">Mind Control</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140205101108/http://www.wired.com/wired/archive/13.03/brain.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>），Wired Magazine，2005年3月，有关Matt Nagle的文章</li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15961304">...a step towards neuron-based functional chips</a>，Biosens Bioelectron，2006年1月，academic paper on a cell-culture BCI</li>
+<li><a rel="nofollow" class="external text" href="http://www.nature.com/neuro/journal/v9/n10/full/nn1768.html,">Functional alignment of feedback effects from visual cortex to thalamus</a>，Nature Neuroscience 9, 1330-1336 (2006)，2006年9月17日，解码LGN视觉信号的最新进展</li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110128081648/http://hk.news.yahoo.com/article/110123/4/mdi9.html">思想植猴腦 研念力移物 盼助癱瘓病人再次行走</a>. 明报. 2011年1月24日 <span class="reference-accessdate"> &#91;2011年1月24日&#93;</span>. （<a rel="nofollow" class="external text" href="http://hk.news.yahoo.com/article/110123/4/mdi9.html">原始内容</a>存档于2011年1月28日）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;rft.atitle=%E6%80%9D%E6%83%B3%E6%A4%8D%E7%8C%B4%E8%85%A6+%E7%A0%94%E5%BF%B5%E5%8A%9B%E7%A7%BB%E7%89%A9+%E7%9B%BC%E5%8A%A9%E7%99%B1%E7%98%93%E7%97%85%E4%BA%BA%E5%86%8D%E6%AC%A1%E8%A1%8C%E8%B5%B0&amp;rft.date=2011-01-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhk.news.yahoo.com%2Farticle%2F110123%2F4%2Fmdi9.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.mobile01.com/newsdetail.php?id=7018">屌，用思想杀敌于无形！OCZ NIA脑波游戏鼠标简介</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20190620132012/http://www.mobile01.com/newsdetail.php?id=7018">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q897410" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb170203022">cb170203022</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb170203022">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="集成规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4616897-7">4616897-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007544880705171">987007544880705171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh2007000197">sh2007000197</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01210368">01210368</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2338
+Cached time: 20240401191431
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.525 seconds
+Real time usage: 0.689 seconds
+Preprocessor visited node count: 2716/1000000
+Post‐expand include size: 231097/2097152 bytes
+Template argument size: 3366/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 20266/5000000 bytes
+Lua time usage: 0.226/10.000 seconds
+Lua memory usage: 20843088/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  482.459      1 -total
+ 23.37%  112.745      1 Template:Lang-en
+ 22.97%  110.816      1 Template:Reflist
+ 13.14%   63.401      1 Template:NoteTA
+ 12.01%   57.953      1 Template:Otheruses
+ 11.93%   57.554      1 Template:Authority_control
+ 11.35%   54.736      1 Template:Hatnote
+  8.58%   41.388      1 Template:Cite_web
+  8.40%   40.540      2 Template:Ambox
+  6.63%   31.980      1 Template:Dead_link
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:428117-0!canonical!zh-cn and timestamp 20240401191431 and revision id 79073806. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=脑机接口&amp;oldid=79073806">https://zh.wikipedia.org/w/index.php?title=脑机接口&amp;oldid=79073806</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/w/index.php?title=Category:%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF&amp;action=edit&amp;redlink=1" class="new" title="Category:脑机接口技术（页面不存在）">脑机接口技术</a></li><li><a href="/w/index.php?title=Category:%E7%A5%9E%E7%BB%8F%E4%BF%AE%E5%A4%8D%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="Category:神经修复学（页面不存在）">神经修复学</a></li><li><a href="/wiki/Category:%E7%A5%9E%E7%BB%8F%E5%B7%A5%E7%A8%8B" title="Category:神经工程">神经工程</a></li><li><a href="/wiki/Category:%E4%BA%BA%E6%A9%9F%E4%BA%92%E5%8B%95" title="Category:人機互動">人机互动</a></li><li><a href="/wiki/Category:%E7%A5%9E%E7%BB%8F%E6%8A%80%E6%9C%AF" title="Category:神经技术">神经技术</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B44%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2018年4月带有失效链接的条目">自2018年4月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E6%9D%A1%E7%9B%AE%E6%9C%89%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%95%88%E7%9A%84%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Category:条目有永久失效的外部链接">条目有永久失效的外部链接</a></li><li><a href="/wiki/Category:Webarchive%E6%A8%A1%E6%9D%BFwayback%E9%93%BE%E6%8E%A5" title="Category:Webarchive模板wayback链接">Webarchive模板wayback链接</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%BF%87%E6%97%B6%E5%8F%82%E6%95%B0%E7%9A%84%E5%BC%95%E7%94%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:含有过时参数的引用的页面">含有过时参数的引用的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2012%E5%B9%B411%E6%9C%88%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2012年11月需补充来源的条目">自2012年11月需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8%E5%B0%8F%E5%9E%8B%E8%A8%8A%E6%81%AF%E6%A1%86%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:使用小型訊息框的頁面">使用小型讯息框的页面</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年9月24日 (星期日) 16:37。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-mrvk4","wgBackendResponseTime":203,"wgPageParseReport":{"limitreport":{"cputime":"0.525","walltime":"0.689","ppvisitednodes":{"value":2716,"limit":1000000},"postexpandincludesize":{"value":231097,"limit":2097152},"templateargumentsize":{"value":3366,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":20266,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  482.459      1 -total"," 23.37%  112.745      1 Template:Lang-en"," 22.97%  110.816      1 Template:Reflist"," 13.14%   63.401      1 Template:NoteTA"," 12.01%   57.953      1 Template:Otheruses"," 11.93%   57.554      1 Template:Authority_control"," 11.35%   54.736      1 Template:Hatnote","  8.58%   41.388      1 Template:Cite_web","  8.40%   40.540      2 Template:Ambox","  6.63%   31.980      1 Template:Dead_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.226","limit":"10.000"},"limitreport-memusage":{"value":20843088,"limit":52428800}},"cachereport":{"origin":"mw2338","timestamp":"20240401191431","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8111\u673a\u63a5\u53e3","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3","sameAs":"http:\/\/www.wikidata.org\/entity\/Q897410","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q897410","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-08T06:26:15Z","dateModified":"2023-09-24T16:37:15Z","headline":"\u5927\u8111\u548c\u8ba1\u7b97\u673a\u4e4b\u95f4\u7684\u8054\u7cfb"}</script>
+</body>
+</html>

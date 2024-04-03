@@ -1,0 +1,162 @@
+
+
+
+
+
+
+Network Working Group                                         E. Harslem
+Request for Comments: 40                                      J. Heafner
+                                                                    RAND
+                                                              March 1970
+
+               More Comments on the Forthcoming Protocol
+
+We have recently discussed NWG/RFC Nos. 36 and 39 with Steve Crocker,
+UCLA.  Steve has asked that we elaborate on the errors, queries, and
+HOST status that were mentioned in NWG/RFC #39.
+
+Please voice your opinions soon in order to affect the forthcoming
+protocol specifications.
+
+ERROR MESSAGES
+
+        
+ is an eight-bit field that specifies the error type.  The
+assigned codes are shown below.   is a 16-bit integer
+that indicates the length of the  in bits.  The
+ is the spurious command.
+
+The ranges of  are shown below in hexidecimal.
+
+     00     Unspecified error types
+     10-0F  Resource errors
+     10-1F  Status errors
+     20-2F  Content errors
+     30-3F  Unused
+
+Specific values of  are shown below with their meaning.
+
+      value   Semantics
+
+         00         Unspecified errors.
+         01         Request for an invalid resource.
+         02         Request for an exhausted resource, try later.
+        03-0F       Unused.
+         10         Invalid , i.e., link connected but unblocked.
+         11         Invalid .
+         12         Invalid , i.e., connected but no 
+                      received.
+
+
+
+
+
+
+
+
+                                                                [Page 1]
+
+      value   Semantics
+
+         13         Message received on blocked link.
+        14-1F       Unused.
+         20         Unknown command code.
+         21         Message received on unconnected link.
+         22         Invalid .
+         23         Invalid .
+         24         Invalid , i.e., link not connected.
+         25         Invalid .
+         26         Invalid .
+         27         Invalid .
+         28         Invalid , i.e., not connected.
+        29-2F       Unused.
+        30-FF       Unused.
+
+QUERIES
+
+      
+or     
+
+The  is the query indicated in NWG/RFC #39 and  is the reply.
+The format of  is shown below; also refer to NWG/RFC #36, p. 3.
+
+::= <16 bit count of relevant connection table entries>
+          
+::=
+                                     
+
+
+::=  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                [Page 2]
+
+HOST STATUS
+
+     
+
+An NCP may be up, down, pending, etc.  When an NCP changes its
+state to UP it should send a  to each remote NCP which
+indicates the NCP is available.  The sending NCP can then
+construct a vector of HOST status from the RFNMs it receives.  An
+NCP receiving a  can update the availability of the sending
+NCP in its HOST status vector.
+
+
+
+       [ This RFC was put into machine readable form for entry ]
+         [ into the online RFC archives by Richard Ames 6/97 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                [Page 3]
+

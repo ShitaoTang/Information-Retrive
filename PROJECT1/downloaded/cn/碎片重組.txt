@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>碎片重组 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"7e188b8e-c79a-4aff-b14e-e66d669e2147","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"碎片重組","wgTitle":"碎片重組","wgCurRevisionId":81757048,"wgRevisionId":81757048,"wgArticleId":8652215,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["有未列明来源语句的条目","Webarchive模板wayback链接","自2024年2月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","檔案系統管理","磁盘整理软件"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"碎片重組","wgRelevantArticleId":8652215,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q406391","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":
+false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices",
+"ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d0/FragmentationDefragmentation.gif">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="960">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d0/FragmentationDefragmentation.gif">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="640">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="512">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="碎片重组 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-碎片重組 rootpage-碎片重組 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-磁盘碎片的原因"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#磁盘碎片的原因">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>磁盘碎片的原因</div>
+		</a>
+		
+			<button aria-controls="toc-磁盘碎片的原因-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关磁盘碎片的原因子章节</span>
+			</button>
+		
+		<ul id="toc-磁盘碎片的原因-sublist" class="vector-toc-list">
+			<li id="toc-例子"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#例子">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>例子</div>
+			</a>
+			
+			<ul id="toc-例子-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-碎片問題的處理"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#碎片問題的處理">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>碎片问题的处理</div>
+		</a>
+		
+			<button aria-controls="toc-碎片問題的處理-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关碎片问题的处理子章节</span>
+			</button>
+		
+		<ul id="toc-碎片問題的處理-sublist" class="vector-toc-list">
+			<li id="toc-分割"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#分割">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>分割</div>
+			</a>
+			
+			<ul id="toc-分割-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-離線碎片重組"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#離線碎片重組">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>离线碎片重组</div>
+			</a>
+			
+			<ul id="toc-離線碎片重組-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-固態磁碟"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#固態磁碟">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>固态磁盘</div>
+			</a>
+			
+			<ul id="toc-固態磁碟-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-註解"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#註解">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>注解</div>
+		</a>
+		
+		<ul id="toc-註解-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考資料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考資料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-參考資料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-書目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#書目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>书目</div>
+		</a>
+		
+		<ul id="toc-書目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">碎片重组</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。29种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-29" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">29种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Compactaci%C3%B3_de_fitxers" title="Compactació de fitxers – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Defragmentace" title="Defragmentace – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de badge-Q70894304 mw-list-item" title=""><a href="https://de.wikipedia.org/wiki/Defragmentierung" title="Defragmentierung – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Defragmentation" title="Defragmentation – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Desfragmentaci%C3%B3n" title="Desfragmentación – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Defragmentimine" title="Defragmentimine – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%D8%AF%DB%8C%D8%B3%DA%A9_%D8%B3%D8%AE%D8%AA" title="یکپارچه‌سازی دیسک سخت – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Eheytt%C3%A4minen_(tietotekniikka)" title="Eheyttäminen (tietotekniikka) – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/D%C3%A9fragmentation_(informatique)" title="Défragmentation (informatique) – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%97%D7%95%D7%99_(%D7%9E%D7%97%D7%A9%D7%95%D7%91)" title="איחוי (מחשוב) – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Defragmentasi" title="Defragmentasi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Deframmentazione" title="Deframmentazione – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%95%E3%83%A9%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="デフラグメンテーション – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%8B%A8%ED%8E%B8%ED%99%94_%EC%A0%9C%EA%B1%B0" title="단편화 제거 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Defrag" title="Defrag – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Fanakelezam-piparitahana" title="Fanakelezam-piparitahana – 马拉加斯语" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%8B%D0%BC_%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%BB%D1%8B%D0%B4%D1%8B%D0%BC%D0%B0%D1%88" title="Дискым фрагментлыдымаш – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Defragmentatie" title="Defragmentatie – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Defragmentering" title="Defragmentering – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Defragmentacja" title="Defragmentacja – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Desfragmenta%C3%A7%C3%A3o" title="Desfragmentação – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="Дефрагментация – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Defragmentation" title="Defragmentation – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Defragment%C3%A1cia" title="Defragmentácia – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Defragmentacija" title="Defragmentacija – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Defragmentimi" title="Defragmentimi – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Defragmentering" title="Defragmentering – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Defragmentasyon" title="Defragmentasyon – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%96_%D0%B4%D0%B5%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F" title="Фрагментація і дефрагментація – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q406391#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;oldid=81757048" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;id=81757048&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%25A2%258E%25E7%2589%2587%25E9%2587%258D%25E7%25B5%2584"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%25A2%258E%25E7%2589%2587%25E9%2587%258D%25E7%25B5%2584"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q406391" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Disk_defragmentation" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2024年2月7日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助补充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能会因为<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br />致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">"碎片重组"</a> &#8212; <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:FragmentationDefragmentation.gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FragmentationDefragmentation.gif/220px-FragmentationDefragmentation.gif" decoding="async" width="220" height="176" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FragmentationDefragmentation.gif/330px-FragmentationDefragmentation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FragmentationDefragmentation.gif/440px-FragmentationDefragmentation.gif 2x" data-file-width="450" data-file-height="360" /></a><figcaption>档案空间<a href="/wiki/%E7%A2%8E%E7%89%87%E5%8C%96" title="碎片化">碎片化</a>以及研片重组的示意动画</figcaption></figure>
+<p>电子档案系统的<b>碎片重组</b>（defragmentation）是指减少<a href="/wiki/%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1" class="mw-redirect" title="档案系统">档案系统</a>中<a href="/wiki/%E7%A3%81%E7%9B%98%E7%A2%8E%E7%89%87" title="磁盘碎片">碎片化</a>的程度。其作法是重新整理<span class="ilh-all" data-orig-title="大容量存儲設備" data-lang-code="en" data-lang-name="英语" data-foreign-title="mass storage"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%A7%E5%AE%B9%E9%87%8F%E5%AD%98%E5%84%B2%E8%A8%AD%E5%82%99&amp;action=edit&amp;redlink=1" class="new" title="大容量存储设备（页面不存在）">大容量存储设备</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/mass_storage" class="extiw" title="en:mass storage"><span lang="en" dir="auto">mass storage</span></a></span>）</span></span>中的内容，让<a href="/wiki/%E9%9B%BB%E8%85%A6%E6%AA%94%E6%A1%88" title="电脑档案">电脑档案</a>存放在较连续的位置，减少档案的各部分分散在不连续位置的情形，同时也会让存储设备中未使用的区域是连续的。
+</p><p>碎片重组对于电磁式<a href="/wiki/%E7%A2%9F%E7%9B%A4%E5%AD%98%E5%84%B2" title="碟盘存储">碟盘存储</a>（例如<a href="/wiki/%E7%A1%AC%E7%9B%98" title="硬盘">硬盘</a>、<a href="/wiki/%E8%BD%AF%E7%9B%98" title="软盘">软盘</a>、<a href="/wiki/%E5%85%89%E7%9B%98%E9%A9%B1%E5%8A%A8%E5%99%A8" title="光盘驱动器">光盘驱动器</a>）里的档案系统是有益的。因为若档案分散在不同的区域（碎片化），读写时<a href="/wiki/%E7%A3%81%E7%9B%98%E8%AF%BB%E5%86%99%E5%A4%B4" title="磁盘读写头">磁盘读写头</a>在不同区域移动的时间会比较花时间。若是针对由<a href="/wiki/%E9%9D%9E%E6%8F%AE%E7%99%BC%E6%80%A7%E8%A8%98%E6%86%B6%E9%AB%94" title="非挥发性内存">非挥发性内存</a>组成<a href="/wiki/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98" title="固态硬盘">固态硬盘</a>，读写时在不同位置存取资料的时间和在连续位置存取的时间相当，就不需要进行碎片重组，而且固态硬盘写入的次数限制较少，碎片重组时的资料写入会减少其使用寿命。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.A3.81.E7.9B.98.E7.A2.8E.E7.89.87.E7.9A.84.E5.8E.9F.E5.9B.A0"></span><span class="mw-headline" id="磁盘碎片的原因">磁盘碎片的原因</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=1" title="编辑章节：磁盘碎片的原因"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="/wiki/%E7%A3%81%E7%9B%98%E7%A2%8E%E7%89%87#原因" title="磁盘碎片">磁盘碎片 §&#160;原因</a></div>
+<p>当<a href="/wiki/%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1" class="mw-redirect" title="档案系统">档案系统</a>无法找到够大的连续空间来储存档案，需要将档案分成多份，并且在已有的档案之间，没储存资料的位置找数个空间（这些空间可能之前有存放资料，后来删除了，或是之前储存档案时，规划的空间比档案实际的空间要大）来存放档案，这就出现了<a href="/wiki/%E7%A3%81%E7%9B%98%E7%A2%8E%E7%89%87" title="磁盘碎片">磁盘碎片</a>。经常要在档案后新增资料的档案（例如记录档）、经常会新增及删除的档案（像是邮件中的档案以及网页的快取）、较大的档案（例如影片档）比较容易受到碎片化的影响，因此在读写这些档案时，效能会下降。碎片重组就是要解决这些问题。
+</p>
+<h3><span id=".E4.BE.8B.E5.AD.90"></span><span class="mw-headline" id="例子">例子</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=2" title="编辑章节：例子"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:File_system_fragmentation.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/File_system_fragmentation.svg/330px-File_system_fragmentation.svg.png" decoding="async" width="330" height="139" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/File_system_fragmentation.svg/495px-File_system_fragmentation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/File_system_fragmentation.svg/660px-File_system_fragmentation.svg.png 2x" data-file-width="488" data-file-height="206" /></a><figcaption>碎片化的例子，分成五个状态来说明</figcaption></figure>
+<p>磁盘中有五个档案，分别用A到E来表示，其他的位置空白没有储存资料。每一个档案用了十个区块的空间（此段中，区块是档案系统分配空间的单位，区块大小是在磁盘<a href="/wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96" class="mw-redirect" title="格式化">格式化</a>时决定，会是档案系统所支援的大小）。在磁盘空白的部分，档案要分配空间时，会在相邻的位置上，一个接着一个的分配所需的空间（如图中的(1)）。若删除档案B，就会出现二个可行的作法：将原来档案B的位置设定为空白，以便后续可以分配给其他的档案，或是将B后面的档案都往前移，让空白的位置集中在后面。若有许多资料要移动，移动档案就会变成很花时间的事情，因此常见的情形就是只将档案B的位置设定为空白，可以再分配给其他的档案，其他的资料就不移动（如图中的(2)）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;nb 1&#93;</a></sup>。当有新的档案F需要六个区块的空间，系统会用之前档案B使用位置的前六个区块给档案F，后面四个区块仍设定为空白（如图中的(3)）。若另外一个档案G需要四个区块的空间，就会使用在F和C之间的四个区块给档案G使用（如图中的(4)）。
+</p><p>不过，当档案F再扩充时时，原来档案F后面已没有空间可以储存资料，需要在以下三个方法中选择一个来进行。
+</p>
+<ol><li>将档案F移到有够大连续空间可以存放的位置。若这个档案比所有空间都要大，此一方法就不适用。而且，若档案很大时，要搬移档案也要花相当长的时间。</li>
+<li>在F档案后面的档案往后移动，以保留足够的空间给档案F。若要移动的档案不多，或是资料量不大，此方法可行。但若要移动的资料很多，就要花很长的时间移动这些档案。</li>
+<li>将新增的内容放在其他的位置，并且标示档案F有第二部分的内容，以及第二部分内容的位置（如图中的(5)）。</li></ol>
+<p>目前的档案系统会依上述的第三个方法进行。若这类的事出现上百次，档案系统中会有很多小的档案片段，分散在不同位置。某些档案会分成几个存放在不同位置的片段。这样的档案系统会让存取时间拉长，因为需要读写不同位置的磁盘内容（<a href="/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96" title="随机存取">随机存取</a>），这很花时间。
+</p><p>另外，“碎片化”的概念也不只于一个档案会分成多段，储存在不连续区域的情形。例如，若有一些会以固定顺序读取的档案（例如在载入软件时要读取的档案，可能包括一些<a href="/wiki/%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93" title="动态链接库">动态链接库</a>，各种资源档、游戏的声音或是影像档），若不是以其读取的顺序，存放在连续位置，若以这一组档案来看也可以算是“碎片化”（即使个别的档案都是连续存放，没有分成多段储存的情形，也是一样）。在读取这些档案时，读写头在读完一个档案后，可能要移到其他不连续的位置来读下一个档案。有些群组的档案一开始会储存在连续位置，但若其中部分档案删除或是更新时，就会出现碎片化的情形。常见的理由是更新，为了要更新档案，会先删除旧档案，再写入新的档案，并且找地方存放。但大多数的档案系统不会将新的档案放在原来放旧档案的位置，而此位置后续会放入不相关的资料内容。因此造成碎片化。
+</p>
+<h2><span id=".E7.A2.8E.E7.89.87.E5.95.8F.E9.A1.8C.E7.9A.84.E8.99.95.E7.90.86"></span><span class="mw-headline" id="碎片問題的處理">碎片问题的处理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=3" title="编辑章节：碎片问题的处理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>碎片重组的目的就是要处理碎片问题，碎片重组会将分成多段的档案进行整合，让档案分段的数量可以降低，最后理想上会变成一个不分段，在不同位置储存的档案。这类的机能一般至少需要二次的复制程序：第一次是将在磁盘中位在某档案后面的资料复制到其他位置。第二次则是将该档案没有储存在连续区域的部分资料复制到第一个步骤预备的位置。在此作法下，不会从磁盘中删除任何资料，因此就算是在过程中断电，让上述动作在中间中断，仍然是安全的，不会破坏资料。
+</p><p>若要进行磁盘的碎片重组，碎片重组软件（defragmenter）复制的资料量不会大过未使用的空间。若磁盘里未使用的空间很小，或是所有空间都已使用，就无法进行碎片重组。重组过程会降低系统效能，在重组时最好不要执行其他的程式，以免档案系统在重整过程中仍有资料的变更，造成资料的不同步。碎片重组有不同的算法，有些适合一阶段进行重组，有些则适合多
+阶段重组。碎片重组不会调整档案的逻辑位置（就是在<a href="/wiki/%E7%9B%AE%E5%BD%95_(%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F)" title="目录 (文件系统)">目录</a>结构下的档案位置）。
+</p><p>碎片重组软件除了针对档案进行碎片重组外，也会减少载入程式以及开启档案的时间。例如微软的<a href="/wiki/%E7%A3%81%E7%A2%9F%E9%87%8D%E7%B5%84%E5%B7%A5%E5%85%B7" title="磁盘重组工具">磁盘重组工具</a>有加入Intel应用程序载入加速器，会依各档案的相依性决定其储存的位置，让载入程式，读取档案时，可以依在磁盘上的位置依序存取，加速程式载入时间<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;1&#93;</a></sup>。有些碎片重组软件会读取<span class="ilh-all" data-orig-title="預取器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Prefetcher"><span class="ilh-page"><a href="/w/index.php?title=%E9%A0%90%E5%8F%96%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="预取器（页面不存在）">预取器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Prefetcher" class="extiw" title="en:Prefetcher"><span lang="en" dir="auto">Prefetcher</span></a></span>）</span></span>档案，识别哪些档案可以整合成一组，存放在相邻位置，并且在读取时可以依序读取。
+</p><p>硬盘上，在较外围的磁道（在硬盘启始的磁区）资料传输速率要比较内围的要快。因此将常存取的资料放在较外围的磁道，可以提供性能<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup>。第三方的碎片重组工具（像是MyDefrag）会将常存取的档案放在较外围的磁道，并且让这些档案储存在连续位置<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup>。
+</p><p>近期磁盘技术的进步，像是<a href="/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96%E8%A8%98%E6%86%B6%E9%AB%94" class="mw-redirect" title="随机存取内存">RAM</a>快取、较快的磁片转速、指令伫列（<a href="/wiki/SCSI" class="mw-redirect" title="SCSI">SCSI</a>/<a href="/wiki/PATA" class="mw-redirect" title="PATA">ATA</a> <span class="ilh-all" data-orig-title="標籤指令佇列" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tagged Command Queuing"><span class="ilh-page"><a href="/w/index.php?title=%E6%A8%99%E7%B1%A4%E6%8C%87%E4%BB%A4%E4%BD%87%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="标签指令伫列（页面不存在）">TCQ</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tagged_Command_Queuing" class="extiw" title="en:Tagged Command Queuing"><span lang="en" dir="auto">Tagged Command Queuing</span></a></span>）</span></span>或<a href="/wiki/SATA" title="SATA">SATA</a> <a href="/wiki/%E5%8E%9F%E7%94%9F%E6%8C%87%E4%BB%A4%E6%8E%92%E5%BA%8F" title="原生指令排序">NCQ</a>）以及较高的资料密度，一定程度减轻了碎片化对系统效能的负面影响，不过常用资料量的增加抵消了一些减轻的效果。不过，现代系统的效能主要是因为大的硬盘容量而有获益，因为半满的磁盘其碎片化程度会比几乎全满的磁盘要好很多<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup>，在大容量硬盘里，相同的资料在碟片中占的实体空间较小，因此找的会比较快。不过平均的存取时间大约就是碟片旋转半圈的时间，而碟片转速（单位是rpm）是硬盘机的速度特性。相于资料传输速率，碟片转速的进步程度要慢很多，因此减少搜寻次数对经常存取的大型储存设备而言，还是有帮助的。
+</p>
+<h3><span id=".E5.88.86.E5.89.B2"></span><span class="mw-headline" id="分割">分割</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=4" title="编辑章节：分割"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>要在碎片重组上最佳化并减少碎片化影响，有一种常见策略是<a href="/wiki/%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA" title="硬盘分区">硬盘分区</a>，当档案系统分为二区，将常读取，不常写入的部分和常常新增及删除的档案分开。像包括暂存目录或是浏览器快取资料的目录（大约几天后就会被删除）就会固定更改。若这类的档案放在专属的分区（例如<a href="/wiki/UNIX" title="UNIX">UNIX</a>建议的<a href="/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E6%A0%87%E5%87%86" title="文件系统层次结构标准">文件系统层次结构标准</a>，一般会储存在/var partition里），碎片重组程式会运作的比较好，因为不需处理其他不常变更的资料（有些碎片重组软件也可以排除特定的目录）。对于很少写入活动的磁盘分区，第一次的碎片重组会让碎片化情形大幅改善，之后的碎片重组只需要处理少部分的档案修改。
+</p>
+<h3><span id=".E9.9B.A2.E7.B7.9A.E7.A2.8E.E7.89.87.E9.87.8D.E7.B5.84"></span><span class="mw-headline" id="離線碎片重組">离线碎片重组</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=5" title="编辑章节：离线碎片重组"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>不可移动系统档的存在（尤其是<a href="/wiki/%E5%88%86%E9%A0%81" title="分页">分页</a>档）会影响碎片重组。若在操作系统没有执行时，可以安全的移动这些档案。例如<span class="ilh-all" data-orig-title="ntfsresize" data-lang-code="en" data-lang-name="英语" data-foreign-title="ntfsresize"><span class="ilh-page"><a href="/w/index.php?title=Ntfsresize&amp;action=edit&amp;redlink=1" class="new" title="Ntfsresize（页面不存在）">ntfsresize</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ntfsresize" class="extiw" title="en:ntfsresize"><span lang="en" dir="auto">ntfsresize</span></a></span>）</span></span>可以在<a href="/wiki/NTFS" title="NTFS">NTFS</a>系统里移动这些档案，调整各磁盘的容量。<span class="ilh-all" data-orig-title="PageDefrag" data-lang-code="en" data-lang-name="英语" data-foreign-title="PageDefrag"><span class="ilh-page"><a href="/w/index.php?title=PageDefrag&amp;action=edit&amp;redlink=1" class="new" title="PageDefrag（页面不存在）">PageDefrag</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/PageDefrag" class="extiw" title="en:PageDefrag"><span lang="en" dir="auto">PageDefrag</span></a></span>）</span></span>软件可以碎片重组Windows的系统档案，像是swap档，或是储存<a href="/wiki/%E6%B3%A8%E5%86%8C%E8%A1%A8" title="注册表">注册表</a>的档案，其作法是在开机后，GUI载入之前就执行应用程序。自从Windows Vista开始，就已不完全支援此功能，也没有再更新软件。
+</p><p>在NTFS系统里，当有档案加到磁盘中，磁盘的<a href="/wiki/NTFS#主文件表（MFT）" title="NTFS">主文件表</a>（MFT）大小会增加，以储存新增档案的资料。若MFT大小无法增加时，就会出现档案碎片。在早期的Windows版本，若MFT分成多段储存，就无法安全的进行碎片重组，因此微软在碎片重组的API中增加了一个hardblock。不过自从<a href="/wiki/Windows_XP" title="Windows XP">Windows XP</a>开始，因为Windows碎片重组API已经改进，并且支移动功能，越来越多的碎片重组可以重组分段的MFT<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;5&#93;</a></sup>。不过即使在改进之后，MFT的前四个磁簇仍然是Windows碎片重组API无法移动的，因此有些碎片重组软件可能会将MFT分成二段，前四个磁簇会留在一开始初始化时的位置。
+</p>
+<h3><span id=".E5.9B.BA.E6.85.8B.E7.A3.81.E7.A2.9F"></span><span class="mw-headline" id="固態磁碟">固态磁盘</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=6" title="编辑章节：固态磁盘"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在从传统的机械式硬盘读取资料时，硬盘控制器要以较慢的速度将读写头定位到要读写的轨，之后等碟片转到让要读写资料到读写头时才作读写。<a href="/wiki/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98" title="固态硬盘">固态硬盘</a>（SSD）是以<a href="/wiki/%E9%97%AA%E5%AD%98" title="闪存">闪存</a>为基础，没有可动件，因此固态硬盘的<a href="/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96" title="随机存取">随机存取</a>不会有时间过长的问题，也就不需要用碎片重组来优化读写时间。而且，闪存可以写入的次数是有限的，若写入次数超过，就要损坏。因此，碎片重组对固态硬盘反而有破坏力（除非是用在补救<span class="ilh-all" data-orig-title="災難性故障" data-lang-code="en" data-lang-name="英语" data-foreign-title="catastrophic failure"><span class="ilh-page"><a href="/w/index.php?title=%E7%81%BD%E9%9B%A3%E6%80%A7%E6%95%85%E9%9A%9C&amp;action=edit&amp;redlink=1" class="new" title="灾难性故障（页面不存在）">灾难性故障</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/catastrophic_failure" class="extiw" title="en:catastrophic failure"><span lang="en" dir="auto">catastrophic failure</span></a></span>）</span></span>）。不过，Windows仍会自动的对
+SSD进行较小型的碎片重组，以避免档案系统到达最大允许碎片化（maximum fragmentation tolerance）的限制。若到达该制制值时，写入磁盘的动作会失效<sup id="cite_ref-:0_7-0" class="reference"><a href="#cite_note-:0-7">&#91;6&#93;</a></sup>。
+</p>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=7" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E7%A3%81%E7%A2%9F%E9%87%8D%E7%B5%84%E5%B7%A5%E5%85%B7" title="磁盘重组工具">磁盘重组工具</a></li>
+<li><a href="/wiki/%E7%A2%8E%E7%89%87%E5%8C%96" title="碎片化">碎片化</a></li>
+<li><a href="/wiki/%E7%A3%81%E7%9B%98%E7%A2%8E%E7%89%87" title="磁盘碎片">磁盘碎片</a></li>
+<li><a href="/wiki/%E7%A3%81%E7%9B%98%E6%98%A0%E5%83%8F" title="磁盘映像">磁盘映像</a></li>
+<li><a href="/wiki/%E8%80%97%E6%90%8D%E5%B9%B3%E5%9D%87%E6%8A%80%E8%A1%93" title="耗损平均技术">耗损平均技术</a></li></ul>
+<h2><span id=".E8.A8.BB.E8.A7.A3"></span><span class="mw-headline" id="註解">注解</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=8" title="编辑章节：注解"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">实务上，删除档案只是将该位置设定为空白，后面可以使用此位置，不会删除档案的实际内容，因此才能进行<a href="/wiki/%E5%8F%8D%E5%88%AA%E9%99%A4" title="反删除">反删除</a>，反删除是复原那些在目录中删除了对应资讯，但其内容都还在磁盘中，而且其位置没被其他档案使用的档案<sup class="noprint Template-Fact"><a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源"><span style="white-space: nowrap;" title="来源请求。">&#91;来源请求&#93;</span></a></sup></span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=9" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cwdixon.com/support/win98_support/disk_defrag.htm">Cwdixon.com</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20101006031956/http://cwdixon.com/support/win98_support/disk_defrag.htm">存档</a>，存档日期2010-10-06.. Cwdixon.com. Retrieved on 2013-07-28.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140204110031/http://blog.larud.net/archive/2007/02/07/28-aspx">The Ultimate Defragger - LaRud's Place</a>. Larud.net (2012-01-19). Retrieved on 2013-07-28.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20100216013356/http://www.mydefrag.com/index.html">MyDefrag v4.2.8</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2014-08-14</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.mydefrag.com/index.html">原始内容</a>存档于2010-02-16）. <q>On most harddisks the beginning of the harddisk is considerably faster than the end, sometimes by as much as 200 percent! You can measure this yourself with utilities such as *  HD Tune. MyDefrag is therefore geared towards moving all files to the beginning of the disk.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;rft.btitle=MyDefrag+v4.2.8&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mydefrag.com%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Serdar Yegulalp. <a rel="nofollow" class="external text" href="http://searchwincomputing.techtarget.com/tip/0,289483,sid68_gci1216336,00.html">New hard disk drives reduce need for disk defragmentation</a>. SearchWindowsServer.com: Disk Defragmentation Fast Guide. 20 September 2005 <span class="reference-accessdate"> &#91;<span class="nowrap">2008-12-27</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080603192712/http://searchwincomputing.techtarget.com/tip/0,289483,sid68_gci1216336,00.html">存档</a>于3 June 2008）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;rft.atitle=New+hard+disk+drives+reduce+need+for+disk+defragmentation&amp;rft.au=Serdar+Yegulalp&amp;rft.date=2005-09-20&amp;rft.genre=unknown&amp;rft.jtitle=SearchWindowsServer.com%3A+Disk+Defragmentation+Fast+Guide&amp;rft_id=http%3A%2F%2Fsearchwincomputing.techtarget.com%2Ftip%2F0%2C289483%2Csid68_gci1216336%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030424123732/http://msdn.microsoft.com/msdnmag/issues/01/12/XPKernel/">Windows XP: Kernel Improvements Create a More Robust, Powerful, and Scalable OS -- MSDN Magazine, December 2001</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2006-12-19</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://msdn.microsoft.com/msdnmag/issues/01/12/XPKernel/">原始内容</a>存档于2003-04-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;rft.btitle=Windows+XP%3A+Kernel+Improvements+Create+a+More+Robust%2C+Powerful%2C+and+Scalable+OS+--+MSDN+Magazine%2C+December+2001&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmsdn.microsoft.com%2Fmsdnmag%2Fissues%2F01%2F12%2FXPKernel%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> msdn.microsoft.com: "The other big enhancement [in windows XP] is support for online defragmentation of the MFT and most directory and file metadata"</span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hanselman, Scott. <a rel="nofollow" class="external text" href="http://www.hanselman.com/blog/TheRealAndCompleteStoryDoesWindowsDefragmentYourSSD.aspx">The real and complete story - Does Windows defragment your SSD?</a>. Scott Hanselman's blog. <a href="/wiki/Microsoft" class="mw-redirect" title="Microsoft">Microsoft</a>. 3 December 2014. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141222171607/http://www.hanselman.com/blog/TheRealAndCompleteStoryDoesWindowsDefragmentYourSSD.aspx">存档</a>于22 December 2014）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;rft.atitle=The+real+and+complete+story+-+Does+Windows+defragment+your+SSD%3F&amp;rft.aufirst=Scott&amp;rft.aulast=Hanselman&amp;rft.date=2014-12-03&amp;rft.genre=unknown&amp;rft.jtitle=Scott+Hanselman%27s+blog&amp;rft_id=http%3A%2F%2Fwww.hanselman.com%2Fblog%2FTheRealAndCompleteStoryDoesWindowsDefragmentYourSSD.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E6.9B.B8.E7.9B.AE"></span><span class="mw-headline" id="書目">书目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=10" title="编辑章节：书目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Norton, Peter (1994) <i>Peter Norton's Complete Guide to DOS 6.22</i>, page 521 – Sams (<style data-mw-deduplicate="TemplateStyles:r61200749">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/067230614X" title="Special:网络书源/067230614X">067230614X</a>)</li>
+<li>Woody Leonhard, Justin Leonhard (2005) <i>Windows XP Timesaving Techniques For Dummies, Second Edition</i> page 456 – For Dummies (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749"><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-764578-839" title="Special:网络书源/0-764578-839">0-764578-839</a>).</li>
+<li>Jensen, Craig (1994). <i>Fragmentation: The Condition, the Cause, the Cure</i>. Executive Software International (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749"><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-9640049-0-9" title="Special:网络书源/0-9640049-0-9">0-9640049-0-9</a>).</li>
+<li>Dave Kleiman, Laura Hunter, Mahesh Satyanarayana, Kimon Andreou, Nancy G Altholz, Lawrence Abrams, Darren Windham, Tony Bradley and Brian Barber (2006) <i>Winternals: Defragmentation, Recovery, and Administration Field Guide</i> – Syngress (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749"><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-597490-792" title="Special:网络书源/1-597490-792">1-597490-792</a>)</li>
+<li>Robb, Drew (2003) <i>Server Disk Management in a Windows Environment</i> Chapter 7 – AUERBACH (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749"><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0849324327" title="Special:网络书源/0849324327">0849324327</a>)</li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;action=edit&amp;section=11" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hofmannc.de/en/windows-7-defragmenter-test/">The Big Windows 7 Defragmenter Test</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20230930190617/http://www.hofmannc.de/en/windows-7-defragmenter-test/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Benchmarks of popular defrag utilities</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071025043439/http://www.microsoft.com/windowsxp/using/setup/tips/defrag.mspx">Microsoft Windows XP defragmentation - How to schedule a weekly defragmentation</a><a rel="nofollow" class="external text" href="https://archive.today/20130209083314/http://windowsitpro.com/article/articleid/77564/jsi-tip-6260-startdefrag-will-schedule-a-windows-2000-defrag-and-it-is-free-for-personal-use.html">Microsoft Windows 2000 Professional and Server defragmentation - How to schedule defragmentation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.spectrum-research.com/V2/projects_sst.asp">SST Hard Disk Optimizer</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20230824233133/http://www.spectrum-research.com/V2/projects_sst.asp">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting">How Linux avoids making files fragmented</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160604040715/http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting">存档</a>，存档日期2016-06-04.</li>
+<li><a rel="nofollow" class="external text" href="http://blogs.msdn.com/b/e7/archive/2009/01/25/disk-defragmentation-background-and-engineering-the-windows-7-improvements.aspx">How defragmentation was changed for Windows 7</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140613044230/http://blogs.msdn.com/b/e7/archive/2009/01/25/disk-defragmentation-background-and-engineering-the-windows-7-improvements.aspx">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.fact-reviews.com/defrag/Defragmentation.aspx">Complete list of Defragmentation Utilities for Windows</a> <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">互联网档案馆</a>的<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160528170217/http://www.fact-reviews.com/defrag/Defragmentation.aspx">存档</a>，存档日期2016-05-28.</li>
+<li><a rel="nofollow" class="external text" href="http://www.tomshardware.com/reviews/ssd-file-system-ntfs,3166-2.html">Does Your SSD's File System Affect Performance?</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20230521174145/http://www.tomshardware.com/reviews/ssd-file-system-ntfs,3166-2.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="Template:操作系统"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="Template talk:操作系统"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概述</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="操作系统宣传" data-lang-code="en" data-lang-name="英语" data-foreign-title="Operating system advocacy"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%A3%E4%BC%A0&amp;action=edit&amp;redlink=1" class="new" title="操作系统宣传（页面不存在）">宣传</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Operating_system_advocacy" class="extiw" title="en:Operating system advocacy"><span lang="en" dir="auto">Operating system advocacy</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="操作系统比较" data-lang-code="en" data-lang-name="英语" data-foreign-title="Comparison of operating systems"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%AF%94%E8%BE%83&amp;action=edit&amp;redlink=1" class="new" title="操作系统比较（页面不存在）">比较</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Comparison_of_operating_systems" class="extiw" title="en:Comparison of operating systems"><span lang="en" dir="auto">Comparison of operating systems</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="鑑識软件工程" data-lang-code="en" data-lang-name="英语" data-foreign-title="Forensic software engineering"><span class="ilh-page"><a href="/w/index.php?title=%E9%91%91%E8%AD%98%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&amp;action=edit&amp;redlink=1" class="new" title="鉴识软件工程（页面不存在）">鉴识软件工程</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Forensic_software_engineering" class="extiw" title="en:Forensic software engineering"><span lang="en" dir="auto">Forensic software engineering</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%8F%B2" title="操作系统历史">历史</a></li>
+<li><span class="ilh-all" data-orig-title="业余操作系统研发" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hobbyist operating system development"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%9A%E4%BD%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A0%94%E5%8F%91&amp;action=edit&amp;redlink=1" class="new" title="业余操作系统研发（页面不存在）">爱好者开发</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hobbyist_operating_system_development" class="extiw" title="en:Hobbyist operating system development"><span lang="en" dir="auto">Hobbyist operating system development</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8" title="操作系统列表">列表</a></li>
+<li><a href="/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E6%AD%B7%E5%8F%B2%E5%B9%B4%E8%A1%A8" title="操作系统历史年表">年表</a></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E4%BB%BD%E9%A2%9D" title="操作系统使用份额">份额</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%86%85%E6%A0%B8" title="内核">内核</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">系统结构</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Exokernel" title="Exokernel">Exokernel</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E6%A0%B8%E5%BF%83" title="混合核心">混合</a></li>
+<li><a href="/wiki/%E5%BE%AE%E5%85%A7%E6%A0%B8" title="微内核">微内核</a></li>
+<li><a href="/wiki/%E6%95%B4%E5%A1%8A%E6%80%A7%E6%A0%B8%E5%BF%83" title="整块性核心">整块性核心</a></li>
+<li><span class="ilh-all" data-orig-title="尾闾内核" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rump kernel"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%BE%E9%97%BE%E5%86%85%E6%A0%B8&amp;action=edit&amp;redlink=1" class="new" title="尾闾内核（页面不存在）">尾闾内核</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rump_kernel" class="extiw" title="en:Rump kernel"><span lang="en" dir="auto">Rump kernel</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8D%95%E4%B8%80%E5%86%85%E6%A0%B8" title="单一内核">单一内核</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;">组件</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F" title="驱动程序">驱动程序</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%BC%89%E5%85%A5%E6%A0%B8%E5%BF%83%E6%A8%A1%E7%B5%84" title="可载入核心模组">可载入核心模组</a></li>
+<li><a href="/wiki/%E5%BE%AE%E5%85%A7%E6%A0%B8" title="微内核">微内核</a></li>
+<li><a href="/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%A9%BA%E9%96%93" title="使用者空间">使用者空间</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A1%8C%E7%A8%8B%E7%AE%A1%E7%90%86" title="行程管理">行程管理</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;">概念</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%A4%E6%8F%9B" title="上下文交换">上下文交换</a></li>
+<li><a href="/wiki/%E4%B8%AD%E6%96%B7" title="中断">中断</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B%E9%96%93%E9%80%9A%E8%A8%8A" title="行程间通讯">行程间通讯</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B" title="行程">行程</a></li>
+<li><a href="/wiki/%E8%A1%8C%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%A1%A8" title="行程控制表">行程控制表</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="实时操作系统">实时操作系统</a></li>
+<li><a href="/wiki/%E7%BA%BF%E7%A8%8B" title="线程">线程</a></li>
+<li><a href="/wiki/%E5%88%86%E6%99%82%E7%B3%BB%E7%B5%B1" title="分时系统">分时系统</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;width: 9em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E8%B0%83%E5%BA%A6_(%E8%AE%A1%E7%AE%97%E6%9C%BA)" title="调度 (计算机)">调度算法</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="多任务处理">多任务处理</a></li>
+<li><span class="ilh-all" data-orig-title="固定优先级抢占" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fixed-priority pre-emptive scheduling"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%BA%E5%AE%9A%E4%BC%98%E5%85%88%E7%BA%A7%E6%8A%A2%E5%8D%A0&amp;action=edit&amp;redlink=1" class="new" title="固定优先级抢占（页面不存在）">固定优先级抢占</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fixed-priority_pre-emptive_scheduling" class="extiw" title="en:Fixed-priority pre-emptive scheduling"><span lang="en" dir="auto">Fixed-priority pre-emptive scheduling</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="多级反馈队列" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multilevel feedback queue"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E7%BA%A7%E5%8F%8D%E9%A6%88%E9%98%9F%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="多级反馈队列（页面不存在）">多级反馈队列</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multilevel_feedback_queue" class="extiw" title="en:Multilevel feedback queue"><span lang="en" dir="auto">Multilevel feedback queue</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%A2%E5%8D%A0%E5%BC%8F%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86" title="抢占式多任务处理">抢占式多任务处理</a></li>
+<li><a href="/wiki/%E5%BE%AA%E7%92%B0%E5%88%B6" title="循环制">循环制</a></li>
+<li><a href="/wiki/%E7%9F%AD%E8%BF%9B%E7%A8%8B%E4%BC%98%E5%85%88" title="短进程优先">短进程优先</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E7%AE%A1%E7%90%86" title="内存管理">内存管理</a>和<a href="/wiki/%E8%B3%87%E6%BA%90_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8)" title="资源 (计算机科学)">资源</a>保护</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%80%BB%E7%BA%BF%E9%94%99%E8%AF%AF" title="总线错误">总线错误</a></li>
+<li><a href="/wiki/%E4%B8%80%E8%88%AC%E4%BF%9D%E6%8A%A4%E9%94%99%E8%AF%AF" title="一般保护错误">一般保护错误</a></li>
+<li><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E4%BF%9D%E8%AD%B7" title="内存保护">内存保护</a></li>
+<li><a href="/wiki/%E5%88%86%E9%A0%81" title="分页">分页</a></li>
+<li><a href="/wiki/%E5%88%86%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%9F%9F" title="分级保护域">分级保护域</a></li>
+<li><a href="/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E5%8D%80%E6%AE%B5%E9%8C%AF%E8%AA%A4" title="内存区段错误">内存区段错误</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98" title="虚拟内存">虚拟内存</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9D%9E%E6%8F%AE%E7%99%BC%E6%80%A7%E8%A8%98%E6%86%B6%E9%AB%94" title="非挥发性内存">存储</a>访问和<a href="/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="文件系统">文件系统</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%95%9F%E5%8B%95%E7%A8%8B%E5%BC%8F" title="启动程式">启动程式</a></li>
+<li><a class="mw-selflink selflink">碎片重组</a></li>
+<li><span class="ilh-all" data-orig-title="设备文件 (Unix)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Device file"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%BE%E5%A4%87%E6%96%87%E4%BB%B6_(Unix)&amp;action=edit&amp;redlink=1" class="new" title="设备文件 (Unix)（页面不存在）">设备文件</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Device_file" class="extiw" title="en:Device file"><span lang="en" dir="auto">Device file</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%96%87%E4%BB%B6%E5%B1%9E%E6%80%A7" title="文件属性">文件属性</a></li>
+<li><a href="/wiki/Inode" title="Inode">Inode</a></li>
+<li><a href="/wiki/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F" title="日志文件系统">日志</a></li>
+<li><a href="/wiki/%E7%A1%AC%E7%9B%98%E5%88%86%E5%8C%BA" title="硬盘分区">分区</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1" title="虚拟档案系统">虚拟档案系统</a></li>
+<li><span class="ilh-all" data-orig-title="虚拟磁带库" data-lang-code="en" data-lang-name="英语" data-foreign-title="Virtual tape library"><span class="ilh-page"><a href="/w/index.php?title=%E8%99%9A%E6%8B%9F%E7%A3%81%E5%B8%A6%E5%BA%93&amp;action=edit&amp;redlink=1" class="new" title="虚拟磁带库（页面不存在）">虚拟磁带库</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Virtual_tape_library" class="extiw" title="en:Virtual tape library"><span lang="en" dir="auto">Virtual tape library</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8" title="操作系统列表">操作系统列表</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></li>
+<li><a href="/wiki/Android" title="Android">Android</a></li>
+<li><a href="/wiki/BeOS" title="BeOS">BeOS</a></li>
+<li><a href="/wiki/BSD" title="BSD">BSD</a></li>
+<li><a href="/wiki/ChromeOS" title="ChromeOS">ChromeOS</a></li>
+<li><a href="/wiki/CP/M" title="CP/M">CP/M</a></li>
+<li><a href="/wiki/DOS" title="DOS">DOS</a></li>
+<li><a href="/wiki/GNU" title="GNU">GNU</a></li>
+<li><a href="/wiki/Haiku" title="Haiku">Haiku</a></li>
+<li><a href="/wiki/%E9%B8%BF%E8%92%99_(%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)" title="鸿蒙 (操作系统)">鸿蒙</a></li>
+<li><a href="/wiki/Illumos" title="Illumos">Illumos</a></li>
+<li><a href="/wiki/IOS" title="IOS">iOS</a></li>
+<li><a href="/wiki/Linux" title="Linux">Linux</a></li>
+<li><a href="/wiki/%E9%BA%A6%E9%87%91%E5%A1%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="麦金塔操作系统">Macintosh</a>
+<ul><li><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></li>
+<li><a href="/wiki/MacOS" title="MacOS">MacOS</a></li></ul></li>
+<li><a href="/wiki/MINIX" title="MINIX">MINIX</a></li>
+<li><span class="ilh-all" data-orig-title="MorphOS" data-lang-code="en" data-lang-name="英语" data-foreign-title="MorphOS"><span class="ilh-page"><a href="/w/index.php?title=MorphOS&amp;action=edit&amp;redlink=1" class="new" title="MorphOS（页面不存在）">MorphOS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/MorphOS" class="extiw" title="en:MorphOS"><span lang="en" dir="auto">MorphOS</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="MUSIC/SP" data-lang-code="en" data-lang-name="英语" data-foreign-title="MUSIC/SP"><span class="ilh-page"><a href="/w/index.php?title=MUSIC/SP&amp;action=edit&amp;redlink=1" class="new" title="MUSIC/SP（页面不存在）">MUSIC/SP</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/MUSIC/SP" class="extiw" title="en:MUSIC/SP"><span lang="en" dir="auto">MUSIC/SP</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="NOS" data-lang-code="en" data-lang-name="英语" data-foreign-title="NOS (software)"><span class="ilh-page"><a href="/w/index.php?title=NOS&amp;action=edit&amp;redlink=1" class="new" title="NOS（页面不存在）">NOS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NOS_(software)" class="extiw" title="en:NOS (software)"><span lang="en" dir="auto">NOS (software)</span></a></span>）</span></span></li>
+<li><a href="/wiki/NGB_TVOS" class="mw-redirect" title="NGB TVOS">NGB TVOS</a></li>
+<li><a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a></li>
+<li><span class="ilh-all" data-orig-title="ORVYL" data-lang-code="en" data-lang-name="英语" data-foreign-title="ORVYL and WYLBUR"><span class="ilh-page"><a href="/w/index.php?title=ORVYL&amp;action=edit&amp;redlink=1" class="new" title="ORVYL（页面不存在）">ORVYL</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR" class="extiw" title="en:ORVYL and WYLBUR"><span lang="en" dir="auto">ORVYL and WYLBUR</span></a></span>）</span></span></li>
+<li><a href="/wiki/OS/2" title="OS/2">OS/2</a></li>
+<li><span class="ilh-all" data-orig-title="OSv" data-lang-code="en" data-lang-name="英语" data-foreign-title="OSv"><span class="ilh-page"><a href="/w/index.php?title=OSv&amp;action=edit&amp;redlink=1" class="new" title="OSv（页面不存在）">OSv</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/OSv" class="extiw" title="en:OSv"><span lang="en" dir="auto">OSv</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Pick操作系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pick operating system"><span class="ilh-page"><a href="/w/index.php?title=Pick%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="Pick操作系统（页面不存在）">Pick</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pick_operating_system" class="extiw" title="en:Pick operating system"><span lang="en" dir="auto">Pick operating system</span></a></span>）</span></span></li>
+<li><a href="/wiki/QNX" title="QNX">QNX</a></li>
+<li><a href="/wiki/ReactOS" title="ReactOS">ReactOS</a></li>
+<li><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></li>
+<li><span class="ilh-all" data-orig-title="RSTS/E" data-lang-code="en" data-lang-name="英语" data-foreign-title="RSTS/E"><span class="ilh-page"><a href="/w/index.php?title=RSTS/E&amp;action=edit&amp;redlink=1" class="new" title="RSTS/E（页面不存在）">RSTS/E</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RSTS/E" class="extiw" title="en:RSTS/E"><span lang="en" dir="auto">RSTS/E</span></a></span>）</span></span></li>
+<li><a href="/wiki/RSX-11" title="RSX-11">RSX-11</a></li>
+<li><span class="ilh-all" data-orig-title="RT-11" data-lang-code="en" data-lang-name="英语" data-foreign-title="RT-11"><span class="ilh-page"><a href="/w/index.php?title=RT-11&amp;action=edit&amp;redlink=1" class="new" title="RT-11（页面不存在）">RT-11</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/RT-11" class="extiw" title="en:RT-11"><span lang="en" dir="auto">RT-11</span></a></span>）</span></span></li>
+<li><a href="/wiki/Solaris" title="Solaris">Solaris</a></li>
+<li><a href="/wiki/TOPS-10" title="TOPS-10">TOPS-10</a>/<span class="ilh-all" data-orig-title="TOPS-20" data-lang-code="en" data-lang-name="英语" data-foreign-title="TOPS-20"><span class="ilh-page"><a href="/w/index.php?title=TOPS-20&amp;action=edit&amp;redlink=1" class="new" title="TOPS-20（页面不存在）">TOPS-20</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/TOPS-20" class="extiw" title="en:TOPS-20"><span lang="en" dir="auto">TOPS-20</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Transaction Processing Facility" data-lang-code="en" data-lang-name="英语" data-foreign-title="Transaction Processing Facility"><span class="ilh-page"><a href="/w/index.php?title=Transaction_Processing_Facility&amp;action=edit&amp;redlink=1" class="new" title="Transaction Processing Facility（页面不存在）">TPF</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Transaction_Processing_Facility" class="extiw" title="en:Transaction Processing Facility"><span lang="en" dir="auto">Transaction Processing Facility</span></a></span>）</span></span></li>
+<li><a href="/wiki/TvOS" title="TvOS">tvOS</a></li>
+<li><a href="/wiki/UNIX" title="UNIX">UNIX</a></li>
+<li><a href="/wiki/UOS" class="mw-redirect" title="UOS">UOS</a></li>
+<li><span class="ilh-all" data-orig-title="Visi On" data-lang-code="en" data-lang-name="英语" data-foreign-title="Visi On"><span class="ilh-page"><a href="/w/index.php?title=Visi_On&amp;action=edit&amp;redlink=1" class="new" title="Visi On（页面不存在）">Visi On</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Visi_On" class="extiw" title="en:Visi On"><span lang="en" dir="auto">Visi On</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="VM (operating system)" data-lang-code="en" data-lang-name="英语" data-foreign-title="VM (operating system)"><span class="ilh-page"><a href="/w/index.php?title=VM_(operating_system)&amp;action=edit&amp;redlink=1" class="new" title="VM (operating system)（页面不存在）">VM/CMS</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/VM_(operating_system)" class="extiw" title="en:VM (operating system)"><span lang="en" dir="auto">VM (operating system)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="VS/9" data-lang-code="en" data-lang-name="英语" data-foreign-title="VS/9"><span class="ilh-page"><a href="/w/index.php?title=VS/9&amp;action=edit&amp;redlink=1" class="new" title="VS/9（页面不存在）">VS/9</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/VS/9" class="extiw" title="en:VS/9"><span lang="en" dir="auto">VS/9</span></a></span>）</span></span></li>
+<li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a></li>
+<li><span class="ilh-all" data-orig-title="Xinu" data-lang-code="en" data-lang-name="英语" data-foreign-title="Xinu"><span class="ilh-page"><a href="/w/index.php?title=Xinu&amp;action=edit&amp;redlink=1" class="new" title="Xinu（页面不存在）">Xinu</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Xinu" class="extiw" title="en:Xinu"><span lang="en" dir="auto">Xinu</span></a></span>）</span></span></li>
+<li><a href="/wiki/Z/OS" title="Z/OS">z/OS</a></li>
+<li><a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">其他概念</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3" title="应用程序接口">应用程序接口</a>（API）</li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a></li>
+<li><a href="/wiki/%E7%A1%AC%E9%AB%94%E6%8A%BD%E8%B1%A1%E5%B1%A4" title="硬件抽象层">硬件抽象层</a>（HAL）</li>
+<li><a href="/wiki/Live_CD" title="Live CD">Live CD</a></li>
+<li><a href="/wiki/Live_USB" title="Live USB">Live USB</a></li>
+<li><a href="/wiki/%E6%AE%BC%E5%B1%A4" title="壳层">壳层</a>（OS Shell）
+<ul><li><a href="/wiki/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2" title="命令行界面">命令行界面</a>（CLI）</li>
+<li><a href="/wiki/%E5%9B%BE%E5%BD%A2%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="图形用户界面">图形用户界面</a>（GUI）</li>
+<li><span class="ilh-all" data-orig-title="文本用户界面" data-lang-code="en" data-lang-name="英语" data-foreign-title="Text-based user interface"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E6%9C%AC%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="文本用户界面（页面不存在）">TUI</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Text-based_user_interface" class="extiw" title="en:Text-based user interface"><span lang="en" dir="auto">Text-based user interface</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="语音用户接口" data-lang-code="en" data-lang-name="英语" data-foreign-title="Voice user interface"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%AD%E9%9F%B3%E7%94%A8%E6%88%B7%E6%8E%A5%E5%8F%A3&amp;action=edit&amp;redlink=1" class="new" title="语音用户接口（页面不存在）">VUI</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Voice_user_interface" class="extiw" title="en:Voice user interface"><span lang="en" dir="auto">Voice user interface</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E9%A2%84%E5%90%AF%E5%8A%A8%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83" title="预启动执行环境">预启动执行环境</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐sttn8
+Cached time: 20240329072023
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.680 seconds
+Real time usage: 0.814 seconds
+Preprocessor visited node count: 4230/1000000
+Post‐expand include size: 111272/2097152 bytes
+Template argument size: 6003/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 32/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19501/5000000 bytes
+Lua time usage: 0.296/10.000 seconds
+Lua memory usage: 5053915/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  641.871      1 -total
+ 34.64%  222.361      1 Template:操作系统
+ 33.94%  217.873      1 Template:Navbox
+ 21.36%  137.077      5 Template:ISBN
+ 18.41%  118.144      2 Template:Reflist
+ 16.05%  103.025     25 Template:Tsl
+ 13.07%   83.876      4 Template:Cite_web
+ 11.36%   72.912      1 Template:Refimprove
+ 10.38%   66.658      5 Template:Catalog_lookup_link
+ 10.21%   65.535      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:8652215-0!userlang=zh-cn!zh-cn and timestamp 20240329072023 and revision id 81757048. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=碎片重組&amp;oldid=81757048">https://zh.wikipedia.org/w/index.php?title=碎片重組&amp;oldid=81757048</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86" title="Category:檔案系統管理">档案系统管理</a></li><li><a href="/wiki/Category:%E7%A3%81%E7%9B%98%E6%95%B4%E7%90%86%E8%BD%AF%E4%BB%B6" title="Category:磁盘整理软件">磁盘整理软件</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E6%9C%89%E6%9C%AA%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90%E8%AF%AD%E5%8F%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:有未列明来源语句的条目">有未列明来源语句的条目</a></li><li><a href="/wiki/Category:Webarchive%E6%A8%A1%E6%9D%BFwayback%E9%93%BE%E6%8E%A5" title="Category:Webarchive模板wayback链接">Webarchive模板wayback链接</a></li><li><a href="/wiki/Category:%E8%87%AA2024%E5%B9%B42%E6%9C%88%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2024年2月需补充来源的条目">自2024年2月需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月3日 (星期日) 08:54。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2391","wgBackendResponseTime":155,"wgPageParseReport":{"limitreport":{"cputime":"0.680","walltime":"0.814","ppvisitednodes":{"value":4230,"limit":1000000},"postexpandincludesize":{"value":111272,"limit":2097152},"templateargumentsize":{"value":6003,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":32,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":19501,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  641.871      1 -total"," 34.64%  222.361      1 Template:操作系统"," 33.94%  217.873      1 Template:Navbox"," 21.36%  137.077      5 Template:ISBN"," 18.41%  118.144      2 Template:Reflist"," 16.05%  103.025     25 Template:Tsl"," 13.07%   83.876      4 Template:Cite_web"," 11.36%   72.912      1 Template:Refimprove"," 10.38%   66.658      5 Template:Catalog_lookup_link"," 10.21%   65.535      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.296","limit":"10.000"},"limitreport-memusage":{"value":5053915,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-sttn8","timestamp":"20240329072023","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u788e\u7247\u91cd\u7d44","url":"https:\/\/zh.wikipedia.org\/wiki\/%E7%A2%8E%E7%89%87%E9%87%8D%E7%B5%84","sameAs":"http:\/\/www.wikidata.org\/entity\/Q406391","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q406391","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2024-02-07T14:09:09Z","dateModified":"2024-03-03T08:54:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d0\/FragmentationDefragmentation.gif"}</script>
+</body>
+</html>

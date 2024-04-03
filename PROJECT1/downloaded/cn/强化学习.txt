@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>强化学习 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"ce88c928-3612-458f-a642-7f11c9915ca9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"强化学习","wgTitle":"强化学习","wgCurRevisionId":81813045,"wgRevisionId":81813045,"wgArticleId":8372,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有英語的條目","机器学习","人工智能","機器學習演算法","强化学习"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"强化学习","wgRelevantArticleId":8372,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q830687","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly",
+"ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/1200px-Multi-Layer_Neural_Network-Vector-Blank.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="574">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/800px-Multi-Layer_Neural_Network-Vector-Blank.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="383">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/640px-Multi-Layer_Neural_Network-Vector-Blank.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="306">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="强化学习 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-强化学习 rootpage-强化学习 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-介绍"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#介绍">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>介绍</div>
+		</a>
+		
+		<ul id="toc-介绍-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-常用算法"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#常用算法">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>常用算法</div>
+		</a>
+		
+		<ul id="toc-常用算法-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-探索机制"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#探索机制">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>探索机制</div>
+		</a>
+		
+		<ul id="toc-探索机制-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">强化学习</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。37种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-37" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">37种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D9%84%D9%85_%D8%A8%D8%A7%D9%84%D8%AA%D9%82%D9%88%D9%8A%D8%A9" title="تعلم بالتقوية – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D1%83%D1%82%D0%B2%D1%8A%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Обучение с утвърждение – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%B2%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%A8%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95_%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%A8" title="বলবর্ধনমূলক শিখন – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Podr%C5%BEano_u%C4%8Denje" title="Podržano učenje – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Aprenentatge_de_refor%C3%A7" title="Aprenentatge de reforç – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%81%DB%8E%D8%B1%D8%A8%D9%88%D9%88%D9%86%DB%8C_%D8%A8%DB%95%DA%BE%DB%8E%D8%B2%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95" title="فێربوونی بەھێزکردنەوە – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Zp%C4%9Btnovazebn%C3%AD_u%C4%8Den%C3%AD" title="Zpětnovazební učení – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Best%C3%A4rkendes_Lernen" title="Bestärkendes Lernen – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BD%CE%B9%CF%83%CF%87%CF%85%CF%84%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7" title="Ενισχυτική μάθηση – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Reinforcement_learning" title="Reinforcement learning – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Aprendizaje_por_refuerzo" title="Aprendizaje por refuerzo – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Stiimul%C3%B5pe" title="Stiimulõpe – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C" title="یادگیری تقویتی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Vahvistusoppiminen" title="Vahvistusoppiminen – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Apprentissage_par_renforcement" title="Apprentissage par renforcement – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%97%D7%99%D7%96%D7%95%D7%A7" title="למידת חיזוק – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B4%D6%80%D5%A1%D5%BA%D5%B6%D5%A4%D5%B4%D5%A1%D5%B6_%D5%B8%D6%82%D5%BD%D5%B8%D6%82%D6%81%D5%B8%D6%82%D5%B4" title="Ամրապնդման ուսուցում – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Reinforcement_learning_(pemelajaran_mesin)" title="Reinforcement learning (pemelajaran mesin) – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Apprendimento_per_rinforzo" title="Apprendimento per rinforzo – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92" title="強化学習 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94_%ED%95%99%EC%8A%B5" title="강화 학습 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pembelajaran_pengukuhan" title="Pembelajaran pengukuhan – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Reinforcement_learning" title="Reinforcement learning – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Forsterkende_l%C3%A6ring" title="Forsterkende læring – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%B0%E0%AC%BF%E0%AC%8F%E0%AC%A8%E0%AD%8D%E0%AC%AB%E0%AD%8B%E0%AC%B0%E0%AD%8D%E0%AC%B8%E0%AC%AE%E0%AD%87%E0%AC%A3%E0%AD%8D%E0%AC%9F_%E0%AC%B2%E0%AC%B0%E0%AD%8D%E0%AC%A3%E0%AD%8D%E0%AC%A3%E0%AC%BF%E0%AC%99%E0%AD%8D%E0%AC%97%E0%AD%8D" title="ରିଏନ୍ଫୋର୍ସମେଣ୍ଟ ଲର୍ଣ୍ଣିଙ୍ଗ୍ – 奥里亚语" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Uczenie_przez_wzmacnianie" title="Uczenie przez wzmacnianie – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Kallpanchana_yachay" title="Kallpanchana yachay – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BF%D0%BE%D0%B4%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" title="Обучение с подкреплением – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Reinforcement_learning" title="Reinforcement learning – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Spodbujevano_u%C4%8Denje" title="Spodbujevano učenje – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Podr%C5%BEano_u%C4%8Denje" title="Podržano učenje – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/F%C3%B6rst%C3%A4rkningsinl%C3%A4rning" title="Förstärkningsinlärning – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Peki%C5%9Ftirmeli_%C3%B6%C4%9Frenme" title="Pekiştirmeli öğrenme – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B7_%D0%BF%D1%96%D0%B4%D0%BA%D1%80%D1%96%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC" title="Навчання з підкріпленням – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_t%C4%83ng_c%C6%B0%E1%BB%9Dng" title="Học tăng cường – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="强化学习 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92" title="強化學習 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q830687#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;oldid=81813045" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;id=81813045&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%25BA%25E5%258C%2596%25E5%25AD%25A6%25E4%25B9%25A0"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%25BA%25E5%258C%2596%25E5%25AD%25A6%25E4%25B9%25A0"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q830687" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Reinforcement_learning" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r78559700">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:100%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar sidebar-collapse nomobile nowraplinks"><tbody><tr><th class="sidebar-title"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a>与<a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" title="数据挖掘">数据挖掘</a></th></tr><tr><td class="sidebar-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Multi-Layer_Neural_Network-Vector-Blank.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/220px-Multi-Layer_Neural_Network-Vector-Blank.svg.png" decoding="async" width="220" height="105" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/330px-Multi-Layer_Neural_Network-Vector-Blank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/440px-Multi-Layer_Neural_Network-Vector-Blank.svg.png 2x" data-file-width="815" data-file-height="390" /></a></span></td></tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">范式</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督学习</a></li>
+<li><a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">无监督学习</a></li>
+<li><a href="/wiki/%E7%B7%9A%E4%B8%8A%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92" title="线上机器学习">线上机器学习</a></li>
+<li><span class="ilh-all" data-orig-title="元学习 (计算机科学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Meta-learning (computer science)"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%83%E5%AD%A6%E4%B9%A0_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="元学习 (计算机科学)（页面不存在）">元学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Meta-learning_(computer_science)" class="extiw" title="en:Meta-learning (computer science)"><span lang="en" dir="auto">Meta-learning (computer science)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="半监督学习">半监督学习</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="自监督学习">自监督学习</a></li>
+<li><a class="mw-selflink selflink">强化学习</a></li>
+<li><span class="ilh-all" data-orig-title="基于规则的机器学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rule-based machine learning"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%BA%E4%BA%8E%E8%A7%84%E5%88%99%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="基于规则的机器学习（页面不存在）">基于规则的机器学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rule-based_machine_learning" class="extiw" title="en:Rule-based machine learning"><span lang="en" dir="auto">Rule-based machine learning</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92" title="量子机器学习">量子机器学习</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">问题</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%88%86%E7%B1%BB" title="统计分类">统计分类</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B" title="生成模型">生成模型</a></li>
+<li><a href="/wiki/%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90" title="回归分析">回归分析</a></li>
+<li><a href="/wiki/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90" title="聚类分析">聚类分析</a></li>
+<li><a href="/wiki/%E9%99%8D%E7%BB%B4" title="降维">降维</a></li>
+<li><span class="ilh-all" data-orig-title="密度估计" data-lang-code="en" data-lang-name="英语" data-foreign-title="density estimation"><span class="ilh-page"><a href="/w/index.php?title=%E5%AF%86%E5%BA%A6%E4%BC%B0%E8%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="密度估计（页面不存在）">密度估计</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/density_estimation" class="extiw" title="en:density estimation"><span lang="en" dir="auto">density estimation</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B" title="异常检测">异常检测</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97" title="数据清洗">数据清洗</a></li>
+<li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="自动机器学习">自动机器学习</a></li>
+<li><a href="/wiki/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0" title="关联规则学习">关联规则学习</a></li>
+<li><a href="/wiki/%E8%AA%9E%E6%84%8F%E5%88%86%E6%9E%90" title="语意分析">语意分析</a></li>
+<li><span class="ilh-all" data-orig-title="结构预测" data-lang-code="en" data-lang-name="英语" data-foreign-title="Structured prediction"><span class="ilh-page"><a href="/w/index.php?title=%E7%BB%93%E6%9E%84%E9%A2%84%E6%B5%8B&amp;action=edit&amp;redlink=1" class="new" title="结构预测（页面不存在）">结构预测</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Structured_prediction" class="extiw" title="en:Structured prediction"><span lang="en" dir="auto">Structured prediction</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B" title="特征工程">特征工程</a></li>
+<li><a href="/wiki/%E8%A1%A8%E5%BE%81%E5%AD%A6%E4%B9%A0" title="表征学习">表征学习</a></li>
+<li><span class="ilh-all" data-orig-title="排序学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Learning to rank"><span class="ilh-page"><a href="/w/index.php?title=%E6%8E%92%E5%BA%8F%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="排序学习（页面不存在）">排序学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Learning_to_rank" class="extiw" title="en:Learning to rank"><span lang="en" dir="auto">Learning to rank</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="语法归纳" data-lang-code="en" data-lang-name="英语" data-foreign-title="Grammar induction"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%AD%E6%B3%95%E5%BD%92%E7%BA%B3&amp;action=edit&amp;redlink=1" class="new" title="语法归纳（页面不存在）">语法归纳</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Grammar_induction" class="extiw" title="en:Grammar induction"><span lang="en" dir="auto">Grammar induction</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="本体学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ontology learning"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%AC%E4%BD%93%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="本体学习（页面不存在）">本体学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ontology_learning" class="extiw" title="en:Ontology learning"><span lang="en" dir="auto">Ontology learning</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="多模态学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multimodal learning"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E6%A8%A1%E6%80%81%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="多模态学习（页面不存在）">多模态学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multimodal_learning" class="extiw" title="en:Multimodal learning"><span lang="en" dir="auto">Multimodal learning</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督学习</a><br /><span style="font-weight:normal;"><small>(<b><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%88%86%E7%B1%BB" title="统计分类">分类</a></b><span style="font-weight:bold;">&#160;·</span> <b><a href="/wiki/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90" class="mw-redirect" title="回归分析">回归</a></b>)</small></span></div></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><span class="ilh-all" data-orig-title="学徒学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Apprenticeship learning"><span class="ilh-page"><a href="/w/index.php?title=%E5%AD%A6%E5%BE%92%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="学徒学习（页面不存在）">学徒学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Apprenticeship_learning" class="extiw" title="en:Apprenticeship learning"><span lang="en" dir="auto">Apprenticeship learning</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E6%A0%91%E5%AD%A6%E4%B9%A0" title="决策树学习">决策树学习</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0" title="集成学习">集成学习</a>
+<ul><li><a href="/wiki/Bagging%E7%AE%97%E6%B3%95" title="Bagging算法">Bagging</a></li>
+<li><a href="/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95" title="提升方法">提升方法</a></li>
+<li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97" title="随机森林">随机森林</a></li></ul></li>
+<li><a href="/wiki/K-%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95" title="K-近邻算法"><i>k</i>-NN</a></li>
+<li><a href="/wiki/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8" title="线性回归">线性回归</a></li>
+<li><a href="/wiki/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8" title="朴素贝叶斯分类器">朴素贝叶斯</a></li>
+<li><a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="人工神经网络">人工神经网络</a></li>
+<li><a href="/wiki/%E9%82%8F%E8%BC%AF%E6%96%AF%E8%AB%A6%E8%BF%B4%E6%AD%B8" title="逻辑斯谛回归">逻辑斯谛回归</a></li>
+<li><a href="/wiki/%E6%84%9F%E7%9F%A5%E5%99%A8" title="感知器">感知器</a></li>
+<li><a href="/wiki/%E7%9B%B8%E5%85%B3%E5%90%91%E9%87%8F%E6%9C%BA" title="相关向量机">相关向量机（RVM）</a></li>
+<li><a href="/wiki/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA" title="支持向量机">支持向量机（SVM）</a></li>
+<li><a href="/wiki/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0" title="迁移学习">迁移学习</a></li>
+<li><a href="/wiki/%E5%BE%AE%E8%B0%83_(%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)" title="微调 (深度学习)">微调</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><a href="/wiki/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90" title="聚类分析">聚类分析</a></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/BIRCH" title="BIRCH">BIRCH</a></li>
+<li><span class="ilh-all" data-orig-title="CURE算法" data-lang-code="en" data-lang-name="英语" data-foreign-title="CURE algorithm"><span class="ilh-page"><a href="/w/index.php?title=CURE%E7%AE%97%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="CURE算法（页面不存在）">CURE算法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CURE_algorithm" class="extiw" title="en:CURE algorithm"><span lang="en" dir="auto">CURE algorithm</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB" title="层次聚类">层次</a></li>
+<li><a href="/wiki/K-%E5%B9%B3%E5%9D%87%E7%AE%97%E6%B3%95" title="K-平均算法"><i>k</i>-平均</a></li>
+<li><a href="/wiki/%E6%A8%A1%E7%B3%8A%E8%81%9A%E7%B1%BB" title="模糊聚类">Fuzzy</a></li>
+<li><a href="/wiki/%E6%9C%80%E5%A4%A7%E6%9C%9F%E6%9C%9B%E7%AE%97%E6%B3%95" title="最大期望算法">期望最大化（EM）</a></li>
+<li><br /><a href="/wiki/DBSCAN" title="DBSCAN">DBSCAN</a></li>
+<li><a href="/wiki/OPTICS" title="OPTICS">OPTICS</a></li>
+<li><span class="ilh-all" data-orig-title="均值飘移" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mean shift"><span class="ilh-page"><a href="/w/index.php?title=%E5%9D%87%E5%80%BC%E9%A3%98%E7%A7%BB&amp;action=edit&amp;redlink=1" class="new" title="均值飘移（页面不存在）">均值飘移</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mean_shift" class="extiw" title="en:Mean shift"><span lang="en" dir="auto">Mean shift</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><a href="/wiki/%E9%99%8D%E7%BB%B4" title="降维">降维</a></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E5%9B%A0%E7%B4%A0%E5%88%86%E6%9E%90" title="因素分析">因素分析</a></li>
+<li><a href="/wiki/%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3" title="典型相关">CCA</a></li>
+<li><a href="/wiki/%E7%8B%AC%E7%AB%8B%E6%88%90%E5%88%86%E5%88%86%E6%9E%90" title="独立成分分析">ICA</a></li>
+<li><a href="/wiki/%E7%B7%9A%E6%80%A7%E5%88%A4%E5%88%A5%E5%88%86%E6%9E%90" title="线性判别分析">LDA</a></li>
+<li><span class="ilh-all" data-orig-title="非负矩阵分解" data-lang-code="en" data-lang-name="英语" data-foreign-title="Non-negative matrix factorization"><span class="ilh-page"><a href="/w/index.php?title=%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3&amp;action=edit&amp;redlink=1" class="new" title="非负矩阵分解（页面不存在）">NMF</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Non-negative_matrix_factorization" class="extiw" title="en:Non-negative matrix factorization"><span lang="en" dir="auto">Non-negative matrix factorization</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90" title="主成分分析">PCA</a></li>
+<li><span class="ilh-all" data-orig-title="适当广义分解" data-lang-code="en" data-lang-name="英语" data-foreign-title="Proper generalized decomposition"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%82%E5%BD%93%E5%B9%BF%E4%B9%89%E5%88%86%E8%A7%A3&amp;action=edit&amp;redlink=1" class="new" title="适当广义分解（页面不存在）">PGD</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Proper_generalized_decomposition" class="extiw" title="en:Proper generalized decomposition"><span lang="en" dir="auto">Proper generalized decomposition</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="t-分布随机邻域嵌入" data-lang-code="en" data-lang-name="英语" data-foreign-title="t-distributed stochastic neighbor embedding"><span class="ilh-page"><a href="/w/index.php?title=T-%E5%88%86%E5%B8%83%E9%9A%8F%E6%9C%BA%E9%82%BB%E5%9F%9F%E5%B5%8C%E5%85%A5&amp;action=edit&amp;redlink=1" class="new" title="T-分布随机邻域嵌入（页面不存在）">t-SNE</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/t-distributed_stochastic_neighbor_embedding" class="extiw" title="en:t-distributed stochastic neighbor embedding"><span lang="en" dir="auto">t-distributed stochastic neighbor embedding</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A8%80%E7%96%8F%E5%AD%97%E5%85%B8%E5%AD%B8%E7%BF%92" title="稀疏字典学习">SDL</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><span class="ilh-all" data-orig-title="结构预测" data-lang-code="en" data-lang-name="英语" data-foreign-title="Structured prediction"><span class="ilh-page"><a href="/w/index.php?title=%E7%BB%93%E6%9E%84%E9%A2%84%E6%B5%8B&amp;action=edit&amp;redlink=1" class="new" title="结构预测（页面不存在）">结构预测</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Structured_prediction" class="extiw" title="en:Structured prediction"><span lang="en" dir="auto">Structured prediction</span></a></span>）</span></span></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E5%9C%96%E6%A8%A1%E5%BC%8F" title="图模式">图模式</a>
+<ul><li><a href="/wiki/%E8%B2%9D%E6%B0%8F%E7%B6%B2%E8%B7%AF" title="贝氏网络">贝氏网络</a></li>
+<li><a href="/wiki/%E6%A2%9D%E4%BB%B6%E9%9A%A8%E6%A9%9F%E5%9F%9F" title="条件随机域">条件随机域</a></li>
+<li><a href="/wiki/%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B" title="隐马尔可夫模型">隐马尔可夫模型</a></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><a href="/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B" title="异常检测">异常检测</a></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E9%9A%A8%E6%A9%9F%E6%8A%BD%E6%A8%A3%E4%B8%80%E8%87%B4" title="随机抽样一致">RANSAC</a></li>
+<li><a href="/wiki/K-%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95" title="K-近邻算法"><i>k</i>-NN</a></li>
+<li><span class="ilh-all" data-orig-title="局部异常因子" data-lang-code="en" data-lang-name="英语" data-foreign-title="Local outlier factor"><span class="ilh-page"><a href="/w/index.php?title=%E5%B1%80%E9%83%A8%E5%BC%82%E5%B8%B8%E5%9B%A0%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="局部异常因子（页面不存在）">局部异常因子</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Local_outlier_factor" class="extiw" title="en:Local outlier factor"><span lang="en" dir="auto">Local outlier factor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Isolation forest" data-lang-code="en" data-lang-name="英语" data-foreign-title="Isolation forest"><span class="ilh-page"><a href="/w/index.php?title=Isolation_forest&amp;action=edit&amp;redlink=1" class="new" title="Isolation forest（页面不存在）">孤立森林</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Isolation_forest" class="extiw" title="en:Isolation forest"><span lang="en" dir="auto">Isolation forest</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="人工神经网络">人工神经网络</a></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8" title="自编码器">自编码器</a></li>
+<li><a href="/wiki/%E8%AA%8D%E7%9F%A5%E8%A8%88%E7%AE%97" title="认知计算">认知计算</a></li>
+<li><a href="/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0" title="深度学习">深度学习</a></li>
+<li><span class="ilh-all" data-orig-title="DeepDream" data-lang-code="en" data-lang-name="英语" data-foreign-title="DeepDream"><span class="ilh-page"><a href="/w/index.php?title=DeepDream&amp;action=edit&amp;redlink=1" class="new" title="DeepDream（页面不存在）">DeepDream</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/DeepDream" class="extiw" title="en:DeepDream"><span lang="en" dir="auto">DeepDream</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8" title="多层感知器">多层感知器</a></li>
+<li><a href="/wiki/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="循环神经网络">RNN</a>
+<ul><li><a href="/wiki/%E9%95%B7%E7%9F%AD%E6%9C%9F%E8%A8%98%E6%86%B6" title="长短期记忆">LSTM</a></li>
+<li><span class="ilh-all" data-orig-title="门控循环单元" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gated recurrent unit"><span class="ilh-page"><a href="/w/index.php?title=%E9%97%A8%E6%8E%A7%E5%BE%AA%E7%8E%AF%E5%8D%95%E5%85%83&amp;action=edit&amp;redlink=1" class="new" title="门控循环单元（页面不存在）">GRU</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gated_recurrent_unit" class="extiw" title="en:Gated recurrent unit"><span lang="en" dir="auto">Gated recurrent unit</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="回声状态网络" data-lang-code="en" data-lang-name="英语" data-foreign-title="Echo state network"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%9E%E5%A3%B0%E7%8A%B6%E6%80%81%E7%BD%91%E7%BB%9C&amp;action=edit&amp;redlink=1" class="new" title="回声状态网络（页面不存在）">ESN</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Echo_state_network" class="extiw" title="en:Echo state network"><span lang="en" dir="auto">Echo state network</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="储备池计算" data-lang-code="en" data-lang-name="英语" data-foreign-title="reservoir computing"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%A8%E5%A4%87%E6%B1%A0%E8%AE%A1%E7%AE%97&amp;action=edit&amp;redlink=1" class="new" title="储备池计算（页面不存在）">储备池计算</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/reservoir_computing" class="extiw" title="en:reservoir computing"><span lang="en" dir="auto">reservoir computing</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%8F%97%E9%99%90%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E6%9C%BA" title="受限玻尔兹曼机">受限玻尔兹曼机</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C" title="生成对抗网络">GAN</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%BB%84%E7%BB%87%E6%98%A0%E5%B0%84" title="自组织映射">SOM</a></li>
+<li><a href="/wiki/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="卷积神经网络">CNN</a>
+<ul><li><a href="/wiki/U-Net" title="U-Net">U-Net</a></li></ul></li>
+<li><a href="/wiki/Transformer%E6%A8%A1%E5%9E%8B" title="Transformer模型">Transformer</a>
+<ul><li><span class="ilh-all" data-orig-title="Vision transforme" data-lang-code="en" data-lang-name="英语" data-foreign-title="Vision transformer"><span class="ilh-page"><a href="/w/index.php?title=Vision_transforme&amp;action=edit&amp;redlink=1" class="new" title="Vision transforme（页面不存在）">Vision transforme</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Vision_transformer" class="extiw" title="en:Vision transformer"><span lang="en" dir="auto">Vision transformer</span></a></span>）</span></span></li></ul></li>
+<li><span class="ilh-all" data-orig-title="脉冲神经网络" data-lang-code="en" data-lang-name="英语" data-foreign-title="Spiking neural network"><span class="ilh-page"><a href="/w/index.php?title=%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C&amp;action=edit&amp;redlink=1" class="new" title="脉冲神经网络（页面不存在）">脉冲神经网络</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Spiking_neural_network" class="extiw" title="en:Spiking neural network"><span lang="en" dir="auto">Spiking neural network</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Memtransistor" data-lang-code="en" data-lang-name="英语" data-foreign-title="Memtransistor"><span class="ilh-page"><a href="/w/index.php?title=Memtransistor&amp;action=edit&amp;redlink=1" class="new" title="Memtransistor（页面不存在）">Memtransistor</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Memtransistor" class="extiw" title="en:Memtransistor"><span lang="en" dir="auto">Memtransistor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Electrochemical RAM" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electrochemical RAM"><span class="ilh-page"><a href="/w/index.php?title=Electrochemical_RAM&amp;action=edit&amp;redlink=1" class="new" title="Electrochemical RAM（页面不存在）">电化学RAM</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electrochemical_RAM" class="extiw" title="en:Electrochemical RAM"><span lang="en" dir="auto">Electrochemical RAM</span></a></span>）</span></span>（ECRAM）</li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;"><a class="mw-selflink selflink">强化学习</a></div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/Q%E5%AD%A6%E4%B9%A0" title="Q学习">Q学习</a></li>
+<li><a href="/wiki/SARSA%E7%AE%97%E6%B3%95" title="SARSA算法">SARSA</a></li>
+<li><a href="/wiki/%E6%97%B6%E5%BA%8F%E5%B7%AE%E5%88%86%E5%AD%A6%E4%B9%A0" title="时序差分学习">时序差分（TD）</a></li>
+<li><span class="ilh-all" data-orig-title="多智能体强化学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multi-agent reinforcement learning"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="多智能体强化学习（页面不存在）">多智能体</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning" class="extiw" title="en:Multi-agent reinforcement learning"><span lang="en" dir="auto">Multi-agent reinforcement learning</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="Self-play (强化学习技术)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Self-play (reinforcement learning technique)"><span class="ilh-page"><a href="/w/index.php?title=Self-play_(%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF)&amp;action=edit&amp;redlink=1" class="new" title="Self-play (强化学习技术)（页面不存在）">Self-play</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Self-play_(reinforcement_learning_technique)" class="extiw" title="en:Self-play (reinforcement learning technique)"><span lang="en" dir="auto">Self-play (reinforcement learning technique)</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E7%B1%BB%E5%8F%8D%E9%A6%88%E7%9A%84%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="基于人类反馈的强化学习">RLHF</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">与人类学习</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><span class="ilh-all" data-orig-title="主动学习 (机器学习)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Active learning (machine learning)"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0_(%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)&amp;action=edit&amp;redlink=1" class="new" title="主动学习 (机器学习)（页面不存在）">主动学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)" class="extiw" title="en:Active learning (machine learning)"><span lang="en" dir="auto">Active learning (machine learning)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BC%97%E5%8C%85" title="众包">众包</a></li>
+<li><span class="ilh-all" data-orig-title="Human-in-the-loop" data-lang-code="en" data-lang-name="英语" data-foreign-title="Human-in-the-loop"><span class="ilh-page"><a href="/w/index.php?title=Human-in-the-loop&amp;action=edit&amp;redlink=1" class="new" title="Human-in-the-loop（页面不存在）">Human-in-the-loop</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Human-in-the-loop" class="extiw" title="en:Human-in-the-loop"><span lang="en" dir="auto">Human-in-the-loop</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">模型诊断</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><span class="ilh-all" data-orig-title="学习曲线 (机器学习)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Learning curve (machine learning)"><span class="ilh-page"><a href="/w/index.php?title=%E5%AD%A6%E4%B9%A0%E6%9B%B2%E7%BA%BF_(%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)&amp;action=edit&amp;redlink=1" class="new" title="学习曲线 (机器学习)（页面不存在）">学习曲线</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Learning_curve_(machine_learning)" class="extiw" title="en:Learning curve (machine learning)"><span lang="en" dir="auto">Learning curve (machine learning)</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">数学基础</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><span class="ilh-all" data-orig-title="内核机器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Kernel machines"><span class="ilh-page"><a href="/w/index.php?title=%E5%86%85%E6%A0%B8%E6%9C%BA%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="内核机器（页面不存在）">内核机器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Kernel_machines" class="extiw" title="en:Kernel machines"><span lang="en" dir="auto">Kernel machines</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="偏差–方差困境" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bias–variance tradeoff"><span class="ilh-page"><a href="/w/index.php?title=%E5%81%8F%E5%B7%AE%E2%80%93%E6%96%B9%E5%B7%AE%E5%9B%B0%E5%A2%83&amp;action=edit&amp;redlink=1" class="new" title="偏差–方差困境（页面不存在）">偏差–方差困境</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff" class="extiw" title="en:Bias–variance tradeoff"><span lang="en" dir="auto">Bias–variance tradeoff</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="计算学习理论" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computational learning theory"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="计算学习理论（页面不存在）">计算学习理论</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computational_learning_theory" class="extiw" title="en:Computational learning theory"><span lang="en" dir="auto">Computational learning theory</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BB%8F%E9%AA%8C%E9%A3%8E%E9%99%A9%E6%9C%80%E5%B0%8F%E5%8C%96" title="经验风险最小化">经验风险最小化</a></li>
+<li><span class="ilh-all" data-orig-title="Occam learning" data-lang-code="en" data-lang-name="英语" data-foreign-title="Occam learning"><span class="ilh-page"><a href="/w/index.php?title=Occam_learning&amp;action=edit&amp;redlink=1" class="new" title="Occam learning（页面不存在）">奥卡姆学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Occam_learning" class="extiw" title="en:Occam learning"><span lang="en" dir="auto">Occam learning</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="概率近似正确学习" data-lang-code="en" data-lang-name="英语" data-foreign-title="Probably approximately correct learning"><span class="ilh-page"><a href="/w/index.php?title=%E6%A6%82%E7%8E%87%E8%BF%91%E4%BC%BC%E6%AD%A3%E7%A1%AE%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;redlink=1" class="new" title="概率近似正确学习（页面不存在）">PAC学习</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Probably_approximately_correct_learning" class="extiw" title="en:Probably approximately correct learning"><span lang="en" dir="auto">Probably approximately correct learning</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA" title="统计学习理论">统计学习</a></li>
+<li><a href="/wiki/VC%E7%90%86%E8%AE%BA" title="VC理论">VC理论</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">大会与出版物</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><a href="/wiki/%E7%A5%9E%E7%BB%8F%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E7%B3%BB%E7%BB%9F%E5%A4%A7%E4%BC%9A" title="神经信息处理系统大会">NeurIPS</a></li>
+<li><span class="ilh-all" data-orig-title="国际机器学习大会" data-lang-code="en" data-lang-name="英语" data-foreign-title="International Conference on Machine Learning"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%BD%E9%99%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%A4%A7%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="国际机器学习大会（页面不存在）">ICML</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning" class="extiw" title="en:International Conference on Machine Learning"><span lang="en" dir="auto">International Conference on Machine Learning</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E8%A1%A8%E5%BE%81%E5%AD%A6%E4%B9%A0%E5%A4%A7%E4%BC%9A" title="国际表征学习大会">ICLR</a></li>
+<li><span class="ilh-all" data-orig-title="机器学习 (期刊)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Machine Learning (journal)"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_(%E6%9C%9F%E5%88%8A)&amp;action=edit&amp;redlink=1" class="new" title="机器学习 (期刊)（页面不存在）">ML</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Machine_Learning_(journal)" class="extiw" title="en:Machine Learning (journal)"><span lang="en" dir="auto">Machine Learning (journal)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="机器学习研究期刊" data-lang-code="en" data-lang-name="英语" data-foreign-title="Journal of Machine Learning Research"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E6%9C%9F%E5%88%8A&amp;action=edit&amp;redlink=1" class="new" title="机器学习研究期刊（页面不存在）">JMLR</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research" class="extiw" title="en:Journal of Machine Learning Research"><span lang="en" dir="auto">Journal of Machine Learning Research</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="border-top:1px solid #aaa;text-align:center; background:#ddd;">相关条目</div><div class="sidebar-list-content mw-collapsible-content hlist">
+<ul><li><span class="ilh-all" data-orig-title="人工智能术语" data-lang-code="en" data-lang-name="英语" data-foreign-title="Glossary of artificial intelligence"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AF%E8%AF%AD&amp;action=edit&amp;redlink=1" class="new" title="人工智能术语（页面不存在）">人工智能术语</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" class="extiw" title="en:Glossary of artificial intelligence"><span lang="en" dir="auto">Glossary of artificial intelligence</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="机器学习研究数据集列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of datasets for machine-learning research"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="机器学习研究数据集列表（页面不存在）">机器学习研究数据集列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research" class="extiw" title="en:List of datasets for machine-learning research"><span lang="en" dir="auto">List of datasets for machine-learning research</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="机器学习概要" data-lang-code="en" data-lang-name="英语" data-foreign-title="Outline of machine learning"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%A6%81&amp;action=edit&amp;redlink=1" class="new" title="机器学习概要（页面不存在）">机器学习概要</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Outline_of_machine_learning" class="extiw" title="en:Outline of machine learning"><span lang="en" dir="auto">Outline of machine learning</span></a></span>）</span></span></li></ul></div></div></td>
+</tr><tr><td class="sidebar-navbar" style="line-height:1.6"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AF%BC%E8%88%AA%E6%A0%8F" title="Template:机器学习导航栏"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AF%BC%E8%88%AA%E6%A0%8F&amp;action=edit&amp;redlink=1" class="new" title="Template talk:机器学习导航栏（页面不存在）"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AF%BC%E8%88%AA%E6%A0%8F&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>强化学习</b>（英语：<span lang="en">Reinforcement learning</span>，简称<span lang="en">RL</span>）是<a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a>中的一个领域，强调如何基于<a href="/wiki/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83" title="生态环境">环境</a>而行动，以取得最大化的预期利益<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。强化学习是除了<a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督学习</a>和<a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">非监督学习</a>之外的第三种基本的机器学习方法。与监督学习不同的是，强化学习不需要带标签的输入输出对，同时也无需对非最优解的精确地纠正。其关注点在于寻找探索（对未知领域的）和利用（对已有知识的）的平衡<sup id="cite_ref-kaelbling_2-0" class="reference"><a href="#cite_note-kaelbling-2">&#91;2&#93;</a></sup>，强化学习中的“探索-利用”的交换，在<span class="ilh-all" data-orig-title="多臂老虎机" data-lang-code="en" data-lang-name="英语" data-foreign-title="multi-armed bandit"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="多臂老虎机（页面不存在）">多臂老虎机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/multi-armed_bandit" class="extiw" title="en:multi-armed bandit"><span lang="en" dir="auto">multi-armed bandit</span></a></span>）</span></span>问题和有限MDP中研究得最多。
+</p><p>其灵感来源于心理学中的<a href="/wiki/%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89" class="mw-disambig" title="行为主义">行为主义</a>理论，即有机体如何在环境给予的奖励或惩罚的刺激下，逐步形成对刺激的预期，产生能获得最大利益的习惯性行为。这个方法具有普适性，因此在其他许多领域都有研究，例如<a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA" title="博弈论">博弈论</a>、<a href="/wiki/%E6%8E%A7%E5%88%B6%E8%AE%BA" title="控制论">控制论</a>、<a href="/wiki/%E8%BF%90%E7%AD%B9%E5%AD%A6" class="mw-redirect" title="运筹学">运筹学</a>、<a href="/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA" title="信息论">信息论</a>、仿真优化、<a href="/wiki/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F" title="多智能体系统">多智能体系统</a>、<a href="/wiki/%E7%BE%A4%E4%BD%93%E6%99%BA%E8%83%BD" title="群体智能">群体智能</a>、<a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a>以及<a href="/wiki/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95" title="遗传算法">遗传算法</a>。在运筹学和控制理论研究的语境下，强化学习被称作“近似动态规划”（approximate dynamic programming，ADP）。在<a href="/wiki/%E6%9C%80%E4%BC%98%E6%8E%A7%E5%88%B6" title="最优控制">最优控制</a>理论中也有研究这个问题，虽然大部分的研究是关于最优解的存在和特性，并非是学习或者近似方面。在<a href="/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="经济学">经济学</a>和<a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA" title="博弈论">博弈论</a>中，强化学习被用来解释在<a href="/wiki/%E6%9C%89%E9%99%90%E7%90%86%E6%80%A7" title="有限理性">有限理性</a>的条件下如何出现平衡。
+</p><p>在机器学习问题中，环境通常被抽象为<a href="/wiki/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B" class="mw-redirect" title="马尔可夫决策过程">马尔可夫决策过程</a>（Markov decision processes，MDP），因为很多强化学习算法在这种假设下才能使用<a href="/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92" title="动态规划">动态规划</a>的方法<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。传统的动态规划方法和强化学习算法的主要区别是，后者不需要关于MDP的知识，而且针对无法找到确切方法的大规模MDP。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E4.BB.8B.E7.BB.8D"></span><span class="mw-headline" id="介绍">介绍</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;section=1" title="编辑章节：介绍"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Reinforcement_learning_diagram.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/250px-Reinforcement_learning_diagram.svg.png" decoding="async" width="250" height="242" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/375px-Reinforcement_learning_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/500px-Reinforcement_learning_diagram.svg.png 2x" data-file-width="300" data-file-height="290" /></a><figcaption>强化学习的典型框架：智能体在环境中采取一种行为，环境将其转换为一次回报和一种状态表示，随后反馈给智能体。</figcaption></figure>
+<p>由于其通用性很强，强化学习已经在诸如<a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA" title="博弈论">博弈论</a>、<a href="/wiki/%E6%8E%A7%E5%88%B6%E8%AE%BA" title="控制论">控制论</a>、<a href="/wiki/%E8%BF%90%E7%AD%B9%E5%AD%A6" class="mw-redirect" title="运筹学">运筹学</a>、<a href="/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA" title="信息论">信息论</a>、<a href="/w/index.php?title=%E4%BB%BF%E7%9C%9F%E4%BC%98%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="仿真优化（页面不存在）">仿真优化</a>、<a href="/w/index.php?title=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93&amp;action=edit&amp;redlink=1" class="new" title="多智能体（页面不存在）">多智能体</a>、<a href="/wiki/%E7%BE%A4%E4%BD%93%E6%99%BA%E8%83%BD" title="群体智能">群体智能</a>和<a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a>等领域有了深入研究。在运筹学和控制文献中，强化学习被称为<i>近似动态规划</i>或<i>神经动态规划</i>。强化学习所感兴趣的问题在<a href="/wiki/%E6%9C%80%E4%BC%98%E6%8E%A7%E5%88%B6" title="最优控制">最优控制</a>（一种关注最优解的存在性、表示和求解的理论，但较少涉及学习和近似）中也有所研究，尤其是环境的数学模型难以求得的时候。在经济学和博弈论中，强化学习可能被用来解释在有限的理性（<span lang="en">rationality</span>）下如何达到平衡状态。
+</p><p>基本的强化学习被建模为马尔可夫决策过程：
+</p>
+<ol><li>环境状态的集合<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.499ex; height:2.176ex;" alt="{\displaystyle S}"></span>;</li>
+<li>动作的集合<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="{\displaystyle A}"></span>;</li>
+<li>在状态之间转换的规则（转移概率矩阵）<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;" alt="{\displaystyle P}"></span>；</li>
+<li>规定转换后“即时奖励”的规则（奖励函数）<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="{\displaystyle R}"></span>；</li>
+<li>描述主体能够观察到什么的规则。</li></ol>
+<p>规则通常是<a href="/wiki/%E9%9A%8F%E6%9C%BA" class="mw-redirect" title="随机">随机</a>的。主体通常可以观察即时奖励和最后一次转换。在许多模型中，主体被假设为可以观察现有的环境状态，这种情况称为“完全可观测”（full observability），反之则称为“部分可观测”（partial observability）。通常，主体被允许的动作是有限的，例如，在棋盘中棋子只能上、下、左、右移动，或是使用的钱不能多于所拥有的。
+</p><p>强化学习的主体与环境基于离散的时间步作用。在每一个时间<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="{\displaystyle t}"></span>，主体接收到一个观测<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle o_{t}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>o</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle o_{t}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cd2cf4bfdabc8ae396ce3fa32aeb871efb3d732" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:1.954ex; height:2.009ex;" alt="{\displaystyle o_{t}}"></span>，通常其中包含奖励<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{t}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{t}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb555a4a6332d0b3c8f786c87eccda2e940936d5" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:1.875ex; height:2.009ex;" alt="{\displaystyle r_{t}}"></span>。然后，它从允许的集合中选择一个动作<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a_{t}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{t}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77fce84b535e9e195e3d30ce5ae09b372d87e2e9" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:2.056ex; height:2.009ex;" alt="{\displaystyle a_{t}}"></span>，然后送出到环境中去。环境则变化到一个新的状态<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle s_{t+1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s_{t+1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/04abef475db835d93c80da6dcbc6bf5acaac1329" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:4.017ex; height:2.009ex;" alt="{\displaystyle s_{t+1}}"></span>，然后决定了和这个变化<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (s_{t},a_{t},s_{t+1})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (s_{t},a_{t},s_{t+1})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb112ccd1da82f45dd722f241020cea4b4e64cce" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:11.866ex; height:2.843ex;" alt="{\displaystyle (s_{t},a_{t},s_{t+1})}"></span>相关联的奖励<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{t+1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{t+1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/057418cd1267b5862649d627c97becda68ee7150" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:3.975ex; height:2.009ex;" alt="{\displaystyle r_{t+1}}"></span>。强化学习主体的目标，是得到尽可能多的奖励。主体选择的动作是其历史的函数，它也可以选择随机的动作。
+</p><p>将这个主体的表现和自始自终以最优方式行动的主体相比较，它们之间的行动差异产生了“悔过”的概念。如果要接近最优的方案来行动，主体必须根据它的长时间行动序列进行推理：例如，要最大化我的未来收入，我最好现在去上学，虽然这样行动的即时货币奖励为负值。
+</p><p>因此，强化学习对于包含长期反馈的问题比短期反馈的表现更好。它在许多问题上得到应用，包括<a href="/w/index.php?title=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="机器人控制（页面不存在）">机器人控制</a>、电梯调度、<a href="/wiki/%E7%94%B5%E4%BF%A1" title="电信">电信</a>通讯、<a href="/wiki/%E5%8F%8C%E9%99%86%E6%A3%8B" class="mw-redirect" title="双陆棋">双陆棋</a>和<a href="/wiki/%E8%A5%BF%E6%B4%8B%E8%B7%B3%E6%A3%8B" title="西洋跳棋">西洋跳棋</a>。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>强化学习的强大能力来源于两个方面：使用样本来优化行为，使用函数近似来描述复杂的环境。它们使得强化学习可以使用在以下的复杂环境中：
+</p>
+<ul><li>模型的环境已知，且解析解不存在；</li>
+<li>仅仅给出环境的模拟模型（模拟优化方法的问题）<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>从环境中获取信息的唯一办法是和它互动。前两个问题可以被考虑为规划问题，而最后一个问题可以被认为是genuine learning问题。使用强化学习的方法，这两种规划问题都可以被转化为<a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a>问题。</li></ul>
+<h2><span id=".E5.B8.B8.E7.94.A8.E7.AE.97.E6.B3.95"></span><span class="mw-headline" id="常用算法">常用算法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;section=2" title="编辑章节：常用算法"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>蒙特卡洛学习 Monte-Carlo Learning</li>
+<li>Temporal-Difference Learning</li>
+<li><a href="/wiki/SARSA%E7%AE%97%E6%B3%95" title="SARSA算法">SARSA算法</a></li>
+<li><a href="/wiki/Q%E5%AD%A6%E4%B9%A0" title="Q学习">Q学习</a></li></ul>
+<h2><span id=".E6.8E.A2.E7.B4.A2.E6.9C.BA.E5.88.B6"></span><span class="mw-headline" id="探索机制">探索机制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;section=3" title="编辑章节：探索机制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>强化学习需要比较聪明的探索机制，直接随机的对动作进行采样的方法性能比较差。虽然小规模的<a href="/wiki/%E9%A6%AC%E5%8F%AF%E5%A4%AB%E9%81%8E%E7%A8%8B" title="马可夫过程">马氏过程</a>已经被认识的比较清楚，这些性质很难在状态空间规模比较大的时候适用，这个时候相对简单的探索机制是更加现实的。
+</p><p>其中的一种方法就是 <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;" alt="{\displaystyle \epsilon }"></span>-<a href="/wiki/%E8%B2%AA%E5%A9%AA%E6%BC%94%E7%AE%97%E6%B3%95" class="mw-redirect" title="贪婪算法">贪婪算法</a>，这种方法会以比较大的概率(1-<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;" alt="{\displaystyle \epsilon }"></span>)去选择现在最好的动作。如果没有选择最优动作，就在剩下的动作中随机选择一个。<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;" alt="{\displaystyle \epsilon }"></span> 在这里是一个可调节的参数，更小的 <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;" alt="{\displaystyle \epsilon }"></span> 意味着算法会更加贪心。<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;action=edit&amp;section=4" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Scholia_logo.svg/40px-Scholia_logo.svg.png" decoding="async" width="40" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Scholia_logo.svg/60px-Scholia_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Scholia_logo.svg/80px-Scholia_logo.svg.png 2x" data-file-width="107" data-file-height="104" /></span></span></td>
+<td class="mbox-text plainlist"><a href="https://www.wikidata.org/wiki/Wikidata:Scholia/zh" class="extiw" title="d:Wikidata:Scholia/zh">Scholia</a>上有关<b><a href="https://iw.toolforge.org/scholia/topic/Q830687" class="extiw" title="toolforge:scholia/topic/Q830687">强化学习</a></b>的信息</td></tr></tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hu, J.; Niu, H.; Carrasco, J.; Lennox, B.; Arvin, F. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210813091536/https://ieeexplore.ieee.org/abstract/document/9244647">Voronoi-Based Multi-Robot Autonomous Exploration in Unknown Environments via Deep Reinforcement Learning</a>. IEEE Transactions on Vehicular Technology. 2020, <b>69</b> (12): 14413-14423 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-21</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://ieeexplore.ieee.org/abstract/document/9244647">原始内容</a>存档于2021-08-13）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.atitle=Voronoi-Based+Multi-Robot+Autonomous+Exploration+in+Unknown+Environments+via+Deep+Reinforcement+Learning&amp;rft.au=Arvin%2C+F.&amp;rft.au=Carrasco%2C+J.&amp;rft.au=Lennox%2C+B.&amp;rft.au=Niu%2C+H.&amp;rft.aufirst=J.&amp;rft.aulast=Hu&amp;rft.date=2020&amp;rft.genre=article&amp;rft.issue=12&amp;rft.jtitle=IEEE+Transactions+on+Vehicular+Technology&amp;rft.pages=14413-14423&amp;rft.volume=69&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F9244647&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-kaelbling-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-kaelbling_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/w/index.php?title=Leslie_P._Kaelbling&amp;action=edit&amp;redlink=1" class="new" title="Leslie P. Kaelbling（页面不存在）">Kaelbling, Leslie P.</a>; <a href="/w/index.php?title=Michael_L._Littman&amp;action=edit&amp;redlink=1" class="new" title="Michael L. Littman（页面不存在）">Littman, Michael L.</a>; <a href="/w/index.php?title=Andrew_W._Moore&amp;action=edit&amp;redlink=1" class="new" title="Andrew W. Moore（页面不存在）">Moore, Andrew W.</a> <a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20011120234539/http://www.cs.washington.edu/research/jair/abstracts/kaelbling96a.html">Reinforcement Learning: A Survey</a>. Journal of Artificial Intelligence Research. 1996, <b>4</b>: 237–285. <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:1708582"><span title="Semantic Scholar">S2CID&#160;1708582</span></a>. <span class="plainlinks"><a rel="nofollow" class="external text" href="//arxiv.org/abs/cs/9605103"><span title="arXiv">arXiv:cs/9605103</span></a>&#8239;<span typeof="mw:File"><span title="可免费查阅"><img alt="可免费查阅" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" decoding="async" width="9" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></span></span></span>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1613%2Fjair.301"><span title="数位物件识别号">doi:10.1613/jair.301</span></a>. （<a rel="nofollow" class="external text" href="http://www.cs.washington.edu/research/jair/abstracts/kaelbling96a.html">原始内容</a>存档于2001-11-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.atitle=Reinforcement+Learning%3A+A+Survey&amp;rft.au=Littman%2C+Michael+L.&amp;rft.au=Moore%2C+Andrew+W.&amp;rft.aufirst=Leslie+P.&amp;rft.aulast=Kaelbling&amp;rft.date=1996&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Artificial+Intelligence+Research&amp;rft.pages=237-285&amp;rft.volume=4&amp;rft_id=http%3A%2F%2Fwww.cs.washington.edu%2Fresearch%2Fjair%2Fabstracts%2Fkaelbling96a.html&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A1708582&amp;rft_id=info%3Aarxiv%2Fcs%2F9605103&amp;rft_id=info%3Adoi%2F10.1613%2Fjair.301&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">van Otterlo, M.; Wiering, M. Reinforcement Learning and Markov Decision Processes. Reinforcement Learning. Adaptation, Learning, and Optimization <b>12</b>. 2012: 3–42. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-3-642-27644-6" title="Special:网络书源/978-3-642-27644-6"><span title="国际标准书号">ISBN</span>&#160;978-3-642-27644-6</a>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1007%2F978-3-642-27645-3_1"><span title="数位物件识别号">doi:10.1007/978-3-642-27645-3_1</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.atitle=Reinforcement+Learning+and+Markov+Decision+Processes&amp;rft.au=Wiering%2C+M.&amp;rft.au=van+Otterlo%2C+M.&amp;rft.btitle=Reinforcement+Learning&amp;rft.date=2012&amp;rft.genre=bookitem&amp;rft.isbn=978-3-642-27644-6&amp;rft.pages=3-42&amp;rft.series=Adaptation%2C+Learning%2C+and+Optimization&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-642-27645-3_1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">强化学习：原理与Python实现. 北京. 2019: 16–19. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9787111631774" title="Special:网络书源/9787111631774"><span title="国际标准书号">ISBN</span>&#160;9787111631774</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.btitle=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%8E%9F%E7%90%86%E4%B8%8EPython%E5%AE%9E%E7%8E%B0&amp;rft.date=2019&amp;rft.genre=book&amp;rft.isbn=9787111631774&amp;rft.pages=16-19&amp;rft.place=%E5%8C%97%E4%BA%AC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Sutton1998|Sutton and Barto 1998 Chapter 11</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/w/index.php?title=Abhijit_Gosavi&amp;action=edit&amp;redlink=1" class="new" title="Abhijit Gosavi（页面不存在）">Gosavi, Abhijit</a>. <a rel="nofollow" class="external text" href="http://www.springer.com/mathematics/applications/book/978-1-4020-7454-7">Simulation-based Optimization: Parametric Optimization Techniques and Reinforcement</a>. Springer. 2003 <span class="reference-accessdate"> &#91;<span class="nowrap">2015-08-19</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-4020-7454-9" title="Special:网络书源/1-4020-7454-9"><span title="国际标准书号">ISBN</span>&#160;1-4020-7454-9</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120615112934/http://www.springer.com/mathematics/applications/book/978-1-4020-7454-7">存档</a>于2012-06-15）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.aufirst=Abhijit&amp;rft.aulast=Gosavi&amp;rft.btitle=Simulation-based+Optimization%3A+Parametric+Optimization+Techniques+and+Reinforcement&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=1-4020-7454-9&amp;rft.pub=Springer&amp;rft_id=http%3A%2F%2Fwww.springer.com%2Fmathematics%2Fapplications%2Fbook%2F978-1-4020-7454-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFTokicPalm2011" class="citation">Tokic, Michel; Palm, Günther, Value-Difference Based Exploration: Adaptive Control Between Epsilon-Greedy and Softmax, <a rel="nofollow" class="external text" href="http://www.tokic.com/www/tokicm/publikationen/papers/KI2011.pdf">KI 2011: Advances in Artificial Intelligence</a> <span style="font-size:85%;">(PDF)</span>, Lecture Notes in Computer Science <b>7006</b>, Springer: 335–346, 2011 <span class="reference-accessdate"> &#91;<span class="nowrap">2018-09-03</span>&#93;</span>, <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-3-642-24455-1" title="Special:网络书源/978-3-642-24455-1"><span title="国际标准书号">ISBN</span>&#160;978-3-642-24455-1</a>, （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20181123145035/http://www.tokic.com/www/tokicm/publikationen/papers/KI2011.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2018-11-23）</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;rft.atitle=Value-Difference+Based+Exploration%3A+Adaptive+Control+Between+Epsilon-Greedy+and+Softmax&amp;rft.au=Palm%2C+G%C3%BCnther&amp;rft.aufirst=Michel&amp;rft.aulast=Tokic&amp;rft.btitle=KI+2011%3A+Advances+in+Artificial+Intelligence&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft.isbn=978-3-642-24455-1&amp;rft.pages=335-346&amp;rft.pub=Springer&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft_id=http%3A%2F%2Fwww.tokic.com%2Fwww%2Ftokicm%2Fpublikationen%2Fpapers%2FKI2011.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<div style="clear: both; height: 1em"></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%9C%BA%E5%99%A8%E5%AD%B8%E7%BF%92" title="Template:机器学习"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:%E6%9C%BA%E5%99%A8%E5%AD%B8%E7%BF%92&amp;action=edit&amp;redlink=1" class="new" title="Template talk:机器学习（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%9C%BA%E5%99%A8%E5%AD%B8%E7%BF%92&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a>同<a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" title="数据挖掘">数据挖掘</a>主题</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">基本概念</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E5%AD%A6%E4%B9%A0" title="学习">学习</a> · <span class="nowrap"><a href="/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95" title="图灵测试">图灵测试</a> ·</span> <span class="nowrap"><a href="/w/index.php?title=%E9%81%8B%E7%AE%97%E5%AD%B8%E7%BF%92%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="运算学习论（页面不存在）">运算学习论</a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">数学模型</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90" title="回归分析">回归模型</a> · <span class="nowrap"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C" title="人工神经网络">人工神经网络</a>（<a href="/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0" title="深度学习">深度学习</a>） ·</span> <span class="nowrap"><a href="/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C" title="生成对抗网络">生成对抗网络</a> ·</span> <span class="nowrap"><a href="/wiki/Transformer%E6%A8%A1%E5%9E%8B" title="Transformer模型">Transformer模型</a> ·</span> <span class="nowrap"><a href="/wiki/%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B" title="大型语言模型">大语言模型</a> ·</span> <span class="nowrap"><a href="/wiki/%E5%86%B3%E7%AD%96%E6%A0%91%E5%AD%A6%E4%B9%A0" title="决策树学习">决策树</a> ·</span> <span class="nowrap"><a href="/wiki/%E8%B2%9D%E6%B0%8F%E7%B6%B2%E8%B7%AF" title="贝氏网络">贝氏网络</a> ·</span> <span class="nowrap"><a href="/wiki/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA" title="支持向量机">支持向量机</a> ·</span> <span class="nowrap"><a href="/wiki/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0" title="关联规则学习">关联规则学习</a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">学习范式</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a> · <span class="nowrap"> <a href="/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0" title="深度学习">深度学习</a> ·</span> <span class="nowrap"><a href="/wiki/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0" title="迁移学习">迁移学习</a> ·</span> <span class="nowrap"> <a href="/wiki/%E5%BE%AE%E8%B0%83_(%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)" title="微调 (深度学习)">微调 (深度学习)</a> ·</span> <span class="nowrap"> <a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督学习</a> ·</span> <span class="nowrap"> <a href="/wiki/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="半监督学习">半监督学习</a> ·</span> <span class="nowrap"> <a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">无监督学习</a> ·</span> <span class="nowrap"><a class="mw-selflink selflink">强化学习</a> ·</span> <span class="nowrap"><a href="/wiki/Q%E5%AD%A6%E4%B9%A0" title="Q学习">Q学习</a> ·</span> <span class="nowrap"><a href="/wiki/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95" title="遗传算法">遗传算法</a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">主要应用</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%88%86%E7%B1%BB" title="统计分类">统计分类</a> · <span class="nowrap"><a href="/wiki/%E8%A1%A8%E5%BE%81%E5%AD%A6%E4%B9%A0" title="表征学习">表征学习</a> ·</span> <span class="nowrap"><a href="/wiki/%E9%99%8D%E7%BB%B4" title="降维">降维</a> ·</span> <span class="nowrap"><a href="/wiki/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90" title="聚类分析">聚类分析</a> ·</span> <span class="nowrap"><a href="/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B" title="异常检测">异常检测</a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">相关领域</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%E8%BF%90%E7%AE%97%E7%A7%91%E5%AD%A6" title="运算科学">计算科学</a> · <span class="nowrap"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a> ·</span> <span class="nowrap"><a href="/wiki/%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7" title="通用人工智能">通用人工智能</a> ·</span> <span class="nowrap"><a href="/wiki/%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7" title="生成式人工智能">生成式人工智能</a> ·</span> <span class="nowrap"><a href="/wiki/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B" title="提示工程">提示工程</a> ·</span> <span class="nowrap"><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a> ·</span> <span class="nowrap"><a href="/wiki/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6" title="数据科学">数据科学</a> ·</span> <span class="nowrap"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a> ·</span> <span class="nowrap"><a href="/wiki/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" title="信息与计算科学">信息与计算科学</a> ·</span> <span class="nowrap"><a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6" title="神经科学">神经科学</a> ·</span> <span class="nowrap"><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2365
+Cached time: 20240329103427
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.454 seconds
+Real time usage: 0.622 seconds
+Preprocessor visited node count: 2898/1000000
+Post‐expand include size: 153561/2097152 bytes
+Template argument size: 3600/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 42/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 21547/5000000 bytes
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 19425506/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  453.144      1 -total
+ 40.17%  182.040      1 Template:机器学习导航栏
+ 39.65%  179.655      1 Template:Sidebar_with_collapsible_lists
+ 20.97%   95.018      1 Template:Reflist
+ 20.62%   93.430      1 Template:Lang-en
+ 19.84%   89.896     41 Template:Tsl
+ 12.19%   55.241      2 Template:Cite_journal
+  6.83%   30.954      2 Template:Lang
+  6.30%   28.555      2 Template:Category_handler
+  5.63%   25.514      1 Template:Scholia
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:8372-0!userlang=zh-cn!zh-cn and timestamp 20240329103427 and revision id 81813045. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=强化学习&amp;oldid=81813045">https://zh.wikipedia.org/w/index.php?title=强化学习&amp;oldid=81813045</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="Category:机器学习">机器学习</a></li><li><a href="/wiki/Category:%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="Category:人工智能">人工智能</a></li><li><a href="/wiki/Category:%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%BC%94%E7%AE%97%E6%B3%95" title="Category:機器學習演算法">机器学习算法</a></li><li><a href="/wiki/Category:%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="Category:强化学习">强化学习</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月8日 (星期五) 01:41。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-dd22m","wgBackendResponseTime":204,"wgPageParseReport":{"limitreport":{"cputime":"0.454","walltime":"0.622","ppvisitednodes":{"value":2898,"limit":1000000},"postexpandincludesize":{"value":153561,"limit":2097152},"templateargumentsize":{"value":3600,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":42,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21547,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  453.144      1 -total"," 40.17%  182.040      1 Template:机器学习导航栏"," 39.65%  179.655      1 Template:Sidebar_with_collapsible_lists"," 20.97%   95.018      1 Template:Reflist"," 20.62%   93.430      1 Template:Lang-en"," 19.84%   89.896     41 Template:Tsl"," 12.19%   55.241      2 Template:Cite_journal","  6.83%   30.954      2 Template:Lang","  6.30%   28.555      2 Template:Category_handler","  5.63%   25.514      1 Template:Scholia"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":19425506,"limit":52428800}},"cachereport":{"origin":"mw2365","timestamp":"20240329103427","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5f3a\u5316\u5b66\u4e60","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q830687","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q830687","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-02T12:27:38Z","dateModified":"2024-03-08T01:41:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Multi-Layer_Neural_Network-Vector-Blank.svg"}</script>
+</body>
+</html>

@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>超大规模集成电路 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"7a10d751-477f-4731-aaab-7c8011a1b232","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"超大规模集成电路","wgTitle":"超大规模集成电路","wgCurRevisionId":76169430,"wgRevisionId":76169430,"wgArticleId":2769214,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有英語的條目","集成電路","电子工程"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"超大规模集成电路","wgRelevantArticleId":2769214,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q876049","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor",
+"ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4e/Diopsis.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1143">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4e/Diopsis.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="762">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="610">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="超大规模集成电路 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-超大规模集成电路 rootpage-超大规模集成电路 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-历史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#历史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>历史</div>
+		</a>
+		
+		<ul id="toc-历史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-发展现状"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#发展现状">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>发展现状</div>
+		</a>
+		
+		<ul id="toc-发展现状-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-挑战"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#挑战">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>挑战</div>
+		</a>
+		
+		<ul id="toc-挑战-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相关条目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相关条目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相关条目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">超大规模集成电路</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。25种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-25" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">25种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D9%88%D8%B3%D9%8A%D8%B9_%D8%A7%D9%84%D9%86%D8%B7%D8%A7%D9%82" title="تكامل وسيع النطاق – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A7%8E_%E0%A6%AE%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A6%AF%E0%A6%BC" title="অতিবৃহৎ মাপনীর সমন্বয় – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/VLSI" title="VLSI – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Circuit_integrat_a_molt_gran_escala" title="Circuit integrat a molt gran escala – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Very-large-scale_integration" title="Very-large-scale integration – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Integrationsgrad" title="Integrationsgrad – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/VLSI" title="VLSI – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Very_Large_Scale_Integration" title="Very Large Scale Integration – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Integraci%C3%B3n_a_muy_gran_escala" title="Integración a muy gran escala – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/VLSI" title="VLSI – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%DA%A9%D9%84%D8%A7%D9%86%E2%80%8C%D9%85%D9%82%DB%8C%D8%A7%D8%B3" title="یکپارچه‌سازی کلان‌مقیاس – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Int%C3%A9gration_%C3%A0_tr%C3%A8s_grande_%C3%A9chelle" title="Intégration à très grande échelle – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Comhth%C3%A1th%C3%BA_ollsc%C3%A1la" title="Comhtháthú ollscála – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/VLSI" title="VLSI – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/VLSI" title="VLSI – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Very_Large_Scale_Integration" title="Very Large Scale Integration – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Very_large_scale_integration" title="Very large scale integration – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B3%A0%EB%B0%80%EB%8F%84_%EC%A7%91%EC%A0%81_%ED%9A%8C%EB%A1%9C" title="초고밀도 집적 회로 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Penyepaduan_skala_sangat_besar" title="Penyepaduan skala sangat besar – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/VLSI" title="VLSI – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B3%E0%AE%B5%E0%AF%81_%E0%AE%92%E0%AE%B0%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81" title="பேரளவு ஒருங்கிணைச் சுற்று – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81" title="การสร้างวงจรรวมขนาดใหญ่มาก – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/%C3%87ok_geni%C5%9F_%C3%B6l%C3%A7ekli_t%C3%BCmle%C5%9Fim" title="Çok geniş ölçekli tümleşim – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B8_%D0%BD%D0%B0%D0%B4%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D1%96%D0%B2%D0%BD%D1%8F_%D1%96%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D1%96%D1%97" title="Схеми надвеликого рівня інтеграції – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="超大规模集成电路 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q876049#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;oldid=76169430" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;id=76169430&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25B6%2585%25E5%25A4%25A7%25E8%25A7%2584%25E6%25A8%25A1%25E9%259B%2586%25E6%2588%2590%25E7%2594%25B5%25E8%25B7%25AF"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25B6%2585%25E5%25A4%25A7%25E8%25A7%2584%25E6%25A8%25A1%25E9%259B%2586%25E6%2588%2590%25E7%2594%25B5%25E8%25B7%25AF"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q876049" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-c9403e5" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-c9403e5" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Electronics"></div><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Diopsis.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Diopsis.jpg/220px-Diopsis.jpg" decoding="async" width="220" height="210" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Diopsis.jpg/330px-Diopsis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Diopsis.jpg/440px-Diopsis.jpg 2x" data-file-width="591" data-file-height="563" /></a><figcaption>一个超大规模集成电路的<a href="/wiki/%E6%99%B6%E7%B2%92" title="晶粒">晶粒</a></figcaption></figure>
+<p><b>超大规模集成电路</b>（英语：<span lang="en">Very large-scale integration</span>，<a href="/wiki/%E7%B8%AE%E5%AF%AB" title="缩写">缩写</a>：<span lang="en">VLSI</span>），是一种将大量<a href="/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1" title="晶体管">晶体管</a>组合到单一芯片的<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a>，其集成度大于<a href="/wiki/%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" class="mw-redirect" title="大规模集成电路">大规模集成电路</a>。集成的晶体管数在不同的标准中有所不同。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>从1970年代开始，随着复杂的<a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93" title="半导体">半导体</a>以及<a href="/wiki/%E9%80%9A%E4%BF%A1" title="通信">通信</a>技术的发展，集成电路的研究、发展也逐步展开。<a href="/wiki/%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="电子计算机">计算机</a>里的控制核心<a href="/wiki/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8" title="微处理器">微处理器</a>就是超大规模集成电路的最典型实例，<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1" title="集成电路设计">超大规模集成电路设计</a>（VLSI design），尤其是数字集成电路，通常采用<a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a>的方式进行，已经成为<a href="/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%B7%A5%E7%A8%8B" title="计算机工程">计算机工程</a>的重要分支之一。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8E.86.E5.8F.B2"></span><span class="mw-headline" id="历史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=1" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>在1920年代，一些发明家试图掌握控制固态<a href="/wiki/%E4%BA%8C%E6%A5%B5%E7%AE%A1" class="mw-redirect" title="二极管">二极管</a>中电流的方法，他们的构想在后来的<a href="/wiki/%E5%8F%8C%E6%9E%81%E6%80%A7%E6%99%B6%E4%BD%93%E7%AE%A1" title="双极性晶体管">双极性晶体管</a>中得以实现。然而，他们的设想直到<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98" title="第二次世界大战">第二次世界大战</a>结束之后才得以实现。在战争时期，人们把精力集中在制造雷达这样的军工产品，因此电子工业的发展并不如之后那样迅猛，不过人们对于<a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" class="mw-redirect" title="半导体物理学">半导体物理学</a>的了解逐渐增加，制造工艺水平也逐渐提升。战后，许多科学家重新开始从事<a href="/wiki/%E5%9B%BA%E6%80%81%E7%94%B5%E5%AD%90%E5%99%A8%E4%BB%B6" title="固态电子器件">固态电子器件</a>的研究。1947年，著名的<a href="/wiki/%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4" title="贝尔实验室">贝尔实验室</a>成功地研制了<a href="/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1" title="晶体管">晶体管</a>。自此，电子学的研究方向从真空管转向到了固态电子器件。
+</p><p>晶体管在当时看来具有小型、高效的特点。1950年代，一些电子工程师希望以晶体管为基础，研制比以前更高级、复杂的电路充满了期待。然而，随着电路复杂程度的提升，技术问题对器件性能的影响逐渐引起了人们的注意。<sup id="cite_ref-The_History_of_the_Integrated_Circuit_2-0" class="reference"><a href="#cite_note-The_History_of_the_Integrated_Circuit-2">&#91;2&#93;</a></sup>
+</p><p>像计算机主板这样复杂的电路，往往对于响应速度有较高的要求。如果计算机的组件过于庞大，或者不同组件之间的导线太长，电信号就不能够在电路中以足够快的速度传播，这样会造成计算机工作缓慢，效率低下，甚至引起逻辑错误。
+</p><p>1958年，<a href="/wiki/%E5%BE%B7%E5%B7%9E%E4%BB%AA%E5%99%A8" title="德州仪器">德州仪器</a>的<a href="/wiki/%E5%82%91%E5%85%8B%C2%B7%E5%9F%BA%E7%88%BE%E6%AF%94" title="杰克·基尔比">杰克·基尔比</a>找到了上述问题的解决方案。他提出，可以把电路中的所有组件和芯片用同一半导体材料块制成。当时他的同事们正在度假，他们结束度假后，基尔比立即展示了他的新设计。随后，他研制了一个这种新型电路的测试版本。1958年9月，第一个集成电路研制成功。<sup id="cite_ref-The_History_of_the_Integrated_Circuit_2-1" class="reference"><a href="#cite_note-The_History_of_the_Integrated_Circuit-2">&#91;2&#93;</a></sup>尽管这个集成电路在现在看来还非常粗糙，而且存在一些问题，但集成电路在电子学史上确实是个创新的概念。通过在同一材料块上集成所有组件，并通过上方的金属化层连接各个部分，就不再需要分立的独立组件了，这样，就避免了手工组装组件、导线的步骤。此外，电路的特征尺寸大大降低。随着电子设计自动化的逐步发展，制造工艺中的许多流程可以实现自动化控制。自此，把所有组件集成到单一<a href="/wiki/%E6%99%B6%E5%9C%93" title="晶圆">硅片</a>上的想法得以实现，小规模集成电路（<span lang="en">Small Scale Integration, SSI</span>）时代始于1960年代早期，后来历经中规模集成电路（<span lang="en">Medium Scale Integration, MSI</span>，1960年晚期）、<a href="/wiki/%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" class="mw-redirect" title="大规模集成电路">大规模集成电路</a>和超大规模集成电路（1980年早期）。超大规模集成电路的晶体管数量可以达到10,000个（现在已经高达1,000,000个）。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span id=".E5.8F.91.E5.B1.95.E7.8E.B0.E7.8A.B6"></span><span class="mw-headline" id="发展现状">发展现状</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=2" title="编辑章节：发展现状"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="/wiki/%E5%9B%BD%E9%99%85%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE" title="国际半导体技术发展蓝图">国际半导体技术发展蓝图</a></div>
+<p>截至2016年晚期，数十亿级别的晶体管处理器已经普遍。随着半导体制造工艺从10纳米水平跃升到下一步7纳米，会遇到诸如<a href="/wiki/%E9%87%8F%E5%AD%90%E7%A9%BF%E9%9A%A7%E6%95%88%E6%87%89" title="量子穿隧效应">量子穿隧效应</a>之类的挑战。值得注意的例子是<a href="/wiki/%E8%8B%B1%E4%BC%9F%E8%BE%BE" title="英伟达">英伟达</a>的<a href="/wiki/GeForce_10" class="mw-redirect" title="GeForce 10">GeForce 10</a>系列，代号‘NVIDIA TITAN X’的<a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a>的显示核心，采用了全部120亿个晶体管来处理数字逻辑。而<a href="/wiki/Itanium" class="mw-redirect" title="Itanium">Itanium</a>的大多数晶体管是用来构成其3千两百万字节的三级缓存。<a href="/wiki/Intel_Core_i7" title="Intel Core i7">Intel Core i7</a>处理器的芯片集成度达到了14亿个晶体管。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>目前所采用的设计与早期不同的是它广泛应用<a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a>工具，设计人员可以把大部分精力放在电路逻辑功能的<a href="/wiki/%E7%A1%AC%E4%BB%B6%E6%8F%8F%E8%BF%B0%E8%AF%AD%E8%A8%80" title="硬件描述语言">硬件描述语言</a>表达形式，而<a href="/wiki/%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81" title="功能验证">功能验证</a>、<a href="/wiki/%E9%80%BB%E8%BE%91%E4%BB%BF%E7%9C%9F" title="逻辑仿真">逻辑仿真</a>、<a href="/wiki/%E9%80%BB%E8%BE%91%E7%BB%BC%E5%90%88" title="逻辑综合">逻辑综合</a>、<a href="/wiki/%E5%B8%83%E5%B1%80_(%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF)" title="布局 (集成电路)">布局</a>、<a href="/wiki/%E5%B8%83%E7%BA%BF_(%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF)" title="布线 (集成电路)">布线</a>、<a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E7%89%88%E5%9B%BE" title="集成电路版图">版图</a>等可以由计算机辅助完成。
+</p>
+<h2><span id=".E6.8C.91.E6.88.98"></span><span class="mw-headline" id="挑战">挑战</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=3" title="编辑章节：挑战"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>由于技术规模不断扩大，微处理器的复杂程度也不断提高，微处理器的设计者已经遇到了若干挑战。
+</p>
+<ul><li>功耗、散热：随着组件集成规模的提升，单位体积产生的热功率也逐渐变大，然而器件散热面积不变，造成单位面积的热耗散达不到要求。同时，单个晶体管微弱<a href="/wiki/%E4%BA%9A%E9%98%88%E5%80%BC%E7%94%B5%E6%B5%81" title="亚阈值电流">亚阈值电流</a>造成的静态功耗由于晶体管数量的大幅增加而变得日益显著。人们提出了一些<a href="/wiki/%E4%BD%8E%E5%8A%9F%E8%80%97%E8%AE%BE%E8%AE%A1" title="低功耗设计">低功耗设计</a>技术，例如<a href="/wiki/%E5%8A%A8%E6%80%81%E6%97%B6%E9%92%9F%E9%A2%91%E7%8E%87%E8%B0%83%E6%95%B4" title="动态时钟频率调整">动态时钟频率调整</a>（<span lang="en">Dynamic frequency scaling (DVS)</span>，又称<span lang="en">Dynamic voltage and frequency scaling (DVFS)</span>），来降低耗散总功率。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li>工艺偏差：由于<a href="/wiki/%E5%85%89%E5%88%BB" title="光刻">光刻</a>技术受限于光学规律，更高精确度的<a href="/wiki/%E6%8E%BA%E6%9D%82_(%E5%8D%8A%E5%AF%BC%E4%BD%93)" title="掺杂 (半导体)">掺杂</a>以及<a href="/wiki/%E5%88%BB%E8%9A%80" title="刻蚀">刻蚀</a>会变得更加困难，<sup id="cite_ref-Michael_6-0" class="reference"><a href="#cite_note-Michael-6">&#91;6&#93;</a></sup>造成误差的可能性会变大。设计者必须在芯片制造前进行技术仿真。</li>
+<li>更严格的设计规律：由于光刻和刻蚀工艺的问题，集成电路布局的<a href="/wiki/%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%99%E6%A3%80%E6%9F%A5" title="设计规则检查">设计规则</a>必须更加严格。在设计布局时，设计者必须时刻考虑这些规则。定制设计的总开销现在已经达到了一个临界点，许多设计机构都倾向于始于电子设计自动化来实现自动设计。</li>
+<li><a href="/wiki/%E8%AE%BE%E8%AE%A1%E6%94%B6%E6%95%9B" title="设计收敛">设计收敛</a>：由于数字电子应用的<a href="/wiki/%E6%97%B6%E9%92%9F%E9%A2%91%E7%8E%87" title="时钟频率">时钟频率</a>趋于上升，设计者发现要在整个芯片上保持低<a href="/wiki/%E6%97%B6%E9%92%9F%E5%81%8F%E7%A7%BB" title="时钟偏移">时钟偏移</a>更加困难。这引发了对于<a href="/wiki/%E5%A4%9A%E6%A0%B8%E5%BF%83" class="mw-redirect" title="多核心">多核心</a>、<a href="/wiki/%E5%A4%9A%E8%99%95%E7%90%86%E5%99%A8" class="mw-redirect" title="多处理器">多处理器</a>架构的兴趣（参见<a href="/wiki/%E9%98%BF%E5%A7%86%E8%BE%BE%E5%B0%94%E5%AE%9A%E5%BE%8B" title="阿姆达尔定律">阿姆达尔定律</a>）。</li>
+<li>成本：随着晶粒尺寸的缩小，晶圆尺寸变大，单位晶圆面积上的晶粒数增加，这样制造工艺所用到的<a href="/wiki/%E5%85%89%E7%BD%A9" title="光掩模">光掩模</a>的复杂程度就急剧上升<sup id="cite_ref-Michael_6-1" class="reference"><a href="#cite_note-Michael-6">&#91;6&#93;</a></sup>。现代高精度的光掩模技术十分昂贵。</li></ul>
+<h2><span id=".E7.9B.B8.E5.85.B3.E6.9D.A1.E7.9B.AE"></span><span class="mw-headline" id="相关条目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=4" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E7%89%B9%E6%AE%8A%E6%87%89%E7%94%A8%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF" title="专用集成电路">专用集成电路</a>、<a href="/wiki/%E5%8F%AF%E7%A8%8B%E5%BC%8F%E9%82%8F%E8%BC%AF%E8%A3%9D%E7%BD%AE" class="mw-redirect" title="可编程逻辑器件">可编程逻辑器件</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1" title="集成电路设计">集成电路设计</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=5" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120820033203/http://www.maxim-ic.com/glossary/definitions.mvp/term/VLSI/gpk/990">Glossary Definition for VLSI</a>. MAXIM.  <span class="reference-accessdate"> &#91;<span class="nowrap">2012-04-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.maxim-ic.com/glossary/definitions.mvp/term/VLSI/gpk/990">原始内容</a>存档于2012-08-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.btitle=Glossary+Definition+for+VLSI&amp;rft.genre=unknown&amp;rft.pub=MAXIM&amp;rft_id=http%3A%2F%2Fwww.maxim-ic.com%2Fglossary%2Fdefinitions.mvp%2Fterm%2FVLSI%2Fgpk%2F990&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-The_History_of_the_Integrated_Circuit-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_History_of_the_Integrated_Circuit_2-0"><sup><b>2.0</b></sup></a> <a href="#cite_ref-The_History_of_the_Integrated_Circuit_2-1"><sup><b>2.1</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180702200555/http://www.nobelprize.org/educational/physics/integrated_circuit/history/">The Tyranny of Numbers</a>. Nobelprize.org.  <span class="reference-accessdate"> &#91;<span class="nowrap">21 Apr</span> 2012&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.nobelprize.org/educational/physics/integrated_circuit/history/">原始内容</a>存档于2018-07-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.btitle=The+Tyranny+of+Numbers&amp;rft.genre=unknown&amp;rft.pub=Nobelprize.org&amp;rft_id=http%3A%2F%2Fwww.nobelprize.org%2Feducational%2Fphysics%2Fintegrated_circuit%2Fhistory%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131008090408/http://www.eng.auburn.edu/~strouce/class/elec6250/vlsi_intro.pdf">Developments in VLSI</a> <span style="font-size:85%;">(PDF)</span>. Auburn University.  <span class="reference-accessdate"> &#91;<span class="nowrap">21 April</span> 2012&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.eng.auburn.edu/~strouce/class/elec6250/vlsi_intro.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2013-10-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.btitle=Developments+in+VLSI&amp;rft.genre=unknown&amp;rft.pub=Auburn+University&amp;rft_id=http%3A%2F%2Fwww.eng.auburn.edu%2F~strouce%2Fclass%2Felec6250%2Fvlsi_intro.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">邓元庆、关宇、贾鹏、石会. 数字设计基础与应用. 北京: 清华大学出版社.&#160;: 2. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-7-302-21406-9" title="Special:网络书源/978-7-302-21406-9"><span title="国际标准书号">ISBN</span>&#160;978-7-302-21406-9</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（中国大陆）网页">（中文（中国大陆））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.au=%E9%82%93%E5%85%83%E5%BA%86%E3%80%81%E5%85%B3%E5%AE%87%E3%80%81%E8%B4%BE%E9%B9%8F%E3%80%81%E7%9F%B3%E4%BC%9A&amp;rft.btitle=%E6%95%B0%E5%AD%97%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%BA%94%E7%94%A8&amp;rft.genre=book&amp;rft.isbn=978-7-302-21406-9&amp;rft.pages=2&amp;rft.place=%E5%8C%97%E4%BA%AC&amp;rft.pub=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Neil Weste, David Harris. CMOS VLSI Design: A Circuits and Systems Perspective (4th Edition). Addison-Wesley.&#160;: 194-200. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0321547743" title="Special:网络书源/978-0321547743"><span title="国际标准书号">ISBN</span>&#160;978-0321547743</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.au=Neil+Weste%2C+David+Harris&amp;rft.btitle=CMOS+VLSI+Design%3A+A+Circuits+and+Systems+Perspective+%284th+Edition%29&amp;rft.genre=book&amp;rft.isbn=978-0321547743&amp;rft.pages=194-200&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Michael-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Michael_6-0"><sup><b>6.0</b></sup></a> <a href="#cite_ref-Michael_6-1"><sup><b>6.1</b></sup></a></span> <span class="reference-text"><cite class="citation book">Michael Quirk, Julian Serda. 半导体制造技术（原书名：<span lang="en">Semiconductor Manufacturing Technology</span>）. 电子工业出版社. 2005. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/7-5053-9493-2" title="Special:网络书源/7-5053-9493-2"><span title="国际标准书号">ISBN</span>&#160;7-5053-9493-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;rft.au=Michael+Quirk%2C+Julian+Serda&amp;rft.btitle=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF%EF%BC%88%E5%8E%9F%E4%B9%A6%E5%90%8D%EF%BC%9A%3Cspan+lang%3D%22en%22+xml%3Alang%3D%22en%22%3E-%7BSemiconductor+Manufacturing+Technology%7D-%3C%2Fspan%3ECategory%3A%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE%EF%BC%89&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=7-5053-9493-2&amp;rft.pub=%E7%94%B5%E5%AD%90%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;action=edit&amp;section=6" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://scale.engin.brown.edu/classes/EN1600S08/">Lectures on Design and Implementation of VLSI Systems at Brown University</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150626055520/http://scale.engin.brown.edu/classes/EN1600S08/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180917181630/http://www.vlsi-world.com/index.php?option=com_glossary&amp;func=display&amp;Itemid=44&amp;catid=30%2F">List of VLSI companies around the world</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20031223071416/http://lsiwww.epfl.ch/LSI2001/teaching/webcourse/toc.html">Design of VLSI Systems</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190115154936/http://www.iivdt.com/VLSITrainingInstituteSyllabus.html">Complete VLSI Design Flow</a></li></ul>
+<div style="clear: both; height: 1em"></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF" title="Template:数字电路"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF" title="Template talk:数字电路"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF" title="数字电路">数字电路</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">概念</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7" title="数字信号">数字信号</a></li>
+<li><a href="/wiki/%E5%B8%83%E5%B0%94%E4%BB%A3%E6%95%B0" title="布尔代数">布尔代数</a></li>
+<li><a href="/wiki/%E9%96%8B%E9%97%9C" title="开关">开关</a></li>
+<li><a href="/wiki/%E7%BB%84%E5%90%88%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF" title="组合逻辑电路">组合逻辑电路</a></li>
+<li><a href="/wiki/%E6%97%B6%E5%BA%8F%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF" title="时序逻辑电路">时序逻辑电路</a>
+<ul><li><a href="/wiki/%E5%90%8C%E6%AD%A5%E9%9B%BB%E8%B7%AF" title="同步电路">同步</a></li>
+<li><a href="/wiki/%E9%9D%9E%E5%90%8C%E6%AD%A5%E9%9B%BB%E8%B7%AF" title="异步电路">异步</a></li></ul></li>
+<li><a href="/wiki/%E7%9C%9F%E5%80%BC%E8%A1%A8" title="真值表">真值表</a></li>
+<li><a href="/wiki/%E5%8D%A1%E8%AF%BA%E5%9B%BE" title="卡诺图">卡诺图</a></li>
+<li><a href="/wiki/%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BA" title="有限状态机">有限状态机</a>
+<ul><li><a href="/wiki/%E7%B1%B3%E5%88%A9%E5%9E%8B%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BA" title="米利型有限状态机">米利机</a></li>
+<li><a href="/wiki/%E6%91%A9%E5%B0%94%E5%9E%8B%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E6%9C%BA" title="摩尔型有限状态机">摩尔机</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">硬件模块</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%82%8F%E8%BC%AF%E9%96%98" title="逻辑门">逻辑门</a>
+<ul><li><a href="/wiki/%E4%B8%8E%E9%97%A8" title="与门">与</a></li>
+<li><a href="/wiki/%E6%88%96%E9%97%A8" title="或门">或</a></li>
+<li><a href="/wiki/%E5%8F%8D%E7%9B%B8%E5%99%A8" title="反相器">非</a></li>
+<li><a href="/wiki/%E7%B7%A9%E8%A1%9D%E9%96%98" title="缓冲闸">同</a></li>
+<li><a href="/wiki/%E4%B8%8E%E9%9D%9E%E9%97%A8" title="与非门">与非</a></li>
+<li><a href="/wiki/%E6%88%96%E9%9D%9E%E9%97%A8" title="或非门">或非</a></li>
+<li><a href="/wiki/%E5%BC%82%E6%88%96%E9%97%A8" title="异或门">异或</a></li>
+<li><a href="/wiki/%E5%90%8C%E6%88%96%E9%97%A8" title="同或门">同或</a></li>
+<li><a href="/wiki/%E8%98%8A%E5%90%AB%E9%96%98" title="蕴含闸">蕴含</a></li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E6%99%B6%E9%AB%94-%E9%9B%BB%E6%99%B6%E9%AB%94%E9%82%8F%E8%BC%AF" title="晶体管-晶体管逻辑">TTL</a>
+<ul><li><a href="/wiki/IC_74190" title="IC 74190">74190</a></li></ul></li>
+<li><a href="/wiki/%E4%BA%92%E8%A3%9C%E5%BC%8F%E9%87%91%E5%B1%AC%E6%B0%A7%E5%8C%96%E7%89%A9%E5%8D%8A%E5%B0%8E%E9%AB%94" title="互补式金属氧化物半导体">CMOS</a></li>
+<li><a href="/wiki/%E5%8A%A0%E6%B3%95%E5%99%A8" title="加法器">加法器</a></li>
+<li><a href="/wiki/%E4%B9%98%E6%B3%95%E5%99%A8" title="乘法器">乘法器</a></li>
+<li><a href="/wiki/%E4%BC%98%E5%85%88%E7%BC%96%E7%A0%81%E5%99%A8" title="优先编码器">编码器</a></li>
+<li><a href="/wiki/%E8%AF%91%E7%A0%81%E5%99%A8" title="译码器">译码器</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E9%80%89%E6%8B%A9%E5%99%A8" title="数据选择器">数据选择器</a></li>
+<li><a href="/wiki/%E9%94%81%E5%AD%98%E5%99%A8" title="锁存器">锁存器</a></li>
+<li><a href="/wiki/%E5%AF%84%E5%AD%98%E5%99%A8" title="寄存器">寄存器</a></li>
+<li><a href="/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8" title="触发器">触发器</a>
+<ul><li><a href="/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8#RS触发器" title="触发器">RS</a></li>
+<li><a href="/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8#D触发器" title="触发器">D</a></li>
+<li><a href="/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8#JK触发器" title="触发器">JK</a></li>
+<li><a href="/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8#T触发器" title="触发器">T</a></li></ul></li>
+<li><a href="/wiki/%E5%84%B2%E5%AD%98%E8%A3%9D%E7%BD%AE" title="存储设备">存储设备</a>
+<ul><li><a href="/wiki/%E5%94%AF%E8%AE%80%E8%A8%98%E6%86%B6%E9%AB%94" title="只读存储器">ROM</a></li>
+<li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E5%AD%98%E5%8F%96%E5%AD%98%E5%82%A8%E5%99%A8" title="随机存取存储器">RAM</a></li></ul></li>
+<li><a href="/wiki/%E9%A1%9E%E6%AF%94%E6%95%B8%E4%BD%8D%E8%BD%89%E6%8F%9B%E5%99%A8" title="模拟数字转换器">模拟数字转换器</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E9%A1%9E%E6%AF%94%E8%BD%89%E6%8F%9B%E5%99%A8" title="数字模拟转换器">数字模拟转换器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">IC</a>、<a class="mw-selflink selflink">VLSI</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%85%A8%E5%AE%9A%E5%88%B6" title="全定制">定制程度（半、全）</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A8%8B%E5%BC%8F%E5%8C%96%E9%82%8F%E8%BC%AF%E8%A3%9D%E7%BD%AE" title="可编程逻辑器件">PLD</a>
+<ul><li><a href="/wiki/%E5%8F%AF%E7%A8%8B%E5%BC%8F%E5%8C%96%E9%99%A3%E5%88%97%E9%82%8F%E8%BC%AF" title="可编程阵列逻辑">PAL</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A8%8B%E5%BC%8F%E5%8C%96%E9%82%8F%E8%BC%AF%E9%99%A3%E5%88%97" title="可编程逻辑阵列">PLA</a></li>
+<li><a href="/wiki/%E9%80%9A%E7%94%A8%E9%98%B5%E5%88%97%E9%80%BB%E8%BE%91" title="通用阵列逻辑">GAL</a></li>
+<li><a href="/wiki/%E8%A4%87%E9%9B%9C%E5%8F%AF%E7%A8%8B%E5%BC%8F%E5%8C%96%E9%82%8F%E8%BC%AF%E8%A3%9D%E7%BD%AE" title="复杂可编程逻辑器件">CPLD</a></li>
+<li><a href="/wiki/%E7%8E%B0%E5%9C%BA%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E9%97%A8%E9%98%B5%E5%88%97" title="现场可编程逻辑门阵列">FPGA</a></li></ul></li>
+<li><a href="/wiki/%E7%89%B9%E6%AE%8A%E6%87%89%E7%94%A8%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF" title="专用集成电路">ASIC</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1" title="集成电路设计">设计</a></li>
+<li><a href="/wiki/%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81" title="功能验证">验证</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a>（EDA）</li>
+<li><a href="/wiki/%E7%A1%AC%E4%BB%B6%E6%8F%8F%E8%BF%B0%E8%AF%AD%E8%A8%80" title="硬件描述语言">硬件描述语言</a>
+<ul><li><a href="/wiki/Verilog" title="Verilog">Verilog</a></li>
+<li><a href="/wiki/VHDL" title="VHDL">VHDL</a></li></ul></li>
+<li><a href="/wiki/%E9%80%BB%E8%BE%91%E7%BB%BC%E5%90%88" title="逻辑综合">逻辑综合</a></li>
+<li><a href="/wiki/%E7%A1%AC%E4%BB%B6%E9%AA%8C%E8%AF%81%E8%AF%AD%E8%A8%80" title="硬件验证语言">硬件验证语言</a>
+<ul><li><a href="/wiki/SystemVerilog" title="SystemVerilog">SystemVerilog</a></li></ul></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐2tv59
+Cached time: 20240331003810
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.487 seconds
+Real time usage: 0.577 seconds
+Preprocessor visited node count: 2199/1000000
+Post‐expand include size: 241126/2097152 bytes
+Template argument size: 1819/2097152 bytes
+Highest expansion depth: 29/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11183/5000000 bytes
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 16152059/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  379.546      1 -total
+ 31.55%  119.752      1 Template:Lang-en
+ 19.21%   72.904      1 Template:Reflist
+ 18.40%   69.850      1 Template:NoteTA
+ 13.60%   51.622      6 Template:Lang
+ 12.72%   48.294      1 Template:数字电路
+ 12.42%   47.134      6 Template:Category_handler
+ 12.36%   46.923      1 Template:Navbox
+ 11.77%   44.667      3 Template:Cite_web
+  7.76%   29.456      6 Template:Category_handler/numbered
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:2769214-0!canonical!zh-cn and timestamp 20240331003810 and revision id 76169430. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=超大规模集成电路&amp;oldid=76169430">https://zh.wikipedia.org/w/index.php?title=超大规模集成电路&amp;oldid=76169430</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%9B%86%E6%88%90%E9%9B%BB%E8%B7%AF" title="Category:集成電路">集成电路</a></li><li><a href="/wiki/Category:%E7%94%B5%E5%AD%90%E5%B7%A5%E7%A8%8B" title="Category:电子工程">电子工程</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年3月1日 (星期三) 12:20。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6cf7d57b97-4j9n4","wgBackendResponseTime":165,"wgPageParseReport":{"limitreport":{"cputime":"0.487","walltime":"0.577","ppvisitednodes":{"value":2199,"limit":1000000},"postexpandincludesize":{"value":241126,"limit":2097152},"templateargumentsize":{"value":1819,"limit":2097152},"expansiondepth":{"value":29,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11183,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  379.546      1 -total"," 31.55%  119.752      1 Template:Lang-en"," 19.21%   72.904      1 Template:Reflist"," 18.40%   69.850      1 Template:NoteTA"," 13.60%   51.622      6 Template:Lang"," 12.72%   48.294      1 Template:数字电路"," 12.42%   47.134      6 Template:Category_handler"," 12.36%   46.923      1 Template:Navbox"," 11.77%   44.667      3 Template:Cite_web","  7.76%   29.456      6 Template:Category_handler/numbered"]},"scribunto":{"limitreport-timeusage":{"value":"0.229","limit":"10.000"},"limitreport-memusage":{"value":16152059,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-2tv59","timestamp":"20240331003810","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8d85\u5927\u89c4\u6a21\u96c6\u6210\u7535\u8def","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF","sameAs":"http:\/\/www.wikidata.org\/entity\/Q876049","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q876049","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-04-28T10:42:14Z","dateModified":"2023-03-01T12:20:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4e\/Diopsis.jpg"}</script>
+</body>
+</html>

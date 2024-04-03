@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>国立国会图书馆 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"a7754ae0-ebce-40b8-bb70-e75d302c5972","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"國立國會圖書館","wgTitle":"國立國會圖書館","wgCurRevisionId":81941979,"wgRevisionId":81941979,"wgArticleId":193233,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2018年6月需要专业人士关注的页面","所有需要專家關注的頁面","其他需要專家關注的頁面","自2018年6月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","自2018年6月需要清理的內容瑣碎條目","含有多个问题的条目","含有日語的條目","含有英語的條目","Infobox mapframe在维基数据上没有OSM关系标识符",
+"缺少主语或者主语不够具体的语句","维基共享资源分类链接使用了维基数据上的匹配项","包含BIBSYS标识符的维基百科条目","包含BNE标识符的维基百科条目","包含BNF标识符的维基百科条目","包含CINII标识符的维基百科条目","包含GND标识符的维基百科条目","包含HKCAN标识符的维基百科条目","包含ISNI标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含LNB标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","包含NLA标识符的维基百科条目","包含NLK标识符的维基百科条目","包含SUDOC标识符的维基百科条目","包含ULAN标识符的维基百科条目","包含VIAF标识符的维基百科条目","包含17元素的规范控制","使用ISBN魔术链接的页面","有地图的页面","前川国男设计的建筑","国家图书馆","国会图书馆",
+"东京都图书馆","浮世绘博物馆","永田町","千代田區建築物","1948年日本建立","法定送存圖書館","國立國會圖書館"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"國立國會圖書館","wgRelevantArticleId":193233,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":
+"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q477675","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/1200px-National_diet_library_2009.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="765">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/800px-National_diet_library_2009.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="510">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/640px-National_diet_library_2009.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="408">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="国立国会图书馆 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-國立國會圖書館 rootpage-國立國會圖書館 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-概况"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#概况">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>概况</div>
+		</a>
+		
+		<ul id="toc-概况-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-沿革"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#沿革">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>沿革</div>
+		</a>
+		
+		<ul id="toc-沿革-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-理念"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#理念">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>理念</div>
+		</a>
+		
+		<ul id="toc-理念-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-组织机构"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#组织机构">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>组织机构</div>
+		</a>
+		
+		<ul id="toc-组织机构-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-服务"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#服务">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>服务</div>
+		</a>
+		
+			<button aria-controls="toc-服务-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关服务子章节</span>
+			</button>
+		
+		<ul id="toc-服务-sublist" class="vector-toc-list">
+			<li id="toc-对普通读者提供的服务"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#对普通读者提供的服务">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>对普通读者提供的服务</div>
+			</a>
+			
+			<ul id="toc-对普通读者提供的服务-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-对国会提供的服务"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#对国会提供的服务">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>对国会提供的服务</div>
+			</a>
+			
+			<ul id="toc-对国会提供的服务-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-对行政・司法提供的服务"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#对行政・司法提供的服务">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>对行政・司法提供的服务</div>
+			</a>
+			
+			<ul id="toc-对行政・司法提供的服务-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-国立国会图书馆的特色"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#国立国会图书馆的特色">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>国立国会图书馆的特色</div>
+		</a>
+		
+			<button aria-controls="toc-国立国会图书馆的特色-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关国立国会图书馆的特色子章节</span>
+			</button>
+		
+		<ul id="toc-国立国会图书馆的特色-sublist" class="vector-toc-list">
+			<li id="toc-资料的收集・整理"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#资料的收集・整理">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>资料的收集・整理</div>
+			</a>
+			
+			<ul id="toc-资料的收集・整理-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-书目数据的提供"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#书目数据的提供">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>书目数据的提供</div>
+			</a>
+			
+			<ul id="toc-书目数据的提供-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-藏书"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#藏书">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.3</span>藏书</div>
+			</a>
+			
+			<ul id="toc-藏书-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-电子图书馆"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#电子图书馆">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.4</span>电子图书馆</div>
+			</a>
+			
+			<ul id="toc-电子图书馆-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-国立国会图书馆的利用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#国立国会图书馆的利用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>国立国会图书馆的利用</div>
+		</a>
+		
+			<button aria-controls="toc-国立国会图书馆的利用-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关国立国会图书馆的利用子章节</span>
+			</button>
+		
+		<ul id="toc-国立国会图书馆的利用-sublist" class="vector-toc-list">
+			<li id="toc-进出图书馆制度"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#进出图书馆制度">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>进出图书馆制度</div>
+			</a>
+			
+			<ul id="toc-进出图书馆制度-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-开馆时间"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#开馆时间">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>开馆时间</div>
+			</a>
+			
+			<ul id="toc-开馆时间-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-闭馆日"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#闭馆日">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.3</span>闭馆日</div>
+			</a>
+			
+			<ul id="toc-闭馆日-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-资料放置和阅览"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#资料放置和阅览">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.4</span>资料放置和阅览</div>
+			</a>
+			
+			<ul id="toc-资料放置和阅览-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-复印服务"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#复印服务">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.5</span>复印服务</div>
+			</a>
+			
+			<ul id="toc-复印服务-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-脚注"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#脚注">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>脚注</div>
+		</a>
+		
+		<ul id="toc-脚注-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相关条目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相关条目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相关条目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">国立国会图书馆</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。65种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-65" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">65种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Biblioteek_van_die_Japannese_Parlement" title="Biblioteek van die Japannese Parlement – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A" title="مكتبة البرلمان الوطني – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D9%87" title="مكتبة اليابان الوطنيه – 埃及阿拉伯文" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Biblioteca_Nacional_de_la_Dieta" title="Biblioteca Nacional de la Dieta – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%D0%BD%D1%8B%D2%A3_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%BA%D0%B8%D1%82%D0%B0%D0%BF%D1%85%D0%B0%D0%BD%D0%B0%D2%BB%D1%8B" title="Японияның милли парламент китапханаһы – 巴什基尔语" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%86%D0%BA%D0%B0%D1%8F_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D1%8F%D1%82%D1%8D%D0%BA%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D1%96%D1%96" title="Нацыянальная парламенцкая бібліятэка Японіі – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BB%D1%8F%D0%BC%D1%8D%D0%BD%D1%86%D0%BA%D0%B0%D1%8F_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D1%8F%D1%82%D1%8D%D0%BA%D0%B0_(%D0%AF%D0%BF%D0%BE%D0%BD%D1%96%D1%8F)" title="Нацыянальная парлямэнцкая бібліятэка (Японія) – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D0%B0_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F)" title="Национална парламентарна библиотека (Япония) – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2_%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%9F_%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80" title="नेशनल डायट लाइब्रेरी – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Nacionalna_parlamentarna_biblioteka_Japana" title="Nacionalna parlamentarna biblioteka Japana – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Biblioteca_Nacional_de_la_Dieta_del_Jap%C3%B3" title="Biblioteca Nacional de la Dieta del Japó – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_parlamentn%C3%AD_knihovna_Japonska" title="Národní parlamentní knihovna Japonska – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Llyfrgell_y_Diet_Cenedlaethol" title="Llyfrgell y Diet Cenedlaethol – 威尔士语" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Nationale_parlamentsbibliotek" title="Nationale parlamentsbibliotek – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Nationale_Parlamentsbibliothek" title="Nationale Parlamentsbibliothek – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CE%AE_%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7_%CF%84%CE%B7%CF%82_%CE%94%CE%AF%CE%B1%CE%B9%CF%84%CE%B1%CF%82_%CF%84%CE%B7%CF%82_%CE%99%CE%B1%CF%80%CF%89%CE%BD%CE%AF%CE%B1%CF%82" title="Εθνική Βιβλιοθήκη της Δίαιτας της Ιαπωνίας – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Nacia_Biblioteko_de_Dieto" title="Nacia Biblioteko de Dieto – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_la_Dieta" title="Biblioteca Nacional de la Dieta – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Dietako_Liburutegi_Nazionala_(Japonia)" title="Dietako Liburutegi Nazionala (Japonia) – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87_%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D9%85%D9%84%DB%8C_%DA%98%D8%A7%D9%BE%D9%86" title="کتابخانه شورای ملی ژاپن – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Japanin_parlamentin_kirjasto" title="Japanin parlamentin kirjasto – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_la_Di%C3%A8te" title="Bibliothèque nationale de la Diète – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – 北弗里西亚语" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – 苏格兰盖尔语" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Biblioteca_Nacional_da_Dieta" title="Biblioteca Nacional da Dieta – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%AA_%D7%94%D7%93%D7%99%D7%90%D7%98_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA" title="ספריית הדיאט הלאומית – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Orsz%C3%A1ggy%C5%B1l%C3%A9si_K%C3%B6nyvt%C3%A1r_(Jap%C3%A1n)" title="Országgyűlési Könyvtár (Japán) – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Perpustakaan_Parlemen_Jepang" title="Perpustakaan Parlemen Jepang – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Nailian_a_Biblioteka_ti_Dieta" title="Nailian a Biblioteka ti Dieta – 伊洛卡诺语" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Biblioteca_della_Dieta_nazionale_del_Giappone" title="Biblioteca della Dieta nazionale del Giappone – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8" title="国立国会図書館 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8_%EA%B5%AD%EB%A6%BD%EA%B5%AD%ED%9A%8C%EB%8F%84%EC%84%9C%EA%B4%80" title="일본 국립국회도서관 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Bibliotheca_Diaetae_Nationalis" title="Bibliotheca Diaetae Nationalis – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/Bibliot%C3%AAca_da_Di%C3%AAta_Na%C3%A7ion%C3%A2le_do_Giap%C3%B3n" title="Bibliotêca da Diêta Naçionâle do Giapón – 利古里亚语" lang="lij" hreflang="lij" class="interlanguage-link-target"><span>Ligure</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Japonijos_nacionalin%C4%97_parlamento_biblioteka" title="Japonijos nacionalinė parlamento biblioteka – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D0%B0_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%88%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%98%D0%B0)" title="Национална парламентарна библиотека (Јапонија) – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%8B_%D2%AE%D0%BD%D0%B4%D1%8D%D1%81%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%D0%BD_%D0%BD%D0%BE%D0%BC%D1%8B%D0%BD_%D1%81%D0%B0%D0%BD" title="Японы Үндэсний парламентын номын сан – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Perpustakaan_Diet_Kebangsaan" title="Perpustakaan Diet Kebangsaan – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Bibliotheek_van_het_Japanse_parlement" title="Bibliotheek van het Japanse parlement – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Det_nasjonale_parlamentsbiblioteket" title="Det nasjonale parlamentsbiblioteket – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Bibliot%C3%A8ca_Nacionala_de_la_Di%C3%A8ta" title="Bibliotèca Nacionala de la Dièta – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Narodowa_Biblioteka_Parlamentarna_Japonii" title="Narodowa Biblioteka Parlamentarna Japonii – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Biblioteca_Nacional_da_Dieta" title="Biblioteca Nacional da Dieta – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Biblioteca_Na%C8%9Bional%C4%83_a_Dietei" title="Biblioteca Națională a Dietei – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F)" title="Национальная парламентская библиотека (Япония) – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Bibblioteca_Nazziunali_d%C3%BB_Parramentu_giappunisi" title="Bibblioteca Nazziunali dû Parramentu giappunisi – 西西里语" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Naitional_Diet_Leebrary" title="Naitional Diet Leebrary – 苏格兰语" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Biblioteka_Nacionalnog_Dijeta" title="Biblioteka Nacionalnog Dijeta – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Japonska_nacionalna_knji%C5%BEnica" title="Japonska nacionalna knjižnica – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/National_Diet_Library" title="National Diet Library – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Nacionalna_parlamentarna_biblioteka_Japana" title="Nacionalna parlamentarna biblioteka Japana – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Nationella_parlamentsbiblioteket" title="Nationella parlamentsbiblioteket – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Mill%C3%AE_Diyet_K%C3%BCt%C3%BCphanesi" title="Millî Diyet Kütüphanesi – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%D0%BD%D0%B5%D2%A3_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%BA%D0%B8%D1%82%D0%B0%D0%BF%D1%85%D0%B0%D0%BD%D3%99%D1%81%D0%B5" title="Япониянең милли парламент китапханәсе – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D1%96%D1%97" title="Національна парламентська бібліотека Японії – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Biblioteca_de_%C5%82a_Dieta_nasiona%C5%82e_del_Japon" title="Biblioteca de ła Dieta nasionałe del Japon – 威尼斯语" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Th%C6%B0_vi%E1%BB%87n_Qu%E1%BB%91c_h%E1%BB%99i_Nh%E1%BA%ADt_B%E1%BA%A3n" title="Thư viện Quốc hội Nhật Bản – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Nasodnon_nga_Sulod-Barasahan_Dieta" title="Nasodnon nga Sulod-Barasahan Dieta – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国立国会图书馆 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="國立國會圖書館 – 文言文" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Kok-li%CC%8Dp_Kok-h%C5%8De_T%C3%B4%CD%98-su-ko%C3%A1n" title="Kok-li̍p Kok-hōe Tô͘-su-koán – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="國立國會圖書館 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q477675#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;oldid=81941979" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;id=81941979&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%259C%258B%25E7%25AB%258B%25E5%259C%258B%25E6%259C%2583%25E5%259C%2596%25E6%259B%25B8%25E9%25A4%25A8"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%259C%258B%25E7%25AB%258B%25E5%259C%258B%25E6%259C%2583%25E5%259C%2596%25E6%259B%25B8%25E9%25A4%25A8"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q477675" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:National_Diet_Library" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="Talk:国立国会图书馆">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目需要<b>精通或熟悉相关主题的编者</b>参与及协助编辑。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年6月10日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a href="/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84" title="Wikipedia:专家邀请工作小组">邀请</a>适合的人士<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit">改善本条目</a>。更多的细节与详情请参见<a href="/wiki/Talk:%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="Talk:国立国会图书馆">讨论页</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年6月10日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助补充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能会因为<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br />致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">"国立国会图书馆"</a> &#8212; <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Trivia plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>应避免有<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8A/%E7%91%A3%E7%A2%8E%E7%AB%A0%E7%AF%80" title="Wikipedia:格式手册/琐碎章节">陈列杂项、琐碎资料</a>的部分。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年6月10日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit">协助</a>将有关资料重新编排成连贯性的文章，安置于适当章节或条目内。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:88%;line-height:1.5em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">国立国会图书馆<br /><font size="-1"><span lang="ja">国立国会図書館</span></font><br /><font size="-1"><span lang="en">National Diet Library</span></font></th></tr><tr><td colspan="2" style="text-align:center"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:National_diet_library_2009.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/240px-National_diet_library_2009.jpg" decoding="async" width="240" height="153" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/360px-National_diet_library_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_diet_library_2009.jpg/480px-National_diet_library_2009.jpg 2x" data-file-width="3019" data-file-height="1924" /></a></span></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">国家／地区</th><td style=""><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;</span><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">类型</th><td class="label" style=""><a href="/wiki/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国家图书馆">国家图书馆</a>、<a href="/wiki/%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect mw-disambig" title="国会图书馆">国会图书馆</a></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">建立</th><td style="">1948年（<a href="/wiki/%E6%98%AD%E5%92%8C" title="昭和">昭和</a>二十三年）2月25日</td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">建筑师</th><td style="">Maekawa Associates, Architects &#38; Engineers&#160;<span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q477675?uselang=zh-cn#P84" title="编辑维基数据"><img alt="编辑维基数据" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">地址</th><td class="label" style="">（东京本馆）〒100-8924<br /><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;</span><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a><a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="东京都">东京都</a><a href="/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8D%80" title="千代田区">千代田区</a><a href="/wiki/%E6%B0%B8%E7%94%B0%E7%94%BA" title="永田町">永田町</a>一丁目10番1号</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef;">收藏</th></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">藏品</th><td style="">1200万册（件）</td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">规模</th><td style="">43,426,450 具体事物 (2017年)&#160;<span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q477675?uselang=zh-cn#P1436" title="编辑维基数据"><img alt="编辑维基数据" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">电话</th><td style="">+81 03 3581-2331</td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;;">网站</th><td style=""><span class="url"><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/">www<wbr />.ndl<wbr />.go<wbr />.jp</a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef;">地图</th></tr><tr><td colspan="2" style="text-align:center;"><a class="mw-kartographer-map notheme mw-kartographer-container center" style="width: 270px; height: 200px;" data-mw-kartographer="mapframe" data-style="osm-intl" data-width="270" data-height="200" data-zoom="10" data-overlays="[&quot;_fec9c175b85173f093562c712835cd5f1445bcc4&quot;]"><img src="https://maps.wikimedia.org/img/osm-intl,10,a,a,270x200.png?lang=zh&amp;domain=zh.wikipedia.org&amp;title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;revid=81941979&amp;groups=_fec9c175b85173f093562c712835cd5f1445bcc4" width="270" height="200" decoding="async" srcset="https://maps.wikimedia.org/img/osm-intl,10,a,a,270x200@2x.png?lang=zh&amp;domain=zh.wikipedia.org&amp;title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;revid=81941979&amp;groups=_fec9c175b85173f093562c712835cd5f1445bcc4 2x" alt="地图" /></a></td></tr></tbody></table>
+<p><b>国立国会图书馆</b>（日语：<span title="汉字或假名表记（原文）"><span lang="ja">国立国会図書館</span></span><small>／</small><span title="平假名表记"><span lang="ja">こくりつこっかいとしょかん</span></span><sup>&#160;<i><span title="罗马字表记" class="Unicode" style="white-space:normal; text-decoration: none" lang="ja-Latn">Kokuritsu kokkai toshokan</span></i>&#160;<a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="extiw" title="ja:国立国会図书馆"><span style="font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em; font-size:85%;">*</span></a><small><span style="font: bold 80% sans-serif; text-decoration: none; padding: .1 .1em;">/</span></small><small><a href="/wiki/Help:%E6%97%A5%E8%AA%9E" class="mw-redirect" title="Help:日语"><span style="font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></small></sup>）是<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>的<a href="/wiki/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国家图书馆">国家图书馆</a>，直接隶属于<a href="/wiki/%E5%9C%8B%E6%9C%83_(%E6%97%A5%E6%9C%AC)" title="国会 (日本)">国会</a>，除了主要为<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A" class="mw-redirect" title="日本国会">日本国会</a><a href="/wiki/%E8%AE%AE%E5%91%98" class="mw-redirect" title="议员">议员</a>的调查、研究等<a href="/wiki/%E7%AB%8B%E6%B3%95" class="mw-redirect" title="立法">立法</a>行为提供辅助外，也同时服务各<a href="/wiki/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C" class="mw-redirect" title="日本政府">政府机关</a>与一般民众。根据日本的出版物<a href="/wiki/%E6%B3%95%E5%AE%9A%E9%80%81%E5%AD%98" title="法定送存">呈缴本</a>制度，该图书馆也是唯一一家收存日本国内全部出版物的法定呈缴本图书馆。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E6.A6.82.E5.86.B5"></span><span class="mw-headline" id="概况">概况</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=1" title="编辑章节：概况"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>国立国会图书馆，是隶属于<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A" class="mw-redirect" title="日本国会">日本国会</a>的国家机关，是以协助国会的立法活动为首要目的的<a href="/w/index.php?title=%E8%AE%AE%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="议会图书馆（页面不存在）">议会图书馆</a>。同时，作为日本唯一执行呈缴本制度的<a href="/wiki/%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="国家图书馆">国家图书馆</a>，兼有为<a href="/wiki/%E8%A1%8C%E6%94%BF" class="mw-redirect" title="行政">行政</a>・<a href="/wiki/%E5%8F%B8%E6%B3%95" class="mw-redirect" title="司法">司法</a>各机关以及日本国民提供服务的功能。
+</p><p>该图书馆的具体下属机构，有被视为“中央图书馆”的东京本馆（<a href="/wiki/%E4%B8%9C%E4%BA%AC%E9%83%BD" class="mw-redirect" title="东京都">东京都</a><a href="/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA" class="mw-redirect" title="千代田区">千代田区</a><a href="/wiki/%E6%B0%B8%E7%94%B0%E7%94%BA" title="永田町">永田町</a>）和<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%85%B3%E8%A5%BF%E5%88%86%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆关西分馆（页面不存在）">关西分馆</a>（<a href="/wiki/%E4%BA%AC%E9%83%BD%E5%BA%9C" title="京都府">京都府</a><a href="/wiki/%E7%9B%B8%E4%B9%90%E9%83%A1" class="mw-redirect" title="相乐郡">相乐郡</a><a href="/wiki/%E7%B2%BE%E5%8D%8E%E7%94%BA" class="mw-redirect" title="精华町">精华町</a>精华台），另有作为“<a href="/w/index.php?title=%E5%88%86%E6%94%AF%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="分支图书馆（页面不存在）">分支图书馆</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>”的<a href="/wiki/%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国际儿童图书馆">国际儿童图书馆</a>（东京都<a href="/wiki/%E5%8F%B0%E4%B8%9C%E5%8C%BA" class="mw-redirect" title="台东区">台东区</a><a href="/wiki/%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9B%AD" class="mw-redirect" title="上野公园">上野公园</a>）和<a href="/wiki/%E4%B8%9C%E6%B4%8B%E6%96%87%E5%BA%93" title="东洋文库">东洋文库</a>（东京都<a href="/wiki/%E6%96%87%E4%BA%AC%E5%8C%BA" class="mw-redirect" title="文京区">文京区</a><a href="/wiki/%E6%9C%AC%E9%A7%92%E8%BE%BC" title="本驹込">本驹込</a>）和设立在各行政·司法机关内的26个图书馆。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span id=".E6.B2.BF.E9.9D.A9"></span><span class="mw-headline" id="沿革">沿革</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=2" title="编辑章节：沿革"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>国立国会图书馆的前身是<a href="/wiki/%E5%B8%9D%E5%9C%8B%E8%AD%B0%E6%9C%83_(%E6%97%A5%E6%9C%AC)" title="帝国议会 (日本)">旧帝国议会</a>两院所属的<a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2" class="mw-redirect" title="日本众议院">众议院</a>图书馆、<a href="/wiki/%E8%B2%B4%E6%97%8F%E9%99%A2_(%E6%97%A5%E6%9C%AC)" title="贵族院 (日本)">贵族院</a>图书馆以及属于<a href="/wiki/%E6%96%87%E9%83%A8%E7%9C%81" title="文部省">文部省</a>的<a href="/w/index.php?title=%E5%B8%9D%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="帝国图书馆（页面不存在）">帝国图书馆</a>。两个议院的图书馆起源于1891年（<a href="/wiki/%E6%98%8E%E6%B2%BB" title="明治">明治</a>24年）设立的图书室，而帝国图书馆的前身则为1872年（明治5年）设立的书籍馆。
+</p><p><a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98" title="第二次世界大战">第二次世界大战</a>后，新的<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%AA%E6%B3%95" title="日本国宪法">日本国宪法</a>将<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A" class="mw-redirect" title="日本国会">日本国会</a>定为唯一的立法机关，组成国会的众议院和参议院均由“代表全体国民的议员”组成。为了保障国会议员可以进行深入全面的立法调查活动，有必要扩充当时的<a href="/w/index.php?title=%E8%AE%AE%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="议会图书馆（页面不存在）">议会图书馆</a>。为此，与日本国宪法同时施行的<a href="/wiki/%E5%9C%8B%E6%9C%83%E6%B3%95" class="mw-redirect mw-disambig" title="国会法">国会法</a>（昭和22年法律第79号）第130条规定“为了便于议员开展调查研究，国会根据相关法律，设置国立国会图书馆。”，同时制定了《国会图书馆法》（昭和22年法律第84号）。由此，设立了由贵族院和众议院两个附属图书馆合并而成了国会图书馆，但仅仅这个图书馆体制仍无法满足国会议员的调查研究的需求。
+</p><p>此后，日本邀请美国图书馆访问团，并吸取了其意见，于1948年制定了<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆法（页面不存在）">国立国会图书馆法</a>（昭和23年法律第5号）。该法很大程度上受到了该访问团的影响，因此也以美国国会图书馆为范本，将图书馆定位为议会图书馆的同时也确立了其国家图书馆的地位，并规定了以网罗整理国内文字资料为目的的法定呈缴本制度。
+</p>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Old_National_Diet_Library.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Old_National_Diet_Library.JPG/250px-Old_National_Diet_Library.JPG" decoding="async" width="250" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Old_National_Diet_Library.JPG/375px-Old_National_Diet_Library.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/3/39/Old_National_Diet_Library.JPG 2x" data-file-width="458" data-file-height="366" /></a><figcaption>位于原赤坂行宫（今迎宾馆）的国立国会图书馆</figcaption></figure>
+<p>随着该法的制定，国会图书馆开始筹建。1948年2月25日国立国会图书馆正式成立，首任馆长为<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%AA%E6%B3%95" title="日本国宪法">日本国宪法</a>制定时任<a href="/wiki/%E5%9C%8B%E5%8B%99%E5%A4%A7%E8%87%A3_(%E6%97%A5%E6%9C%AC)" title="国务大臣 (日本)">国务大臣</a>的宪法学者金森德次郎。首任副馆长为曾任<a href="/wiki/%E5%B0%BE%E9%81%93%E5%B8%82" title="尾道市">尾道</a>市立图书馆长的美学家中井正一。同年6月5日，图书馆在原赤坂行宫（现<a href="/wiki/%E8%BF%8E%E5%AE%BE%E9%A6%86%E8%B5%A4%E5%9D%82%E7%A6%BB%E5%AE%AB" title="迎宾馆赤坂离宫">迎宾馆</a>）的临时馆址正式开馆。
+</p><p>1949年（昭和24年），根据国立国会图书馆法的方针，曾依照<span class="ilh-all" data-orig-title="出版法 (日本)" data-lang-code="ja" data-lang-name="日语" data-foreign-title="出版法"><span class="ilh-page"><a href="/w/index.php?title=%E5%87%BA%E7%89%88%E6%B3%95_(%E6%97%A5%E6%9C%AC)&amp;action=edit&amp;redlink=1" class="new" title="出版法 (日本)（页面不存在）">出版法 (日本)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">日语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E7%89%88%E6%B3%95" class="extiw" title="ja:出版法"><span lang="ja" dir="auto">出版法</span></a></span>）</span></span>（明治26年法律第15号，被昭和24年法律第95号废止。）收藏呈缴图书的上野国立图书馆（1947年（昭和22年）改称帝国图书馆。）被合并至国立国会图书馆，至此，国立国会图书馆成为了名副其实的日本唯一的国立图书馆。原帝国图书馆的藏书和设施继续保留在上野区，成为了国立国会图书馆分支机构之一的<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%94%AF%E9%83%A8%E4%B8%8A%E9%87%8E%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆支部上野图书馆（页面不存在）">支部上野图书馆</a>。
+</p><p>根据《国立国会图书馆建筑委员会法》（昭和23年法律第6号），国立国会图书馆的正式馆舍被定于<a href="/wiki/%E5%9C%8B%E6%9C%83%E8%AD%B0%E4%BA%8B%E5%A0%82_(%E6%97%A5%E6%9C%AC)" title="国会议事堂 (日本)">国会议事堂</a>北侧的<a href="/wiki/%E5%BE%B7%E5%9C%8B%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A4%A8" class="mw-redirect" title="德国驻日大使馆">德国驻日大使馆</a>旧址（东京都千代田区永田町），选用了<a href="/wiki/%E5%89%8D%E5%B7%9D%E5%9B%BD%E7%94%B7" title="前川国男">前川国男</a>的设计方案，并在1961年（昭和36年）完成了首期工程，开始收藏图书。开馆之际馆藏图书有205万册，主要包括从贵族院和众议院两院附属图书馆继承的图书、赤坂的临时国会图书馆收藏的图书约100万册，以及以战前帝国图书馆馆藏为主体的上野图书馆的藏书约100万册。
+</p><p>在开馆7年之后的1968年（昭和43年），本馆工程竣工落成，包括一栋地上6层，地下1层的办公楼和17层高的书库楼。
+</p>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Japanese_National_Diet_Library-2007.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_National_Diet_Library-2007.jpg/220px-Japanese_National_Diet_Library-2007.jpg" decoding="async" width="220" height="152" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_National_Diet_Library-2007.jpg/330px-Japanese_National_Diet_Library-2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_National_Diet_Library-2007.jpg/440px-Japanese_National_Diet_Library-2007.jpg 2x" data-file-width="1000" data-file-height="693" /></a><figcaption>国立国会图书馆・东京本馆远景</figcaption></figure>
+<p>进入1970年代，随着藏书量的迅速扩充以及读者的增加，本馆的设施也开始捉襟见肘。为此，在本馆北侧增建了新馆，并于1986年（昭和61年）对外开放。该馆的设计同样由<a href="/wiki/%E5%89%8D%E5%B7%9D%E5%9B%BD%E7%94%B7" title="前川国男">前川国男</a>负责。随着拥有地上4层地下8层的新馆的落成，国立国会图书馆的馆藏容量达到了1200万册，这也是设计者预计到21世纪初将达到的馆藏能力极限。
+</p><p>为此，1980年代以后，日本政府开始考虑建立第二国立国会图书馆。这个国会图书馆除了与东京本馆一起分担保存日益增多的藏书外，还将利用先进的计算机技术发展网络信息服务，为读者提供虚拟化服务。2002年（平成14年），<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%85%B3%E8%A5%BF%E5%88%86%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆关西分馆（页面不存在）">国立国会图书馆关西分馆</a>作为上述计划的成果终于完工开馆。关西分馆主要负责收藏科学技术相关资料、亚洲语言类资料、国内<a href="/wiki/%E5%8D%9A%E5%A3%AB%E8%AB%96%E6%96%87" title="博士论文">博士论文</a>等，与东京本馆一起成为了国立国会图书馆中央馆的重要组成部分。
+</p><p>另外，在关西分馆开馆前后，另一个将支部上野图书馆改造为<a href="/wiki/%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国际儿童图书馆">国际儿童图书馆</a>的计划也得到实施。国际儿童图书馆主要负责国立国会图书馆藏书中的<a href="/w/index.php?title=%E5%84%BF%E7%AB%A5%E4%B9%A6&amp;action=edit&amp;redlink=1" class="new" title="儿童书（页面不存在）">儿童书</a>（主要以18岁以下读者为对象的图书馆资料），在2000年（平成12年）部分开馆，最终在2002年（平成14年）全面开放。
+</p><p>近年来，除了致力于发展<a href="/wiki/%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="电子图书馆">电子图书馆</a>外，也有一系列对国立国会图书馆组织结构的变革，包括2005年国立国会图书馆法中规定的图书馆长享受的国务大臣待遇被取消，2006年<a href="/wiki/%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A_(%E6%97%A5%E6%9C%AC)" title="自由民主党 (日本)">自由民主党</a><a href="/w/index.php?title=%E8%A1%8C%E6%94%BF%E6%94%B9%E9%9D%A9&amp;action=edit&amp;redlink=1" class="new" title="行政改革（页面不存在）">行政改革</a>总部提出图书馆的<a href="/wiki/%E7%8D%A8%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA" title="独立行政法人">独立行政法人</a>化方案，以及2007年首次任命与国会无关的<a href="/w/index.php?title=%E9%95%BF%E5%B0%BE%E7%9C%9F&amp;action=edit&amp;redlink=1" class="new" title="长尾真（页面不存在）">长尾真</a>（原<a href="/wiki/%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6" title="京都大学">京都大学</a>校长）为馆长等。
+</p>
+<h2><span id=".E7.90.86.E5.BF.B5"></span><span class="mw-headline" id="理念">理念</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=3" title="编辑章节：理念"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆法（页面不存在）">国立国会图书馆法</a>的序言中，明确指出“国立国会图书馆秉持‘真理使我们自由’的信念，背负为宪法承诺的日本民主化和世界和平作出贡献的使命，根据本法设立序言中的“真理使我们自由”一段，明确提出，图书馆通过公平提供各类资料来保障国民的知情权，并以成为健全的民主社会的基础为国立国会图书馆的基本理念。
+</p><p>尽管国立国会图书馆法是以美国图书馆使团的提议为基础起草，但上述序言是由时任<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%8F%82%E8%AE%AE%E9%99%A2" class="mw-redirect" title="日本参议院">参议院</a><a href="/wiki/%E8%AE%AE%E5%91%98" class="mw-redirect" title="议员">议员</a>的历史学家<a href="/w/index.php?title=%E7%BE%BD%E4%BB%81%E4%BA%94%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="羽仁五郎（页面不存在）">羽仁五郎</a>（当时为参议院图书馆运营委员长）添加的。“真理使我们自由”这句话来源于羽仁五郎在德国弗莱堡大学留学时看到的图书馆墙上的文字“WAHRHEIT WIRD MAN FREI MACHEN（真理使人自由）”。据说这一名言最初的语源来自《<a href="/wiki/%E6%96%B0%E7%BA%A6%E5%9C%A3%E7%BB%8F" class="mw-redirect" title="新约圣经">新约圣经</a>》的<a href="/wiki/%E7%BA%A6%E7%BF%B0%E7%A6%8F%E9%9F%B3" class="mw-redirect" title="约翰福音">约翰福音</a>8-32段“真理使你们自由”。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。
+</p><p>1961年（昭和36年）正式开放的东京本馆的2楼目录大厅墙上，镌刻着首任馆长手书的“真理使我们自由”，这句话在来馆的读者心中都留下深刻印象，并被认为代表了所有图书馆的一般理念，甚至可以说<sup class="noprint"><a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8A/%E4%B8%8D%E8%A6%81%E6%A8%A1%E7%A8%9C%E5%85%A9%E5%8F%AF" title="Wikipedia:格式手册/不要模棱两可"><span title="缺少主语或者主语不够具体的语句修正请求"><span style="white-space: nowrap;">&#91;谁？&#93;</span></span></a></sup>战后日本图书馆界的发展在很大程度上也受到这句话的影响。
+</p>
+<h2><span id=".E7.BB.84.E7.BB.87.E6.9C.BA.E6.9E.84"></span><span class="mw-headline" id="组织机构">组织机构</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=4" title="编辑章节：组织机构"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:National_Library_Kansai.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/National_Library_Kansai.jpg/220px-National_Library_Kansai.jpg" decoding="async" width="220" height="178" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/National_Library_Kansai.jpg/330px-National_Library_Kansai.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/National_Library_Kansai.jpg/440px-National_Library_Kansai.jpg 2x" data-file-width="554" data-file-height="447" /></a><figcaption>关西分馆 陶器二三雄设计</figcaption></figure>
+<p>国立国会图书馆是隶属于日本立法机关的<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A" class="mw-redirect" title="日本国会">日本国会</a>的独立国家机关，由<a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2" class="mw-redirect" title="日本众议院">众议院</a>、<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%8F%82%E8%AE%AE%E9%99%A2" class="mw-redirect" title="日本参议院">参议院</a>两院议长及两议院中常设的<a href="/w/index.php?title=%E8%AE%AE%E9%99%A2%E8%BF%90%E8%90%A5%E5%A7%94%E5%91%98%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="议院运营委员会（页面不存在）">议院运营委员会</a>负责监督管理。统管图书馆事务的<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%95%BF&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆长（页面不存在）">国立国会图书馆长</a>，则由两议院议长任命。
+</p><p>根据日本法律，国立国会图书馆由中央图书馆和支部图书馆组成。中央图书馆分为位于东京永田町的东京本馆和位于京都府的关西分馆，这两个图书馆负责收藏保存除国际儿童图书馆涉及的图书以外的各类图书资料。此外，在<a href="/wiki/%E5%9C%8B%E6%9C%83%E8%AD%B0%E4%BA%8B%E5%A0%82_(%E6%97%A5%E6%9C%AC)" title="国会议事堂 (日本)">国会议事堂</a>中，也设有附属于中央图书馆的<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%9B%BD%E4%BC%9A%E5%88%86%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆国会分馆（页面不存在）">国立国会图书馆国会分馆</a>。
+</p><p>作为支部图书馆，主要有<a href="/wiki/%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国际儿童图书馆">国际儿童图书馆</a>、<a href="/wiki/%E4%B8%9C%E6%B4%8B%E6%96%87%E5%BA%93" title="东洋文库">东洋文库</a>以及各个行政司法部门内部的图书馆。其中的国际儿童图书馆，负责保存和提供借阅根据法定呈缴本制度而收集的日本国内出版物中的18岁以下读物，因此性质上接近于中央图书馆的分馆。另外，支部东洋文库是由专门研究亚洲的图书馆兼研究所的财团法人东洋文库捐助成立的。
+</p><p>设立于行政司法各机关内部的支部图书馆，将在“对行政·司法提供的服务”一节详述。这类图书馆在制度上属于国立国会图书馆的支部，构成了日本唯一的国立中央图书馆的庞大网络的一部分。尽管这些图书馆的设立主体是各个行政司法机关，但是同时作为国立国会图书馆的支部图书馆，因此其地位比较特殊。
+</p><p>由东京和关西两部分组成的中央图书馆共有900人左右职员，并根据工作性质细分为众多部门，其中唯一一个根据国立国会图书馆法而设立的部门是“调查及立法考查局”。这个部门由若干位专业调查员为核心，负责在众参两院常任委员会认为必要的领域进行高水平的调查工作，发挥了为国会服务的重要作用。
+</p>
+<h2><span id=".E6.9C.8D.E5.8A.A1"></span><span class="mw-headline" id="服务">服务</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=5" title="编辑章节：服务"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>国立国会图书馆提供的服务，主要有以下三部分构成。
+</p>
+<ul><li>对国会提供的服务。对<a href="/wiki/%E7%AB%8B%E6%B3%95" class="mw-redirect" title="立法">立法</a>过程中必要的资料进行收集、分析和提供。</li>
+<li>对行政・司法机关提供的服务。在各府省厅和最高裁判所内设置支部图书馆，提供图书馆服务。</li>
+<li>对普通国民提供的服务。普通国民可以直接利用或者通过其他公共图书馆间接享受图书馆的服务。这也包括对地方议会或公务员的服务。</li></ul>
+<p>从“国会图书馆”的名称中便可理解，对国会提供的服务是其首要任务，但是对普通国民的服务也是其重要一环。作为日本唯一的国立中央图书馆，国会图书馆依照呈缴本制度不断网罗收集日本国内的出版物，还负责制作《全国总书目》。此外，图书馆也致力于与各国图书馆展开交流合作，互相提供资料的国际交换、借阅、复印，以及对管理日文图书的外国图书馆职员的培训活动。
+</p>
+<h3><span id=".E5.AF.B9.E6.99.AE.E9.80.9A.E8.AF.BB.E8.80.85.E6.8F.90.E4.BE.9B.E7.9A.84.E6.9C.8D.E5.8A.A1"></span><span class="mw-headline" id="对普通读者提供的服务">对普通读者提供的服务</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=6" title="编辑章节：对普通读者提供的服务"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>对一般读者的服务，主要通过读者直接来馆、通过读者身边的邻近图书馆间接服务以及下文提及的通过互联网提供电子图书馆服务等形式提供。
+</p><p>国立国会图书馆主要服务部门，即东京本馆、关西分馆、国际儿童图书馆等三馆都可以直接接待读者，除了一些特殊的情况或者贵重图书外，图书馆庞大的资料均面向读者开放。
+</p><p>作为间接的使用方法，普通读者对于在离自己最近的图书馆无法获取的资料，可以通过图书馆际借阅服务来利用国会图书馆，也可以请求国立国会图书馆提供参考调查服务。
+</p><p>图书馆际借阅，是以读者身边的<a href="/wiki/%E5%85%AC%E5%85%B1%E5%9B%BE%E4%B9%A6%E9%A6%86" title="公共图书馆">公共图书馆</a>、大学图书馆或各类资料室（仅限于已被许可加入图书馆际借阅制度的机构）为窗口，利用国立国会图书馆资料的制度。但是由于只是图书馆之间的借阅，因此读者不能将资料带出图书馆外，也不得复印相关资料。
+</p><p>与一般公共图书馆不同，国立国会图书馆以保存资料为首要目的，因此对于来馆的读者也不提供借阅服务。另外，由于保存资料数量非常庞大，服务对象遍及日本全国及海外，因此对个人读者的使用有诸多限制，往往会使人感到不便。很多情况下，读者利用身边的公共图书馆往往会更加便利，只有在一般图书馆找不到资料的时候才去利用国立国会图书馆。从这一点来看，国会图书馆是查找资料的最后保障。
+</p>
+<h3><span id=".E5.AF.B9.E5.9B.BD.E4.BC.9A.E6.8F.90.E4.BE.9B.E7.9A.84.E6.9C.8D.E5.8A.A1"></span><span class="mw-headline" id="对国会提供的服务">对国会提供的服务</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=7" title="编辑章节：对国会提供的服务"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>国立国会图书馆对国会的服务，除了提供资料、借阅读书等一般图书馆具备的功能外，还有作为议会图书馆特有的立法调查功能。
+</p><p>东京本馆和国会议事堂内的国会分馆设有国会议员专用的议员阅览室，在本馆还设有议员研究室。这些设施除了提供议员进行政策性研究外，也往往是政治家进行磋商密谈的场所。此外，国会分馆对国会议员和职员都提供资料出借服务，也不存在出借资料的数量限制。
+</p><p>根据国立国会图书馆法第15条，图书馆设立了调查及立法考查局（简称“调查局”）。该机构主要为国会收集提供调查及立法相关的资料。
+</p><p>为此，调查局内部设立了为国会开展调查和提供立法相关的资料的部门。各个部室对应于国会两院的常任委员会内各个专业组别而设置，针对国会议员的提问开展立法调查，也会为时事问题开展预备调查。
+</p><p>另外，调查局也负责收集整理议会·法规相关资料、制作法规索引、国会会议记录的数据化等工作，这些资料也通过国立国会图书馆的阅览室、出版活动、互联网等载体向全体国民提供。
+</p>
+<h3><span id=".E5.AF.B9.E8.A1.8C.E6.94.BF.E3.83.BB.E5.8F.B8.E6.B3.95.E6.8F.90.E4.BE.9B.E7.9A.84.E6.9C.8D.E5.8A.A1"></span><span class="mw-headline" id="对行政・司法提供的服务">对行政・司法提供的服务</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=8" title="编辑章节：对行政・司法提供的服务"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>国立国会图书馆的另一个主要服务对象就是国家行政司法机关。对此国立国会图书馆也提供图书馆资料的出借、复印等服务，但其窗口是各个机关内部的支部图书馆。行政・司法各部门的附属图书馆（支部内阁府图书馆、支部最高裁判所图书馆等），负责收集所在机关的出版物和业务上的资料，并由各个机关拨款营运，但在制度上又属于国立国会图书馆的一个组成部分。另外，各支部图书馆之间通过国立国会图书馆中央馆为中心的网络，互相交换机关出版物、资料的互相借阅、职员的共同培训等。
+</p><p>行政・司法各部门的支部图书馆馆长从各自的事务官或技术官员中选任，但任命权属于立法机关职员的<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%95%BF&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆长（页面不存在）">国立国会图书馆长</a>。这种将三权结合在一起的支部图书馆制度，在世界各国的国家图书馆中也极为罕见，成为了日本国立国会图书馆的一大特色。
+</p>
+<h2><span id=".E5.9B.BD.E7.AB.8B.E5.9B.BD.E4.BC.9A.E5.9B.BE.E4.B9.A6.E9.A6.86.E7.9A.84.E7.89.B9.E8.89.B2"></span><span class="mw-headline" id="国立国会图书馆的特色">国立国会图书馆的特色</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=9" title="编辑章节：国立国会图书馆的特色"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E8.B5.84.E6.96.99.E7.9A.84.E6.94.B6.E9.9B.86.E3.83.BB.E6.95.B4.E7.90.86"></span><span class="mw-headline" id="资料的收集・整理">资料的收集・整理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=10" title="编辑章节：资料的收集・整理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>世界各国的国立中央图书馆，通过法律确立的<a href="/wiki/%E5%91%88%E7%BC%B4%E6%9C%AC%E5%88%B6%E5%BA%A6" class="mw-redirect" title="呈缴本制度">呈缴本制度</a>，要求所有出版者都向其存缴其出版物，以网罗收集本国内的出版物为其主要职责。
+</p><p>日本<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆法（页面不存在）">国立国会图书馆法</a>规定，国内全部的政府机关、团体个人都有义务将其出版物存缴至国立国会图书馆。作为存缴对象的出版物，包括图书、册子、定期出版物（杂志、报纸、年鉴）、<a href="/wiki/%E4%B9%90%E8%B0%B1" class="mw-redirect" title="乐谱">乐谱</a>、<a href="/wiki/%E5%9C%B0%E5%9B%BE" title="地图">地图</a>、<a href="/w/index.php?title=%E7%BC%A9%E5%BE%AE%E8%83%B6%E5%8D%B7&amp;action=edit&amp;redlink=1" class="new" title="缩微胶卷（页面不存在）">缩微胶卷</a>资料、<a href="/wiki/%E7%9B%B2%E6%96%87" title="盲文">盲文</a>资料及<a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>、<a href="/wiki/DVD" title="DVD">DVD</a>等通过载体出版的电子出版物（包括音乐CD和游戏软件等）等。关于存缴的份数，对于政府机关要求存缴2份至30份不等，民间出版物仅要求存缴1份。
+</p><p>作为呈缴本以外的资料收集手段，有捐赠、采购、出版物的国际交换等。采购主要用于<a href="/w/index.php?title=%E5%8F%A4%E4%B9%A6&amp;action=edit&amp;redlink=1" class="new" title="古书（页面不存在）">古书</a>・古代典籍等不属于呈缴本对象的资料、<a href="/wiki/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6" title="百科全书">百科全书</a>、<a href="/wiki/%E8%BE%AD%E5%85%B8" class="mw-redirect" title="辞典">辞典</a>、<a href="/wiki/%E5%B9%B4%E9%91%91" title="年鉴">年鉴</a>等使用频率很高的参考工具书、以及被认为对学术研究有价值的外国资料等。国际交换的对象主要是各国国家图书馆・议会图书馆通过呈缴本制度收集的多份政府机关出版物。
+</p><p>通过上述途径，国立国会图书馆将新近收集的每件书籍资料，都按照书名、作者、出版者、出版年份等信息制作书目数据。该书目数据根据该馆自创的<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%88%86%E7%B1%BB%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆分类表（页面不存在）">国立国会图书馆分类表</a>（NDLC）进行分类编号，并根据<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BB%B6%E5%90%8D%E6%A0%87%E7%9B%AE%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆件名标目表（页面不存在）">国立国会图书馆件名标目表</a>（NDLSH）添加件名，最终编入目录。目前该目录的大部分内容已可以通过NDL-OPAC<sup id="cite_ref-ndl-opac_4-0" class="reference"><a href="#cite_note-ndl-opac-4">&#91;4&#93;</a></sup>在互联网上搜索。
+</p><p>关于国立国会图书馆的藏书构造和图书馆技术方面，很大程度上受到了1948年<a href="/wiki/%E7%9B%9F%E8%BB%8D%E9%A7%90%E6%97%A5%E7%B8%BD%E5%8F%B8%E4%BB%A4%E9%83%A8" class="mw-redirect" title="盟军驻日总司令部">盟军驻日总司令部</a>（GHQ）民间信息教育局特别顾问Robert Bringham Downs提出的报告书（日文称“<span lang="ja">ダウンズ勧告</span>”）的影响。根据该报告书的思路，图书馆最初的图书整理分为日式书籍或<a href="/wiki/%E4%B8%AD%E6%96%87%E5%8F%A4%E5%85%B8%E5%85%B8%E7%B1%8D" title="中文古典典籍">中文古典典籍</a>以及洋文书籍两大类，前者根据<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%8D%81%E9%80%B2%E5%88%86%E9%A1%9E%E6%B3%95" title="日本十进分类法">日本十进分类法</a>（NDC），而后者采取国际上通用的<a href="/wiki/%E5%9B%BD%E9%99%85%E5%8D%81%E8%BF%9B%E5%88%86%E7%B1%BB%E6%B3%95" class="mw-redirect" title="国际十进分类法">国际十进分类法</a>（UDC）。但是考虑到庞大的藏书量上架存放时，十进分类法有不便之处，在1960年代改用国立国会图书馆分类表进行整理。考虑到使用日本十进分类法的其他图书馆和一般读者的需要，日式书籍或中文古典典籍仍在书目数据中保留了日本十进分类编号来分类。
+</p>
+<h3><span id=".E4.B9.A6.E7.9B.AE.E6.95.B0.E6.8D.AE.E7.9A.84.E6.8F.90.E4.BE.9B"></span><span class="mw-headline" id="书目数据的提供">书目数据的提供</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=11" title="编辑章节：书目数据的提供"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>根据呈缴本制度，原则上国立国会图书馆在持续收集日本国内的全部出版物，因此国会图书馆的馆藏资料书目，就等同于日本国内全部出版物的书目。这样，国立国会图书馆网罗的资料的书目信息目录就被称为“全国总书目”，国立国会图书馆将每周根据呈缴本制度收录的书籍信息收载入《日本全国总书目》。
+</p><p>《日本全国总书目》除了通过互联网公开外，还通过定期出版物的形式出版发行。另外，还做成电子信息库《JAPAN/MARC》，制成CD-ROM版和DVD-ROM版出售。其基本功能就是，检索调查日本国内出版物的综合性索引。
+</p><p>日本国内的各家图书馆，在编制本馆馆藏书目时，也可以复制《日本全国总书目》，而不需要自行制作书目信息。这一方面减轻了各图书馆制作书目的工作量，共享国内各图书馆的书目信息，但是另一方面，国立国会图书馆的目录制作有一定的时间滞后，对于最新发行的书籍检索方面存在缺陷。因此，许多<a href="/wiki/%E5%85%AC%E5%85%B1%E5%9B%BE%E4%B9%A6%E9%A6%86" title="公共图书馆">公共图书馆</a>往往更多地使用日本民间企业编制的最新书目，而没有积极地使用《JAPAN/MARC》这样的全国总书目。
+</p><p>另外，国立国会图书馆在编制全国总书目的同时，也制作了自开馆以来的《杂志文章索引》。这主要用于国内主要杂志的刊载文章的索引。由于其主要对象是学术性杂志和对于调查有帮助的大型杂志，因此作为一般检索系统很难搜索的杂志文章目录，具有非常高的利用价值。
+</p>
+<h3><span id=".E8.97.8F.E4.B9.A6"></span><span class="mw-headline" id="藏书">藏书</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=12" title="编辑章节：藏书"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>国立国会图书馆成立当初的收藏资料，主要由二战前的帝国议会两院附属图书馆为了议会会议而收集的资料和当时日本唯一的国立图书馆的帝国图书馆的藏书组成。其中，帝国图书馆在战前根据出版法的呈缴本制度网罗的日文图书、珍贵的<a href="/w/index.php?title=%E5%8F%A4%E4%B9%A6&amp;action=edit&amp;redlink=1" class="new" title="古书（页面不存在）">古书</a>、<a href="/w/index.php?title=%E6%B4%8B%E4%B9%A6&amp;action=edit&amp;redlink=1" class="new" title="洋书（页面不存在）">洋书</a>等，具有非常高的价值。
+</p><p>国会图书馆的藏书中，由许多有特色的系列资料，具有很高的价值。其中有代表性的有：从帝国图书馆处继承的旧<a href="/w/index.php?title=%E8%97%A9%E6%A0%A1&amp;action=edit&amp;redlink=1" class="new" title="藩校（页面不存在）">藩校</a>藏书、德川幕府收藏资料、<a href="/wiki/%E6%9C%AC%E8%8D%89%E5%AD%B8" class="mw-redirect" title="本草学">本草学</a>相关古书组成的伊藤文库・白井文库、二战后的国会图书馆作为议会图书馆而着重收集的近代政治史相关史料组成的宪政政资料、国内外议会・法令相关资料、支部上野图书馆收藏的<a href="/wiki/%E8%8A%AD%E8%95%BE%E8%88%9E" title="芭蕾舞">芭蕾舞</a>・<a href="/w/index.php?title=%E6%B3%95%E8%AF%AD%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="法语歌（页面不存在）">法语歌</a>相关的芦原英了藏书、以出版文化史资料为中心的布川文库（<a href="/w/index.php?title=%E5%B8%83%E5%B7%9D%E8%A7%92%E5%B7%A6%E5%8D%AB%E9%97%A8&amp;action=edit&amp;redlink=1" class="new" title="布川角左卫门（页面不存在）">布川角左卫门</a>的原藏书）。另外也有二战前被禁止发行的书籍·杂志，其中原帝国图书馆收藏的禁书作为普通资料的一部分，而原<a href="/wiki/%E5%85%A7%E5%8B%99%E7%9C%81_(%E6%97%A5%E6%9C%AC)" title="内务省 (日本)">内务省</a>保管的禁书是作为贵重图书的一部分被限制阅读的。
+</p><p>根据2004年度（平成16年度）末的统计，国立国会图书馆收藏资料共计图书8,369,233册、杂志176,961种、报纸10,351种，另外缩微胶卷、地图、电子资料等非图书形态的资料共约1,200万件以上。
+</p>
+<h3><span id=".E7.94.B5.E5.AD.90.E5.9B.BE.E4.B9.A6.E9.A6.86"></span><span class="mw-headline" id="电子图书馆">电子图书馆</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=13" title="编辑章节：电子图书馆"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>进入1990年代，随着信息科技革命，国立国会图书馆开始探索充实主要以互联网为载体的<a href="/wiki/%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="电子图书馆">电子图书馆</a>服务。
+</p><p>2002年，随着关西分馆的开放，图书馆网页大幅度更新。国立国会图书馆藏书检索・申请系统“NDL-OPAC<sup id="cite_ref-ndl-opac_4-1" class="reference"><a href="#cite_note-ndl-opac-4">&#91;4&#93;</a></sup>”的功能得到了很大改进，国会图书馆的收藏资料的绝大部分都可以通过互联网被全世界的读者检索。
+</p><p>另外，杂志文章索引也可以通过NDL-OPAC在网上进行检索，国会图书馆开馆五十余年来积累的数据库目前已被完全对世人公开。
+</p><p>另外，国立国会图书馆收藏历史性的珍贵资料和<a href="/w/index.php?title=%E9%94%A6%E7%BB%98&amp;action=edit&amp;redlink=1" class="new" title="锦绘（页面不存在）">锦绘</a>等画像的“珍贵图书画像数据库<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>”、国立国会图书馆收藏并扫描明治时期出版资料而成的“近代数码图书馆<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>”、将互联网上的信息作为文化财产保存的WARP（互联网信息储备事业）<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>等多种多样的电子信息内容，都通过电子图书馆对外公开。
+</p><p><a href="/w/index.php?title=%E8%BF%91%E4%BB%A3%E6%95%B0%E7%A0%81%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="近代数码图书馆（页面不存在）">近代数码图书馆</a>的公开范围只限于著作权保护期限届满或得到著作权人许可的资料，但是由于可以通过互联网随时随地看到明治及大正时代的出版物，因此其文化价值得到了很高的评价。
+</p><p>WARP就是，将通过互联网公开的学术杂志、政府机关网页等内容，经其管理者许可后保存于国立国会图书馆的储存设备，并通过互联网对外公开的系统。与不能改变内容的CD-ROM不同，WARP是一种将可被管理者自由改写的网络电子信息与纸质媒体一样收集、整理、保存、公开的尝试。
+</p><p>作为今后的发展方向，国立国会图书馆在考虑对互联网上的电子信息也进行网罗收集和保存。作为对呈缴本制度的审议机构，呈缴本制度审议会于2004年召开的“有关网络电子出版物的收集的问答会”上，提出对互联网信息的收集、保存和提供实行制度化。国立国会图书馆也根据这个建议，开始探讨根据一定的频率自动非选择性地收集来源于日本国内的网页内容的做法，并明确了应首先选择具有公共性质的go.jp、ac.jp、ed.jp等域名的网页<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>。这一连串的变革，随着<a href="/wiki/%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A_(%E6%97%A5%E6%9C%AC)" title="自由民主党 (日本)">自由民主党</a>e-Japan重点计划特别委员会提出的《实现世界最先进的IT国家的议案》（2004年）<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>而开始备受关注。但是此后，随着该议案的主要倡导者众议员<a href="/wiki/%E9%87%8E%E7%94%B0%E8%81%96%E5%AD%90" title="野田圣子">野田圣子</a>和众议员<a href="/wiki/%E5%B1%B1%E5%8F%A3%E4%BF%8A%E4%B8%80" title="山口俊一">山口俊一</a>退出自民党（而后归党），加上有观点认为图书馆实施的资料收集活动，可能助长传播儿童色情、猥亵物、侵犯隐私权的资讯等不法行为，因此目前仍被认为难以实现。
+</p>
+<h2><span id=".E5.9B.BD.E7.AB.8B.E5.9B.BD.E4.BC.9A.E5.9B.BE.E4.B9.A6.E9.A6.86.E7.9A.84.E5.88.A9.E7.94.A8"></span><span class="mw-headline" id="国立国会图书馆的利用">国立国会图书馆的利用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=14" title="编辑章节：国立国会图书馆的利用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>本节主要介绍作为一般读者到国立国会图书馆东京本馆时的情况。关于<a href="/w/index.php?title=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%85%B3%E8%A5%BF%E5%88%86%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="国立国会图书馆关西分馆（页面不存在）">关西分馆</a>和<a href="/wiki/%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国际儿童图书馆">国际儿童图书馆</a>的具体情况，请分别参照相关条目。
+</p>
+<h3><span id=".E8.BF.9B.E5.87.BA.E5.9B.BE.E4.B9.A6.E9.A6.86.E5.88.B6.E5.BA.A6"></span><span class="mw-headline" id="进出图书馆制度">进出图书馆制度</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=15" title="编辑章节：进出图书馆制度"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>东京本馆、关西分馆对年满18周岁的读者开放。而国际儿童图书馆主要负责向儿童提供服务，除了收集儿童书相关文献的资料室以外，任何年龄的读者都可以利用。
+</p><p>在图书馆出入口处，有着多名<a href="/w/index.php?title=%E5%9B%BD%E4%BC%9A%E8%81%8C%E5%91%98&amp;action=edit&amp;redlink=1" class="new" title="国会职员（页面不存在）">职员</a>或第三方专业机构的人员负责日常监查。在进馆时，首先要从发卡机中领取只限当天使用的IC卡。领取IC卡时需要输入本人的姓名、住址、联系电话等信息。对于已经登记过的读者，只要持有“登记读者卡”，就可以仅凭输入密码就获得IC卡。之后，读者将IC卡通过类似于地检票机的机器后，进入馆内。另外，由于东京本馆和关西分馆都禁止携带不透明的袋类入馆，因此必须将一些物品存放于入口处的投币式储物柜中。
+</p><p>读者需要离开图书馆时，首先须将借取的资料归还至服务柜台，之后通过门口的检票机，离开图书馆。如未归还资料，不得离开馆区。
+</p>
+<h3><span id=".E5.BC.80.E9.A6.86.E6.97.B6.E9.97.B4"></span><span class="mw-headline" id="开馆时间">开馆时间</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=16" title="编辑章节：开馆时间"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>东京本馆 – 9：30至19：00（周六至17：00）</li>
+<li>关西分馆 – 10：00至18：00</li>
+<li>国际儿童图书馆 – 9：30至17：00</li></ul>
+<h3><span id=".E9.97.AD.E9.A6.86.E6.97.A5"></span><span class="mw-headline" id="闭馆日">闭馆日</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=17" title="编辑章节：闭馆日"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>东京本馆及关西分馆 – 周日・节假日、每月第三个周三及年末年初</li>
+<li>国际儿童图书馆 – 周一・节假日（但5月5日的儿童节除外）・毎月第三个周三・年末年初</li></ul>
+<h3><span id=".E8.B5.84.E6.96.99.E6.94.BE.E7.BD.AE.E5.92.8C.E9.98.85.E8.A7.88"></span><span class="mw-headline" id="资料放置和阅览">资料放置和阅览</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=18" title="编辑章节：资料放置和阅览"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>由于东京本馆保存有庞大的资料，因此原则上对所有资料均实行读者不能直接接触的“闭架式”管理方式。因此，读者需要首先利用NDL-OPAC （国立国会图书馆藏书检索・申请系统）检索必要的资料，并通过该系统提出申请。图书馆工作人员根据NDL-OPAC的申请记录将资料从书库中取出，但由于书库过于庞大，取书过程往往需要数十分钟，而且每人每次的申请数目也有限。
+</p><p>东京本馆由本馆和新馆两栋建筑物组成。本馆的2层柜台负责图书的取还，而新馆的2层柜台负责杂志的取还。另外，根据主体类别放置的特别资料、有特色的资料等分别放置于各个专门室。其中还有许多经常被利用的参考资料如<a href="/wiki/%E5%AD%97%E5%85%B8" title="字典">字典</a>、统计资料、<a href="/wiki/%E5%B9%B4%E9%89%B4" class="mw-redirect" title="年鉴">年鉴</a>、<a href="/wiki/%E6%8A%A5%E7%BA%B8" class="mw-redirect" title="报纸">报纸</a>等，可以被读者直接翻阅。
+</p><p>目前东京本馆的专门室，包括：本馆2层的科学技术・经济信息室（科学技术及经济社会相关的参考图书、科学技术相关的抄录·索引）及人文综合信息室（总目・人文科学领域的参考图书、图书馆・图书馆信息学相关的主要杂志等）、本馆3层的古代典籍资料室（珍贵书、较珍贵书、江户时期以前的日文和古书、清代以前的汉籍等）、本馆4层的地图室（珍贵地图、住宅地图等）と宪政史料室（日本近现代政治史料、日本占领海关相关资料、日系移民相关资料）、新馆1层的音乐·图像资料室（唱片、CD、录像带、DVD等）和电子资料室（CD-ROM等电子资料、电子杂志等）、新馆3层的议会官厅资料室（国内外的议会会议记录・议事资料、官方公报、法令集、判例集、条约集、官厅出版资料目录・要览・年次报告、统计资料类、政府间国际机关出版资料、法律・政治领域的参考图书等）、新馆4层的报纸资料室（报纸原版、缩印版・复刻版、缩微胶卷、剪报资料）等共计9个专门室。此前，还有专门收集亚洲·北非各国语言资料的亚洲资料室，后随着关西分馆的开放，而移至关西分馆保存，改称亚洲信息室。
+</p>
+<h3><span id=".E5.A4.8D.E5.8D.B0.E6.9C.8D.E5.8A.A1"></span><span class="mw-headline" id="复印服务">复印服务</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=19" title="编辑章节：复印服务"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>该图书馆不允许读者本人通过复印机复印资料，而需要向复印柜台提出申请。这一方面是因为国立国会图书馆实行呈缴本制度，需要保证图书的安全，另一方面也是因为日本《著作权法》规定的未经著作权人许可的复印应受限制的原则<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>。因此，对于只有国立国会图书馆收藏的珍贵资料，或者定期出版物的近刊和著作权仍受保护的资料等，都不能进行全文复印。
+</p><p>由于不能进行自助式复印，因此在繁忙的时候，从提出申请到获得复印资料，往往需要花费数十分钟。考虑到取出资料到复印资料需要相当长的时间，国会图书馆的利用并不是十分便利。
+</p><p>然而，在关西分馆设有自助复印机，读者可以自行复印所需资料的一部分。这种情况下，需要工作人员检查复印资料的内容是否符合规定。
+</p><p>另外，如果事先进行读者网上登记，也可以通过NDL-OPAC检索资料，并请图书馆工作人员代为复印和邮寄。这种远距离复印服务也可以针对杂志的特定文章而进行。
+</p>
+<h2><span id=".E8.84.9A.E6.B3.A8"></span><span class="mw-headline" id="脚注">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=20" title="编辑章节：脚注"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">分支图书馆，是指根据《国立国会图书馆法》第3条而设立的国立国会图书馆分支图书馆。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">2007年（平成19年），在行政机关内共设有25个支部图书馆（<a href="/w/index.php?title=%E5%85%B3%E4%BA%8E%E6%A0%B9%E6%8D%AE%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%B3%95%E8%A7%84%E5%AE%9A%E8%AE%BE%E7%AB%8B%E4%BA%8E%E5%90%84%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E7%9A%84%E6%94%AF%E9%83%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%8F%8A%E5%85%B6%E8%81%8C%E5%91%98%E7%9A%84%E6%B3%95%E5%BE%8B&amp;action=edit&amp;redlink=1" class="new" title="关于根据国立国会图书馆法规定设立于各行政部门的支部图书馆及其职员的法律（页面不存在）">关于根据国立国会图书馆法规定设立于各行政部门的支部图书馆及其职员的法律</a>（昭和24年法律第101号。支部图书馆法）），在司法机关内只设立了最高裁判所图书馆1个图书馆。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">羽仁五郎《图书馆理论：羽仁五郎的言论》日外アソシエーツ、1981年出版</span>
+</li>
+<li id="cite_note-ndl-opac-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-ndl-opac_4-0"><sup><b>4.0</b></sup></a> <a href="#cite_ref-ndl-opac_4-1"><sup><b>4.1</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://opac.ndl.go.jp/index.html">国立国会图书馆藏书检索・申请系统</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-06-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://archive.today/20021002060819/http://opac.ndl.go.jp/index.html">存档</a>于2002-10-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;rft.btitle=%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%97%8F%E4%B9%A6%E6%A3%80%E7%B4%A2%E3%83%BB%E7%94%B3%E8%AF%B7%E7%B3%BB%E7%BB%9F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fopac.ndl.go.jp%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080423045554/http://www3.ndl.go.jp/rm/index.html">珍贵图书画像数据库</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-06-16</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www3.ndl.go.jp/rm/index.html">原始内容</a>存档于2008-04-23）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;rft.btitle=%E7%8F%8D%E8%B4%B5%E5%9B%BE%E4%B9%A6%E7%94%BB%E5%83%8F%E6%95%B0%E6%8D%AE%E5%BA%93&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww3.ndl.go.jp%2Frm%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://kindai.ndl.go.jp/index.html">近代数码图书馆 - 国立国会图书馆</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-06-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20100211193757/http://kindai.ndl.go.jp/index.html">存档</a>于2010-02-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;rft.btitle=%E8%BF%91%E4%BB%A3%E6%95%B0%E7%A0%81%E5%9B%BE%E4%B9%A6%E9%A6%86+-+%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fkindai.ndl.go.jp%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://warp.ndl.go.jp/">WARP - 国立国会图书馆互联网信息储备事业</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-06-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070713144308/http://warp.ndl.go.jp/">存档</a>于2007-07-13）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;rft.btitle=WARP+-+%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%82%A8%E5%A4%87%E4%BA%8B%E4%B8%9A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwarp.ndl.go.jp%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/jp/aboutus/internet_view.html">关于互联网信息的收集利用的制度化的探讨</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20080417052119/http://www.ndl.go.jp/jp/aboutus/internet_view.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）（修正版）</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080621104904/http://www.hirataku.com/policy/html/200506.html">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2008-06-16</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.hirataku.com/policy/html/200506.html">原始内容</a>存档于2008-06-21）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hirataku.com%2Fpolicy%2Fhtml%2F200506.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">国立国会图书馆的规定也明确在其31条中规定的复印的范围。<span class="PDFlink"><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/jp/aboutus/data/a5211.pdf">国立国会图书馆资料利用规定</a></span><span style="font-size:smaller;">PDF</span></span>
+</li>
+</ol></div>
+<h2><span id=".E7.9B.B8.E5.85.B3.E6.9D.A1.E7.9B.AE"></span><span class="mw-headline" id="相关条目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=21" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%9B%BE%E4%B9%A6%E9%A6%86" title="国际儿童图书馆">国际儿童图书馆</a></li>
+<li><a href="/wiki/%E4%B8%9C%E6%B4%8B%E6%96%87%E5%BA%93" title="东洋文库">东洋文库</a></li>
+<li><a href="/wiki/%E5%91%88%E7%BC%B4%E6%9C%AC%E5%88%B6%E5%BA%A6#日本" class="mw-redirect" title="呈缴本制度">呈缴本制度#日本</a></li>
+<li><a href="/wiki/%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="国家图书馆">国家图书馆</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=22" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r80540462">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul><li>稻村彻元・高木浩子《‘真理使我们自由’文献考》《参考书志研究》35号、1989年2月、pp.1-7.</li>
+<li>歌田明弘《<a rel="nofollow" class="external text" href="http://www.dnp.co.jp/artscape/artreport/it/u_0507.html">雷声大雨点小?&#160;: ─国のウェブ保存政策</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20200915115550/http://www.dnp.co.jp/artscape/artreport/it/u_0507.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）》《ミュージアムIT信息》2005年7月</li>
+<li>NDL入门编辑委员会编《国立国会图书馆入门》（三一新书）三一书房、1998年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4380980081" class="internal mw-magiclink-isbn">ISBN 4-380-98008-1</a>)</li>
+<li>加藤一夫《记忆装置的解体 国立国会图书馆的原点》エスエル出版会、1989年</li>
+<li>国立国会图书馆编《国立国会图书馆的工作 收集・保存・创造》日外アソシエーツ、1997年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/481691434X" class="internal mw-magiclink-isbn">ISBN 4-8169-1434-X</a>)</li>
+<li>国立国会图书馆关西分馆编《图书馆新世纪 国立国会图书馆关西分馆开馆纪念研讨会记录集》日本图书馆协会、2003年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4820403133" class="internal mw-magiclink-isbn">ISBN 4-8204-0313-3</a>)</li>
+<li>国立国会图书馆百科编辑委员会编《国立国会图书馆百科’出版新闻社、1989年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4785200391" class="internal mw-magiclink-isbn">ISBN 4-7852-0039-1</a>)</li>
+<li>国立国会图书馆研讨会《国立国会图书馆解体新书》国立国会图书馆研讨会、1988年 （非卖品）</li>
+<li>佐藤晋一《中井正一“图书馆”的理论学》近代文艺社、1992年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4773316969" class="internal mw-magiclink-isbn">ISBN 4-7733-1696-9</a>)（增补版、近代文艺社、1996年）</li>
+<li>住谷雄幸《图书馆的战后 真理使我们自由》ぱる出版、1989年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4893860453" class="internal mw-magiclink-isbn">ISBN 4-89386-045-3</a>)</li>
+<li>羽仁五郎《图书馆的理论 羽仁五郎的言论》日外アソシエーツ、1981年 (<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/4816900675" class="internal mw-magiclink-isbn">ISBN 4-8169-0067-5</a>)</li></ul>
+</div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;section=23" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:National_Diet_Library" class="extiw" title="commons:Category:National Diet Library"><span style="font-weight:bold;">国立国会图书馆</span></a></td></tr></tbody></table>
+<dl><dt>主页</dt></dl>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/">国立国会图书馆</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20190527005517/http://www.ndl.go.jp/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）
+<ul><li><span class="PDFlink"><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/jp/aboutus/data/a1102.pdf">国立国会图书馆法</a></span><span style="font-size:smaller;">PDF</span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070416201538/http://www.ndl.go.jp/jp/service/kansai/">国立国会图书馆关西分馆</a></li>
+<li><a rel="nofollow" class="external text" href="http://opac.ndl.go.jp/">国立国会图书馆 藏书检索・申请系统 NDL-OPAC</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20161026155201/http://opac.ndl.go.jp/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://dnavi.ndl.go.jp/">国立国会图书馆 数据库・导航・服务 Dnavi</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20100505121923/http://dnavi.ndl.go.jp/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100211193757/http://kindai.ndl.go.jp/index.html">近代数据图书馆</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ndl.go.jp/jp/publication/index.html">电子出版物</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20210114165411/http://www.ndl.go.jp/jp/publication/index.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://www.kodomo.go.jp/">国际儿童图书馆</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20210114165432/http://www.kodomo.go.jp/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<dl><dt>其他</dt></dl>
+<ul><li>帝京科学大学附属图书馆: 国立国会图书馆及其服务（杂志文章索引的利用指南）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E4%BA%9A%E6%B4%B2%E9%A2%98%E7%9B%AE" title="Template:亚洲题目"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E4%BA%9A%E6%B4%B2%E9%A2%98%E7%9B%AE" title="Template talk:亚洲题目"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E4%BA%9A%E6%B4%B2%E9%A2%98%E7%9B%AE&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E4%BA%9A%E6%B4%B2" title="亚洲">亚洲</a>各国家和地区国家图书馆</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%81%AF%E5%90%88%E5%9C%8B%E6%9C%83%E5%93%A1%E5%9C%8B%E5%88%97%E8%A1%A8" title="联合国会员国列表">联合国会员国</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="阿富汗国家图书馆（页面不存在）">阿富汗</a></li>
+<li><a href="/wiki/%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="亚美尼亚国家图书馆">亚美尼亚</a></li>
+<li><a href="/wiki/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="阿塞拜疆国家图书馆">阿塞拜疆</a></li>
+<li><a href="/w/index.php?title=%E5%B7%B4%E6%9E%97%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="巴林国家图书馆（页面不存在）">巴林</a></li>
+<li><a href="/wiki/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="孟加拉国国家图书馆">孟加拉国</a></li>
+<li><a href="/w/index.php?title=%E4%B8%8D%E4%B8%B9%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="不丹国家图书馆（页面不存在）">不丹</a></li>
+<li><a href="/w/index.php?title=%E6%B1%B6%E8%90%8A%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="文莱国家图书馆（页面不存在）">文莱</a></li>
+<li><a href="/w/index.php?title=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="柬埔寨国家图书馆（页面不存在）">柬埔寨</a></li>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="中国国家图书馆">中华人民共和国</a></li>
+<li><a href="/wiki/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="塞浦路斯国家图书馆">塞浦路斯</a></li>
+<li><a href="/wiki/%E5%9F%83%E5%8F%8A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="埃及国家图书馆">埃及</a></li>
+<li><a href="/wiki/%E6%A0%BC%E9%AD%AF%E5%90%89%E4%BA%9E%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="格鲁吉亚国家图书馆">格鲁吉亚</a></li>
+<li><a href="/wiki/%E5%8D%B0%E5%BA%A6%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="印度国家图书馆">印度</a></li>
+<li><a href="/wiki/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="印度尼西亚国家图书馆">印度尼西亚</a></li>
+<li><a href="/wiki/%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="伊朗国家图书馆">伊朗</a></li>
+<li><a href="/wiki/%E4%BC%8A%E6%8B%89%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="伊拉克国家图书馆">伊拉克</a></li>
+<li><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">以色列</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="日本国家图书馆">日本</a></li>
+<li><a href="/wiki/%E7%B4%84%E6%97%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="约旦国家图书馆">约旦</a></li>
+<li><a href="/wiki/%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="哈萨克斯坦国家图书馆">哈萨克斯坦</a></li>
+<li><a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="朝鲜民主主义人民共和国国家图书馆">朝鲜</a></li>
+<li><a href="/wiki/%E9%9F%93%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="韩国国家图书馆">韩国</a></li>
+<li><a href="/w/index.php?title=%E7%A7%91%E5%A8%81%E7%89%B9%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="科威特国家图书馆（页面不存在）">科威特</a></li>
+<li><a href="/w/index.php?title=%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E6%96%AF%E5%9D%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="吉尔吉斯斯坦国家图书馆（页面不存在）">吉尔吉斯斯坦</a></li>
+<li><a href="/w/index.php?title=%E8%80%81%E6%8C%9D%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="老挝国家图书馆（页面不存在）">老挝</a></li>
+<li><a href="/wiki/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="黎巴嫩国家图书馆">黎巴嫩</a></li>
+<li><a href="/wiki/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="马来西亚国家图书馆">马来西亚</a></li>
+<li><a href="/w/index.php?title=%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="马尔代夫国家图书馆（页面不存在）">马尔代夫</a></li>
+<li><a href="/wiki/%E8%92%99%E5%8F%A4%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="蒙古国国家图书馆">蒙古</a></li>
+<li><a href="/wiki/%E7%BC%85%E7%94%B8%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="缅甸国家图书馆">缅甸</a></li>
+<li><a href="/w/index.php?title=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="尼泊尔国家图书馆（页面不存在）">尼泊尔</a></li>
+<li><a href="/w/index.php?title=%E9%98%BF%E6%9B%BC%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="阿曼国家图书馆（页面不存在）">阿曼</a></li>
+<li><a href="/wiki/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="巴基斯坦国家图书馆">巴基斯坦</a></li>
+<li><a href="/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="菲律宾国家图书馆">菲律宾</a></li>
+<li><a href="/wiki/%E5%8D%A1%E9%81%94%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="卡达国家图书馆">卡塔尔</a></li>
+<li><a href="/wiki/%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="俄罗斯国家图书馆">俄罗斯</a></li>
+<li><a href="/w/index.php?title=%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="沙特阿拉伯国家图书馆（页面不存在）">沙特阿拉伯</a></li>
+<li><a href="/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="新加坡国家图书馆">新加坡</a></li>
+<li><a href="/w/index.php?title=%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="斯里兰卡国家图书馆（页面不存在）">斯里兰卡</a></li>
+<li><a href="/w/index.php?title=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="叙利亚国家图书馆（页面不存在）">叙利亚</a></li>
+<li><a href="/w/index.php?title=%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="塔吉克斯坦国家图书馆（页面不存在）">塔吉克斯坦</a></li>
+<li><a href="/wiki/%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="泰国国家图书馆">泰国</a></li>
+<li><a href="/w/index.php?title=%E4%B8%9C%E5%B8%9D%E6%B1%B6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="东帝汶国家图书馆（页面不存在）">东帝汶</a></li>
+<li><a href="/wiki/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="土耳其国家图书馆">土耳其</a></li>
+<li><a href="/w/index.php?title=%E5%9C%9F%E5%BA%93%E6%9B%BC%E6%96%AF%E5%9D%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="土库曼斯坦国家图书馆（页面不存在）">土库曼斯坦</a></li>
+<li><a href="/w/index.php?title=%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="阿拉伯联合酋长国国家图书馆（页面不存在）">阿联酋</a></li>
+<li><a href="/wiki/%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="乌兹别克斯坦国家图书馆">乌兹别克斯坦</a></li>
+<li><a href="/wiki/%E8%B6%8A%E5%8D%97%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="越南国家图书馆">越南</a></li>
+<li><a href="/w/index.php?title=%E4%B9%9F%E9%97%A8%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="也门国家图书馆（页面不存在）">也门</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/%E4%BA%9A%E6%B4%B2" title="亚洲"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/100px-Asia_%28orthographic_projection%29.svg.png" decoding="async" width="100" height="100" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/150px-Asia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/200px-Asia_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83%E8%A7%80%E5%AF%9F%E5%93%A1%E5%88%97%E8%A1%A8" title="联合国大会观察员列表">联合国观察员</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="巴勒斯坦国家图书馆（页面不存在）">巴勒斯坦</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%89%E9%99%90%E6%89%BF%E8%AE%A4%E5%9B%BD%E5%AE%B6%E5%88%97%E8%A1%A8" title="有限承认国家列表">未受国际普遍承认国家</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E9%98%BF%E5%B8%83%E5%93%88%E8%8C%B2%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="阿布哈兹国家图书馆（页面不存在）">阿布哈兹</a></li>
+<li><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="中华民国国家图书馆">中华民国</a><small>（<a href="/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="台湾国家图书馆">台湾</a>）</small></li>
+<li><a href="/w/index.php?title=%E5%8C%97%E8%B3%BD%E6%99%AE%E5%8B%92%E6%96%AF%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="北塞浦路斯国家图书馆（页面不存在）">北塞浦路斯</a></li>
+<li><a href="/w/index.php?title=%E5%8D%97%E5%A5%A5%E5%A1%9E%E6%A2%AF%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="南奥塞梯国家图书馆（页面不存在）">南奥塞梯</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%B1%9E%E5%9C%B0" title="属地">属地</a>和其他特殊政区</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E4%BA%9E%E5%85%8B%E7%BE%85%E6%8F%90%E5%88%A9%E8%88%87%E5%BE%B7%E5%87%B1%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="亚克罗提利与德凯利亚国家图书馆（页面不存在）">阿克罗蒂里和泽凯利亚</a></li>
+<li><a href="/w/index.php?title=%E8%8B%B1%E5%B1%AC%E5%8D%B0%E5%BA%A6%E6%B4%8B%E9%A0%98%E5%9C%B0%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="英属印度洋领地国家图书馆（页面不存在）">英属印度洋领地</a></li>
+<li><a href="/w/index.php?title=%E5%9C%A3%E8%AF%9E%E5%B2%9B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="圣诞岛国家图书馆（页面不存在）">圣诞岛</a></li>
+<li><a href="/w/index.php?title=%E7%A7%91%E7%A7%91%E6%96%AF%EF%BC%88%E5%9F%BA%E6%9E%97%EF%BC%89%E7%BE%A4%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="科科斯（基林）群岛国家图书馆（页面不存在）">科科斯（基林）群岛</a></li>
+<li><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8" title="香港中央图书馆">香港</a></li>
+<li><a href="/wiki/%E6%BE%B3%E9%96%80%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8" title="澳门公共图书馆">澳门</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q477675" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"> <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/313010548">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS" title="BIBSYS">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90592064">90592064</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="西班牙国家图书馆">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX90878">XX90878</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12060848w">cb12060848w</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12060848w">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA00069834?l=en">DA00069834</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/2015822-1">2015822-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%90%8D%E7%A8%B1%E8%A6%8F%E7%AF%84%E6%95%B8%E6%93%9A%E5%BA%AB" title="香港中文名称规范数据库">HKCAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://hkcan.julac.org/authorities/names/9811106034603406">9811106034603406</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E8%AD%98%E5%88%A5%E7%A2%BC" title="国际标准名称识别码">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121846214">0000 0001 2184 6214</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007263822505171">987007263822505171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80004161">n80004161</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8B%89%E6%89%98%E7%BB%B4%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="拉托维亚国家图书馆">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000187841&amp;P_CON_LNG=ENG">000187841</a></span></span></li>
+<li><span class="nowrap"><a class="mw-selflink selflink">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00288347">00288347</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=kn20010710556&amp;CON_LNG=ENG">kn20010710556</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%BE%B3%E6%B4%B2%E5%9C%8B%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8" title="澳洲国立图书馆">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an36529317">36529317</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9B%BD%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%BE%E4%B9%A6%E9%A6%86_(%E9%9F%A9%E5%9B%BD)" title="国立中央图书馆 (韩国)">NLK</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://lod.nl.go.kr/resource/KAB201500382">KAB201500382</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%A4%A7%E5%AD%B8%E6%96%87%E6%AA%94%E7%B3%BB%E7%B5%B1" title="大学文档系统">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027540316">027540316</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%81%94%E5%90%88%E5%90%8D%E5%BD%95" title="艺术家联合名录">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500309711">500309711</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%9B%BD%E9%99%85%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="虚拟国际规范文档">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/313010548">313010548</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐w7hq4
+Cached time: 20240401190201
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.496 seconds
+Real time usage: 0.724 seconds
+Preprocessor visited node count: 5821/1000000
+Post‐expand include size: 95975/2097152 bytes
+Template argument size: 18448/2097152 bytes
+Highest expansion depth: 32/100
+Expensive parser function count: 22/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12704/5000000 bytes
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 6485053/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  532.608      1 -total
+ 38.21%  203.515      1 Template:Infobox_Library
+ 36.35%  193.591      1 Template:Infobox
+ 19.51%  103.927      1 Template:Multiple_issues
+ 12.29%   65.452      1 Template:Expert
+ 11.64%   61.997      1 Template:Reflist
+ 10.72%   57.097      4 Template:Ambox
+  9.41%   50.099      5 Template:Cite_web
+  9.17%   48.817      1 Template:亚洲题目
+  8.78%   46.754      7 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:193233-0!userlang=zh-cn!zh-cn and timestamp 20240401190201 and revision id 81941979. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=國立國會圖書館&amp;oldid=81941979">https://zh.wikipedia.org/w/index.php?title=國立國會圖書館&amp;oldid=81941979</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%89%8D%E5%B7%9D%E5%9B%BD%E7%94%B7%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%BB%BA%E7%AD%91" title="Category:前川国男设计的建筑">前川国男设计的建筑</a></li><li><a href="/wiki/Category:%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="Category:国家图书馆">国家图书馆</a></li><li><a href="/wiki/Category:%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86" title="Category:国会图书馆">国会图书馆</a></li><li><a href="/wiki/Category:%E4%B8%9C%E4%BA%AC%E9%83%BD%E5%9B%BE%E4%B9%A6%E9%A6%86" title="Category:东京都图书馆">东京都图书馆</a></li><li><a href="/wiki/Category:%E6%B5%AE%E4%B8%96%E7%BB%98%E5%8D%9A%E7%89%A9%E9%A6%86" title="Category:浮世绘博物馆">浮世绘博物馆</a></li><li><a href="/wiki/Category:%E6%B0%B8%E7%94%B0%E7%94%BA" title="Category:永田町">永田町</a></li><li><a href="/wiki/Category:%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8D%80%E5%BB%BA%E7%AF%89%E7%89%A9" title="Category:千代田區建築物">千代田区建筑物</a></li><li><a href="/wiki/Category:1948%E5%B9%B4%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AB%8B" title="Category:1948年日本建立">1948年日本建立</a></li><li><a href="/wiki/Category:%E6%B3%95%E5%AE%9A%E9%80%81%E5%AD%98%E5%9C%96%E6%9B%B8%E9%A4%A8" title="Category:法定送存圖書館">法定送存图书馆</a></li><li><a href="/wiki/Category:%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="Category:國立國會圖書館">国立国会图书馆</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B46%E6%9C%88%E9%9C%80%E8%A6%81%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:自2018年6月需要专业人士关注的页面">自2018年6月需要专业人士关注的页面</a></li><li><a href="/wiki/Category:%E6%89%80%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:所有需要專家關注的頁面">所有需要专家关注的页面</a></li><li><a href="/wiki/Category:%E5%85%B6%E4%BB%96%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:其他需要專家關注的頁面">其他需要专家关注的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B46%E6%9C%88%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2018年6月需补充来源的条目">自2018年6月需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B46%E6%9C%88%E9%9C%80%E8%A6%81%E6%B8%85%E7%90%86%E7%9A%84%E5%85%A7%E5%AE%B9%E7%91%A3%E7%A2%8E%E6%A2%9D%E7%9B%AE" title="Category:自2018年6月需要清理的內容瑣碎條目">自2018年6月需要清理的内容琐碎条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E6%97%A5%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有日語的條目">含有日语的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:Infobox_mapframe%E5%9C%A8%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E6%B2%A1%E6%9C%89OSM%E5%85%B3%E7%B3%BB%E6%A0%87%E8%AF%86%E7%AC%A6" title="Category:Infobox mapframe在维基数据上没有OSM关系标识符">Infobox mapframe在维基数据上没有OSM关系标识符</a></li><li><a href="/wiki/Category:%E7%BC%BA%E5%B0%91%E4%B8%BB%E8%AF%AD%E6%88%96%E8%80%85%E4%B8%BB%E8%AF%AD%E4%B8%8D%E5%A4%9F%E5%85%B7%E4%BD%93%E7%9A%84%E8%AF%AD%E5%8F%A5" title="Category:缺少主语或者主语不够具体的语句">缺少主语或者主语不够具体的语句</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBIBSYS%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BIBSYS标识符的维基百科条目">包含BIBSYS标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNE%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNE标识符的维基百科条目">包含BNE标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABCINII%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含CINII标识符的维基百科条目">包含CINII标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABHKCAN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含HKCAN标识符的维基百科条目">包含HKCAN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABISNI%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含ISNI标识符的维基百科条目">包含ISNI标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLNB%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LNB标识符的维基百科条目">包含LNB标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNLA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NLA标识符的维基百科条目">包含NLA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNLK%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NLK标识符的维基百科条目">包含NLK标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABSUDOC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含SUDOC标识符的维基百科条目">包含SUDOC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABULAN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含ULAN标识符的维基百科条目">包含ULAN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABVIAF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含VIAF标识符的维基百科条目">包含VIAF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%AB17%E5%85%83%E7%B4%A0%E7%9A%84%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Category:包含17元素的规范控制">包含17元素的规范控制</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li><li><a href="/wiki/Category:%E6%9C%89%E5%9C%B0%E5%9B%BE%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:有地图的页面">有地图的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月18日 (星期一) 08:39。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-wcjkh","wgBackendResponseTime":199,"wgKartographerLiveData":{"_fec9c175b85173f093562c712835cd5f1445bcc4":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q477675","properties":{"title":"國立國會圖書館","fill-opacity":0.5,"stroke":"#FF0000","stroke-width":3,"fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q477675","properties":{"stroke-width":5,"stroke":"#FF0000","title":"國立國會圖書館"}},{"type":"Feature","geometry":{"coordinates":[139.74416666667,35.678333333333],"type":"Point"},"properties":{"marker-color":"#5E74F3","title":"國立國會圖書館","marker-symbol":"library"}}]},"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.724","ppvisitednodes":{"value":5821,"limit":1000000},"postexpandincludesize":{"value":95975,"limit":2097152},"templateargumentsize":{"value":18448,"limit":2097152},"expansiondepth":{"value":32,"limit":100},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12704,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  532.608      1 -total"," 38.21%  203.515      1 Template:Infobox_Library"," 36.35%  193.591      1 Template:Infobox"," 19.51%  103.927      1 Template:Multiple_issues"," 12.29%   65.452      1 Template:Expert"," 11.64%   61.997      1 Template:Reflist"," 10.72%   57.097      4 Template:Ambox","  9.41%   50.099      5 Template:Cite_web","  9.17%   48.817      1 Template:亚洲题目","  8.78%   46.754      7 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":6485053,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-w7hq4","timestamp":"20240401190201","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u570b\u7acb\u570b\u6703\u5716\u66f8\u9928","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q477675","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q477675","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-07T18:39:37Z","dateModified":"2024-03-18T08:39:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/84\/National_diet_library_2009.jpg","headline":"\u65e5\u672c\u7684\u570b\u5bb6\u5716\u66f8\u9928"}</script>
+</body>
+</html>

@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>许可 (法律) - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"cb88313d-e1da-4cf5-ba7b-7621ea34d18c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"授權_(法律)","wgTitle":"授權 (法律)","wgCurRevisionId":69159171,"wgRevisionId":69159171,"wgArticleId":766449,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["包含法律声明的条目","含有英語的條目","全部小作品","法律小作品","商法學","策略聯盟","许可"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"授權_(法律)","wgRelevantArticleId":766449,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":
+"许可证","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q79719","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext",
+"ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/1200px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/800px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/640px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="许可 (法律) - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-授權_法律 rootpage-授權_法律 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%8E%88%E6%AC%8A+%28%E6%B3%95%E5%BE%8B%29" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%8E%88%E6%AC%8A+%28%E6%B3%95%E5%BE%8B%29" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%8E%88%E6%AC%8A+%28%E6%B3%95%E5%BE%8B%29" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%8E%88%E6%AC%8A+%28%E6%B3%95%E5%BE%8B%29" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-參見"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參見">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>参见</div>
+		</a>
+		
+		<ul id="toc-參見-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr">许可 (法律)</h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。65种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-65" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">65种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD_(%D9%82%D8%A7%D9%86%D9%88%D9%86)" title="تصريح (قانون) – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Lisenziya" title="Lisenziya – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Licenz%C4%97j%C4%97" title="Licenzėjė – 薩莫吉希亞文" lang="sgs" hreflang="sgs" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Lisensya" title="Lisensya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D1%8D%D0%BD%D0%B7%D1%96%D1%8F" title="Ліцэнзія – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D1%8D%D0%BD%D0%B7%D1%96%D1%8F" title="Ліцэнзія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7" title="Лиценз – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8" title="লাইসেন্স – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Llic%C3%A8ncia" title="Llicència – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8" title="Лицензи – 车臣语" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Licence" title="Licence – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Licens" title="Licens – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Lizenz" title="Lizenz – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%B4%CE%B5%CE%B9%CE%B1" title="Άδεια – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/License" title="License – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Licenco" title="Licenco – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Licencia" title="Licencia – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Litsents" title="Litsents – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%88%D8%B2" title="مجوز – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Lisenssi" title="Lisenssi – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Licence_(juridique)" title="Licence (juridique) – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Lisinsje" title="Lisinsje – 西弗里西亚语" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%99%D7%A9%D7%99%D7%95%D7%9F" title="רישיון – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%B8" title="लाइसेंस – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Licencija" title="Licencija – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Lisans" title="Lisans – 海地克里奥尔语" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Licenc" title="Licenc – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D6%80%D5%BF%D5%B8%D5%B6%D5%A1%D5%A3%D5%AB%D6%80" title="Արտոնագիր – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Lisensi" title="Lisensi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Licenza_(economia)" title="Licenza (economia) – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9" title="ライセンス – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Лицензия – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%B0%E0%B2%B5%E0%B2%BE%E0%B2%A8%E0%B2%97%E0%B2%BF" title="ಪರವಾನಗಿ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A9%B4%ED%97%88" title="면허 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Лицензия – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Licentia" title="Licentia – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Lizenz" title="Lizenz – 卢森堡语" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Licencija" title="Licencija – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B9" title="Лицензий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%BE" title="परवाना – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Lesen" title="Lesen – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nds-nl mw-list-item"><a href="https://nds-nl.wikipedia.org/wiki/Licentie" title="Licentie – 低萨克森语" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target"><span>Nedersaksies</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Licentie" title="Licentie – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Konsesjon" title="Konsesjon – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Konsesjon" title="Konsesjon – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B2%E0%A8%BE%E0%A8%87%E0%A8%B8%E0%A9%B0%E0%A8%B8" title="ਲਾਇਸੰਸ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Licencja_(prawo)" title="Licencja (prawo) – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a" title="Licença – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Лицензия – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Licenca" title="Licenca – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/License" title="License – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Licenca" title="Licenca – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D1%86%D0%B0" title="Лиценца – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Licens" title="Licens – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Leseni" title="Leseni – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B2%E0%B1%88%E0%B0%B8%E0%B1%86%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%81" title="లైసెన్సు – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%98%D2%B7%D0%BE%D0%B7%D0%B0%D1%82%D0%BD%D0%BE%D0%BC%D0%B0" title="Иҷозатнома – 塔吉克语" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95" title="สัญญาอนุญาต – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Yetki_belgesi" title="Yetki belgesi – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%8F" title="Ліцензія – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D8%AC%D8%A7%D8%B2%D8%AA_%D9%86%D8%A7%D9%85%DB%81" title="اجازت نامہ – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Litsenziya" title="Litsenziya – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Gi%E1%BA%A5y_ph%C3%A9p" title="Giấy phép – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%AE%B8%E5%8F%AF%EF%BC%88%E6%B3%95%E5%BE%8B%EF%BC%89" title="许可（法律） – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%89%8C%E7%85%A7" title="牌照 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79719#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;oldid=69159171" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E6%8E%88%E6%AC%8A_%28%E6%B3%95%E5%BE%8B%29&amp;id=69159171&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E6%258E%2588%25E6%25AC%258A_%28%25E6%25B3%2595%25E5%25BE%258B%29"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E6%258E%2588%25E6%25AC%258A_%28%25E6%25B3%2595%25E5%25BE%258B%29"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79719" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E6%8E%88%E6%AC%8A_%28%E6%B3%95%E5%BE%8B%29&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Licenses" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-cac76de4" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E8%AE%B8%E5%8F%AF%E8%AF%81&amp;redirect=no" class="mw-redirect" title="许可证">许可证</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-cac76de4" class="noteTA"><div class="noteTA-title" data-noteta-code="zh-tw:授權 (法律); zh-hk:特許 (法律); zh-cn:许可 (法律)"></div><div class="noteTA-local"><div data-noteta-code="zh-tw:授權; zh-hk:特許; zh-cn:许可"></div></div></div>
+<div role="note" class="hatnote navigation-not-searchable selfref"><span typeof="mw:File"><a href="/wiki/File:Justice_and_law.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Justice_and_law.svg/20px-Justice_and_law.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Justice_and_law.svg/30px-Justice_and_law.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Justice_and_law.svg/40px-Justice_and_law.svg.png 2x" data-file-width="801" data-file-height="801" /></a></span> <a href="/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" class="mw-redirect" title="维基百科">维基百科</a>中的法律相关内容<b>仅供参考</b>，并<b>不能</b>视作专业意见。如需获取法律相关的帮助或意见，请咨询所在<a href="/wiki/%E5%8F%B8%E6%B3%95%E7%AE%A1%E8%BD%84%E6%AC%8A" title="司法管辖权">司法管辖区</a>的法律从业人士。详见<b><a href="/wiki/Wikipedia:%E6%B3%95%E5%BE%8B%E5%A3%B0%E6%98%8E" title="Wikipedia:法律声明">法律声明</a></b>。</div>
+<div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>关于悬挂于车辆上并标注有车辆注册信息的标牌，请见“<b><a href="/wiki/%E8%BD%A6%E8%BE%86%E5%8F%B7%E7%89%8C" class="mw-redirect" title="车辆号牌">车辆号牌</a></b>”。</div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/300px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG" decoding="async" width="300" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/450px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG/600px-HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG 2x" data-file-width="3264" data-file-height="2448" /></a><figcaption>食肆牌照</figcaption></figure>
+<p><b>许可</b>（英语：<span lang="en">license</span>）是为避免非法所采取的<a href="/wiki/%E6%B3%95%E5%BE%8B" title="法律">法律</a>允许行为，亦可以指该允许行为的书面协议<sup id="cite_ref-cam_1-0" class="reference"><a href="#cite_note-cam-1">&#91;1&#93;</a></sup>。当许可作为<a href="/wiki/%E5%90%8D%E8%A9%9E" title="名词">名词</a>指称协议时，依然称许可，但实际情况会在其后添加条款或协议等词。许可人可以向被许可人以书面文件约定授与内容，进行未许可的行为将<a href="/wiki/%E9%81%95%E6%B3%95" title="违法">违法</a>。
+</p><p>英文<span lang="en">license</span>一词根据所使用领域和意思不同，译法亦有所不同：意指允许<a href="/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A" title="著作权">著作权</a>或<a href="/wiki/%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E6%AC%8A" class="mw-redirect" title="知识产权">知识产权</a>时称为许可，意指允许驾驶<a href="/wiki/%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7" class="mw-redirect" title="交通工具">交通工具</a>、<a href="/wiki/%E9%81%8B%E8%BC%B8%E5%B7%A5%E5%85%B7" class="mw-redirect" title="运输工具">运输工具</a>时称为执照；意指允许经营特定业务时称为牌照；其他情况有称许可证者。发出执照、牌照时称为发牌，发出许可证时称为发证。
+</p>
+<h2><span id=".E5.8F.83.E8.A6.8B"></span><span class="mw-headline" id="參見">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit&amp;section=1" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r79074265">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col" style="column-count:2; column-width:auto;">
+<ul><li><a href="/wiki/%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E6%AC%8A" class="mw-redirect" title="知识产权">知识产权</a>
+<ul><li><a href="/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A" title="著作权">著作权</a></li>
+<li><a href="/wiki/%E5%BC%B7%E5%88%B6%E6%8E%88%E6%AC%8A" class="mw-redirect" title="强制许可">强制许可</a></li>
+<li><a href="/w/index.php?title=%E4%BA%A4%E4%BA%92%E6%8E%88%E6%AC%8A&amp;action=edit&amp;redlink=1" class="new" title="交互许可（页面不存在）">交互许可</a></li>
+<li><a href="/wiki/%E7%89%88%E7%A8%85" title="版税">版税</a></li></ul></li>
+<li><a href="/wiki/%E5%8A%A0%E7%9B%9F%E9%80%A3%E9%8E%96" title="加盟连锁">加盟连锁</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%A6%96%E6%8E%88%E6%AC%8A" title="电视许可">电视许可</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E6%8E%88%E6%9D%83" class="mw-redirect" title="软件授权">软件许可</a></li>
+<li><a href="/wiki/%E8%A8%B1%E5%8F%AF%E8%AD%89" class="mw-redirect" title="许可证">许可证</a></li>
+<li><a href="/wiki/%E6%89%A7%E7%85%A7" title="执照">执照</a>
+<ul><li><a href="/wiki/%E9%A7%95%E9%A7%9B%E5%9F%B7%E7%85%A7" title="驾驶执照">驾驶执照</a></li>
+<li><a href="/wiki/%E7%A7%81%E4%BA%BA%E9%A3%9B%E8%A1%8C%E5%9F%B7%E7%85%A7" title="私人飞行执照">私人飞行执照</a></li></ul></li>
+<li><a href="/wiki/%E7%89%8C%E7%85%A7" class="mw-disambig" title="牌照">牌照</a></li>
+<li><a href="/wiki/%E8%AD%89%E7%85%A7" class="mw-redirect" title="证照">证照</a></li></ul>
+</div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit&amp;section=2" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/32px-Johnny-automatic-scales-of-justice.svg.png" decoding="async" width="32" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/48px-Johnny-automatic-scales-of-justice.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/64px-Johnny-automatic-scales-of-justice.svg.png 2x" data-file-width="512" data-file-height="442" /></span></span></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:%E6%B3%95%E5%BE%8B" title="Portal:法律">法律主题</a></span></li></ul></div>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png" decoding="async" width="40" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/80px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></span></span></td>
+<td class="mbox-text plainlist">查看<a href="/wiki/%E7%BB%B4%E5%9F%BA%E8%AF%8D%E5%85%B8" title="维基词典">维基词典</a>中的词条“<b><a href="https://zh.wiktionary.org/wiki/licence" class="extiw" title="wikt:licence">licence</a></b>”。</td></tr></tbody></table>
+<ul><li><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/24px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/32px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></span></span> <a href="/wiki/%E7%B6%AD%E5%9F%BA%E6%95%99%E7%A7%91%E6%9B%B8" title="维基教科书">维基教科书</a>中有关<a href="https://en.wikibooks.org/wiki/FOSS_Licensing" class="extiw" title="wikibooks:FOSS Licensing">FOSS Licensing</a>的文本</li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit&amp;section=3" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-cam-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-cam_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dictionary.cambridge.org/dictionary/english/licence?a=british">licence Meaning in the Cambridge English Dictionary</a>. dictionary.cambridge.org.  <span class="reference-accessdate"> &#91;<span class="nowrap">15 April</span> 2018&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201112032619/https://dictionary.cambridge.org/dictionary/english/licence?a=british">存档</a>于2020-11-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E6%8E%88%E6%AC%8A+%28%E6%B3%95%E5%BE%8B%29&amp;rft.atitle=licence+Meaning+in+the+Cambridge+English+Dictionary&amp;rft.genre=unknown&amp;rft.jtitle=dictionary.cambridge.org&amp;rft_id=http%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Flicence%3Fa%3Dbritish&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E6%B3%95%E5%BE%8B" title="Template:法律"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E6%B3%95%E5%BE%8B" title="Template talk:法律"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E6%B3%95%E5%BE%8B&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E6%B3%95%E5%BE%8B" title="法律">法律</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">法律核心科目</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%A1%8C%E6%94%BF%E6%B3%95" title="行政法">行政法</a></li>
+<li><a href="/wiki/%E6%B0%91%E6%B3%95" title="民法">民法</a></li>
+<li><a href="/wiki/%E5%AE%AA%E6%B3%95" title="宪法">宪法</a>（<a href="/wiki/%E6%86%B2%E5%88%B6%E6%80%A7%E6%B3%95%E5%BE%8B" title="宪制性法律">宪制性法律</a>）</li>
+<li><a href="/wiki/%E5%A5%91%E7%BA%A6" title="契约">契约</a></li>
+<li><a href="/wiki/%E5%88%91%E6%B3%95" title="刑法">刑法</a></li>
+<li><span class="ilh-all" data-orig-title="屋契" data-lang-code="en" data-lang-name="英语" data-foreign-title="Deed"><span class="ilh-page"><a href="/w/index.php?title=%E5%B1%8B%E5%A5%91&amp;action=edit&amp;redlink=1" class="new" title="屋契（页面不存在）">屋契</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Deed" class="extiw" title="en:Deed"><span lang="en" dir="auto">Deed</span></a></span>）</span></span>（房屋所有权）</li>
+<li><a href="/wiki/%E8%A1%A1%E5%B9%B3%E6%B3%95" title="衡平法">衡平法</a></li>
+<li><a href="/wiki/%E8%AD%89%E6%93%9A" title="证据">证据法</a></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E6%B3%95" title="国际法">国际法</a></li>
+<li><a href="/wiki/%E5%82%B5%E6%AC%8A" title="债权">债权法</a></li>
+<li><a href="/wiki/%E7%A8%8B%E5%BA%8F%E6%B3%95" title="程序法">程序法</a>
+<ul><li><a href="/wiki/%E6%B0%91%E4%BA%8B%E8%A8%B4%E8%A8%9F%E6%B3%95" title="民事诉讼法">民事诉讼法</a></li>
+<li><a href="/wiki/%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F" title="刑事诉讼">刑事诉讼法</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%94%BF%E6%B3%95" title="行政法">行政诉讼法</a></li></ul></li>
+<li><a href="/wiki/%E7%89%A9%E6%9D%83" title="物权">物权</a></li>
+<li><a href="/wiki/%E5%85%AC%E6%B3%95" title="公法">公法</a></li>
+<li><span class="ilh-all" data-orig-title="回復原狀" data-lang-code="en" data-lang-name="英语" data-foreign-title="Restitution"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%9E%E5%BE%A9%E5%8E%9F%E7%8B%80&amp;action=edit&amp;redlink=1" class="new" title="回复原状（页面不存在）">回复原状</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Restitution" class="extiw" title="en:Restitution"><span lang="en" dir="auto">Restitution</span></a></span>）</span></span>（归还）</li>
+<li><a href="/wiki/%E6%88%90%E6%96%87%E6%B3%95" title="成文法">成文法</a></li>
+<li><a href="/wiki/%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA" title="侵权行为">侵权行为</a></li></ul>
+</div></td><td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/File:Scale_of_justice_2.svg" class="mw-file-description" title="Scales of justice"><img alt="Scales of justice" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/70px-Scale_of_justice_2.svg.png" decoding="async" width="70" height="71" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/105px-Scale_of_justice_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/140px-Scale_of_justice_2.svg.png 2x" data-file-width="204" data-file-height="208" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">其他科目</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="農業法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Agricultural law"><span class="ilh-page"><a href="/w/index.php?title=%E8%BE%B2%E6%A5%AD%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="农业法（页面不存在）">农业法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Agricultural_law" class="extiw" title="en:Agricultural law"><span lang="en" dir="auto">Agricultural law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%88%AA%E7%A9%BA%E6%B3%95" class="mw-redirect" title="航空法">航空法</a></li>
+<li><a href="/wiki/%E9%8A%80%E8%A1%8C%E6%B3%95" class="mw-redirect" title="银行法">银行法</a></li>
+<li><a href="/wiki/%E7%A0%B4%E7%94%A2" title="破产">破产法</a></li>
+<li><a href="/wiki/%E5%95%86%E6%B3%95" title="商法">商法</a></li>
+<li><a href="/wiki/%E7%AB%B6%E7%88%AD%E6%B3%95" title="竞争法">竞争法</a></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E7%A7%81%E6%B3%95" title="国际私法">冲突法</a></li>
+<li><span class="ilh-all" data-orig-title="建築法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Construction law"><span class="ilh-page"><a href="/w/index.php?title=%E5%BB%BA%E7%AF%89%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="建筑法（页面不存在）">建筑法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Construction_law" class="extiw" title="en:Construction law"><span lang="en" dir="auto">Construction law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B6%88%E8%B4%B9%E8%80%85%E4%BF%9D%E6%8A%A4" title="消费者保护">消费者保护法</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%8F%B8%E6%B3%95" title="公司法">公司法</a></li>
+<li><a href="/wiki/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93%E6%B3%95" title="资讯技术法">资讯技术法</a></li>
+<li><a href="/wiki/%E9%80%89%E4%B8%BE%E6%B3%95" title="选举法">选举法</a></li>
+<li><span class="ilh-all" data-orig-title="能源法律" data-lang-code="en" data-lang-name="英语" data-foreign-title="Energy law"><span class="ilh-page"><a href="/w/index.php?title=%E8%83%BD%E6%BA%90%E6%B3%95%E5%BE%8B&amp;action=edit&amp;redlink=1" class="new" title="能源法律（页面不存在）">能源法律</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Energy_law" class="extiw" title="en:Energy law"><span lang="en" dir="auto">Energy law</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="媒體的法律問題" data-lang-code="en" data-lang-name="英语" data-foreign-title="Entertainment law"><span class="ilh-page"><a href="/w/index.php?title=%E5%AA%92%E9%AB%94%E7%9A%84%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="媒体的法律问题（页面不存在）">媒体的法律问题</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Entertainment_law" class="extiw" title="en:Entertainment law"><span lang="en" dir="auto">Entertainment law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%8E%AF%E5%A2%83%E6%B3%95%E5%AD%A6" title="环境法学">环境法学</a></li>
+<li><a href="/wiki/%E5%AE%B6%E5%BA%AD%E6%B3%95" title="家庭法">家事法</a></li>
+<li><span class="ilh-all" data-orig-title="金融法規" data-lang-code="en" data-lang-name="英语" data-foreign-title="Financial regulation"><span class="ilh-page"><a href="/w/index.php?title=%E9%87%91%E8%9E%8D%E6%B3%95%E8%A6%8F&amp;action=edit&amp;redlink=1" class="new" title="金融法规（页面不存在）">金融法规</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Financial_regulation" class="extiw" title="en:Financial regulation"><span lang="en" dir="auto">Financial regulation</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="出入境法規" data-lang-code="en" data-lang-name="英语" data-foreign-title="Immigration law"><span class="ilh-page"><a href="/w/index.php?title=%E5%87%BA%E5%85%A5%E5%A2%83%E6%B3%95%E8%A6%8F&amp;action=edit&amp;redlink=1" class="new" title="出入境法规（页面不存在）">出入境法规</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Immigration_law" class="extiw" title="en:Immigration law"><span lang="en" dir="auto">Immigration law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83" title="知识产权">知识产权</a></li>
+<li><span class="ilh-all" data-orig-title="國際刑事法" data-lang-code="en" data-lang-name="英语" data-foreign-title="International criminal law"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%8B%E9%9A%9B%E5%88%91%E4%BA%8B%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="国际刑事法（页面不存在）">国际刑事法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/International_criminal_law" class="extiw" title="en:International criminal law"><span lang="en" dir="auto">International criminal law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E4%BA%BA%E6%9D%83%E6%B3%95" title="国际人权法">国际人权法</a></li>
+<li><a href="/wiki/%E5%8B%9E%E5%B7%A5%E6%B3%95" title="劳工法">劳工法</a></li>
+<li><a href="/wiki/%E6%88%98%E4%BA%89%E6%B3%95" title="战争法">战争法</a></li>
+<li><a href="/wiki/%E6%B5%B7%E4%BA%8B%E6%B3%95" title="海事法">海事法</a>
+<ul><li><a href="/wiki/%E6%B5%B7%E5%95%86%E6%B3%95" title="海商法">海商法</a></li></ul></li>
+<li><a href="/wiki/%E9%86%AB%E7%99%82%E6%B3%95" title="医疗法">医疗法</a></li>
+<li><span class="ilh-all" data-orig-title="軍事司法體系" data-lang-code="en" data-lang-name="英语" data-foreign-title="Military justice"><span class="ilh-page"><a href="/w/index.php?title=%E8%BB%8D%E4%BA%8B%E5%8F%B8%E6%B3%95%E9%AB%94%E7%B3%BB&amp;action=edit&amp;redlink=1" class="new" title="军事司法体系（页面不存在）">军事司法体系</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Military_justice" class="extiw" title="en:Military justice"><span lang="en" dir="auto">Military justice</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BB%A7%E6%89%BF%E6%B3%95" title="继承法">遗产承办</a>
+<ul><li><a href="/wiki/%E8%B2%A1%E7%94%A2" title="财产">财产</a></li>
+<li><a href="/wiki/%E9%81%BA%E5%9B%91" title="遗嘱">遗嘱</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="產品責任" data-lang-code="en" data-lang-name="英语" data-foreign-title="Product liability"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%A2%E5%93%81%E8%B2%AC%E4%BB%BB&amp;action=edit&amp;redlink=1" class="new" title="产品责任（页面不存在）">产品责任</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Product_liability" class="extiw" title="en:Product liability"><span lang="en" dir="auto">Product liability</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E6%B3%95" title="国际法">国际公法</a></li>
+<li><a href="/wiki/%E5%A4%AA%E7%A9%BA%E6%B3%95" title="太空法">太空法</a></li>
+<li><span class="ilh-all" data-orig-title="美國體育法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sports law in the United States"><span class="ilh-page"><a href="/w/index.php?title=%E7%BE%8E%E5%9C%8B%E9%AB%94%E8%82%B2%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="美国体育法（页面不存在）">美国体育法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sports_law_in_the_United_States" class="extiw" title="en:Sports law in the United States"><span lang="en" dir="auto">Sports law in the United States</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A8%85%E6%B3%95" title="税法">税法</a></li>
+<li><a href="/wiki/%E4%BF%A1%E8%A8%97_(%E6%B3%95%E5%BE%8B)" title="信托 (法律)">信托法</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B3%95%E5%BE%8B%E6%B7%B5%E6%BA%90" title="法律渊源">法渊源律</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%89%B9%E8%A8%B1%E7%8B%80" title="许可状">许可状</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%85%B8" title="法典">法典</a>/<a href="/wiki/%E6%88%90%E6%96%87%E6%B3%95" title="成文法">成文法</a></li>
+<li><a href="/wiki/%E7%AB%A0%E7%A8%8B" title="章程">章程</a></li>
+<li><a href="/wiki/%E5%AE%AA%E6%B3%95" title="宪法">宪法</a></li>
+<li><a href="/wiki/%E4%B9%A0%E6%83%AF%E6%B3%95" title="习惯法">习惯法</a></li>
+<li><a href="/wiki/%E5%90%9B%E6%AC%8A%E7%A5%9E%E6%8E%88%E8%AA%AA" title="君权神授说">君权神授说</a></li>
+<li><a href="/wiki/%E4%BA%BA%E6%9D%83" title="人权">人权</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E6%9D%83%E5%88%A9%E5%92%8C%E6%B3%95%E5%AE%9A%E6%9D%83%E5%88%A9" title="自然权利和法定权利">自然权利</a></li>
+<li><a href="/wiki/%E5%88%A4%E4%BE%8B%E6%B3%95" title="判例法">判例法</a>
+<ul><li><a href="/wiki/%E5%88%A4%E6%B1%BA%E5%85%88%E4%BE%8B" title="判决先例">判决先例</a></li>
+<li><a href="/wiki/%E9%81%B5%E5%BE%AA%E5%85%88%E4%BE%8B" title="遵循先例">遵循先例</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">立法</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B3%95%E6%A1%88" title="法案">法案</a></li>
+<li><span class="ilh-all" data-orig-title="公民動議" data-lang-code="en" data-lang-name="英语" data-foreign-title="Motion_（democracy）"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%AC%E6%B0%91%E5%8B%95%E8%AD%B0&amp;action=edit&amp;redlink=1" class="new" title="公民动议（页面不存在）">公民动议</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Motion_%EF%BC%88democracy%EF%BC%89" class="extiw" title="en:Motion （democracy）"><span lang="en" dir="auto">Motion_（democracy）</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%95%E5%85%B8%E5%8C%96" title="法典化">法典化</a></li>
+<li><a href="/wiki/%E6%B3%95%E4%BB%A4" title="法令">法令</a>
+<ul><li><a href="/wiki/%E8%A9%94%E4%BB%A4%E6%96%87%E6%9B%B8" title="诏令文书">敕令</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4" title="行政命令">行政命令</a></li>
+<li><span class="ilh-all" data-orig-title="宣告" data-lang-code="en" data-lang-name="英语" data-foreign-title="Proclamation"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%A3%E5%91%8A&amp;action=edit&amp;redlink=1" class="new" title="宣告（页面不存在）">宣告</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Proclamation" class="extiw" title="en:Proclamation"><span lang="en" dir="auto">Proclamation</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%AB%8B%E6%B3%95%E6%9C%BA%E5%85%B3" title="立法机关">立法</a>
+<ul><li><a href="/wiki/%E5%A7%94%E4%BB%BB%E7%AB%8B%E6%B3%95" title="委任立法">委任立法</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84" title="行政法规">行政法规</a></li>
+<li><span class="ilh-all" data-orig-title="法規制定" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rulemaking"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%95%E8%A6%8F%E5%88%B6%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="法规制定（页面不存在）">法规制定</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rulemaking" class="extiw" title="en:Rulemaking"><span lang="en" dir="auto">Rulemaking</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E5%85%AC%E5%B8%83_(%E6%B3%95%E5%BE%8B)" title="公布 (法律)">公布</a></li>
+<li><span class="ilh-all" data-orig-title="廢除" data-lang-code="en" data-lang-name="英语" data-foreign-title="Repeal"><span class="ilh-page"><a href="/w/index.php?title=%E5%BB%A2%E9%99%A4&amp;action=edit&amp;redlink=1" class="new" title="废除（页面不存在）">废除</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Repeal" class="extiw" title="en:Repeal"><span lang="en" dir="auto">Repeal</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%88%90%E6%96%87%E6%B3%95" title="成文法">成文法</a>
+<ul><li><a href="/wiki/%E6%B3%95%E8%A6%8F" title="法规">法规</a></li>
+<li><a href="/wiki/%E8%8B%B1%E8%81%AF%E9%82%A6%E8%AD%B0%E6%9C%83%E7%AB%8B%E6%B3%95" class="mw-redirect" title="英联邦议会立法">英联邦议会立法</a></li>
+<li><a href="/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E6%B3%95" class="mw-redirect" title="美国国会法">美国国会法</a></li></ul></li>
+<li><a href="/wiki/%E6%9D%A1%E7%BA%A6" title="条约">条约</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B3%95%E7%B3%BB" title="法系">法律体系</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%AC%A7%E9%99%86%E6%B3%95%E7%B3%BB" title="欧陆法系">欧陆法系</a>（大陆法系）</li>
+<li><a href="/wiki/%E8%8B%B1%E7%BE%8E%E6%B3%95%E7%B3%BB" title="英美法系">英美法系</a>（普通法系）</li>
+<li><a href="/wiki/%E4%B8%AD%E5%8D%8E%E6%B3%95%E7%B3%BB" title="中华法系">中华法系</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E5%A4%9A%E5%85%83%E8%AE%BA" class="mw-redirect" title="法律多元论">法律多元论</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E6%B3%95" title="自然法">自然法</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E6%B3%95" title="宗教法">宗教法</a>
+<ul><li><a href="/wiki/%E6%95%99%E4%BC%9A%E6%B3%95" title="教会法">教会法</a></li>
+<li><span class="ilh-all" data-orig-title="印度法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hindu law"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%B0%E5%BA%A6%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="印度法（页面不存在）">印度法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hindu_law" class="extiw" title="en:Hindu law"><span lang="en" dir="auto">Hindu law</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="耆那教法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Jain Law"><span class="ilh-page"><a href="/w/index.php?title=%E8%80%86%E9%82%A3%E6%95%99%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="耆那教法（页面不存在）">耆那教法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Jain_Law" class="extiw" title="en:Jain Law"><span lang="en" dir="auto">Jain Law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%93%88%E6%8B%89%E5%8D%A1" title="哈拉卡">哈拉卡</a></li>
+<li><a href="/wiki/%E6%B2%99%E9%87%8C%E4%BA%9E%E6%B3%95%E8%A6%8F" class="mw-redirect" title="沙里亚法规">沙里亚法规</a></li></ul></li>
+<li><a href="/wiki/%E7%BE%85%E9%A6%AC%E6%B3%95" class="mw-redirect" title="罗马法">罗马法</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%B3%95%E7%B3%BB" title="社会主义法系">社会主义法系</a></li>
+<li><a href="/wiki/%E6%88%90%E6%96%87%E6%B3%95" title="成文法">成文法</a></li>
+<li><a href="/wiki/%E4%B9%A0%E6%83%AF%E6%B3%95" title="习惯法">习惯法</a></li>
+<li><a href="/wiki/%E7%B4%A2%E9%A6%AC%E9%87%8C%E5%88%A4%E5%AE%98%E6%94%BF%E6%B2%BB" title="索马里判官政治">索马里判官政治</a></li>
+<li><a href="/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E6%B3%95%E5%85%B8" title="成吉思汗法典">成吉思汗法典</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B3%95%E5%AD%A6" title="法学">法律理据</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B3%95%E5%BE%8B%E5%8E%9F%E5%89%87" title="法律原则">法律原则</a></li>
+<li><a href="/wiki/%E6%89%B9%E5%88%A4%E6%B3%95%E5%BE%8B%E7%A0%94%E7%A9%B6" title="批判法律研究">批判法律研究</a></li>
+<li><a href="/wiki/%E6%AF%94%E8%BC%83%E6%B3%95" title="比较法">比较法学</a></li>
+<li><a href="/wiki/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E6%B3%95%E5%AD%A6" title="女权主义法学">女权主义法学</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="法律经济学">法律的经济分析</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89" title="法律形式主义">法律形式主义</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E5%8F%B2" title="法律史">法制史</a></li>
+<li><a href="/wiki/%E5%9B%BD%E9%99%85%E6%B3%95%E5%AD%A6%E7%90%86%E8%AE%BA" title="国际法学理论">国际法学理论</a></li>
+<li><a href="/wiki/%E5%90%88%E6%B3%95%E6%80%A7" title="合法性">合法性</a></li>
+<li><a href="/wiki/%E6%B3%95%E6%B2%BB" title="法治">法治</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E7%A4%BE%E4%BC%9A%E5%AD%A6" title="法律社会学">法律社会学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B3%95%E5%BE%8B%E5%93%B2%E5%AD%A6" title="法律哲学">法律哲学</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="作出判決" data-lang-code="en" data-lang-name="英语" data-foreign-title="Adjudication"><span class="ilh-page"><a href="/w/index.php?title=%E4%BD%9C%E5%87%BA%E5%88%A4%E6%B1%BA&amp;action=edit&amp;redlink=1" class="new" title="作出判决（页面不存在）">作出判决</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Adjudication" class="extiw" title="en:Adjudication"><span lang="en" dir="auto">Adjudication</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%B8%E6%B3%95%E6%A9%9F%E9%97%9C" title="司法机关">司法</a></li>
+<li><span class="ilh-all" data-orig-title="刑事司法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Criminal justice"><span class="ilh-page"><a href="/w/index.php?title=%E5%88%91%E4%BA%8B%E5%8F%B8%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="刑事司法（页面不存在）">刑事司法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Criminal_justice" class="extiw" title="en:Criminal justice"><span lang="en" dir="auto">Criminal justice</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BB%8D%E4%BA%8B%E6%B3%95%E5%BA%AD" title="军事法庭">军事法庭</a></li>
+<li><span class="ilh-all" data-orig-title="调解" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dispute resolution"><span class="ilh-page"><a href="/wiki/%E8%AA%BF%E8%A7%A3" title="调解">调解</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dispute_resolution" class="extiw" title="en:Dispute resolution"><span lang="en" dir="auto">Dispute resolution</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99%E6%B3%95%E5%AD%B8" title="伊斯兰教法学">伊斯兰教法学</a></li>
+<li><a href="/wiki/%E8%A8%B4%E8%A8%9F" title="诉讼">诉讼</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E6%84%8F%E8%A6%8B%E6%9B%B8" title="法律意见书">法律意见</a></li>
+<li><span class="ilh-all" data-orig-title="法律補償" data-lang-code="en" data-lang-name="英语" data-foreign-title="Legal remedy"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%95%E5%BE%8B%E8%A3%9C%E5%84%9F&amp;action=edit&amp;redlink=1" class="new" title="法律补偿（页面不存在）">法律补偿</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Legal_remedy" class="extiw" title="en:Legal remedy"><span lang="en" dir="auto">Legal remedy</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%95%E5%AE%98" title="法官">法官</a>
+<ul><li><a href="/wiki/%E5%A4%AA%E5%B9%B3%E7%B4%B3%E5%A3%AB" title="太平绅士">太平绅士</a></li>
+<li><a href="/wiki/%E6%8E%A8%E5%AE%98" title="推官">审判员</a></li></ul></li>
+<li><a href="/wiki/%E8%A3%81%E5%88%A4_(%E6%B3%95%E5%BE%8B)" title="裁判 (法律)">裁判</a></li>
+<li><a href="/wiki/%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8" title="司法复核">司法复核</a></li>
+<li><a href="/wiki/%E5%8F%B8%E6%B3%95%E7%AE%A1%E8%BD%84%E6%AC%8A" title="司法管辖权">司法管辖权</a></li>
+<li><a href="/wiki/%E9%99%AA%E5%AF%A9%E5%9C%98" title="陪审团">陪审团</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%B9%B3%E6%AD%A3%E7%BE%A9" class="mw-redirect" title="公平正义">公平正义</a></li>
+<li><span class="ilh-all" data-orig-title="法律界人士" data-lang-code="en" data-lang-name="英语" data-foreign-title="Legal profession"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%95%E5%BE%8B%E7%95%8C%E4%BA%BA%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="法律界人士（页面不存在）">法律界人士</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Legal_profession" class="extiw" title="en:Legal profession"><span lang="en" dir="auto">Legal profession</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="代理律師" data-lang-code="en" data-lang-name="英语" data-foreign-title="Attorney at law"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%AB&amp;action=edit&amp;redlink=1" class="new" title="代理律师（页面不存在）">代理律师</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Attorney_at_law" class="extiw" title="en:Attorney at law"><span lang="en" dir="auto">Attorney at law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A4%A7%E5%BE%8B%E5%B8%AB" title="大律师">讼务律师</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E9%A1%A7%E5%95%8F" title="法律顾问">法律顾问</a></li>
+<li><a href="/wiki/%E5%BE%8B%E5%B8%AB" title="律师">律师</a></li>
+<li><a href="/wiki/%E6%AA%A2%E5%AF%9F%E5%AE%98" title="检察官">检察官</a></li>
+<li><a href="/wiki/%E4%BA%8B%E5%8B%99%E5%BE%8B%E5%B8%AB" title="事务律师">事务律师</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%AD%B8%E5%AE%B6" class="mw-redirect" title="法学家">法学家</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E8%BC%94%E5%8A%A9%E4%BA%BA%E5%93%A1" title="法律辅助人员">法律辅助人员</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="事實問題" data-lang-code="en" data-lang-name="英语" data-foreign-title="Question of fact"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%8B%E5%AF%A6%E5%95%8F%E9%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="事实问题（页面不存在）">事实问题</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Question_of_fact" class="extiw" title="en:Question of fact"><span lang="en" dir="auto">Question of fact</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="法律問題" data-lang-code="en" data-lang-name="英语" data-foreign-title="Question of law"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%95%E5%BE%8B%E5%95%8F%E9%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="法律问题（页面不存在）">法律问题</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Question_of_law" class="extiw" title="en:Question of law"><span lang="en" dir="auto">Question of law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AF%A9%E5%88%A4" class="mw-redirect" title="审判">审判</a></li>
+<li><span class="ilh-all" data-orig-title="審訊訟辯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trial advocacy"><span class="ilh-page"><a href="/w/index.php?title=%E5%AF%A9%E8%A8%8A%E8%A8%9F%E8%BE%AF&amp;action=edit&amp;redlink=1" class="new" title="审讯讼辩（页面不存在）">审讯讼辩</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trial_advocacy" class="extiw" title="en:Trial advocacy"><span lang="en" dir="auto">Trial advocacy</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BA%8B%E5%AE%9E%E8%AE%A4%E5%AE%9A" title="事实认定">事实认定</a></li>
+<li><a href="/wiki/%E8%A3%81%E6%B1%BA" class="mw-redirect" title="裁决">裁决</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">法律机制</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AE%98%E5%83%9A" title="官僚">官僚</a></li>
+<li><span class="ilh-all" data-orig-title="律師執業認可" data-lang-code="en" data-lang-name="英语" data-foreign-title="Admission to practice law"><span class="ilh-page"><a href="/w/index.php?title=%E5%BE%8B%E5%B8%AB%E5%9F%B7%E6%A5%AD%E8%AA%8D%E5%8F%AF&amp;action=edit&amp;redlink=1" class="new" title="律师执业认可（页面不存在）">律师执业认可</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Admission_to_practice_law" class="extiw" title="en:Admission to practice law"><span lang="en" dir="auto">Admission to practice law</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E5%BE%8B%E5%B8%AB%E5%AD%B8%E9%99%A2" title="律师学院">律师学院</a></li></ul></li>
+<li><a href="/wiki/%E5%BE%8B%E5%B8%AB%E4%BA%8B%E5%8B%99%E6%89%80" title="律师事务所">律师事务所</a></li>
+<li><a href="/wiki/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A" title="公民社会">公民社会</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BA%AD" title="法庭">法庭</a>
+<ul><li><a href="/wiki/%E5%8F%B8%E6%B3%95%E4%BA%BA%E5%93%A1" title="司法人员">司法人员</a></li>
+<li><a href="/wiki/%E5%BE%8B%E6%94%BF%E6%9B%B8%E8%A8%98" title="律政书记">书记员</a></li>
+<li><a href="/wiki/%E5%9F%B7%E9%81%94%E5%90%8F" title="执达吏">法院执行局</a></li></ul></li>
+<li><a href="/wiki/%E9%81%B8%E8%88%89%E5%A7%94%E5%93%A1%E6%9C%83" title="选举委员会">选举委员会</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%97%9C" class="mw-redirect" title="行政机关">行政机关</a></li>
+<li><a href="/wiki/%E5%8F%B8%E6%B3%95%E6%A9%9F%E9%97%9C" title="司法机关">司法机关</a></li>
+<li><span class="ilh-all" data-orig-title="執法機構" data-lang-code="en" data-lang-name="英语" data-foreign-title="Law enforcement"><span class="ilh-page"><a href="/wiki/%E6%89%A7%E6%B3%95%E6%9C%BA%E6%9E%84" title="执法机构">执法机构</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Law_enforcement" class="extiw" title="en:Law enforcement"><span lang="en" dir="auto">Law enforcement</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%95%E5%AD%A6#法律教育" title="法学">法律教育</a>
+<ul><li><a href="/wiki/%E6%B3%95%E5%AD%A6%E9%99%A2" title="法学院">法学院</a></li></ul></li>
+<li><a href="/wiki/%E7%AB%8B%E6%B3%95%E6%9C%BA%E5%85%B3" title="立法机关">立法机关</a></li>
+<li><a href="/wiki/%E8%BB%8D%E9%9A%8A" title="军队">军队</a></li>
+<li><a href="/wiki/%E8%AD%A6%E5%AF%9F" title="警察">警察</a></li>
+<li><a href="/wiki/%E6%94%BF%E9%BB%A8" class="mw-redirect" title="政党">政党</a></li>
+<li><span class="ilh-all" data-orig-title="審裁處" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tribunal"><span class="ilh-page"><a href="/w/index.php?title=%E5%AF%A9%E8%A3%81%E8%99%95&amp;action=edit&amp;redlink=1" class="new" title="审裁处（页面不存在）">民事调解庭</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tribunal" class="extiw" title="en:Tribunal"><span lang="en" dir="auto">Tribunal</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3"><div>
+<ul><li><b><a href="/wiki/Category:%E6%B3%95%E5%BE%8B" title="Category:法律">法律分类</a></b></li>
+<li><b><a href="/wiki/Portal:%E6%B3%95%E5%BE%8B" title="Portal:法律">法律主题</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/File:Balance_icon.svg" class="mw-file-description"><img alt="小作品图示" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Balance_icon.svg/25px-Balance_icon.svg.png" decoding="async" width="25" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Balance_icon.svg/38px-Balance_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Balance_icon.svg/50px-Balance_icon.svg.png 2x" data-file-width="256" data-file-height="208" /></a></span></td><td style="font-size:smaller">这是一篇与<a href="/wiki/%E6%B3%95%E5%BE%8B" title="法律">法律</a>相关的<a href="/wiki/Wikipedia:%E5%B0%8F%E4%BD%9C%E5%93%81" title="Wikipedia:小作品">小作品</a>。你可以通过<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;action=edit">编辑或修订</a>扩充其内容。<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Law-stub" title="Template:Law-stub"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:Law-stub" title="Template talk:Law-stub"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Law-stub&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2390
+Cached time: 20240329191252
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.387 seconds
+Real time usage: 0.515 seconds
+Preprocessor visited node count: 1758/1000000
+Post‐expand include size: 97422/2097152 bytes
+Template argument size: 1431/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 31/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8428/5000000 bytes
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 15673413/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  415.344      1 -total
+ 27.70%  115.043      1 Template:Law
+ 26.93%  111.872      1 Template:Navbox
+ 24.38%  101.269      1 Template:Lang-en
+ 15.38%   63.898     30 Template:Le
+ 11.53%   47.904      1 Template:NoteTA
+  8.80%   36.556      1 Template:Cite_web
+  7.17%   29.790      1 Template:Lang
+  6.57%   27.301      1 Template:Category_handler
+  6.52%   27.091      2 Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:766449-0!userlang=zh-cn!zh-cn and timestamp 20240329191252 and revision id 69159171. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=授權_(法律)&amp;oldid=69159171">https://zh.wikipedia.org/w/index.php?title=授權_(法律)&amp;oldid=69159171</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%95%86%E6%B3%95%E5%AD%B8" title="Category:商法學">商法学</a></li><li><a href="/wiki/Category:%E7%AD%96%E7%95%A5%E8%81%AF%E7%9B%9F" title="Category:策略聯盟">策略联盟</a></li><li><a href="/wiki/Category:%E8%AE%B8%E5%8F%AF" title="Category:许可">许可</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%8C%85%E5%90%AB%E6%B3%95%E5%BE%8B%E5%A3%B0%E6%98%8E%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:包含法律声明的条目">包含法律声明的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%85%A8%E9%83%A8%E5%B0%8F%E4%BD%9C%E5%93%81" title="Category:全部小作品">全部小作品</a></li><li><a href="/wiki/Category:%E6%B3%95%E5%BE%8B%E5%B0%8F%E4%BD%9C%E5%93%81" title="Category:法律小作品">法律小作品</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2021年12月19日 (星期日) 01:24。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-lx4bn","wgBackendResponseTime":178,"wgPageParseReport":{"limitreport":{"cputime":"0.387","walltime":"0.515","ppvisitednodes":{"value":1758,"limit":1000000},"postexpandincludesize":{"value":97422,"limit":2097152},"templateargumentsize":{"value":1431,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":31,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8428,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  415.344      1 -total"," 27.70%  115.043      1 Template:Law"," 26.93%  111.872      1 Template:Navbox"," 24.38%  101.269      1 Template:Lang-en"," 15.38%   63.898     30 Template:Le"," 11.53%   47.904      1 Template:NoteTA","  8.80%   36.556      1 Template:Cite_web","  7.17%   29.790      1 Template:Lang","  6.57%   27.301      1 Template:Category_handler","  6.52%   27.091      2 Template:Hatnote"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":15673413,"limit":52428800}},"cachereport":{"origin":"mw2390","timestamp":"20240329191252","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u6388\u6b0a (\u6cd5\u5f8b)","url":"https:\/\/zh.wikipedia.org\/wiki\/%E6%8E%88%E6%AC%8A_(%E6%B3%95%E5%BE%8B)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q79719","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q79719","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-15T17:23:45Z","dateModified":"2021-12-19T01:24:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/HK_%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A4%90%E5%BB%B3_McDonalds_FEHD_licensed_general_restaurant_Senior_Citizen_Card_n_No_Smoking_stickers_May-2012_No_pet.JPG","headline":"\u4f7f\u7528\u67d0\u4e9b\u4e1c\u897f\u7684\u6743\u9650\u96c6"}</script>
+</body>
+</html>

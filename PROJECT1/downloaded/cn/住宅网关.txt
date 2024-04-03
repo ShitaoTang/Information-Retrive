@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>住宅网关 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"959293e6-2d10-4e80-a9ef-b7a6b18c6f5a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"住宅网关","wgTitle":"住宅网关","wgCurRevisionId":76827386,"wgRevisionId":76827386,"wgArticleId":5546793,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["寬頻","網路硬體","电信设备","服务器设备","家庭服务器"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"住宅网关","wgRelevantArticleId":5546793,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1755130","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor",
+"ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/1200px-EPC3925.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/800px-EPC3925.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="450">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/640px-EPC3925.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="360">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="住宅网关 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-住宅网关 rootpage-住宅网关 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-设备"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#设备">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>设备</div>
+		</a>
+		
+		<ul id="toc-设备-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-功能"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#功能">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>功能</div>
+		</a>
+		
+		<ul id="toc-功能-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-安全"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#安全">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>安全</div>
+		</a>
+		
+		<ul id="toc-安全-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">住宅网关</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。12种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-12" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">12种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Passarel%C2%B7la_residencial" title="Passarel·la residencial – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Residential_Gateway" title="Residential Gateway – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Residential_gateway" title="Residential gateway – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Hejma_enkursigilo" title="Hejma enkursigilo – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Pasarela_residencial" title="Pasarela residencial – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%D9%85%D8%AD%D9%84%DB%8C" title="دروازه محلی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Box_Internet" title="Box Internet – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Home_Access_Gateway" title="Home Access Gateway – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4" title="ホームゲートウェイ – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%A0%95%EC%9A%A9_%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4" title="가정용 게이트웨이 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="Резидентна порта – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Home_gateway" title="Home gateway – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1755130#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;oldid=76827386" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;id=76827386&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BD%258F%25E5%25AE%2585%25E7%25BD%2591%25E5%2585%25B3"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BD%258F%25E5%25AE%2585%25E7%25BD%2591%25E5%2585%25B3"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1755130" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-33810837" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-33810837" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Communication"></div><div data-noteta-group-source="module" data-noteta-group="IT"></div></div><div class="noteTA-local"><div data-noteta-code="zh-cn:无线接入点;zh-hant:無線接取器;zh-tw:無線存取點;zh-hk:無線接入點;"></div></div></div>
+<p>在<a href="/wiki/%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C" title="电信网络">电信网络</a>中，<b>住宅网关</b>（<b>residential gateway</b>）是允许<a href="/wiki/%E5%B1%80%E5%9F%9F%E7%BD%91" title="局域网">局域网</a>（LAN）连接到<a href="/wiki/%E5%B9%BF%E5%9F%9F%E7%BD%91" title="广域网">广域网</a>（WAN）的设备。WAN可以是一个更大的<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a>（例如提供与市内其他住宅的市政WAN），或者<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91" title="互联网">互联网</a>。WAN连接可能通过<a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%A8%E6%88%B7%E7%BA%BF%E8%B7%AF" title="数字用户线路">DSL</a>、<a href="/wiki/%E7%BA%9C%E7%B7%9A%E6%95%B8%E6%93%9A%E6%A9%9F" title="线缆调制解调器">线缆调制解调器</a>、<a href="/wiki/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1" class="mw-redirect" title="光纤通信">光纤网络</a>、<a href="/wiki/%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%AF%9D" title="移动电话">移动电话</a>宽带网络或其他方式提供。住宅网关也常被称为<b>家庭网关</b>（Home gateway）。
+</p><p>术语“住宅网关”原指在家庭中使用的廉价网络设备，与在公司局域网环境中使用的类似设备（通常提供更大服务能力和端口）相对。
+</p>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:EPC3925.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/220px-EPC3925.jpg" decoding="async" width="220" height="124" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/330px-EPC3925.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EPC3925.jpg/440px-EPC3925.jpg 2x" data-file-width="1920" data-file-height="1080" /></a><figcaption><a href="/wiki/%E6%80%9D%E7%A7%91%E7%B3%BB%E7%BB%9F" title="思科系统">思科</a>EPC3925 EuroDOCSIS 3无线家庭网关，含嵌入式数字语音适配器</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Homenet.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Homenet.svg/220px-Homenet.svg.png" decoding="async" width="220" height="189" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Homenet.svg/330px-Homenet.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Homenet.svg/440px-Homenet.svg.png 2x" data-file-width="1100" data-file-height="944" /></a><figcaption>一个简单的家庭网络的例子</figcaption></figure>
+<p>从21世纪初开始，住宅或家庭网关已被不少<a href="/wiki/%E7%94%B5%E4%BF%A1" title="电信">电信</a>多媒体服务商<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>作为将消费者与<a href="/wiki/%E5%AF%AC%E9%A0%BB" title="宽带">宽带</a>交付网络相联的终端设备。作为<a href="/wiki/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8" title="电信公司">电信公司</a>的一部分，家庭网关支持远程控制、检测和配置。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E8.AE.BE.E5.A4.87"></span><span class="mw-headline" id="设备">设备</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=1" title="编辑章节：设备"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:ResidentialGatewayCloseup.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ResidentialGatewayCloseup.jpg/220px-ResidentialGatewayCloseup.jpg" decoding="async" width="220" height="146" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ResidentialGatewayCloseup.jpg/330px-ResidentialGatewayCloseup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ResidentialGatewayCloseup.jpg/440px-ResidentialGatewayCloseup.jpg 2x" data-file-width="4928" data-file-height="3264" /></a><figcaption>一个典型的住宅网关。多台设备通过LAN连接共享单条互联网连接。</figcaption></figure>
+<p>有多种设备可被称为“住宅网关”：
+</p>
+<ul><li><a href="/wiki/%E7%BA%9C%E7%B7%9A%E6%95%B8%E6%93%9A%E6%A9%9F" title="线缆调制解调器">线缆调制解调器</a></li>
+<li><a href="/wiki/ATU-R" title="ATU-R">DSL调制解调器</a></li>
+<li><a href="/wiki/%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8" class="mw-redirect" title="无线路由器">无线路由器</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8" title="网络交换器">网络交换器</a></li>
+<li><a href="/wiki/%E7%B6%B2%E9%9A%9B%E5%8D%94%E8%AD%B0%E9%80%9A%E8%A9%B1%E6%8A%80%E8%A1%93" class="mw-redirect" title="网际协议通话技术">网际协议通话技术</a>（VoIP）及<span class="ilh-all" data-orig-title="模拟电话适配器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Analog telephone adapter"><span class="ilh-page"><a href="/w/index.php?title=%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%AF%9D%E9%80%82%E9%85%8D%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="模拟电话适配器（页面不存在）">模拟电话适配器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Analog_telephone_adapter" class="extiw" title="en:Analog telephone adapter"><span lang="en" dir="auto">Analog telephone adapter</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%84%A1%E7%B7%9A%E6%8E%A5%E5%8F%96%E5%99%A8" class="mw-redirect" title="无线接入点">无线接入点</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">有线路由器</a></li></ul>
+<p>设备还可能是上述多种设备的组合体。
+</p><p>一台<a href="/wiki/%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83%E5%99%A8" title="调制解调器">调制解调器</a>（例如<a href="/wiki/ATU-R" title="ATU-R">DSL调制解调器</a>、<a href="/wiki/%E7%BA%9C%E7%B7%9A%E6%95%B8%E6%93%9A%E6%A9%9F" title="线缆调制解调器">线缆调制解调器</a>)本身不提供路由器的功能。它只允许<a href="/wiki/%E5%BC%82%E6%AD%A5%E4%BC%A0%E8%BE%93%E6%A8%A1%E5%BC%8F" title="异步传输模式">ATM</a>或<a href="/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91" title="以太网">以太网</a>或<a href="/wiki/%E7%82%B9%E5%AF%B9%E7%82%B9%E5%8D%8F%E8%AE%AE" title="点对点协议">PPP</a>流量通过电话线、电缆线、光纤或无线电频率传输。在接收端则是另一个调制解调器，将传输格式重新转换回数字数据分组。
+</p><p>这允许网络依靠电话、电缆、光学或无线电方式连接。调制解调器也提供<a href="/wiki/CHAP" class="mw-redirect" title="CHAP">握手协议</a>，使连接上各端的设备能够彼此识别。但是，调制解调器通常很少提供其他的网络功能。
+</p>
+<ul><li>将一个<a href="/wiki/%E9%80%9A%E7%94%A8%E4%B8%B2%E8%A1%8C%E7%B8%BD%E7%B7%9A" class="mw-redirect" title="通用串行总线">USB</a>调制解调器插入到一台电脑可以使单台电脑连入WAN。如果配置正确，该电脑还可以作为家庭局域网的路由器。</li>
+<li>在单台电脑上可以安装<a href="/wiki/%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83%E5%99%A8" title="调制解调器">内置调制解调器</a>（例如通过<a href="/wiki/%E5%A4%96%E8%AE%BE%E7%BB%84%E4%BB%B6%E4%BA%92%E8%BF%9E%E6%A0%87%E5%87%86" title="外设组件互连标准">PCI卡</a>），这也能使单台电脑连入WAN。同样，该电脑可以被配置为作为家庭局域网的路由器。</li></ul>
+<p><a href="/wiki/%E7%84%A1%E7%B7%9A%E6%8E%A5%E5%8F%96%E5%99%A8" class="mw-redirect" title="无线接入点">无线接入点</a>可以以类似调制解调器的方式工作。如果无线路由器或接入点已接入WAN，它可以使家庭局域网（LAN）中的连接直接传送点广域网（WAN）。
+</p><p>但是，许多调制解调器现在也包括下面提到的功能，因此也被描述为“住宅网关”。
+</p>
+<h2><span id=".E5.8A.9F.E8.83.BD"></span><span class="mw-headline" id="功能">功能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=2" title="编辑章节：功能"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>住宅网关通常提供：
+</p>
+<ul><li>通过网页接口配置<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
+<li>在家庭网络与互联网之间<a href="/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8" title="路由器">路由</a></li>
+<li>提供家庭网络的连通性，就像一台<a href="/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8" title="网络交换器">网络交换器</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2" title="网络地址转换">网络地址转换</a>（NAT）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E8%AE%BE%E7%BD%AE%E5%8D%8F%E8%AE%AE" title="动态主机设置协议">DHCP</a></li>
+<li><a href="/wiki/%E9%98%B2%E7%81%AB%E5%A2%99" title="防火墙">防火墙</a>功能。</li>
+<li>可能内置<a href="/wiki/%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83%E5%99%A8" title="调制解调器">调制解调器</a>，常见于DSL或电缆ISP形式。</li></ul>
+<p>它可能还提供其他功能，例如<a href="/wiki/%E5%8B%95%E6%85%8BDNS" title="动态DNS">动态DNS</a>（DDNS）。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>大多数路由器是使用内部存储的<a href="/wiki/%E5%9B%BA%E4%BB%B6" class="mw-redirect" title="固件">固件</a>自我运行的组件。它们是与操作系统无关的，因此可以从任何<a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a>访问。
+</p><p><a href="/wiki/%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8" class="mw-redirect" title="无线路由器">无线路由器</a>与路由器的功能相同，但还允许无线设备连入LAN，或在无线路由器之间连接。（无线路由器之间的连接可以在LAN内，也可以在LAN与WAN之间。）
+</p>
+<h2><span id=".E5.AE.89.E5.85.A8"></span><span class="mw-headline" id="安全">安全</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=3" title="编辑章节：安全"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>低制造成本和对用户友好性的要求使得家庭路由器更容易受到网络攻击，这在过去曾导致大量此类设备被接管并用于发动DDoS攻击。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>大多数漏洞存在于路由器的网页管理控制端中，它们可能允许通过<span class="ilh-all" data-orig-title="默认密码" data-lang-code="en" data-lang-name="英语" data-foreign-title="Default password"><span class="ilh-page"><a href="/w/index.php?title=%E9%BB%98%E8%AE%A4%E5%AF%86%E7%A0%81&amp;action=edit&amp;redlink=1" class="new" title="默认密码（页面不存在）">默认密码</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Default_password" class="extiw" title="en:Default password"><span lang="en" dir="auto">Default password</span></a></span>）</span></span>、供应商<a href="/wiki/%E8%BB%9F%E9%AB%94%E5%BE%8C%E9%96%80" title="软件后门">后门</a>或<span class="ilh-all" data-orig-title="Web漏洞" data-lang-code="en" data-lang-name="英语" data-foreign-title="Web application security"><span class="ilh-page"><a href="/w/index.php?title=Web%E6%BC%8F%E6%B4%9E&amp;action=edit&amp;redlink=1" class="new" title="Web漏洞（页面不存在）">Web漏洞</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Web_application_security" class="extiw" title="en:Web application security"><span lang="en" dir="auto">Web application security</span></a></span>）</span></span>进行未经授权的控制。<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=4" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r79074265">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col">
+<ul><li><a href="/wiki/CPE" class="mw-disambig" title="CPE">CPE</a></li>
+<li><span class="ilh-all" data-orig-title="家庭网络" data-lang-code="en" data-lang-name="英语" data-foreign-title="Home network"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C&amp;action=edit&amp;redlink=1" class="new" title="家庭网络（页面不存在）">家庭网络</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Home_network" class="extiw" title="en:Home network"><span lang="en" dir="auto">Home network</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AE%B6%E7%94%A8%E4%BC%BA%E6%9C%8D%E5%99%A8" title="家用服务器">家用服务器</a></li>
+<li><span class="ilh-all" data-orig-title="多媒体同轴电缆联盟" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multimedia over Coax Alliance"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E5%AA%92%E4%BD%93%E5%90%8C%E8%BD%B4%E7%94%B5%E7%BC%86%E8%81%94%E7%9B%9F&amp;action=edit&amp;redlink=1" class="new" title="多媒体同轴电缆联盟（页面不存在）">多媒体同轴电缆联盟</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multimedia_over_Coax_Alliance" class="extiw" title="en:Multimedia over Coax Alliance"><span lang="en" dir="auto">Multimedia over Coax Alliance</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="局域网交换" data-lang-code="en" data-lang-name="英语" data-foreign-title="LAN switching"><span class="ilh-page"><a href="/w/index.php?title=%E5%B1%80%E5%9F%9F%E7%BD%91%E4%BA%A4%E6%8D%A2&amp;action=edit&amp;redlink=1" class="new" title="局域网交换（页面不存在）">局域网交换</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/LAN_switching" class="extiw" title="en:LAN switching"><span lang="en" dir="auto">LAN switching</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%80%E6%9C%AF%E8%9E%8D%E5%90%88" title="技术融合">技术融合</a></li>
+<li><a href="/wiki/%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8%E5%9B%BA%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8" class="mw-redirect" title="无线路由器固件项目列表">无线路由器固件项目列表</a></li></ul>
+</div>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=5" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercecable.com/story/set-top-box-dead-long-live-home-gateway/2011-05-02">The set-top box is dead; long live the home gateway</a>. FierceCable.  <span class="reference-accessdate"> &#91;<span class="nowrap">2016-12-31</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305085513/http://www.fiercecable.com/story/set-top-box-dead-long-live-home-gateway/2011-05-02">存档</a>于2016-03-05）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.atitle=The+set-top+box+is+dead%3B+long+live+the+home+gateway&amp;rft.genre=unknown&amp;rft.jtitle=FierceCable&amp;rft_id=http%3A%2F%2Fwww.fiercecable.com%2Fstory%2Fset-top-box-dead-long-live-home-gateway%2F2011-05-02&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Wireless router is a combination of wired router and wireless access point.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pcadvisor.co.uk/how-to/network-wifi/how-connect-your-router-change-settings-3515634/">Can’t access 192.168.1.1: how to change router settings including Wi-Fi password</a>. PC Advisor.  <span class="reference-accessdate"> &#91;<span class="nowrap">December 21,</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160110145104/http://www.pcadvisor.co.uk/how-to/network-wifi/how-connect-your-router-change-settings-3515634/">存档</a>于2016-01-10）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.btitle=Can%E2%80%99t+access+192.168.1.1%3A+how+to+change+router+settings+including+Wi-Fi+password&amp;rft.genre=unknown&amp;rft.pub=PC+Advisor&amp;rft_id=http%3A%2F%2Fwww.pcadvisor.co.uk%2Fhow-to%2Fnetwork-wifi%2Fhow-connect-your-router-change-settings-3515634%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.grc.com/nat/nat.htm">NAT Router Security Solutions</a>. Gibson Research Center.  <span class="reference-accessdate"> &#91;<span class="nowrap">December 22,</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170108163416/https://www.grc.com/nat/nat.htm">存档</a>于2017-01-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.btitle=NAT+Router+Security+Solutions&amp;rft.genre=unknown&amp;rft.pub=Gibson+Research+Center&amp;rft_id=https%3A%2F%2Fwww.grc.com%2Fnat%2Fnat.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.techrepublic.com/article/make-your-home-pcs-accessible-anywhere-with-dynamic-dns-for-free/">Make your home PCs accessible anywhere with Dynamic DNS for free</a>. Techrepublic.  <span class="reference-accessdate"> &#91;<span class="nowrap">December 21,</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170102173047/http://www.techrepublic.com/article/make-your-home-pcs-accessible-anywhere-with-dynamic-dns-for-free/">存档</a>于2017-01-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.btitle=Make+your+home+PCs+accessible+anywhere+with+Dynamic+DNS+for+free&amp;rft.genre=unknown&amp;rft.pub=Techrepublic&amp;rft_id=http%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fmake-your-home-pcs-accessible-anywhere-with-dynamic-dns-for-free%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Gayer, Ofer. <a rel="nofollow" class="external text" href="https://www.incapsula.com/blog/ddos-botnet-soho-router.html">Lax Security Opens the Door for Mass Scale Abuse of SOHO Routers | Incapsula.com</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2015-06-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150707210520/https://www.incapsula.com/blog/ddos-botnet-soho-router.html">存档</a>于2015-07-07）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.aufirst=Ofer&amp;rft.aulast=Gayer&amp;rft.btitle=Lax+Security+Opens+the+Door+for+Mass+Scale+Abuse+of+SOHO+Routers+%7C+Incapsula.com&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.incapsula.com%2Fblog%2Fddos-botnet-soho-router.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200912163635/https://arxiv.org/ftp/arxiv/papers/1506/1506.04112.pdf">Owning Your Home Network: Router Security Revisited</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2016-12-31</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://arxiv.org/ftp/arxiv/papers/1506/1506.04112.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2020-09-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;rft.btitle=Owning+Your+Home+Network%3A+Router+Security+Revisited&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farxiv.org%2Fftp%2Farxiv%2Fpapers%2F1506%2F1506.04112.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;action=edit&amp;section=6" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cazitech.com/RG-report.pdf">The Residential Gateway (a vision paper published in International Engineering Consortium’s 1996 Annual Review of Communications, p.457)</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20161020105346/http://www.cazitech.com/RG-report.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.homegatewayinitiative.org/">Home Gateway Initiative, a group of broadband providers proposing specifications for residential gateways</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20170201101632/http://www.homegatewayinitiative.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://compnetworking.about.com/library/weekly/aa061101a.htm">The Residential Home Gateway</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20110928121844/http://compnetworking.about.com/library/weekly/aa061101a.htm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） on <a href="/wiki/About.com" class="mw-redirect" title="About.com">About.com</a></li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E9%9B%BB%E4%BF%A1" title="Template:电信"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E9%9B%BB%E4%BF%A1" title="Template talk:电信"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%9B%BB%E4%BF%A1&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%94%B5%E4%BF%A1" title="电信">电信</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="电信发展史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of telecommunication"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E4%BF%A1%E5%8F%91%E5%B1%95%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="电信发展史（页面不存在）">电信历史</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_telecommunication" class="extiw" title="en:History of telecommunication"><span lang="en" dir="auto">History of telecommunication</span></a></span>）</span></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="信标" data-lang-code="en" data-lang-name="英语" data-foreign-title="Beacon"><span class="ilh-page"><a href="/w/index.php?title=%E4%BF%A1%E6%A0%87&amp;action=edit&amp;redlink=1" class="new" title="信标（页面不存在）">信标</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Beacon" class="extiw" title="en:Beacon"><span lang="en" dir="auto">Beacon</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="广播发展史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of broadcasting"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%BF%E6%92%AD%E5%8F%91%E5%B1%95%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="广播发展史（页面不存在）">广播</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_broadcasting" class="extiw" title="en:History of broadcasting"><span lang="en" dir="auto">History of broadcasting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="电缆保护系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cable protection system"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E7%BC%86%E4%BF%9D%E6%8A%A4%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="电缆保护系统（页面不存在）">电缆保护系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cable_protection_system" class="extiw" title="en:Cable protection system"><span lang="en" dir="auto">Cable protection system</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86" title="有线电视">有线电视</a></li>
+<li><a href="/wiki/%E9%80%9A%E8%A8%8A%E8%A1%9B%E6%98%9F" title="通信卫星">通信卫星</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9" title="数据压缩">数据压缩</a>
+<ul><li><span class="ilh-all" data-orig-title="音频编码格式" data-lang-code="en" data-lang-name="英语" data-foreign-title="Audio coding format"><span class="ilh-page"><a href="/w/index.php?title=%E9%9F%B3%E9%A2%91%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="音频编码格式（页面不存在）">音频</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Audio_coding_format" class="extiw" title="en:Audio coding format"><span lang="en" dir="auto">Audio coding format</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A6%BB%E6%95%A3%E4%BD%99%E5%BC%A6%E5%8F%98%E6%8D%A2" title="离散余弦变换">DCT</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9" title="图像压缩">图像</a></li>
+<li><span class="ilh-all" data-orig-title="视频编码格式" data-lang-code="en" data-lang-name="英语" data-foreign-title="Video coding format"><span class="ilh-page"><a href="/w/index.php?title=%E8%A7%86%E9%A2%91%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="视频编码格式（页面不存在）">视频</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Video_coding_format" class="extiw" title="en:Video coding format"><span lang="en" dir="auto">Video coding format</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93" title="数字媒体">数字媒体</a>
+<ul><li><span class="ilh-all" data-orig-title="互联网视频" data-lang-code="en" data-lang-name="英语" data-foreign-title="Internet video"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%86%E9%A2%91&amp;action=edit&amp;redlink=1" class="new" title="互联网视频（页面不存在）">互联网视频</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Internet_video" class="extiw" title="en:Internet video"><span lang="en" dir="auto">Internet video</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%BD%B1%E7%89%87%E5%88%86%E4%BA%AB%E7%B6%B2%E7%AB%99" title="影片分享网站">在线视频平台</a></li>
+<li><a href="/wiki/%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94" title="社交媒体">社交媒体</a></li>
+<li><a href="/wiki/%E6%B5%81%E5%AA%92%E4%BD%93" title="流媒体">流媒体</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="通讯鼓" data-lang-code="en" data-lang-name="英语" data-foreign-title="Drums in communication"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%9A%E8%AE%AF%E9%BC%93&amp;action=edit&amp;redlink=1" class="new" title="通信鼓（页面不存在）">鼓</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Drums_in_communication" class="extiw" title="en:Drums in communication"><span lang="en" dir="auto">Drums in communication</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="埃德霍姆定律" data-lang-code="en" data-lang-name="英语" data-foreign-title="Edholm&#39;s law"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%83%E5%BE%B7%E9%9C%8D%E5%A7%86%E5%AE%9A%E5%BE%8B&amp;action=edit&amp;redlink=1" class="new" title="埃德霍姆定律（页面不存在）">埃德霍姆定律</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Edholm%27s_law" class="extiw" title="en:Edholm&#39;s law"><span lang="en" dir="auto">Edholm's law</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%94%B5%E6%8A%A5" title="电报">电报</a></li>
+<li><a href="/wiki/%E5%82%B3%E7%9C%9F" title="传真">传真</a></li>
+<li><span class="ilh-all" data-orig-title="回光信号器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Heliograph"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%9E%E5%85%89%E4%BF%A1%E5%8F%B7%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="回光信号器（页面不存在）">回光信号器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Heliograph" class="extiw" title="en:Heliograph"><span lang="en" dir="auto">Heliograph</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="液压电报机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hydraulic telegraph"><span class="ilh-page"><a href="/w/index.php?title=%E6%B6%B2%E5%8E%8B%E7%94%B5%E6%8A%A5%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="液压电报机（页面不存在）">液压电报机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hydraulic_telegraph" class="extiw" title="en:Hydraulic telegraph"><span lang="en" dir="auto">Hydraulic telegraph</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3" title="信息时代">信息时代</a></li>
+<li><a href="/wiki/%E8%B3%87%E8%A8%8A%E9%9D%A9%E5%91%BD" title="信息革命">信息革命</a></li>
+<li><a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2" title="互联网历史">互联网</a></li>
+<li><a href="/wiki/%E5%A4%A7%E7%9C%BE%E5%AA%92%E9%AB%94" title="大众媒体">大众传媒</a></li>
+<li><span class="ilh-all" data-orig-title="移动电话历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of mobile phones"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%AF%9D%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="移动电话历史（页面不存在）">手机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_mobile_phones" class="extiw" title="en:History of mobile phones"><span lang="en" dir="auto">History of mobile phones</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA" title="智能手机">智能手机</a></li></ul></li>
+<li><a href="/wiki/%E5%85%89%E9%80%9A%E8%A8%8A" title="光通信">光通信</a></li>
+<li><span class="ilh-all" data-orig-title="光电报" data-lang-code="en" data-lang-name="英语" data-foreign-title="Optical telegraph"><span class="ilh-page"><a href="/wiki/%E5%85%89%E9%9B%BB%E5%A0%B1" title="光电报">光电报</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Optical_telegraph" class="extiw" title="en:Optical telegraph"><span lang="en" dir="auto">Optical telegraph</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%82%B3%E5%91%BC%E6%A9%9F" title="传呼机">寻呼机</a></li>
+<li><span class="ilh-all" data-orig-title="光音机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Photophone"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E9%9F%B3%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="光音机（页面不存在）">光音机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Photophone" class="extiw" title="en:Photophone"><span lang="en" dir="auto">Photophone</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="预付费手机历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of prepaid mobile phones"><span class="ilh-page"><a href="/w/index.php?title=%E9%A2%84%E4%BB%98%E8%B4%B9%E6%89%8B%E6%9C%BA%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="预付费手机历史（页面不存在）">预付费手机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_prepaid_mobile_phones" class="extiw" title="en:History of prepaid mobile phones"><span lang="en" dir="auto">History of prepaid mobile phones</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="电台历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of radio"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E5%8F%B0%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="电台历史（页面不存在）">电台</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_radio" class="extiw" title="en:History of radio"><span lang="en" dir="auto">History of radio</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="无线电话" data-lang-code="en" data-lang-name="英语" data-foreign-title="Radiotelephone"><span class="ilh-page"><a href="/wiki/%E7%84%A1%E7%B7%9A%E9%9B%BB%E8%A9%B1" class="mw-disambig" title="无线电话">无线电话</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Radiotelephone" class="extiw" title="en:Radiotelephone"><span lang="en" dir="auto">Radiotelephone</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%80%9A%E8%A8%8A%E8%A1%9B%E6%98%9F" title="通信卫星">卫星通信</a></li>
+<li><a href="/wiki/%E6%97%97%E8%AA%9E" title="旗语">旗语</a></li>
+<li><a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93" title="半导体">半导体</a>
+<ul><li><a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%99%A8%E4%BB%B6" title="半导体器件">器件</a></li>
+<li><a href="/wiki/%E9%87%91%E5%B1%AC%E6%B0%A7%E5%8C%96%E7%89%A9%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A0%B4%E6%95%88%E9%9B%BB%E6%99%B6%E9%AB%94" title="金属氧化物半导体场效晶体管">MOSEFT</a></li>
+<li><span class="ilh-all" data-orig-title="晶体管历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of the transistor"><span class="ilh-page"><a href="/w/index.php?title=%E6%99%B6%E4%BD%93%E7%AE%A1%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="晶体管历史（页面不存在）">晶体管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_the_transistor" class="extiw" title="en:History of the transistor"><span lang="en" dir="auto">History of the transistor</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%83%BD%E7%81%AB" title="烽火">烽火</a></li>
+<li><span class="ilh-all" data-orig-title="电信发展史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of telecommunication"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E4%BF%A1%E5%8F%91%E5%B1%95%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="电信发展史（页面不存在）">电信</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_telecommunication" class="extiw" title="en:History of telecommunication"><span lang="en" dir="auto">History of telecommunication</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="电报传真机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Telautograph"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E6%8A%A5%E4%BC%A0%E7%9C%9F%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="电报传真机（页面不存在）">电报传真机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Telautograph" class="extiw" title="en:Telautograph"><span lang="en" dir="auto">Telautograph</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%BB%E5%82%B3%E6%89%93%E5%AD%97%E6%A9%9F" title="电传打字机">电传</a>
+<ul><li>电传打字机</li></ul></li>
+<li><a href="/wiki/%E7%94%B5%E8%AF%9D%E7%9A%84%E5%8E%86%E5%8F%B2" title="电话的历史">电话</a></li>
+<li><a href="/wiki/%E7%94%B5%E8%AF%9D%E6%A1%88" title="电话案">电话案</a></li>
+<li><a href="/wiki/%E7%94%B5%E8%A7%86%E5%8F%B2" title="电视史">电视</a>
+<ul><li><a href="/wiki/%E6%95%B0%E5%AD%97%E7%94%B5%E8%A7%86" title="数字电视">数字电视</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86" title="网络电视">网络电视</a></li></ul></li>
+<li><a href="/wiki/%E6%B5%B7%E5%BA%95%E9%9B%BB%E7%BA%9C" title="海底电缆">海底电缆</a></li>
+<li><span class="ilh-all" data-orig-title="视频电话历史" data-lang-code="en" data-lang-name="英语" data-foreign-title="History of videotelephony"><span class="ilh-page"><a href="/w/index.php?title=%E8%A7%86%E9%A2%91%E7%94%B5%E8%AF%9D%E5%8E%86%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="视频电话历史（页面不存在）">视频电话</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/History_of_videotelephony" class="extiw" title="en:History of videotelephony"><span lang="en" dir="auto">History of videotelephony</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="口哨语" data-lang-code="en" data-lang-name="英语" data-foreign-title="Whistled language"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%A3%E5%93%A8%E8%AF%AD&amp;action=edit&amp;redlink=1" class="new" title="口哨语（页面不存在）">口哨语</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Whistled_language" class="extiw" title="en:Whistled language"><span lang="en" dir="auto">Whistled language</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%84%A1%E7%B7%9A%E9%80%9A%E8%A8%8A" title="无线通信">无线革命</a></li></ul>
+</div></td><td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/File:Telecom-icon.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/100px-Telecom-icon.svg.png" decoding="async" width="100" height="100" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/150px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/200px-Telecom-icon.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">先驱人物</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="纳西尔·阿赫梅德 (工程师)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Nasir Ahmed (engineer)"><span class="ilh-page"><a href="/w/index.php?title=%E7%BA%B3%E8%A5%BF%E5%B0%94%C2%B7%E9%98%BF%E8%B5%AB%E6%A2%85%E5%BE%B7_(%E5%B7%A5%E7%A8%8B%E5%B8%88)&amp;action=edit&amp;redlink=1" class="new" title="纳西尔·阿赫梅德 (工程师)（页面不存在）">纳西尔·阿赫梅德</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Nasir_Ahmed_(engineer)" class="extiw" title="en:Nasir Ahmed (engineer)"><span lang="en" dir="auto">Nasir Ahmed (engineer)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9F%83%E5%BE%B7%E6%B8%A9%C2%B7%E9%9C%8D%E5%8D%8E%E5%BE%B7%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97" title="埃德温·霍华德·阿姆斯特朗">埃德温·霍华德·阿姆斯特朗</a></li>
+<li><span class="ilh-all" data-orig-title="默罕穆德·阿特拉" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mohamed M. Atalla"><span class="ilh-page"><a href="/w/index.php?title=%E9%BB%98%E7%BD%95%E7%A9%86%E5%BE%B7%C2%B7%E9%98%BF%E7%89%B9%E6%8B%89&amp;action=edit&amp;redlink=1" class="new" title="默罕穆德·阿特拉（页面不存在）">默罕穆德·阿特拉</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mohamed_M._Atalla" class="extiw" title="en:Mohamed M. Atalla"><span lang="en" dir="auto">Mohamed M. Atalla</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E6%9D%B0%C2%B7%E8%B4%9D%E5%B0%94%E5%BE%B7" title="约翰·罗杰·贝尔德">约翰·罗杰·贝尔德</a></li>
+<li><a href="/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%B7%B4%E8%98%AD" title="保罗·巴兰">保罗·巴兰</a></li>
+<li><a href="/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%B7%B4%E4%B8%81" title="约翰·巴丁">约翰·巴丁</a></li>
+<li><a href="/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%C2%B7%E8%B4%9D%E5%B0%94" title="亚历山大·格雷厄姆·贝尔">亚历山大·格拉汉姆·贝尔</a></li>
+<li><a href="/wiki/%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E" title="蒂姆·伯纳斯-李">蒂姆·伯纳斯-李</a></li>
+<li><a href="/wiki/%E8%B4%BE%E6%A0%BC%E8%BF%AA%E4%BB%80%C2%B7%E9%92%B1%E5%BE%B7%E6%8B%89%C2%B7%E5%8D%9A%E6%96%AF" title="贾格迪什·钱德拉·博斯">贾格迪什·钱德拉·博斯</a></li>
+<li><a href="/wiki/%E6%B2%83%E5%B0%94%E7%89%B9%C2%B7%E5%B8%83%E6%8B%89%E9%A1%BF" title="沃尔特·布拉顿">沃尔特·布拉顿</a></li>
+<li><a href="/wiki/%E6%96%87%E9%A0%93%C2%B7%E7%91%9F%E5%A4%AB" title="文顿·瑟夫">文顿·瑟夫</a></li>
+<li><span class="ilh-all" data-orig-title="克劳德·查普" data-lang-code="en" data-lang-name="英语" data-foreign-title="Claude Chappe"><span class="ilh-page"><a href="/wiki/%E5%85%8B%E5%8B%9E%E5%BE%B7%C2%B7%E6%9F%A5%E6%99%AE" title="克劳德·查普">克劳德·查普</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Claude_Chappe" class="extiw" title="en:Claude Chappe"><span lang="en" dir="auto">Claude Chappe</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="互联网先驱列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of Internet pioneers"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%92%E8%81%94%E7%BD%91%E5%85%88%E9%A9%B1%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="互联网先驱列表（页面不存在）">犹根·达兰</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_Internet_pioneers" class="extiw" title="en:List of Internet pioneers"><span lang="en" dir="auto">List of Internet pioneers</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="唐纳德·戴维斯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Donald Davies"><span class="ilh-page"><a href="/w/index.php?title=%E5%94%90%E7%BA%B3%E5%BE%B7%C2%B7%E6%88%B4%E7%BB%B4%E6%96%AF&amp;action=edit&amp;redlink=1" class="new" title="唐纳德·戴维斯（页面不存在）">唐纳德·戴维斯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Donald_Davies" class="extiw" title="en:Donald Davies"><span lang="en" dir="auto">Donald Davies</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9D%8E%C2%B7%E5%BE%B7%E5%AF%8C%E9%9B%B7%E6%96%AF%E7%89%B9" title="李·德富雷斯特">李·德富雷斯特</a></li>
+<li><a href="/wiki/%E8%B2%BB%E7%BE%85%C2%B7%E6%B3%95%E6%81%A9%E6%96%AF%E6%B2%83%E6%96%AF" title="费罗·法恩斯沃斯">费罗·法恩斯沃斯</a></li>
+<li><a href="/wiki/%E8%8C%83%E4%BF%A1%E9%81%94" title="范信达">范信达</a></li>
+<li><a href="/wiki/%E4%BB%A5%E5%88%A9%E6%B2%99%C2%B7%E6%A0%BC%E9%9B%B7" title="以利沙·格雷">以利沙·格雷</a></li>
+<li><a href="/wiki/%E5%A5%A7%E5%88%A9%E5%BC%97%C2%B7%E9%BB%91%E7%B6%AD%E5%A1%9E" title="奥利弗·黑维塞">奥利弗·黑维塞</a></li>
+<li><span class="ilh-all" data-orig-title="埃尔纳·施耐德·胡佛" data-lang-code="en" data-lang-name="英语" data-foreign-title="Erna Schneider Hoover"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%83%E5%B0%94%E7%BA%B3%C2%B7%E6%96%BD%E8%80%90%E5%BE%B7%C2%B7%E8%83%A1%E4%BD%9B&amp;action=edit&amp;redlink=1" class="new" title="埃尔纳·施耐德·胡佛（页面不存在）">埃尔纳·施耐德·胡佛</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Erna_Schneider_Hoover" class="extiw" title="en:Erna Schneider Hoover"><span lang="en" dir="auto">Erna Schneider Hoover</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="哈罗德·霍普金斯 (物理学家)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Harold Hopkins (physicist)"><span class="ilh-page"><a href="/w/index.php?title=%E5%93%88%E7%BD%97%E5%BE%B7%C2%B7%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF_(%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6)&amp;action=edit&amp;redlink=1" class="new" title="哈罗德·霍普金斯 (物理学家)（页面不存在）">哈罗德·霍普金斯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Harold_Hopkins_(physicist)" class="extiw" title="en:Harold Hopkins (physicist)"><span lang="en" dir="auto">Harold Hopkins (physicist)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="互联网先驱列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of Internet pioneers"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%92%E8%81%94%E7%BD%91%E5%85%88%E9%A9%B1%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="互联网先驱列表（页面不存在）">互联网先驱列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_Internet_pioneers" class="extiw" title="en:List of Internet pioneers"><span lang="en" dir="auto">List of Internet pioneers</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%8D%A1%E6%81%A9" title="罗伯特·卡恩">罗伯特·卡恩</a></li>
+<li><span class="ilh-all" data-orig-title="姜大元" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dawon Kahng"><span class="ilh-page"><a href="/w/index.php?title=%E5%A7%9C%E5%A4%A7%E5%85%83&amp;action=edit&amp;redlink=1" class="new" title="姜大元（页面不存在）">姜大元</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dawon_Kahng" class="extiw" title="en:Dawon Kahng"><span lang="en" dir="auto">Dawon Kahng</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%AB%98%E9%8C%95" title="高锟">高锟</a></li>
+<li><span class="ilh-all" data-orig-title="纳林德·辛格·卡帕尼" data-lang-code="en" data-lang-name="英语" data-foreign-title="Narinder Singh Kapany"><span class="ilh-page"><a href="/w/index.php?title=%E7%BA%B3%E6%9E%97%E5%BE%B7%C2%B7%E8%BE%9B%E6%A0%BC%C2%B7%E5%8D%A1%E5%B8%95%E5%B0%BC&amp;action=edit&amp;redlink=1" class="new" title="纳林德·辛格·卡帕尼（页面不存在）">纳林德·辛格·卡帕尼</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Narinder_Singh_Kapany" class="extiw" title="en:Narinder Singh Kapany"><span lang="en" dir="auto">Narinder Singh Kapany</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B5%B7%E8%92%82%C2%B7%E6%8B%89%E7%8E%9B" title="海蒂·拉玛">海蒂·拉玛</a></li>
+<li><span class="ilh-all" data-orig-title="因诺琴佐·曼泽缇" data-lang-code="en" data-lang-name="英语" data-foreign-title="Innocenzo Manzetti"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%A0%E8%AF%BA%E7%90%B4%E4%BD%90%C2%B7%E6%9B%BC%E6%B3%BD%E7%BC%87&amp;action=edit&amp;redlink=1" class="new" title="因诺琴佐·曼泽缇（页面不存在）">因诺琴佐·曼泽缇</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Innocenzo_Manzetti" class="extiw" title="en:Innocenzo Manzetti"><span lang="en" dir="auto">Innocenzo Manzetti</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%A4%E5%88%97%E5%B0%94%E8%8E%AB%C2%B7%E9%A9%AC%E5%8F%AF%E5%B0%BC" title="古列尔莫·马可尼">古列尔莫·马可尼</a></li>
+<li><a href="/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%A2%85%E7%89%B9%E5%8D%A1%E5%A4%AB" title="罗伯特·梅特卡夫">罗伯特·梅特卡夫</a></li>
+<li><a href="/wiki/%E5%AE%89%E6%9D%B1%E5%B0%BC%E5%A5%A7%C2%B7%E7%A9%86%E9%BD%8A" title="安东尼奥·穆齐">安东尼奥·穆齐</a></li>
+<li><a href="/wiki/%E8%A5%BF%E6%BE%A4%E6%BD%A4%E4%B8%80" title="西泽润一">西泽润一</a></li>
+<li><span class="ilh-all" data-orig-title="拉迪亚·佩尔曼" data-lang-code="en" data-lang-name="英语" data-foreign-title="Radia Perlman"><span class="ilh-page"><a href="/w/index.php?title=%E6%8B%89%E8%BF%AA%E4%BA%9A%C2%B7%E4%BD%A9%E5%B0%94%E6%9B%BC&amp;action=edit&amp;redlink=1" class="new" title="拉迪亚·佩尔曼（页面不存在）">拉迪亚·佩尔曼</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Radia_Perlman" class="extiw" title="en:Radia Perlman"><span lang="en" dir="auto">Radia Perlman</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B3%A2%E6%B3%A2%E5%A4%AB" title="亚历山大·波波夫">亚历山大·波波夫</a></li>
+<li><span class="ilh-all" data-orig-title="约翰·菲利普·雷斯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Johann Philipp Reis"><span class="ilh-page"><a href="/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E9%9B%B7%E6%96%AF" title="约翰·菲利普·雷斯">约翰·菲利普·雷斯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Johann_Philipp_Reis" class="extiw" title="en:Johann Philipp Reis"><span lang="en" dir="auto">Johann Philipp Reis</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E9%A6%99%E5%86%9C" title="克劳德·香农">克劳德·香农</a></li>
+<li><span class="ilh-all" data-orig-title="亨利·萨顿 (发明家)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Henry Sutton (inventor)"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%A8%E5%88%A9%C2%B7%E8%90%A8%E9%A1%BF_(%E5%8F%91%E6%98%8E%E5%AE%B6)&amp;action=edit&amp;redlink=1" class="new" title="亨利·萨顿 (发明家)（页面不存在）">亨利·萨顿</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Henry_Sutton_(inventor)" class="extiw" title="en:Henry Sutton (inventor)"><span lang="en" dir="auto">Henry Sutton (inventor)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89" title="尼古拉·特斯拉">尼古拉·特斯拉</a></li>
+<li><span class="ilh-all" data-orig-title="卡米耶·天梭" data-lang-code="en" data-lang-name="英语" data-foreign-title="Camille Tissot"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%A1%E7%B1%B3%E8%80%B6%C2%B7%E5%A4%A9%E6%A2%AD&amp;action=edit&amp;redlink=1" class="new" title="卡米耶·天梭（页面不存在）">卡米耶·天梭</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Camille_Tissot" class="extiw" title="en:Camille Tissot"><span lang="en" dir="auto">Camille Tissot</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E8%8E%B1%E5%BE%B7%C2%B7%E7%BB%B4%E5%B0%94" title="阿尔弗莱德·维尔">阿尔弗莱德·维尔</a></li>
+<li><a href="/wiki/%E6%9F%A5%E7%88%BE%E6%96%AF%C2%B7%E6%83%A0%E6%96%AF%E9%80%9A" title="查尔斯·惠斯通">查尔斯·惠斯通</a></li>
+<li><a href="/wiki/%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E5%B0%94%C2%B7%E4%BD%90%E5%88%A9%E9%87%91" title="弗拉基米尔·佐利金">弗拉基米尔·佐利金</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BC%A0%E8%BE%93%E4%BB%8B%E8%B4%A8" class="mw-redirect" title="传输介质">传输介质</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%90%8C%E8%BD%B4%E7%94%B5%E7%BC%86" title="同轴电缆">同轴电缆</a></li>
+<li><a href="/wiki/%E5%85%89%E7%BA%96%E9%80%9A%E8%A8%8A" title="光纤通信">光纤通信</a>
+<ul><li><a href="/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="光导纤维">光纤</a></li></ul></li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E7%A9%BA%E9%96%93%E5%85%89%E9%80%9A%E4%BF%A1" title="自由空间光通信">自由空间光通信</a></li>
+<li><span class="ilh-all" data-orig-title="分子通信" data-lang-code="en" data-lang-name="英语" data-foreign-title="Molecular communication"><span class="ilh-page"><a href="/w/index.php?title=%E5%88%86%E5%AD%90%E9%80%9A%E4%BF%A1&amp;action=edit&amp;redlink=1" class="new" title="分子通信（页面不存在）">分子通信</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Molecular_communication" class="extiw" title="en:Molecular communication"><span lang="en" dir="auto">Molecular communication</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%97%A0%E7%BA%BF%E7%94%B5" title="无线电">无线电波</a>
+<ul><li><a href="/wiki/%E7%84%A1%E7%B7%9A%E9%80%9A%E8%A8%8A" title="无线通信">无线通信</a></li></ul></li>
+<li><a href="/wiki/%E4%BC%A0%E8%BE%93%E7%BA%BF" title="传输线">传输线</a>
+<ul><li><span class="ilh-all" data-orig-title="数据传输线路" data-lang-code="en" data-lang-name="英语" data-foreign-title="Data transmission circuit"><span class="ilh-page"><a href="/w/index.php?title=%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E7%BA%BF%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="数据传输线路（页面不存在）">数据线路</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Data_transmission_circuit" class="extiw" title="en:Data transmission circuit"><span lang="en" dir="auto">Data transmission circuit</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="电信线路" data-lang-code="en" data-lang-name="英语" data-foreign-title="Telecommunication circuit"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E4%BF%A1%E7%BA%BF%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="电信线路（页面不存在）">电信线路</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Telecommunication_circuit" class="extiw" title="en:Telecommunication circuit"><span lang="en" dir="auto">Telecommunication circuit</span></a></span>）</span></span></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a><br />与交换</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B8%A6%E5%AE%BD_(%E8%AE%A1%E7%AE%97%E6%9C%BA)" title="带宽 (计算机)">带宽</a></li>
+<li><a href="/wiki/%E9%80%9A%E4%BF%A1%E9%93%BE%E8%B7%AF" title="通信链路">通信链路</a></li>
+<li><a href="/wiki/%E8%8A%82%E7%82%B9_(%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C)" title="节点 (电信网络)">节点</a></li>
+<li><span class="ilh-all" data-orig-title="终端 (电信网络)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Terminal (telecommunication)"><span class="ilh-page"><a href="/w/index.php?title=%E7%BB%88%E7%AB%AF_(%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C)&amp;action=edit&amp;redlink=1" class="new" title="终端 (电信网络)（页面不存在）">终端</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Terminal_(telecommunication)" class="extiw" title="en:Terminal (telecommunication)"><span lang="en" dir="auto">Terminal (telecommunication)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8" title="网络交换器">交换器</a>
+<ul><li><a href="/wiki/%E7%94%B5%E8%B7%AF%E4%BA%A4%E6%8D%A2" title="电路交换">电路交换</a></li>
+<li><a href="/wiki/%E5%88%86%E7%BB%84%E4%BA%A4%E6%8D%A2" title="分组交换">分组交换</a></li></ul></li>
+<li><a href="/wiki/%E7%94%B5%E4%BF%A1%E4%BA%A4%E6%8D%A2" title="电信交换">电信交换</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8" title="多路复用">多路复用</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A9%BA%E5%88%86%E5%A4%9A%E5%9D%80" title="空分多址">空分多址</a></li>
+<li><a href="/wiki/%E9%A2%91%E5%88%86%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8" title="频分多路复用">频分多路复用</a></li>
+<li><a href="/wiki/%E6%97%B6%E5%88%86%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8" title="时分多路复用">时分多路复用</a></li>
+<li><span class="ilh-all" data-orig-title="偏振分多路复用" data-lang-code="en" data-lang-name="英语" data-foreign-title="Polarization-division multiplexing"><span class="ilh-page"><a href="/w/index.php?title=%E5%81%8F%E6%8C%AF%E5%88%86%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8&amp;action=edit&amp;redlink=1" class="new" title="偏振分多路复用（页面不存在）">偏振分多路复用</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Polarization-division_multiplexing" class="extiw" title="en:Polarization-division multiplexing"><span lang="en" dir="auto">Polarization-division multiplexing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="轨道角动量多路复用" data-lang-code="en" data-lang-name="英语" data-foreign-title="Orbital angular momentum multiplexing"><span class="ilh-page"><a href="/w/index.php?title=%E8%BD%A8%E9%81%93%E8%A7%92%E5%8A%A8%E9%87%8F%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8&amp;action=edit&amp;redlink=1" class="new" title="轨道角动量多路复用（页面不存在）">轨道角动量多路复用</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Orbital_angular_momentum_multiplexing" class="extiw" title="en:Orbital angular momentum multiplexing"><span lang="en" dir="auto">Orbital angular momentum multiplexing</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%88%86%E7%A2%BC%E5%A4%9A%E9%87%8D%E9%80%B2%E6%8E%A5" title="码分多址">码分多址</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C" title="电信网络">电信网络</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></li>
+<li><a href="/wiki/BITNET" title="BITNET">BITNET</a></li>
+<li><a href="/wiki/%E8%9C%82%E7%AA%9D%E7%BD%91%E7%BB%9C" title="蜂窝网络">蜂窝网络</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">计算机网络</a></li>
+<li><span class="ilh-all" data-orig-title="CYCLADES" data-lang-code="en" data-lang-name="英语" data-foreign-title="CYCLADES"><span class="ilh-page"><a href="/w/index.php?title=CYCLADES&amp;action=edit&amp;redlink=1" class="new" title="CYCLADES（页面不存在）">CYCLADES</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CYCLADES" class="extiw" title="en:CYCLADES"><span lang="en" dir="auto">CYCLADES</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BB%A5%E5%A4%AA%E7%BD%91" title="以太网">以太网</a></li>
+<li><a href="/wiki/FidoNet" title="FidoNet">FidoNet</a></li>
+<li><a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91" title="互联网">互联网</a></li>
+<li><span class="ilh-all" data-orig-title="二代互联网" data-lang-code="en" data-lang-name="英语" data-foreign-title="Internet2"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%8C%E4%BB%A3%E4%BA%92%E8%81%94%E7%BD%91&amp;action=edit&amp;redlink=1" class="new" title="二代互联网（页面不存在）">二代互联网</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Internet2" class="extiw" title="en:Internet2"><span lang="en" dir="auto">Internet2</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BB%BC%E5%90%88%E4%B8%9A%E5%8A%A1%E6%95%B0%E5%AD%97%E7%BD%91" title="综合业务数字网">ISDN</a></li>
+<li><a href="/wiki/%E5%B1%80%E5%9F%9F%E7%BD%91" title="局域网">局域网</a></li>
+<li><span class="ilh-all" data-orig-title="移动通讯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Mobile telephony"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%BB%E5%8A%A8%E9%80%9A%E8%AE%AF&amp;action=edit&amp;redlink=1" class="new" title="移动通信（页面不存在）">移动通信</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Mobile_telephony" class="extiw" title="en:Mobile telephony"><span lang="en" dir="auto">Mobile telephony</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%BD%91%E7%BB%9C" title="下一代网络">下一代网络</a></li>
+<li><span class="ilh-all" data-orig-title="NPL网络" data-lang-code="en" data-lang-name="英语" data-foreign-title="NPL network"><span class="ilh-page"><a href="/w/index.php?title=NPL%E7%BD%91%E7%BB%9C&amp;action=edit&amp;redlink=1" class="new" title="NPL网络（页面不存在）">NPL网络</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/NPL_network" class="extiw" title="en:NPL network"><span lang="en" dir="auto">NPL network</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%85%AC%E5%85%B1%E4%BA%A4%E6%8D%A2%E7%94%B5%E8%AF%9D%E7%BD%91" title="公共交换电话网">公共交换电话网</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8F%B0%E7%B6%B2" title="电台网">电台网</a></li>
+<li><a href="/wiki/%E9%80%9A%E8%A8%8A%E8%A3%9D%E7%BD%AE" title="通信设备">通信设备</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%A6%96%E8%81%AF%E6%92%AD%E7%B6%B2" title="电视联播网">电视网</a></li>
+<li><span class="ilh-all" data-orig-title="电传机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Telex"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E4%BC%A0%E6%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="电传机（页面不存在）">电传机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Telex" class="extiw" title="en:Telex"><span lang="en" dir="auto">Telex</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B9%BF%E5%9F%9F%E7%BD%91" title="广域网">广域网</a></li>
+<li><a href="/wiki/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C" title="无线网络">无线网络</a></li>
+<li><a href="/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91" title="万维网">万维网</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:%E7%94%B5%E4%BF%A1" title="Category:电信">分类</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span> <span typeof="mw:File"><span title="列表级条目"><img alt="列表级条目" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <span class="ilh-all" data-orig-title="电信概述" data-lang-code="en" data-lang-name="英语" data-foreign-title="Outline of telecommunication"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E4%BF%A1%E6%A6%82%E8%BF%B0&amp;action=edit&amp;redlink=1" class="new" title="电信概述（页面不存在）">概述</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Outline_of_telecommunication" class="extiw" title="en:Outline of telecommunication"><span lang="en" dir="auto">Outline of telecommunication</span></a></span>）</span></span><span style="white-space:nowrap; font-weight:bold;">&#160;·</span> <span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Portal:%E7%94%B5%E4%BF%A1" title="Portal:电信">主题</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span> <span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="https://commons.wikimedia.org/wiki/Category:Telecommunications" class="extiw" title="commons:Category:Telecommunications">资源</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐jjn26
+Cached time: 20240331055046
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.514 seconds
+Real time usage: 0.627 seconds
+Preprocessor visited node count: 2200/1000000
+Post‐expand include size: 358259/2097152 bytes
+Template argument size: 2470/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 55/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11431/5000000 bytes
+Lua time usage: 0.205/10.000 seconds
+Lua memory usage: 6534452/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  374.036      1 -total
+ 46.23%  172.906      1 Template:Telecommunications
+ 45.20%  169.073      1 Template:Navbox
+ 28.64%  107.130     49 Template:Link-en
+ 20.24%   75.694      1 Template:Reflist
+ 19.98%   74.750      1 Template:NoteTA
+ 17.78%   66.493      6 Template:Cite_web
+  6.68%   24.998      6 Template:Tsl
+  2.88%   10.758      1 Template:Colbegin
+  2.13%    7.980      4 Template:Icon
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:5546793-0!userlang=zh-cn!zh-cn and timestamp 20240331055046 and revision id 76827386. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=住宅网关&amp;oldid=76827386">https://zh.wikipedia.org/w/index.php?title=住宅网关&amp;oldid=76827386</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%AF%AC%E9%A0%BB" title="Category:寬頻">宽频</a></li><li><a href="/wiki/Category:%E7%B6%B2%E8%B7%AF%E7%A1%AC%E9%AB%94" title="Category:網路硬體">网络硬件</a></li><li><a href="/wiki/Category:%E7%94%B5%E4%BF%A1%E8%AE%BE%E5%A4%87" title="Category:电信设备">电信设备</a></li><li><a href="/w/index.php?title=Category:%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%BE%E5%A4%87&amp;action=edit&amp;redlink=1" class="new" title="Category:服务器设备（页面不存在）">服务器设备</a></li><li><a href="/w/index.php?title=Category:%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="Category:家庭服务器（页面不存在）">家庭服务器</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年4月15日 (星期六) 13:50。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-42hr8","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"0.514","walltime":"0.627","ppvisitednodes":{"value":2200,"limit":1000000},"postexpandincludesize":{"value":358259,"limit":2097152},"templateargumentsize":{"value":2470,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":55,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11431,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  374.036      1 -total"," 46.23%  172.906      1 Template:Telecommunications"," 45.20%  169.073      1 Template:Navbox"," 28.64%  107.130     49 Template:Link-en"," 20.24%   75.694      1 Template:Reflist"," 19.98%   74.750      1 Template:NoteTA"," 17.78%   66.493      6 Template:Cite_web","  6.68%   24.998      6 Template:Tsl","  2.88%   10.758      1 Template:Colbegin","  2.13%    7.980      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.205","limit":"10.000"},"limitreport-memusage":{"value":6534452,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-jjn26","timestamp":"20240331055046","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u4f4f\u5b85\u7f51\u5173","url":"https:\/\/zh.wikipedia.org\/wiki\/%E4%BD%8F%E5%AE%85%E7%BD%91%E5%85%B3","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1755130","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1755130","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-12-31T11:00:01Z","dateModified":"2023-04-15T13:50:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b4\/EPC3925.jpg"}</script>
+</body>
+</html>

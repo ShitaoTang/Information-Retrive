@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>直流电 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"abfdb294-76c2-404f-bd4c-55c3b60db8c7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"直流電","wgTitle":"直流電","wgCurRevisionId":79620385,"wgRevisionId":79620385,"wgArticleId":46130,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2015年11月粗劣翻译","自2008年9月扩充中的条目","含有英語的條目","包含BNF标识符的维基百科条目","包含FAST标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NKC标识符的维基百科条目","電流","電力工程","电路","电力学"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"直流電","wgRelevantArticleId":46130,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"直流电","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,
+"wgWikibaseItemId":"Q159241","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site",
+"mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/1200px-Current_rectification_diagram.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1114">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/800px-Current_rectification_diagram.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="742">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/640px-Current_rectification_diagram.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="594">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="直流电 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-直流電 rootpage-直流電 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%9B%B4%E6%B5%81%E9%9B%BB" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%9B%B4%E6%B5%81%E9%9B%BB" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%9B%B4%E6%B5%81%E9%9B%BB" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%9B%B4%E6%B5%81%E9%9B%BB" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-应用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#应用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>应用</div>
+		</a>
+		
+		<ul id="toc-应用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-电路"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#电路">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>电路</div>
+		</a>
+		
+		<ul id="toc-电路-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參看"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參看">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>参看</div>
+		</a>
+		
+		<ul id="toc-參看-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">直流电</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。84种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-84" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">84种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Gelykstroom" title="Gelykstroom – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%89%80%E1%8C%A5%E1%89%B0%E1%8A%9B_%E1%8C%85%E1%88%A8%E1%89%B5" title="ቀጥተኛ ጅረት – 阿姆哈拉语" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Corrient_contina" title="Corrient contina – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%A7%D8%B1_%D9%85%D8%B3%D8%AA%D9%85%D8%B1" title="تيار مستمر – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Corriente_continua" title="Corriente continua – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Sabit_c%C9%99r%C9%99yan" title="Sabit cərəyan – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Gleichstraum" title="Gleichstraum – 巴伐利亞文" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B0%D1%8F%D0%BD%D0%BD%D1%8B_%D1%82%D0%BE%D0%BA" title="Пастаянны ток – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B5%D0%BD_%D1%82%D0%BE%D0%BA" title="Постоянен ток – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%95%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9" title="একমুখী বিদ্যুৎ প্রবাহ – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Istosmjerna_struja" title="Istosmjerna struja – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Corrent_continu" title="Corrent continu – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%95%D8%B2%D9%88%D9%88%DB%8C_%D9%86%DB%95%DA%AF%DB%86%DA%95" title="تەزووی نەگۆڕ – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Stejnosm%C4%9Brn%C3%BD_proud" title="Stejnosměrný proud – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A3%D0%BB%D1%88%C4%83%D0%BD%D1%83%D1%81%C4%83%D1%80_%D1%82%D0%BE%D0%BA" title="Улшăнусăр ток – 楚瓦什语" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/J%C3%A6vnstr%C3%B8m" title="Jævnstrøm – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Gleichstrom" title="Gleichstrom – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BD%CE%B5%CF%87%CE%AD%CF%82_%CF%81%CE%B5%CF%8D%CE%BC%CE%B1" title="Συνεχές ρεύμα – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Direct_current" title="Direct current – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kontinua_kurento" title="Kontinua kurento – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Corriente_continua" title="Corriente continua – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Alalisvool" title="Alalisvool – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Korronte_zuzen" title="Korronte zuzen – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%DB%8C%D8%A7%D9%86_%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85" title="جریان مستقیم – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tasavirta" title="Tasavirta – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Courant_continu" title="Courant continu – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Likstruum" title="Likstruum – 北弗里西亚语" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Corrente_continua" title="Corrente continua – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%96%D7%A8%D7%9D_%D7%99%D7%A9%D7%A8" title="זרם ישר – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F_%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE" title="दिष्ट धारा – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Istosmjerna_struja" title="Istosmjerna struja – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Kouran_dir%C3%A8k_(DC)" title="Kouran dirèk (DC) – 海地克里奥尔语" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Egyen%C3%A1ram" title="Egyenáram – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%BD%D5%BF%D5%A1%D5%BF%D5%B8%D6%82%D5%B6_%D5%B0%D5%B8%D5%BD%D5%A1%D5%B6%D6%84" title="Հաստատուն հոսանք – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Arus_searah" title="Arus searah – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Jafnstraumur" title="Jafnstraumur – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Corrente_continua" title="Corrente continua – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81" title="直流 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D2%B1%D1%80%D0%B0%D2%9B%D1%82%D1%8B_%D1%82%D0%BE%D0%BA" title="Тұрақты ток – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A7%81%EB%A5%98" title="직류 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%83_%D1%82%D0%BE%D0%BA" title="Туруктуу ток – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/Gelieksjtroum" title="Gelieksjtroum – 林堡语" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Corrent_continua" title="Corrent continua – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Nuolatin%C4%97_elektros_srov%C4%97" title="Nuolatinė elektros srovė – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/L%C4%ABdzstr%C4%81va" title="Līdzstrāva – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%95%D0%B4%D0%BD%D0%BE%D0%BD%D0%B0%D1%81%D0%BE%D1%87%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B0" title="Еднонасочна струја – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%87%E0%B5%BC%E0%B4%A7%E0%B4%BE%E0%B4%B0%E0%B4%BE_%E0%B4%B5%E0%B5%88%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B5%81%E0%B4%A4%E0%B4%BF" title="നേർധാരാ വൈദ്യുതി – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B3%D1%82%D0%BC%D0%BE%D0%BB_%D0%B3%D2%AF%D0%B9%D0%B4%D1%8D%D0%BB" title="Тогтмол гүйдэл – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Arus_terus" title="Arus terus – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%90%E1%80%8A%E1%80%BA%E1%80%84%E1%80%BC%E1%80%AD%E1%80%99%E1%80%BA%E1%80%9C%E1%80%BB%E1%80%BE%E1%80%95%E1%80%BA%E1%80%85%E1%80%85%E1%80%BA" title="တည်ငြိမ်လျှပ်စစ် – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4" title="डिसी विद्युत – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Gelijkstroom" title="Gelijkstroom – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Likestraum" title="Likestraum – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Likestr%C3%B8m" title="Likestrøm – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Corrent_contin%C3%BA" title="Corrent continú – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A8%BF%E0%A8%9C%E0%A8%B2%E0%A9%80_%E0%A8%A6%E0%A9%80_%E0%A8%B8%E0%A8%BF%E0%A9%B1%E0%A8%A7%E0%A9%80_%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%B5%E0%A8%BE%E0%A8%B9%E0%A8%BF%E0%A8%A4_%E0%A8%A7%E0%A8%BE%E0%A8%B0%E0%A8%BE" title="ਬਿਜਲੀ ਦੀ ਸਿੱਧੀ ਪ੍ਰਵਾਹਿਤ ਧਾਰਾ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Pr%C4%85d_sta%C5%82y" title="Prąd stały – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%DA%88%D8%B1%DB%8C%DA%A9%D9%B9_%DA%A9%D8%B1%D9%86%D9%B9" title="ڈریکٹ کرنٹ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Corrente_cont%C3%ADnua" title="Corrente contínua – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Curent_continuu" title="Curent continuu – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BA" title="Постоянный ток – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Jednosmjerna_struja" title="Jednosmjerna struja – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Direct_current" title="Direct current – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Jednosmern%C3%BD_pr%C3%BAd" title="Jednosmerný prúd – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Enosmerni_elektri%C4%8Dni_tok" title="Enosmerni električni tok – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Rryma_e_vazhduar" title="Rryma e vazhduar – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%88%D0%B5%D0%B4%D0%BD%D0%BE%D1%81%D0%BC%D0%B5%D1%80%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D1%83%D1%98%D0%B0" title="Једносмерна струја – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-stq mw-list-item"><a href="https://stq.wikipedia.org/wiki/Glieksponnenge" title="Glieksponnenge – 沙特菲士蘭文" lang="stq" hreflang="stq" class="interlanguage-link-target"><span>Seeltersk</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Arus_listrik_saarah" title="Arus listrik saarah – 巽他语" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Likstr%C3%B6m" title="Likström – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="நேர் மின்னோட்டம் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%8F%E0%B0%95%E0%B0%AE%E0%B1%81%E0%B0%96_%E0%B0%B5%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B1%81%E0%B0%A4%E0%B1%8D_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%B5%E0%B0%BE%E0%B0%B9%E0%B0%82" title="ఏకముఖ విద్యుత్ ప్రవాహం – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%87" title="ไฟฟ้ากระแสตรง – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Direct_current" title="Direct current – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Do%C4%9Fru_ak%C4%B1m" title="Doğru akım – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D1%83%D0%BC" title="Постійний струм – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B3%D8%AA_%D8%B1%D9%88" title="راست رو – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/O%CA%BBzgarmas_tok" title="Oʻzgarmas tok – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_m%E1%BB%99t_chi%E1%BB%81u" title="Điện một chiều – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Direct_current" title="Direct current – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wo mw-list-item"><a href="https://wo.wikipedia.org/wiki/Dawaan_gu_w%C3%A9y" title="Dawaan gu wéy – 沃洛夫语" lang="wo" hreflang="wo" class="interlanguage-link-target"><span>Wolof</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E7%94%B5" title="直流电 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Ti%CC%8Dt-li%C3%BB" title="Ti̍t-liû – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E4%B9%BE%E9%9B%BB" title="乾電 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q159241#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E7%9B%B4%E6%B5%81%E9%9B%BB" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E7%9B%B4%E6%B5%81%E9%9B%BB" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E7%9B%B4%E6%B5%81%E9%9B%BB" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;oldid=79620385" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;id=79620385&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%259B%25B4%25E6%25B5%2581%25E9%259B%25BB"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%259B%25B4%25E6%25B5%2581%25E9%259B%25BB"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q159241" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Direct_current" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E7%94%B5&amp;redirect=no" class="mw-redirect" title="直流电">直流电</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Rough_translation plainlinks metadata ambox ambox-style ambox-rough_translation" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Translation_to_zh_arrow.svg" class="mw-file-description" title="翻译标记"><img alt="翻译标记" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b><a href="/wiki/Wikipedia:%E7%BF%BB%E8%AD%AF%E6%8C%87%E5%BC%95" title="Wikipedia:翻译指引">翻译</a>品质不佳。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2015年11月3日</span>)</i></small><span class="hide-when-compact"><br /><small>翻译者可能不熟悉中文或原文语言，也可能使用了<a href="/wiki/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91" title="机器翻译">机器翻译</a>。请<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit">协助翻译</a>本条目或重新编写，并注意避免<a href="/wiki/Wikipedia:TNESE" class="mw-redirect" title="Wikipedia:TNESE">翻译腔</a>的问题。<b>明显拙劣</b>的翻译请改挂<code>{{<a href="/wiki/Template:D" class="mw-redirect" title="Template:D">d</a>&#124;<a href="/wiki/Wikipedia:CSD#G13" class="mw-redirect" title="Wikipedia:CSD">G13</a>}}</code>提交删除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expand plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Antistub.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/44px-Antistub.svg.png" decoding="async" width="44" height="44" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/66px-Antistub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Antistub.svg/88px-Antistub.svg.png 2x" data-file-width="200" data-file-height="200" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要扩充。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2008年9月17日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit">改善这篇条目</a>，更进一步的信息可能会在<a href="/wiki/Talk:%E7%9B%B4%E6%B5%81%E9%9B%BB" title="Talk:直流电">讨论页</a>或<a href="/wiki/Wikipedia:%E6%89%A9%E5%85%85%E8%AF%B7%E6%B1%82" title="Wikipedia:扩充请求">扩充请求</a>中找到。请在扩充条目后将此模板移除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Current_rectification_diagram.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/300px-Current_rectification_diagram.svg.png" decoding="async" width="300" height="278" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/450px-Current_rectification_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Current_rectification_diagram.svg/600px-Current_rectification_diagram.svg.png 2x" data-file-width="680" data-file-height="631" /></a><figcaption>不同波形的直流电，由上到下：<a href="/wiki/%E9%9B%BB%E6%B1%A0" class="mw-redirect" title="电池">电池</a>、半波<a href="/wiki/%E6%95%B4%E6%B5%81%E5%99%A8" title="整流器">整流器</a>和全波整流器。横轴是<a href="/wiki/%E6%99%82%E9%96%93" class="mw-redirect" title="时间">时间</a>，纵轴是<a href="/wiki/%E8%A7%92%E9%80%9F%E5%BA%A6" title="角速度">角速度</a></figcaption></figure>
+<p><b>直流电</b>（<span lang="en">direct current</span>），是指电荷流动方向唯一的电流。最典型的电子元件例如直流电源。直流电一般可以通过导体例如导线，但是也可以通过半导体、绝缘体，甚至可以以电子或离子束的形式穿过真空。区别于<a href="/wiki/%E4%BA%A4%E6%B5%81%E7%94%B5" class="mw-redirect" title="交流电">交流电</a>（<span lang="en">alternating current</span>），直流电的电流方向是不变的。以前的术语称作<span lang="en">galvanic current</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。
+</p><p>缩写<i>AC</i>和<i>DC</i>也经常被用来表示简单的“交”和“直”，因为其既可表示<i><a href="/wiki/%E7%94%B5%E6%B5%81" title="电流">电流</a></i>也可用来表示<i><a href="/wiki/%E7%94%B5%E5%8E%8B" class="mw-redirect" title="电压">电压</a></i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。
+</p><p>第一个商业化的电力传输是由<a href="/wiki/%E6%89%98%E9%A6%AC%E6%96%AF%C2%B7%E6%84%9B%E8%BF%AA%E7%94%9F" class="mw-redirect" title="托马斯·爱迪生">托马斯·爱迪生</a>在十九世纪后期开发的110伏特直流电。然而由于在传输和电压转换的差异，目前几乎所有的电力分配都为<a href="/wiki/%E4%BA%A4%E6%B5%81%E7%94%B5" class="mw-redirect" title="交流电">交流电</a>。在20世纪50年代中期，曾经发展过<a href="/wiki/HVDC" class="mw-redirect" title="HVDC">超高压直流电系统</a>，现在该技术是在远程及水下电力传输上，除了高压交流电以外的另一种选项然而并不常见。但是特种应用要求上，如一些使用<a href="/wiki/%E7%AC%AC%E4%B8%89%E8%BB%8C%E4%BE%9B%E9%9B%BB" title="第三轨供电">第三轨供电</a>或<a href="/wiki/%E6%9E%B6%E7%A9%BA%E9%9B%BB%E8%BB%8A%E7%B7%9A" class="mw-redirect" title="架空电车线">架空电车线</a>的<a href="/wiki/%E9%93%81%E8%B7%AF" class="mw-redirect" title="铁路">铁路</a>电力系统还是用直流电，交流电被分配到一个<a href="/wiki/%E5%8F%98%E7%94%B5%E7%AB%99" class="mw-redirect" title="变电站">变电站</a>利用一个整流器转换为直流电。
+</p><p>而末端应用上却是直流电的天下，尤其是在科技发达的地区（如<a href="/wiki/%E5%8A%A0%E5%B7%9E" class="mw-redirect" title="加州">加州</a>的<a href="/wiki/%E7%A1%85%E8%B0%B7" title="硅谷">硅谷</a>等），目前几乎所有充电器都使用直流电对<a href="/wiki/%E7%94%B5%E6%B1%A0" title="电池">电池</a>进行充电，且在几乎所有电子科技系统中作为电源。直流电还用于生产<a href="/wiki/%E9%93%9D" title="铝">铝</a>以及其它的化学物质过程中。更多关于直流电的应用包括铁路推进，尤其是在城市地区的<a href="/wiki/%E6%8D%B7%E9%81%8B" title="捷运">捷运</a>，顺著捷运路线建立了直接输出高压直流电的电网。
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Brush_central_power_station_dynamos_New_York_1881.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brush_central_power_station_dynamos_New_York_1881.jpg/300px-Brush_central_power_station_dynamos_New_York_1881.jpg" decoding="async" width="300" height="108" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brush_central_power_station_dynamos_New_York_1881.jpg/450px-Brush_central_power_station_dynamos_New_York_1881.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/90/Brush_central_power_station_dynamos_New_York_1881.jpg 2x" data-file-width="540" data-file-height="194" /></a><figcaption>1880年的爱迪生直流发电机，后连接了一个3.2公里长的输电线</figcaption></figure>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.BA.94.E7.94.A8"></span><span class="mw-headline" id="应用">应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit&amp;section=1" title="编辑章节：应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Direct_current_symbol.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Direct_current_symbol.svg/150px-Direct_current_symbol.svg.png" decoding="async" width="150" height="60" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Direct_current_symbol.svg/225px-Direct_current_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Direct_current_symbol.svg/300px-Direct_current_symbol.svg.png 2x" data-file-width="250" data-file-height="100" /></a><figcaption>直流电压源或使用直流电的装置会印有此符号</figcaption></figure>
+<p>直流装置通常有不同类型的插座、开关、和固定装置，这主要是由于所使用的低电压来自于那些适合使用的交变电流。通常对于使用直接电流的设备来说不能反接，这点很重要，除非该器件有二极管桥来纠正（使用电池供电的大多数设备则不需要——电池插槽本身即可防止装反）。
+</p><p>直流Unicode符号为：U+2393（⎓）。
+</p><p>直流电在许多特低电压与低电压器件中很常见，尤其是这些设备由只能产生直流电的电池供电。使用太阳能发电系统也可以，因为太阳能电池只能产生直流电。大多数汽车零配件使用直流电，虽然这些电是由交流电装置透过整流装置输出直流电的。大多数电子电路需要使用直流电源供电。使用燃料电池的器件（混合氢气与氧气及催化剂来产生电能以及作为副产物的水）同样只能使用直流电。
+</p><p>绝大多数汽车零配件使用12V直流电，少数使用6V或24V电源系统。
+</p><p>轻型飞机电气系统通常使用12V或28V。
+</p><p>通过使用DC-DC转换器，诸如48V至72V的高直流电压可以降压成36V、24V、18V、12V或5V的电压，用以提供不同的负载。电信系统工作在48V的直流电当中，对于使用<a href="/wiki/DC-DC%E8%BD%89%E6%8F%9B%E5%99%A8" class="mw-redirect" title="DC-DC转换器">DC-DC转换器</a>压到12V至24V的电压来说更有效率，而且供电设备可以在自己的工作电压负载中就直接利用逆变器去把48V直流电转换成120V交流电提供电力给其他设备。
+</p><p>许多连接电话的双绞线电线会使用偏置T型接头，把使用交流电压的一对线（语音信号）与使用直流电的另一对线（为电话供电）分隔开。
+</p><p>像<a href="/wiki/DSLAM" class="mw-redirect" title="DSLAM">DSLAM</a>这样的电话交换通信设备使用标准的-48V直流电源。负极是由发电机与电池组的正极接地而实现的。这样做是为了防止电解沉积。
+</p>
+<h2><span id=".E7.94.B5.E8.B7.AF"></span><span class="mw-headline" id="电路">电路</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit&amp;section=2" title="编辑章节：电路"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>如果将电容器或电感添加到直流电路中, 则严格地说, 由此产生的电路不是直流电路。但是, 大多数此类电路都有直流解决方案。该解决方案给出了电路处于直流稳态时的电路电压和电流。这样的电路由一个微分方程系统表示。这些方程的解通常包括时变或瞬态部分以及常数或稳态部分。正是这种稳态部分才是直流解决方案。
+</p>
+<h2><span id=".E5.8F.83.E7.9C.8B"></span><span class="mw-headline" id="參看">参看</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit&amp;section=3" title="编辑章节：参看"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">交流电</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%B5%81%E6%88%98%E4%BA%89" title="电流战争">电流战争</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;action=edit&amp;section=4" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Andrew J. Robinson, Lynn Snyder-Mackler. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=C2-9bcIjPBsC&amp;q=%22galvanic+current%22+%22direct+current%22&amp;pg=PA10">Clinical Electrophysiology: Electrotherapy and Electrophysiologic Testing</a> 3rd. <a href="/w/index.php?title=Lippincott_Williams_%26_Wilkins&amp;action=edit&amp;redlink=1" class="new" title="Lippincott Williams &amp; Wilkins（页面不存在）">Lippincott Williams &amp; Wilkins</a>. 2007: 10 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-21</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7817-4484-3" title="Special:网络书源/978-0-7817-4484-3"><span title="国际标准书号">ISBN</span>&#160;978-0-7817-4484-3</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210411015347/https://books.google.com/books?id=C2-9bcIjPBsC&amp;q=%22galvanic+current%22+%22direct+current%22&amp;pg=PA10">存档</a>于2021-04-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;rft.au=Andrew+J.+Robinson%2C+Lynn+Snyder-Mackler&amp;rft.btitle=Clinical+Electrophysiology%3A+Electrotherapy+and+Electrophysiologic+Testing&amp;rft.date=2007&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=978-0-7817-4484-3&amp;rft.pages=10&amp;rft.pub=Lippincott+Williams+%26+Wilkins&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DC2-9bcIjPBsC%26q%3D%2522galvanic%2Bcurrent%2522%2B%2522direct%2Bcurrent%2522%26pg%3DPA10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">N. N. Bhargava and D. C. Kulshrishtha. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=C5bt-oRuUzwC&amp;pg=PA90">Basic Electronics &amp; Linear Circuits</a>. <a href="/w/index.php?title=Tata_McGraw-Hill_Education&amp;action=edit&amp;redlink=1" class="new" title="Tata McGraw-Hill Education（页面不存在）">Tata McGraw-Hill Education</a>. 1984: 90 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-21</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-07-451965-3" title="Special:网络书源/978-0-07-451965-3"><span title="国际标准书号">ISBN</span>&#160;978-0-07-451965-3</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210411015352/https://books.google.com/books?id=C5bt-oRuUzwC&amp;pg=PA90">存档</a>于2021-04-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;rft.au=N.+N.+Bhargava+and+D.+C.+Kulshrishtha&amp;rft.btitle=Basic+Electronics+%26+Linear+Circuits&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=978-0-07-451965-3&amp;rft.pages=90&amp;rft.pub=Tata+McGraw-Hill+Education&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DC5bt-oRuUzwC%26pg%3DPA90&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">National Electric Light Association. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZEpWAAAAMAAJ&amp;pg=PA81">Electrical meterman's handbook</a>. Trow Press. 1915: 81 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-21</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210411015357/https://books.google.com/books?id=ZEpWAAAAMAAJ&amp;pg=PA81">存档</a>于2021-04-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;rft.au=National+Electric+Light+Association&amp;rft.btitle=Electrical+meterman%27s+handbook&amp;rft.date=1915&amp;rft.genre=book&amp;rft.pages=81&amp;rft.pub=Trow+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZEpWAAAAMAAJ%26pg%3DPA81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E4%BE%9B%E9%9B%BB" title="Template:供电"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E4%BE%9B%E9%9B%BB" title="Template talk:供电"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E4%BE%9B%E9%9B%BB&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%">供电</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">电学概念</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB%E5%8A%9B" title="电力">电力</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%A3%93" title="电压">电压</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%B5%81" title="电流">电流</a></li>
+<li><a href="/wiki/%E5%B7%A5%E9%A2%91" title="工频">工频</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8A%9F%E7%8E%87" title="电功率">电功率</a></li>
+<li><a href="/wiki/%E4%BA%A4%E6%B5%81%E7%94%B5%E5%8A%9F%E7%8E%87" title="交流电功率">交流电功率</a></li>
+<li><a href="/wiki/%E5%8A%9F%E7%8E%87%E5%9B%A0%E6%95%B0" title="功率因数">功率因数</a></li>
+<li><a href="/wiki/%E9%AB%98%E5%A3%93%E9%9B%BB" title="高压电">高压电</a></li>
+<li><a class="mw-selflink selflink">直流电</a></li>
+<li><a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">交流电</a>
+<ul><li><a href="/wiki/%E5%96%AE%E7%9B%B8%E9%9B%BB" title="单相电">单相电</a></li>
+<li><a href="/wiki/%E4%B8%89%E7%9B%B8%E9%9B%BB" title="三相电">三相电</a></li></ul></li>
+<li><a href="/wiki/%E9%A1%8D%E5%AE%9A%E5%AE%B9%E9%87%8F" title="额定容量">额定容量</a></li>
+<li><a href="/wiki/%E4%B8%89%E7%9B%B8_(%E7%94%B5%E5%AD%A6)" title="三相 (电学)">三相</a></li>
+<li><a href="/wiki/%E4%B8%AD%E6%80%A7%E5%B0%8E%E9%AB%94" title="中性导体">中线</a></li>
+<li><a href="/wiki/%E6%8E%A5%E5%9C%B0" title="接地">接地</a></li>
+<li><a href="/wiki/%E7%9F%AD%E8%B7%AF%E6%AF%94" title="短路比">短路比</a></li>
+<li><span class="ilh-all" data-orig-title="需求因數" data-lang-code="en" data-lang-name="英语" data-foreign-title="Demand factor"><span class="ilh-page"><a href="/w/index.php?title=%E9%9C%80%E6%B1%82%E5%9B%A0%E6%95%B8&amp;action=edit&amp;redlink=1" class="new" title="需求因数（页面不存在）">需求因数</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Demand_factor" class="extiw" title="en:Demand factor"><span lang="en" dir="auto">Demand factor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="供電質素" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electric power quality"><span class="ilh-page"><a href="/w/index.php?title=%E4%BE%9B%E9%9B%BB%E8%B3%AA%E7%B4%A0&amp;action=edit&amp;redlink=1" class="new" title="供电质素（页面不存在）">供电质素</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electric_power_quality" class="extiw" title="en:Electric power quality"><span lang="en" dir="auto">Electric power quality</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8A%9B%E6%BD%AE%E6%B5%81" title="电力潮流">电力潮流</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">能量来源</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/%E4%B8%8D%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90" title="不可再生能源">不可再生</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%85%A4" title="煤">煤</a></li>
+<li><a href="/wiki/%E5%A4%A9%E7%84%B6%E6%B0%94" title="天然气">天然气</a></li>
+<li><a href="/wiki/%E7%9F%B3%E6%B2%B9" title="石油">石油</a></li>
+<li><a href="/wiki/%E6%A0%B8%E5%8B%95%E5%8A%9B" title="核动力">核动力</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90" title="可再生能源">可再生</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="高變動性再生能源" data-lang-code="en" data-lang-name="英语" data-foreign-title="Variable renewable energy"><span class="ilh-page"><a href="/w/index.php?title=%E9%AB%98%E8%AE%8A%E5%8B%95%E6%80%A7%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90&amp;action=edit&amp;redlink=1" class="new" title="高变动性再生能源（页面不存在）">高变动性再生能源</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Variable_renewable_energy" class="extiw" title="en:Variable renewable energy"><span lang="en" dir="auto">Variable renewable energy</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E8%B4%A8" title="生物质">生物质</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E7%87%83%E6%96%99" title="生物燃料">生物燃料</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%86%B1%E8%83%BD%E7%99%BC%E9%9B%BB" title="地热能发电">地热能</a></li>
+<li><a href="/wiki/%E6%B0%B4%E5%8A%9B%E7%99%BC%E9%9B%BB" title="水力发电">水力</a></li>
+<li><a href="/wiki/%E6%B5%B7%E6%B4%8B%E8%83%BD" title="海洋能">海洋能</a>
+<ul><li><a href="/wiki/%E6%B5%B7%E6%B5%81%E8%83%BD" title="海流能">海流能</a></li>
+<li><a href="/wiki/%E6%B5%B7%E6%B0%B4%E9%B9%BD%E5%B7%AE%E8%83%BD" title="海水盐差能">海水盐差能</a></li>
+<li><a href="/wiki/%E6%B5%B7%E6%B0%B4%E6%BA%AB%E5%B7%AE%E7%99%BC%E9%9B%BB" title="海水温差发电">海水温差</a></li>
+<li><a href="/wiki/%E6%BD%AE%E6%B1%90%E8%83%BD" title="潮汐能">潮汐能</a></li>
+<li><a href="/wiki/%E6%B3%A2%E6%B5%AA%E8%83%BD" title="波浪能">波浪能</a></li></ul></li>
+<li><a href="/wiki/%E5%A4%AA%E9%99%BD%E8%83%BD%E7%99%BC%E9%9B%BB" title="太阳能发电">太阳能</a></li>
+<li><a href="/wiki/%E9%A2%A8%E8%83%BD" title="风能">风能</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%99%BC%E9%9B%BB" title="发电">发电</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7em">发电厂及设备</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%81%AB%E5%8A%9B%E7%99%BC%E9%9B%BB%E5%BB%A0" title="火力发电厂">火力发电厂</a></li>
+<li><a href="/wiki/%E6%A0%B8%E8%83%BD%E7%99%BC%E9%9B%BB%E5%BB%A0" class="mw-redirect" title="核能发电厂">核能发电厂</a></li>
+<li><a href="/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E5%9C%BA" class="mw-redirect" title="风力发电场">风力发电场</a></li>
+<li><span class="ilh-all" data-orig-title="太陽能發電場" data-lang-code="en" data-lang-name="英语" data-foreign-title="Photovoltaic power station"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%AA%E9%99%BD%E8%83%BD%E7%99%BC%E9%9B%BB%E5%A0%B4&amp;action=edit&amp;redlink=1" class="new" title="太阳能发电场（页面不存在）">太阳能发电场</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Photovoltaic_power_station" class="extiw" title="en:Photovoltaic power station"><span lang="en" dir="auto">Photovoltaic power station</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BD%AE%E6%B1%90%E7%99%BC%E9%9B%BB" title="潮汐发电">潮汐发电厂</a></li>
+<li><a href="/wiki/%E5%9F%BA%E6%9C%AC%E8%B2%A0%E8%BC%89%E7%99%BC%E9%9B%BB%E5%BB%A0" title="基本负载发电厂">基本负载发电厂</a></li>
+<li><a href="/wiki/%E5%B0%96%E5%B3%B0%E8%B2%A0%E8%BC%89%E7%99%BC%E9%9B%BB%E5%BB%A0" title="尖峰负载发电厂">尖峰负载发电厂</a></li>
+<li><span class="ilh-all" data-orig-title="負載追隨發電廠" data-lang-code="en" data-lang-name="英语" data-foreign-title="Load following power plant"><span class="ilh-page"><a href="/w/index.php?title=%E8%B2%A0%E8%BC%89%E8%BF%BD%E9%9A%A8%E7%99%BC%E9%9B%BB%E5%BB%A0&amp;action=edit&amp;redlink=1" class="new" title="负载追随发电厂（页面不存在）">负载追随发电厂</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Load_following_power_plant" class="extiw" title="en:Load following power plant"><span lang="en" dir="auto">Load following power plant</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8A%BD%E6%B0%B4%E8%93%84%E8%83%BD%E7%94%B5%E7%AB%99" title="抽水蓄能电站">抽水蓄能电站</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E9%9B%BB%E5%BB%A0" title="虚拟电厂">虚拟电厂</a></li>
+<li><a href="/wiki/%E5%86%B7%E5%8D%BB%E5%A1%94" title="冷却塔">冷却塔</a></li>
+<li><span class="ilh-all" data-orig-title="異步發電機" data-lang-code="en" data-lang-name="英语" data-foreign-title="Induction generator"><span class="ilh-page"><a href="/w/index.php?title=%E7%95%B0%E6%AD%A5%E7%99%BC%E9%9B%BB%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="异步发电机（页面不存在）">异步发电机</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Induction_generator" class="extiw" title="en:Induction generator"><span lang="en" dir="auto">Induction generator</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%BE%AE%E5%9E%8B%E7%99%BC%E9%9B%BB" title="微型发电">微型发电</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">发电理论</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%83%AD%E7%94%B5%E8%81%94%E4%BA%A7" title="热电联产">热电联产</a>
+<ul><li><a href="/wiki/%E5%BE%AE%E5%9E%8B%E7%83%AD%E7%94%B5%E8%81%94%E4%BA%A7" title="微型热电联产">微型热电联产</a></li></ul></li>
+<li><a href="/wiki/%E8%81%94%E5%90%88%E5%BE%AA%E7%8E%AF" title="联合循环">联合循环</a></li>
+<li><a href="/wiki/%E6%9C%97%E8%82%AF%E5%BE%AA%E7%8E%AF" title="朗肯循环">朗肯循环</a></li>
+<li><a href="/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E7%99%BC%E9%9B%BB" title="分散式发电">分散式发电</a></li>
+<li><span class="ilh-all" data-orig-title="可用率因數" data-lang-code="en" data-lang-name="英语" data-foreign-title="Availability factor"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%AF%E7%94%A8%E7%8E%87%E5%9B%A0%E6%95%B8&amp;action=edit&amp;redlink=1" class="new" title="可用率因数（页面不存在）">可用率因数</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Availability_factor" class="extiw" title="en:Availability factor"><span lang="en" dir="auto">Availability factor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="自動發電控制" data-lang-code="en" data-lang-name="英语" data-foreign-title="Automatic generation control"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E5%8B%95%E7%99%BC%E9%9B%BB%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="自动发电控制（页面不存在）">自动发电控制</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Automatic_generation_control" class="extiw" title="en:Automatic generation control"><span lang="en" dir="auto">Automatic generation control</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="發電機啟停順序" data-lang-code="en" data-lang-name="英语" data-foreign-title="Merit order"><span class="ilh-page"><a href="/w/index.php?title=%E7%99%BC%E9%9B%BB%E6%A9%9F%E5%95%9F%E5%81%9C%E9%A0%86%E5%BA%8F&amp;action=edit&amp;redlink=1" class="new" title="发电机启停顺序（页面不存在）">发电机启停顺序</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Merit_order" class="extiw" title="en:Merit order"><span lang="en" dir="auto">Merit order</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%8B%E5%9E%82%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6" title="下垂速度控制">下垂速度控制</a></li>
+<li><span class="ilh-all" data-orig-title="能源投入回報比" data-lang-code="en" data-lang-name="英语" data-foreign-title="Energy return on investment"><span class="ilh-page"><a href="/w/index.php?title=%E8%83%BD%E6%BA%90%E6%8A%95%E5%85%A5%E5%9B%9E%E5%A0%B1%E6%AF%94&amp;action=edit&amp;redlink=1" class="new" title="能源投入回报比（页面不存在）">能源投入回报比</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Energy_return_on_investment" class="extiw" title="en:Energy return on investment"><span lang="en" dir="auto">Energy return on investment</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%9F%AD%E8%B7%AF%E6%AF%94" title="短路比">短路比</a></li>
+<li><a href="/wiki/%E8%B2%A0%E8%BC%89%E5%9B%A0%E6%95%B8" title="负载因数">负载因数</a></li>
+<li><span class="ilh-all" data-orig-title="增容改造" data-lang-code="en" data-lang-name="英语" data-foreign-title="Repowering"><span class="ilh-page"><a href="/w/index.php?title=%E5%A2%9E%E5%AE%B9%E6%94%B9%E9%80%A0&amp;action=edit&amp;redlink=1" class="new" title="增容改造（页面不存在）">增容改造</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Repowering" class="extiw" title="en:Repowering"><span lang="en" dir="auto">Repowering</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="頂峰需求" data-lang-code="en" data-lang-name="英语" data-foreign-title="Peak demand"><span class="ilh-page"><a href="/w/index.php?title=%E9%A0%82%E5%B3%B0%E9%9C%80%E6%B1%82&amp;action=edit&amp;redlink=1" class="new" title="顶峰需求（页面不存在）">顶峰需求</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Peak_demand" class="extiw" title="en:Peak demand"><span lang="en" dir="auto">Peak demand</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AE%B9%E9%87%8F%E5%9B%A0%E5%AD%90" title="容量因子">容量因子</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">输电</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1" title="电力系统">电力系统</a></li>
+<li><a href="/wiki/%E8%BC%B8%E9%9B%BB%E7%B3%BB%E7%B5%B1" title="输电系统">输电系统</a></li>
+<li><a href="/wiki/%E9%85%8D%E9%9B%BB%E7%B3%BB%E7%B5%B1" title="配电系统">配电系统</a></li>
+<li><a href="/wiki/%E8%BC%B8%E9%9B%BB%E7%B6%B2%E8%B7%AF" title="输电网络">输电网络</a></li>
+<li><a href="/wiki/%E9%9C%80%E9%87%8F%E5%8F%8D%E6%87%89" title="需量反应">需求反应</a></li>
+<li><span class="ilh-all" data-orig-title="動態需求" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dynamic demand (electric power)"><span class="ilh-page"><a href="/w/index.php?title=%E5%8B%95%E6%85%8B%E9%9C%80%E6%B1%82&amp;action=edit&amp;redlink=1" class="new" title="动态需求（页面不存在）">动态需求</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dynamic_demand_(electric_power)" class="extiw" title="en:Dynamic demand (electric power)"><span lang="en" dir="auto">Dynamic demand (electric power)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="電力銷售" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electricity retailing"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%8A%9B%E9%8A%B7%E5%94%AE&amp;action=edit&amp;redlink=1" class="new" title="电力销售（页面不存在）">电力销售</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electricity_retailing" class="extiw" title="en:Electricity retailing"><span lang="en" dir="auto">Electricity retailing</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%AF%8D%E7%BA%BF_(%E7%94%B5%E5%8A%9B)" title="母线 (电力)">总线</a></li>
+<li><a href="/wiki/%E9%AB%98%E5%A3%93%E7%9B%B4%E6%B5%81%E8%BC%B8%E9%9B%BB" title="高压直流输电">高压直流输电</a></li>
+<li><span class="ilh-all" data-orig-title="岸電 (輸電)" data-lang-code="en" data-lang-name="英语" data-foreign-title="High-voltage shore connection"><span class="ilh-page"><a href="/w/index.php?title=%E5%B2%B8%E9%9B%BB_(%E8%BC%B8%E9%9B%BB)&amp;action=edit&amp;redlink=1" class="new" title="岸电 (输电)（页面不存在）">岸电</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/High-voltage_shore_connection" class="extiw" title="en:High-voltage shore connection"><span lang="en" dir="auto">High-voltage shore connection</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="負載管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Load management"><span class="ilh-page"><a href="/w/index.php?title=%E8%B2%A0%E8%BC%89%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="负载管理（页面不存在）">负载管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Load_management" class="extiw" title="en:Load management"><span lang="en" dir="auto">Load management</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AE%B6%E7%94%A8%E9%9B%BB%E6%BA%90%E5%88%97%E8%A1%A8" title="家用电源列表">家用电源列表</a></li>
+<li><a href="/wiki/%E6%9E%B6%E7%A9%BA%E9%9B%BB%E7%BA%9C" title="架空电缆">架空电缆</a></li>
+<li><a href="/wiki/%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF" title="储能技术">储能技术</a></li>
+<li><a href="/wiki/%E6%99%BA%E6%85%A7%E9%9B%BB%E7%B6%B2" title="智慧电网">智慧电网</a></li>
+<li><a href="/wiki/%E8%AE%8A%E9%9B%BB%E6%89%80" title="变电所">变电所</a></li>
+<li><span class="ilh-all" data-orig-title="單線地迴路" data-lang-code="en" data-lang-name="英语" data-foreign-title="Single-wire earth return"><span class="ilh-page"><a href="/w/index.php?title=%E5%96%AE%E7%B7%9A%E5%9C%B0%E8%BF%B4%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="单线地回路（页面不存在）">单线地回路</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Single-wire_earth_return" class="extiw" title="en:Single-wire earth return"><span lang="en" dir="auto">Single-wire earth return</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%B6%85%E7%B4%9A%E9%9B%BB%E7%B6%B2" title="超级电网">超级电网</a></li>
+<li><a href="/wiki/%E5%8F%98%E5%8E%8B%E5%99%A8" title="变压器">变压器</a></li>
+<li><span class="ilh-all" data-orig-title="輸電系統操作商" data-lang-code="en" data-lang-name="英语" data-foreign-title="Transmission system operator"><span class="ilh-page"><a href="/w/index.php?title=%E8%BC%B8%E9%9B%BB%E7%B3%BB%E7%B5%B1%E6%93%8D%E4%BD%9C%E5%95%86&amp;action=edit&amp;redlink=1" class="new" title="输电系统操作商（页面不存在）">输电系统操作商</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Transmission_system_operator" class="extiw" title="en:Transmission system operator"><span lang="en" dir="auto">Transmission system operator</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="輸電塔" data-lang-code="en" data-lang-name="英语" data-foreign-title="Transmission tower"><span class="ilh-page"><a href="/w/index.php?title=%E8%BC%B8%E9%9B%BB%E5%A1%94&amp;action=edit&amp;redlink=1" class="new" title="输电塔（页面不存在）">输电塔</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Transmission_tower" class="extiw" title="en:Transmission tower"><span lang="en" dir="auto">Transmission tower</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%94%B5%E7%BA%BF%E6%9D%86" title="电线杆">电线杆</a></li>
+<li><span class="ilh-all" data-orig-title="電流反饋" data-lang-code="en" data-lang-name="英语" data-foreign-title="Backfeeding"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E6%B5%81%E5%8F%8D%E9%A5%8B&amp;action=edit&amp;redlink=1" class="new" title="电流反馈（页面不存在）">电流反馈</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Backfeeding" class="extiw" title="en:Backfeeding"><span lang="en" dir="auto">Backfeeding</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E8%AA%BF%E5%BA%A6" title="经济调度">经济调度</a></li>
+<li><span class="ilh-all" data-orig-title="能源需求管理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Energy demand management"><span class="ilh-page"><a href="/w/index.php?title=%E8%83%BD%E6%BA%90%E9%9C%80%E6%B1%82%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="能源需求管理（页面不存在）">能源需求管理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Energy_demand_management" class="extiw" title="en:Energy demand management"><span lang="en" dir="auto">Energy demand management</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="家用儲能" data-lang-code="en" data-lang-name="英语" data-foreign-title="Home energy storage"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%B6%E7%94%A8%E5%84%B2%E8%83%BD&amp;action=edit&amp;redlink=1" class="new" title="家用储能（页面不存在）">家用储能</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Home_energy_storage" class="extiw" title="en:Home energy storage"><span lang="en" dir="auto">Home energy storage</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%BB%E7%B6%B2%E5%84%B2%E8%83%BD" title="电网储能">电网储能</a></li>
+<li><span class="ilh-all" data-orig-title="電力守則" data-lang-code="en" data-lang-name="英语" data-foreign-title="Grid code"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%8A%9B%E5%AE%88%E5%89%87&amp;action=edit&amp;redlink=1" class="new" title="电力守则（页面不存在）">电力守则</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Grid_code" class="extiw" title="en:Grid code"><span lang="en" dir="auto">Grid code</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8A%9B%E6%BD%AE%E6%B5%81" title="电力潮流">电力潮流</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">故障</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C" title="电力系统故障">电力系统故障</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%A3%93%E9%A9%9F%E9%99%8D" title="电压骤降">电压骤降</a></li>
+<li><a href="/wiki/%E5%81%9C%E9%9B%BB" title="停电">停电</a> (<span class="ilh-all" data-orig-title="分區輪流供電" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rolling blackout"><span class="ilh-page"><a href="/w/index.php?title=%E5%88%86%E5%8D%80%E8%BC%AA%E6%B5%81%E4%BE%9B%E9%9B%BB&amp;action=edit&amp;redlink=1" class="new" title="分区轮流供电（页面不存在）">分区轮流供电</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rolling_blackout" class="extiw" title="en:Rolling blackout"><span lang="en" dir="auto">Rolling blackout</span></a></span>）</span></span>)</li>
+<li><a href="/wiki/%E9%99%90%E9%9B%BB" class="mw-redirect" title="限电">限电</a></li>
+<li><span class="ilh-all" data-orig-title="全黑啟動" data-lang-code="en" data-lang-name="英语" data-foreign-title="Black start"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%A8%E9%BB%91%E5%95%9F%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="全黑启动（页面不存在）">全黑启动</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Black_start" class="extiw" title="en:Black start"><span lang="en" dir="auto">Black start</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="連鎖故障" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cascading failure"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%A3%E9%8E%96%E6%95%85%E9%9A%9C&amp;action=edit&amp;redlink=1" class="new" title="连锁故障（页面不存在）">连锁故障</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cascading_failure" class="extiw" title="en:Cascading failure"><span lang="en" dir="auto">Cascading failure</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8E%A5%E5%9C%B0%E7%B3%BB%E7%BB%9F" title="接地系统">接地系统</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">继电保护</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="繼電保護" data-lang-code="en" data-lang-name="英语" data-foreign-title="Power-system protection"><span class="ilh-page"><a href="/w/index.php?title=%E7%B9%BC%E9%9B%BB%E4%BF%9D%E8%AD%B7&amp;action=edit&amp;redlink=1" class="new" title="继电保护（页面不存在）">继电保护</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Power-system_protection" class="extiw" title="en:Power-system protection"><span lang="en" dir="auto">Power-system protection</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BF%9D%E6%8A%A4%E7%BB%A7%E7%94%B5%E5%99%A8" title="保护继电器">保护继电器</a></li>
+<li><a href="/wiki/%E6%96%B7%E8%B7%AF%E5%99%A8" title="断路器">断路器</a></li>
+<li><span class="ilh-all" data-orig-title="六氟化硫斷路器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sulfur hexafluoride circuit breaker"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%AD%E6%B0%9F%E5%8C%96%E7%A1%AB%E6%96%B7%E8%B7%AF%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="六氟化硫断路器（页面不存在）">六氟化硫断路器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sulfur_hexafluoride_circuit_breaker" class="extiw" title="en:Sulfur hexafluoride circuit breaker"><span lang="en" dir="auto">Sulfur hexafluoride circuit breaker</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="電弧切斷器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Arc-fault circuit interrupter"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%BC%A7%E5%88%87%E6%96%B7%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="电弧切断器（页面不存在）">电弧切断器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Arc-fault_circuit_interrupter" class="extiw" title="en:Arc-fault circuit interrupter"><span lang="en" dir="auto">Arc-fault circuit interrupter</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="漏電斷路器 (斷路器)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth leakage circuit breaker"><span class="ilh-page"><a href="/w/index.php?title=%E6%BC%8F%E9%9B%BB%E6%96%B7%E8%B7%AF%E5%99%A8_(%E6%96%B7%E8%B7%AF%E5%99%A8)&amp;action=edit&amp;redlink=1" class="new" title="漏电断路器 (断路器)（页面不存在）">漏电断路器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_leakage_circuit_breaker" class="extiw" title="en:Earth leakage circuit breaker"><span lang="en" dir="auto">Earth leakage circuit breaker</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8E%A5%E5%9C%B0%E6%BC%8F%E7%94%B5%E4%BF%9D%E6%8A%A4%E6%8F%92%E5%BA%A7" class="mw-redirect" title="接地漏电保护插座">接地漏电保护插座</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">经济与政策</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%AF%80%E7%B4%84%E8%83%BD%E6%BA%90" title="节约能源">节约能源</a></li>
+<li><span class="ilh-all" data-orig-title="碳抵消" data-lang-code="en" data-lang-name="英语" data-foreign-title="Carbon offset"><span class="ilh-page"><a href="/w/index.php?title=%E7%A2%B3%E6%8A%B5%E6%B6%88&amp;action=edit&amp;redlink=1" class="new" title="碳抵消（页面不存在）">碳抵消</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Carbon_offset" class="extiw" title="en:Carbon offset"><span lang="en" dir="auto">Carbon offset</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%91%E7%94%B5%E6%88%90%E6%9C%AC" title="发电成本">发电成本</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%85%8B%E7%A8%85" title="生态税">生态税</a></li>
+<li><span class="ilh-all" data-orig-title="能源補貼" data-lang-code="en" data-lang-name="英语" data-foreign-title="Energy subsidy"><span class="ilh-page"><a href="/w/index.php?title=%E8%83%BD%E6%BA%90%E8%A3%9C%E8%B2%BC&amp;action=edit&amp;redlink=1" class="new" title="能源补贴（页面不存在）">能源补贴</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Energy_subsidy" class="extiw" title="en:Energy subsidy"><span lang="en" dir="auto">Energy subsidy</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%8A%E7%BD%91%E7%94%B5%E4%BB%B7%E8%A1%A5%E8%B4%B4%E6%94%BF%E7%AD%96" title="上网电价补贴政策">上网电价补贴政策</a></li>
+<li><a href="/wiki/%E5%8C%96%E7%9F%B3%E7%87%83%E6%96%99%E6%B7%98%E6%B1%B0" title="化石燃料淘汰">化石燃料淘汰</a></li>
+<li><a href="/wiki/%E5%87%80%E8%AE%A1%E9%87%8F%E7%94%B5%E4%BB%B7" title="净计量电价">净计量电价</a></li>
+<li><a href="/wiki/%E5%BA%87%E5%8F%A4%E7%A8%8E" title="庇古税">庇古税</a></li>
+<li><a href="/wiki/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E8%AF%81%E4%B9%A6" title="可再生能源证书">可再生能源证书</a></li>
+<li><span class="ilh-all" data-orig-title="可再生能源收費" data-lang-code="en" data-lang-name="英语" data-foreign-title="Renewable Energy Payments"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E6%94%B6%E8%B2%BB&amp;action=edit&amp;redlink=1" class="new" title="可再生能源收费（页面不存在）">可再生能源收费</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Renewable_Energy_Payments" class="extiw" title="en:Renewable Energy Payments"><span lang="en" dir="auto">Renewable Energy Payments</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E5%95%86%E4%B8%9A%E5%8C%96" title="可再生能源商业化">可再生能源商业化</a></li>
+<li><span class="ilh-all" data-orig-title="火花價差" data-lang-code="en" data-lang-name="英语" data-foreign-title="Spark spread"><span class="ilh-page"><a href="/w/index.php?title=%E7%81%AB%E8%8A%B1%E5%83%B9%E5%B7%AE&amp;action=edit&amp;redlink=1" class="new" title="火花价差（页面不存在）">火花价差</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Spark_spread" class="extiw" title="en:Spark spread"><span lang="en" dir="auto">Spark spread</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="潔淨電力計畫" data-lang-code="en" data-lang-name="英语" data-foreign-title="Clean Power Plan"><span class="ilh-page"><a href="/w/index.php?title=%E6%BD%94%E6%B7%A8%E9%9B%BB%E5%8A%9B%E8%A8%88%E7%95%AB&amp;action=edit&amp;redlink=1" class="new" title="洁净电力计划（页面不存在）">洁净电力计划</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Clean_Power_Plan" class="extiw" title="en:Clean Power Plan"><span lang="en" dir="auto">Clean Power Plan</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%90%84%E5%9B%BD%E6%A0%B8%E8%83%BD%E6%94%BF%E7%AD%96" title="各国核能政策">各国核能政策</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">统计</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="各國電力行業" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of electricity sectors"><span class="ilh-page"><a href="/w/index.php?title=%E5%90%84%E5%9C%8B%E9%9B%BB%E5%8A%9B%E8%A1%8C%E6%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="各国电力行业（页面不存在）">各国电力行业</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_electricity_sectors" class="extiw" title="en:List of electricity sectors"><span lang="en" dir="auto">List of electricity sectors</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="電力使用量" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electric energy consumption"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%8A%9B%E4%BD%BF%E7%94%A8%E9%87%8F&amp;action=edit&amp;redlink=1" class="new" title="电力使用量（页面不存在）">电力使用量</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electric_energy_consumption" class="extiw" title="en:Electric energy consumption"><span lang="en" dir="auto">Electric energy consumption</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span>主题：<a href="/wiki/Portal:%E8%83%BD%E6%BA%90" title="Portal:能源">能源</a></li>
+<li><a href="/wiki/Portal:%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90" title="Portal:可再生能源">可再生能源</a></li>
+<li><a href="/wiki/Portal:%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95" title="Portal:可持续发展">可持续发展</a></li>
+<li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span>分类：<a href="/wiki/Category:%E7%94%B5%E5%8A%9B%E5%88%86%E9%85%8D" title="Category:电力分配">电力分配</a></li>
+<li><a href="/wiki/Category:%E7%99%BC%E9%9B%BB%E6%96%B9%E5%BC%8F" title="Category:发电方式">发电方式</a></li>
+<li><a href="/wiki/Category:%E5%8F%91%E7%94%B5%E7%AB%99%E6%8A%80%E6%9C%AF" title="Category:发电站技术">发电站技术</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%94%B5%E7%A3%81%E5%AD%A6" title="Template:电磁学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%94%B5%E7%A3%81%E5%AD%A6" title="Template talk:电磁学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%94%B5%E7%A3%81%E5%AD%A6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%94%B5%E7%A3%81%E5%AD%A6" title="电磁学">电磁学</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9D%9C%E9%9B%BB%E5%AD%B8" title="静电学">静电学</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB" title="电">电</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%8D%B7" title="电荷">电荷</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%A0%B4" title="电场">电场</a></li>
+<li><a href="/wiki/%E6%91%A9%E6%93%A6%E8%B5%B7%E9%9B%BB%E6%95%88%E6%87%89" title="摩擦起电效应">摩擦起电效应</a></li>
+<li><a href="/wiki/%E9%9D%99%E7%94%B5%E6%94%BE%E7%94%B5" title="静电放电">静电放电</a>
+<ul><li><a href="/wiki/%E9%97%AA%E7%94%B5" title="闪电">闪电</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%99%95%E6%94%BE%E7%94%B5" title="电晕放电">电晕放电</a></li>
+<li><a href="/wiki/%E5%B0%96%E7%AB%AF%E6%94%BE%E9%9B%BB" title="尖端放电">尖端放电</a></li></ul></li>
+<li><a href="/wiki/%E9%9D%99%E7%94%B5%E6%84%9F%E5%BA%94" title="静电感应">静电感应</a>
+<ul><li><a href="/wiki/%E9%9D%99%E7%94%B5%E9%99%A4%E5%B0%98" title="静电除尘">静电吸附</a></li></ul></li>
+<li><a href="/wiki/%E9%9D%99%E7%94%B5%E5%B1%8F%E8%94%BD" title="静电屏蔽">静电屏蔽</a></li>
+<li><a href="/wiki/%E5%BA%93%E4%BB%91%E5%AE%9A%E5%BE%8B" title="库仑定律">库仑定律</a></li>
+<li><a href="/wiki/%E9%AB%98%E6%96%AF%E5%AE%9A%E5%BE%8B" title="高斯定律">高斯定律</a></li>
+<li><a href="/wiki/%E7%94%B5%E9%80%9A%E9%87%8F" title="电通量">电通量</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%8A%BF%E8%83%BD" title="电势能">电势能</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%81%B6%E6%9E%81%E7%9F%A9" title="电偶极矩">电偶极矩</a></li>
+<li><a href="/wiki/%E9%9B%BB%E6%A5%B5%E5%8C%96" title="电极化">电极化</a></li>
+<li><a href="/wiki/%E9%9B%BB%E4%BD%8D%E7%A7%BB" title="电位移">电位移</a></li></ul>
+</div></td><td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File/Frameless"><a href="/wiki/File:VFPt_Solenoid_correct2.svg" class="mw-file-description" title="Solenoid"><img alt="Solenoid" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/190px-VFPt_Solenoid_correct2.svg.png" decoding="async" width="190" height="78" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/285px-VFPt_Solenoid_correct2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/380px-VFPt_Solenoid_correct2.svg.png 2x" data-file-width="490" data-file-height="200" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9D%9C%E7%A3%81%E5%AD%B8" title="静磁学">静磁学</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A3%81" title="磁">磁</a></li>
+<li><a href="/wiki/%E5%AE%89%E5%9F%B9%E7%8E%AF%E8%B7%AF%E5%AE%9A%E5%BE%8B" title="安培环路定律">安培定律</a></li>
+<li><a href="/wiki/%E7%A3%81%E5%A0%B4" title="磁场">磁场</a></li>
+<li><a href="/wiki/%E7%A3%81%E6%84%9F%E5%BA%94%E5%BC%BA%E5%BA%A6" title="磁感应强度">磁感应强度</a></li>
+<li><a href="/wiki/%E7%A3%81%E5%A0%B4" title="磁场">磁场强度</a></li>
+<li><a href="/wiki/%E7%A3%81%E5%8C%96%E5%BC%B7%E5%BA%A6" title="磁化强度">磁化强度</a></li>
+<li><a href="/wiki/%E7%A3%81%E9%80%9A%E9%87%8F" title="磁通量">磁通量</a></li>
+<li><a href="/wiki/%E6%AF%95%E5%A5%A5-%E8%90%A8%E4%BC%90%E5%B0%94%E5%AE%9A%E5%BE%8B" title="毕奥-萨伐尔定律">毕奥-萨伐尔定律</a></li>
+<li><a href="/wiki/%E7%A3%81%E7%9F%A9" title="磁矩">磁矩</a></li>
+<li><a href="/wiki/%E9%AB%98%E6%96%AF%E7%A3%81%E5%AE%9A%E5%BE%8B" title="高斯磁定律">高斯磁定律</a></li>
+<li><a href="/wiki/%E7%A3%81%E7%9F%A2%E5%8A%BF" title="磁矢势">磁矢势</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%9B%BB%E5%AD%B8" title="电学">电学</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E8%B7%AF" title="电路">电路</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%B5%81" title="电流">电流</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8B%A2" title="电势">电势</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%A3%93" title="电压">电压</a></li>
+<li><a href="/wiki/%E7%94%B5%E9%98%BB" title="电阻">电阻</a></li>
+<li><a href="/wiki/%E7%B5%95%E7%B7%A3%E9%AB%94" title="绝缘体">绝缘体</a></li>
+<li><a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93" title="半导体">半导体</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%B0%8E%E9%AB%94" title="电导体">导体</a></li>
+<li><a href="/wiki/%E8%B6%85%E5%B0%8E%E9%AB%94" title="超导体">超导体</a></li>
+<li><a href="/wiki/%E6%AC%A7%E5%A7%86%E5%AE%9A%E5%BE%8B" title="欧姆定律">欧姆定律</a></li>
+<li><a href="/wiki/%E4%B8%B2%E8%81%AF%E9%9B%BB%E8%B7%AF" title="串联电路">串联电路</a></li>
+<li><a href="/wiki/%E4%B8%A6%E8%81%AF%E9%9B%BB%E8%B7%AF" title="并联电路">并联电路</a></li>
+<li><a class="mw-selflink selflink">直流电</a></li>
+<li><a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">交流电</a></li>
+<li><a href="/wiki/%E5%B8%A6%E7%94%B5%E6%B5%81" title="带电流">带电流</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8B%95%E5%8B%A2" title="电动势">电动势</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AE%B9" title="电容">电容</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%84%9F" title="电感">电感</a></li>
+<li><a href="/wiki/%E9%98%BB%E6%8A%97" title="阻抗">阻抗</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AF%BC" title="电导">电导</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2%E5%AF%BC" title="电磁波导">波导</a></li>
+<li><a href="/wiki/%E6%86%B6%E9%98%BB%E5%99%A8" title="忆阻器">忆阻器</a></li>
+<li><a href="/wiki/%E5%9F%BA%E7%88%BE%E9%9C%8D%E5%A4%AB%E9%9B%BB%E8%B7%AF%E5%AE%9A%E5%BE%8B" title="基尔霍夫电路定律">基尔霍夫电路定律</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%94%B5%E7%8E%B0%E8%B1%A1" title="电现象">电现象</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A3%93%E9%9B%BB%E6%95%88%E6%87%89" title="压电效应">压电效应</a></li>
+<li><a href="/wiki/%E5%8E%8B%E9%98%BB%E6%95%88%E5%BA%94" title="压阻效应">压阻效应</a></li>
+<li><a href="/wiki/%E7%86%B1%E9%9B%BB%E6%95%88%E6%87%89" title="热电效应">热电效应</a></li>
+<li><a href="/wiki/%E5%85%89%E7%94%B5%E6%95%88%E5%BA%94" title="光电效应">光电效应</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%87%B4%E7%99%BC%E5%85%89" title="电致发光">电致发光</a></li>
+<li><a href="/wiki/%E4%B8%AD%E9%AB%98%E5%B1%82%E5%A4%A7%E6%B0%94%E6%94%BE%E7%94%B5" title="中高层大气放电">中高层大气放电</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%BB%8F%E5%85%B8%E7%94%B5%E7%A3%81%E5%AD%A6" title="经典电磁学">电动力学</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B4%9B%E4%BC%A6%E5%85%B9%E5%8A%9B" title="洛伦兹力">洛伦兹力</a></li>
+<li><a href="/wiki/%E9%9C%8D%E7%88%BE%E6%95%88%E6%87%89" title="霍尔效应">霍尔效应</a></li>
+<li><a href="/wiki/%E9%9B%BB%E7%A3%81%E5%B9%B2%E6%93%BE" title="电磁干扰">电磁干扰</a></li>
+<li><a href="/wiki/%E6%B3%95%E6%8B%89%E7%AC%AC%E7%94%B5%E7%A3%81%E6%84%9F%E5%BA%94%E5%AE%9A%E5%BE%8B" title="法拉第电磁感应定律">法拉第电磁感应定律</a></li>
+<li><a href="/wiki/%E6%A5%9E%E6%AC%A1%E5%AE%9A%E5%BE%8B" title="楞次定律">楞次定律</a></li>
+<li><a href="/wiki/%E4%BD%8D%E7%A7%BB%E9%9B%BB%E6%B5%81" title="位移电流">位移电流</a></li>
+<li><a href="/wiki/%E9%A6%AC%E5%85%8B%E5%A3%AB%E5%A8%81%E6%96%B9%E7%A8%8B%E7%B5%84" title="马克士威方程组">马克士威方程组</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E5%9C%BA" title="电磁场">电磁场</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2" title="电磁波">电磁波</a></li>
+<li><a href="/wiki/%E9%A6%AC%E5%85%8B%E5%A3%AB%E5%A8%81%E6%87%89%E5%8A%9B%E5%BC%B5%E9%87%8F" title="马克士威应力张量">马克士威应力张量</a></li>
+<li><a href="/wiki/%E5%9D%A1%E5%8D%B0%E5%BB%B7%E5%90%91%E9%87%8F" title="坡印廷向量">坡印廷向量</a></li>
+<li><a href="/wiki/%E9%BB%8E%E7%B4%8D-%E7%B6%AD%E8%AC%9D%E5%8B%A2" title="黎纳-维谢势">黎纳-维谢势</a></li>
+<li><a href="/wiki/%E5%82%91%E6%96%90%E7%B7%AC%E6%9F%AF%E6%96%B9%E7%A8%8B%E5%BC%8F" title="杰斐缅柯方程式">杰斐缅柯方程式</a></li>
+<li><a href="/wiki/%E6%B8%A6%E9%9B%BB%E6%B5%81" title="涡电流">涡电流</a></li>
+<li><a href="/wiki/%E5%80%AB%E6%95%A6%E6%96%B9%E7%A8%8B" title="伦敦方程">伦敦方程</a></li>
+<li><a href="/wiki/%E6%8E%A8%E9%81%B2%E5%8B%A2" title="推迟势">推迟势</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E7%A9%BA%E9%96%93" title="自由空间">自由空间</a></li>
+<li><a href="/wiki/%E7%BB%8F%E5%85%B8%E7%94%B5%E7%A3%81%E7%90%86%E8%AE%BA%E7%9A%84%E5%8D%8F%E5%8F%98%E5%BD%A2%E5%BC%8F" title="经典电磁理论的协变形式">协变表述</a>
+<ul><li><a href="/wiki/%E9%9B%BB%E7%A3%81%E5%BC%B5%E9%87%8F" title="电磁张量">电磁张量</a></li>
+<li><a href="/wiki/%E5%9B%9B%E7%B6%AD%E9%9B%BB%E6%B5%81%E5%AF%86%E5%BA%A6" title="四维电流密度">四维电流密度</a></li>
+<li><a href="/wiki/%E9%9B%BB%E7%A3%81%E6%87%89%E5%8A%9B-%E8%83%BD%E9%87%8F%E5%BC%B5%E9%87%8F" title="电磁应力-能量张量">电磁应力-能量张量</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E5%9B%9B%E7%BB%B4%E5%8A%BF" title="电磁四维势">四维势</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6%E5%8F%B2#电磁学的发展史" title="物理学史">发展史</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E8%8D%B7%E5%AE%88%E6%81%92%E5%AE%9A%E5%BE%8B" title="电荷守恒定律">电荷守恒定律</a></li>
+<li><a href="/wiki/%E5%BA%93%E4%BB%91%E5%AE%9A%E5%BE%8B" title="库仑定律">库仑定律</a></li>
+<li><a href="/wiki/%E4%BC%8F%E6%89%93%E7%94%B5%E5%A0%86" title="伏打电堆">伏打电堆</a></li>
+<li><a href="/wiki/%E4%BC%BD%E4%BC%90%E5%B0%BC%E7%94%B5%E6%B1%A0" class="mw-redirect" title="伽伐尼电池">伽伐尼电池</a></li>
+<li><a href="/wiki/%E5%AE%89%E5%9F%B9%E7%8E%AF%E8%B7%AF%E5%AE%9A%E5%BE%8B" title="安培环路定律">安培定律</a></li>
+<li><a href="/wiki/%E6%AC%A7%E5%A7%86%E5%AE%9A%E5%BE%8B" title="欧姆定律">欧姆定律</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E6%84%9F%E5%BA%94" title="电磁感应">电磁感应</a></li>
+<li><a href="/wiki/%E9%A6%AC%E5%85%8B%E5%A3%AB%E5%A8%81%E6%96%B9%E7%A8%8B%E7%B5%84" title="马克士威方程组">马克士威方程组</a></li>
+<li><a href="/wiki/%E5%9F%BA%E7%88%BE%E9%9C%8D%E5%A4%AB%E9%9B%BB%E8%B7%AF%E5%AE%9A%E5%BE%8B" title="基尔霍夫电路定律">基尔霍夫电路定律</a></li>
+<li><a href="/wiki/%E6%88%B4%E7%BB%B4%E5%8D%97%E5%AE%9A%E7%90%86" title="戴维南定理">戴维南定理</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2" title="电磁波">电磁波</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AD%90" title="电子">电子</a></li>
+<li><a href="/wiki/%E8%87%AA%E6%97%8B" title="自旋">自旋</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q159241" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb125728771">cb125728771</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb125728771">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%88%86%E9%9D%A2%E6%87%89%E7%94%A8%E4%B8%BB%E9%A1%8C%E8%A9%9E%E8%A1%A8" title="分面应用主题词表">FAST</a>: <span class="uid"><a rel="nofollow" class="external text" href="//experimental.worldcat.org/fast/904555">904555</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4021242-7">4021242-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007535946705171">987007535946705171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85041613">sh85041613</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph126094&amp;CON_LNG=ENG">ph126094</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐78d6c98b98‐5vh96
+Cached time: 20240401183458
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.559 seconds
+Real time usage: 0.774 seconds
+Preprocessor visited node count: 3066/1000000
+Post‐expand include size: 154508/2097152 bytes
+Template argument size: 3021/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 45/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10708/5000000 bytes
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 4312514/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  471.122      1 -total
+ 51.48%  242.548      4 Template:Navbox
+ 44.63%  210.271      1 Template:电力模板
+ 24.00%  113.092     36 Template:Tsl
+ 20.66%   97.330      2 Template:Ambox
+ 20.49%   96.519      1 Template:Roughtranslation
+ 13.38%   63.016      1 Template:Reflist
+ 11.70%   55.106      1 Template:Authority_control
+ 11.52%   54.294      3 Template:Cite_book
+ 11.17%   52.622      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:46130-0!userlang=zh-cn!zh-cn and timestamp 20240401183458 and revision id 79620385. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=直流電&amp;oldid=79620385">https://zh.wikipedia.org/w/index.php?title=直流電&amp;oldid=79620385</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%9B%BB%E6%B5%81" title="Category:電流">电流</a></li><li><a href="/wiki/Category:%E9%9B%BB%E5%8A%9B%E5%B7%A5%E7%A8%8B" title="Category:電力工程">电力工程</a></li><li><a href="/wiki/Category:%E7%94%B5%E8%B7%AF" title="Category:电路">电路</a></li><li><a href="/wiki/Category:%E7%94%B5%E5%8A%9B%E5%AD%A6" title="Category:电力学">电力学</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2015%E5%B9%B411%E6%9C%88%E7%B2%97%E5%8A%A3%E7%BF%BB%E8%AF%91" title="Category:自2015年11月粗劣翻译">自2015年11月粗劣翻译</a></li><li><a href="/wiki/Category:%E8%87%AA2008%E5%B9%B49%E6%9C%88%E6%89%A9%E5%85%85%E4%B8%AD%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2008年9月扩充中的条目">自2008年9月扩充中的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABFAST%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含FAST标识符的维基百科条目">包含FAST标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年11月4日 (星期六) 03:00。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-9t4pt","wgBackendResponseTime":192,"wgPageParseReport":{"limitreport":{"cputime":"0.559","walltime":"0.774","ppvisitednodes":{"value":3066,"limit":1000000},"postexpandincludesize":{"value":154508,"limit":2097152},"templateargumentsize":{"value":3021,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":45,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10708,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  471.122      1 -total"," 51.48%  242.548      4 Template:Navbox"," 44.63%  210.271      1 Template:电力模板"," 24.00%  113.092     36 Template:Tsl"," 20.66%   97.330      2 Template:Ambox"," 20.49%   96.519      1 Template:Roughtranslation"," 13.38%   63.016      1 Template:Reflist"," 11.70%   55.106      1 Template:Authority_control"," 11.52%   54.294      3 Template:Cite_book"," 11.17%   52.622      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":4312514,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-78d6c98b98-5vh96","timestamp":"20240401183458","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u76f4\u6d41\u96fb","url":"https:\/\/zh.wikipedia.org\/wiki\/%E7%9B%B4%E6%B5%81%E9%9B%BB","sameAs":"http:\/\/www.wikidata.org\/entity\/Q159241","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q159241","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-04T14:39:36Z","dateModified":"2023-11-04T03:00:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/28\/Current_rectification_diagram.svg"}</script>
+</body>
+</html>

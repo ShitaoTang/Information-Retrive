@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>计算物理学 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"9a35824b-fde3-4c4b-a756-517a2d04f445","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"计算物理学","wgTitle":"计算物理学","wgCurRevisionId":76728332,"wgRevisionId":76728332,"wgArticleId":158105,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["使用ISBN魔术链接的页面","含有英語的條目","包含GND标识符的维基百科条目","包含NKC标识符的维基百科条目","计算物理学","物理学分支","计算科学"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"计算物理学","wgRelevantArticleId":158105,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q909554","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":
+false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher",
+"ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/dd/Julie_Perkins_at_LLNL.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="956">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/dd/Julie_Perkins_at_LLNL.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="637">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="510">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="计算物理学 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-计算物理学 rootpage-计算物理学 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-背景"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#背景">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>背景</div>
+		</a>
+		
+			<button aria-controls="toc-背景-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关背景子章节</span>
+			</button>
+		
+		<ul id="toc-背景-sublist" class="vector-toc-list">
+			<li id="toc-物理学中的地位"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#物理学中的地位">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>物理学中的地位</div>
+			</a>
+			
+			<ul id="toc-物理学中的地位-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-问题与挑战"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#问题与挑战">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>问题与挑战</div>
+		</a>
+		
+		<ul id="toc-问题与挑战-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-方法与算法"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#方法与算法">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>方法与算法</div>
+		</a>
+		
+		<ul id="toc-方法与算法-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-分支与交叉"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#分支与交叉">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>分支与交叉</div>
+		</a>
+		
+		<ul id="toc-分支与交叉-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-應用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#應用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>应用</div>
+		</a>
+		
+		<ul id="toc-應用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-应用软件"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#应用软件">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>应用软件</div>
+		</a>
+		
+		<ul id="toc-应用软件-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">计算物理学</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。34种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-34" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">34种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1_%D9%85%D8%AD%D9%88%D8%B3%D8%A8%D8%A9" title="فيزياء محوسبة – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%97%E0%A6%A3%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95_%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" title="পরিগণনামূলক পদার্থবিজ্ঞান – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/F%C3%ADsica_computacional" title="Física computacional – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Computerfysik" title="Computerfysik – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Computerphysik" title="Computerphysik – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE_%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AE" title="Υπολογιστική φυσική – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Computational_physics" title="Computational physics – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/F%C3%ADsica_computacional" title="Física computacional – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B2%DB%8C%DA%A9_%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C" title="فیزیک محاسباتی – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Laskennallinen_fysiikka" title="Laskennallinen fysiikka – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Physique_num%C3%A9rique" title="Physique numérique – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94_%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%AA" title="פיזיקה חישובית – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95_%E0%A4%AD%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80" title="अभिकलनात्मक भौतिकी – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B7%D5%BE%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%B6_%D6%86%D5%AB%D5%A6%D5%AB%D5%AF%D5%A1" title="Հաշվողական ֆիզիկա – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Fisika_komputasi" title="Fisika komputasi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Fisica_computazionale" title="Fisica computazionale – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="計算物理学 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B3%84%EC%82%B0%EB%AC%BC%EB%A6%AC%ED%95%99" title="계산물리학 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%87%E0%B4%B7%E0%B4%A8%E0%B5%BD_%E0%B4%AB%E0%B4%BF%E0%B4%B8%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D" title="കമ്പ്യൂട്ടേഷനൽ ഫിസിക്സ് – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE%D1%86%D0%BE%D0%BE%D0%BB%D0%BB%D1%8B%D0%BD_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA" title="Тооцооллын физик – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Numerieke_natuurkunde" title="Numerieke natuurkunde – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Fizyka_komputerowa" title="Fizyka komputerowa – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%D9%8A_%D9%81%D8%B2%DB%8C%DA%A9" title="محاسباتي فزیک – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/F%C3%ADsica_computacional" title="Física computacional – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Вычислительная физика – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_fyzika" title="Počítačová fyzika – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Ber%C3%A4kningsfysik" title="Beräkningsfysik – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Pisikang_pangkomputasyon" title="Pisikang pangkomputasyon – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Hesaplamal%C4%B1_fizik" title="Hesaplamalı fizik – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%87%D0%B8%D1%81%D0%BB%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D1%84%D1%96%D0%B7%D0%B8%D0%BA%D0%B0" title="Обчислювальна фізика – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Hisoblash_fizikasi" title="Hisoblash fizikasi – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/V%E1%BA%ADt_l%C3%BD_t%C3%ADnh_to%C3%A1n" title="Vật lý tính toán – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Fisika_pankompyutasyon" title="Fisika pankompyutasyon – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%81%8B%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%B8" title="運算物理學 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q909554#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;oldid=76728332" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;id=76728332&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25AE%25A1%25E7%25AE%2597%25E7%2589%25A9%25E7%2590%2586%25E5%25AD%25A6"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%25AE%25A1%25E7%25AE%2597%25E7%2589%25A9%25E7%2590%2586%25E5%25AD%25A6"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q909554" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Computational_physics" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-5f97c608" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-5f97c608" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Physics"></div></div></div>
+<p><b>计算物理学</b>（英语：<span lang="en">Computational physics</span>）是研究如何使用<a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值方法</a>分析可以量化的<a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6" title="物理学">物理学</a>问题的学科<sup id="cite_ref-ThijssenBook_1-0" class="reference"><a href="#cite_note-ThijssenBook-1">&#91;1&#93;</a></sup>。
+历史上，计算物理学是计算机的第一项应用；目前计算物理学被视为<a href="/wiki/%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" class="mw-redirect" title="计算科学">计算科学</a>的分支<sup id="cite_ref-TapiaBook_2-0" class="reference"><a href="#cite_note-TapiaBook-2">&#91;2&#93;</a></sup>。
+</p><p>计算物理有时也被视为<a href="/wiki/%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86" class="mw-redirect" title="理论物理">理论物理</a>的分支学科或子问题，但也有人认为计算物理与理论物理与<a href="/wiki/%E5%AF%A6%E9%A9%97%E7%89%A9%E7%90%86" class="mw-redirect" title="实验物理">实验物理</a>联系紧密，又相对独立，是物理学第三大分支<sup id="cite_ref-刘金远_3-0" class="reference"><a href="#cite_note-刘金远-3">&#91;3&#93;</a></sup>。
+</p>
+<style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r78559703">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r78559700">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:100%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78559700"><table class="sidebar sidebar-collapse nomobile nowraplinks plainlist"><tbody><tr><th class="sidebar-title navbox-title" style="font-size:150%;padding-top:0.45em;line-height:80%;"><a href="/wiki/%E7%A7%91%E5%AD%A6" title="科学">科学</a><br /><span style="font-size:small;">系列条目</span></th></tr><tr><td class="sidebar-image"><span typeof="mw:File"><a href="/wiki/File:Julie_Perkins_at_LLNL.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Julie_Perkins_at_LLNL.jpg/260px-Julie_Perkins_at_LLNL.jpg" decoding="async" width="260" height="207" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/d/dd/Julie_Perkins_at_LLNL.jpg 1.5x" data-file-width="280" data-file-height="223" /></a></span></td></tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E5%BD%A2%E5%BC%8F%E7%A7%91%E5%AD%B8" title="形式科学">形式科学</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><div class="hlist">
+<ul><li><a href="/wiki/%E9%80%BB%E8%BE%91" title="逻辑">逻辑</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6" title="数学">数学</a></li></ul>
+</div>
+<ul><li><a href="/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91" title="数理逻辑">数理逻辑</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="数理统计学">数理统计学</a></li>
+<li><a href="/wiki/%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8" title="理论计算机科学">理论计算机科学</a></li>
+<li><a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AB%96" class="mw-redirect" title="博弈论">博弈论</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E7%89%A9%E8%B3%AA%E7%A7%91%E5%AD%B8" title="物质科学">物理科学</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><table class="sidebar nomobile nowraplinks" style="border-collapse: collapse; border-spacing: 0px; border:none; width:100%; margin:0px; font-size: 100%; clear:none; float:none;"><tbody><tr><th class="sidebar-heading">
+<a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6" title="物理学">物理学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><i><a href="/wiki/%E7%B6%93%E5%85%B8%E7%89%A9%E7%90%86%E5%AD%B8" title="经典物理学">经典物理学</a></i></li>
+<li><i><a href="/wiki/%E7%8F%BE%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%B8" title="现代物理学">现代物理学</a></i></li>
+<li><i><a href="/wiki/%E5%BA%94%E7%94%A8%E7%89%A9%E7%90%86%E5%AD%A6" title="应用物理学">应用物理学</a></i></li></ul>
+</div><div class="hlist">
+<ul><li><i><a href="/wiki/%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6" title="理论物理学">理论物理学</a></i></li>
+<li><i><a href="/wiki/%E5%AF%A6%E9%A9%97%E7%89%A9%E7%90%86%E5%AD%B8" title="实验物理学">实验物理学</a></i></li></ul>
+</div>
+<ul><li><i><a class="mw-selflink selflink">计算物理学</a></i></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="原子物理学">原子物理学</a></li>
+<li><a href="/wiki/%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E5%AD%A6" title="凝聚态物理学">凝聚态物理学</a></li></ul>
+</div>
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/%E5%8A%9B%E5%AD%A6" title="力学">力学</a> <div class="hlist nowrap"><ul><li>(<a href="/wiki/%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6" title="经典力学">经典力学</a></li><li><a href="/wiki/%E8%BF%9E%E7%BB%AD%E4%BB%8B%E8%B4%A8%E5%8A%9B%E5%AD%A6" title="连续介质力学">连续介质力学</a></li><li><a href="/wiki/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6" title="流体力学">流体力学</a></li><li><a href="/wiki/%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6" title="固体力学">固体力学</a>)</li></ul></div></div></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/%E6%B5%81%E5%8F%98%E5%AD%A6" title="流变学">流变学</a></li>
+<li><a href="/wiki/%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA" title="狭义相对论">狭义相对论</a></li>
+<li><a href="/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96" title="广义相对论">广义相对论</a></li>
+<li><a href="/wiki/%E7%83%AD%E5%8A%9B%E5%AD%A6" title="热力学">热力学</a></li></ul>
+</div><div class="hlist">
+<ul><li><a href="/wiki/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA" title="量子场论">量子场论</a></li>
+<li><span class="nowrap"><a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6" title="量子力学">量子力学</a>(<a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%B8%E5%85%A5%E9%96%80" title="量子力学入门">量子力学入门</a>)</span></li>
+<li><a href="/wiki/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%B8" title="粒子物理学">粒子物理学</a></li>
+<li><a href="/wiki/%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%89%A9%E7%90%86%E5%AD%A6" title="原子核物理学">原子核物理学</a></li>
+<li><a href="/wiki/%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="分子物理学">分子物理学</a></li>
+<li><a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93" title="等离子体">等离子体</a></li>
+<li><a href="/wiki/%E5%BC%A6%E7%90%86%E8%AB%96" title="弦理论">弦理论</a></li></ul>
+</div></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E5%8C%96%E5%AD%B8" title="化学">化学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E9%85%B8%E7%A2%B1%E7%90%86%E8%AE%BA" title="酸碱理论">酸碱理论</a></li>
+<li><a href="/wiki/%E5%88%86%E6%9E%90%E5%8C%96%E5%AD%A6" title="分析化学">分析化学</a></li>
+<li><a href="/wiki/%E7%8E%AF%E5%A2%83%E5%8C%96%E5%AD%A6" title="环境化学">环境化学</a></li>
+<li><a href="/wiki/%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6" title="无机化学">无机化学</a></li>
+<li><a href="/wiki/%E6%A0%B8%E5%8C%96%E5%AD%A6" title="核化学">核化学</a></li>
+<li><a href="/wiki/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6" title="有机化学">有机化学</a></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6" title="物理化学">物理化学</a></li>
+<li><a href="/wiki/%E5%9B%BA%E4%BD%93%E5%8C%96%E5%AD%A6" title="固体化学">固体化学</a></li>
+<li><a href="/wiki/%E8%B6%85%E5%88%86%E5%AD%90%E5%8C%96%E5%AD%B8" title="超分子化学">超分子化学</a></li>
+<li><a href="/wiki/%E7%BB%BF%E8%89%B2%E5%8C%96%E5%AD%A6" title="绿色化学">绿色化学</a></li>
+<li><a href="/wiki/%E7%90%86%E8%AE%BA%E5%8C%96%E5%AD%A6" title="理论化学">理论化学</a></li></ul>
+</div>
+<div class="hlist">
+<ul><li><a href="/wiki/%E5%A4%A9%E4%BD%93%E5%8C%96%E5%AD%A6" title="天体化学">天体化学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6" title="生物化学">生物化学</a></li>
+<li><a href="/wiki/%E6%99%B6%E4%BD%93" title="晶体">晶体</a></li>
+<li><a href="/wiki/%E9%A3%9F%E5%93%81%E5%8C%96%E5%AD%B8" title="食品化学">食品化学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6" title="地球化学">地球化学</a></li>
+<li><a href="/wiki/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6" title="材料科学">材料科学</a></li>
+<li><a href="/wiki/%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="分子物理学">分子物理学</a></li>
+<li><a href="/wiki/%E5%85%89%E5%8C%96%E5%AD%A6" title="光化学">光化学</a></li>
+<li><a href="/wiki/%E6%94%BE%E5%B0%84%E5%8C%96%E5%AD%A6" title="放射化学">放射化学</a></li>
+<li><a href="/wiki/%E7%AB%8B%E4%BD%93%E5%8C%96%E5%AD%A6" title="立体化学">立体化学</a></li>
+<li><a href="/wiki/%E8%A1%A8%E9%9D%A2%E7%A7%91%E5%AD%A6" title="表面科学">表面科学</a></li></ul>
+</div></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6" title="地球科学">地球科学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6" title="环境科学">环境科学</a></li>
+<li><a href="/wiki/%E6%B0%94%E5%80%99%E5%AD%A6" title="气候学">气候学</a></li>
+<li><a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6" title="气象学">气象学</a></li>
+<li><a href="/wiki/%E6%B5%B7%E6%B4%8B%E5%AD%A6" title="海洋学">海洋学</a></li>
+<li><a href="/wiki/%E6%B0%B4%E6%96%87%E5%AD%A6" title="水文学">水文学</a></li>
+<li><a href="/wiki/%E6%B9%96%E6%B2%BC%E5%AD%B8" title="湖沼学">湖沼学</a></li>
+<li><a href="/wiki/%E5%86%B0%E5%B7%9D%E5%AD%A6" title="冰川学">冰川学</a></li>
+<li><a href="/wiki/%E5%A4%A7%E5%9C%B0%E6%B5%8B%E9%87%8F%E5%AD%A6" title="大地测量学">大地测量学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%AD%A6" title="地球物理学">地球物理学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E8%B2%8C%E5%AD%A6" title="地貌学">地貌学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E8%B4%A8%E5%AD%A6" title="地质学">地质学</a></li>
+<li><a href="/wiki/%E5%9C%9F%E5%A3%A4%E5%AD%A6" title="土壤学">土壤学</a></li>
+<li><a href="/wiki/%E5%8F%A4%E6%B0%A3%E5%80%99%E5%AD%B8" title="古气候学">古气候学</a></li>
+<li><a href="/wiki/%E7%81%AB%E5%B1%B1%E5%AD%A6" title="火山学">火山学</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%80%81%E5%AD%A6" title="生态学">生态学</a></li>
+<li><a href="/wiki/%E5%8F%A4%E7%94%9F%E6%85%8B%E5%AD%B8" title="古生态学">古生态学</a></li>
+<li><a href="/wiki/%E5%AD%A2%E7%B2%89%E5%AD%A6" title="孢粉学">孢粉学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6" title="地理学">地理学</a>(<a href="/wiki/%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%AD%B8" title="自然地理学">自然地理学</a>)</li></ul>
+</div></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E7%A9%BA%E9%97%B4%E7%A7%91%E5%AD%A6" title="空间科学">空间科学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E5%A4%A9%E6%96%87%E5%AD%B8" title="天文学">天文学</a></li>
+<li><a href="/wiki/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="天体物理学">天体物理学</a></li>
+<li><a href="/wiki/%E5%AE%87%E5%AE%99%E5%AD%A6" title="宇宙学">宇宙学</a></li>
+<li><a href="/wiki/%E9%8A%80%E6%B2%B3%E7%B3%BB%E5%A4%A9%E6%96%87%E5%AD%B8" title="银河系天文学">银河系天文学</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%98%9F%E7%A7%91%E5%AD%A6" title="行星科学">行星科学</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%98%9F%E5%9C%B0%E8%B3%AA%E5%AD%B8" title="行星地质学">行星地质学</a></li>
+<li><a href="/wiki/%E6%81%92%E6%98%9F" title="恒星">恒星</a></li></ul>
+</div></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%B8" title="生命科学">生命科学</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><table class="sidebar nomobile nowraplinks" style="border-collapse: collapse; border-spacing: 0px; border:none; width:100%; margin:0px; font-size: 100%; clear:none; float:none;"><tbody><tr><th class="sidebar-heading">
+<a href="/wiki/%E7%94%9F%E7%89%A9%E5%AD%A6" title="生物学">生物学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E8%A7%A3%E5%89%96%E5%AD%A6" title="解剖学">解剖学</a></li>
+<li><a href="/wiki/%E5%A4%A9%E9%AB%94%E7%94%9F%E7%89%A9%E5%AD%B8" title="天体生物学">天体生物学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6" title="生物化学">生物化学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E5%AD%A6" title="生物地理学">生物地理学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%B7%A5%E7%A8%8B%E5%AD%A6" title="生物工程学">生物工程学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E5%AD%A6" title="生物物理学">生物物理学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%BF%83%E7%90%86%E5%AD%A6" title="生物心理学">生物心理学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF" title="生物技术">生物技术</a></li>
+<li><a href="/wiki/%E6%A4%8D%E7%89%A9%E5%AD%A6" title="植物学">植物学</a></li>
+<li><a href="/wiki/%E7%BB%86%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6" title="细胞生物学">细胞生物学</a></li>
+<li><a href="/wiki/%E4%BF%9D%E8%82%B2%E7%94%9F%E7%89%A9%E5%AD%B8" title="保育生物学">保育生物学</a></li>
+<li><a href="/wiki/%E4%BD%8E%E6%B8%A9%E7%94%9F%E7%89%A9%E5%AD%A6" title="低温生物学">低温生物学</a></li>
+<li><a href="/wiki/%E5%8F%91%E8%82%B2%E7%94%9F%E7%89%A9%E5%AD%A6" title="发育生物学">发育生物学</a></li>
+<li><a href="/wiki/%E7%94%9F%E6%80%81%E5%AD%A6" title="生态学">生态学</a></li>
+<li><span class="ilh-all" data-orig-title="人种生物学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ethnobiology"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%BA%E7%A7%8D%E7%94%9F%E7%89%A9%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="人种生物学（页面不存在）">人种生物学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ethnobiology" class="extiw" title="en:Ethnobiology"><span lang="en" dir="auto">Ethnobiology</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8A%A8%E7%89%A9%E8%A1%8C%E4%B8%BA%E5%AD%A6" title="动物行为学">动物行为学</a></li>
+<li><span class="nowrap"><a href="/wiki/%E6%BC%94%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6" title="演化生物学">演化生物学</a>(<span class="ilh-all" data-orig-title="进化论入门" data-lang-code="en" data-lang-name="英语" data-foreign-title="Introduction to evolution"><span class="ilh-page"><a href="/w/index.php?title=%E8%BF%9B%E5%8C%96%E8%AE%BA%E5%85%A5%E9%97%A8&amp;action=edit&amp;redlink=1" class="new" title="进化论入门（页面不存在）">介绍</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Introduction_to_evolution" class="extiw" title="en:Introduction to evolution"><span lang="en" dir="auto">Introduction to evolution</span></a></span>）</span></span>)</span></li>
+<li><span class="nowrap"><a href="/wiki/%E9%81%97%E4%BC%A0%E5%AD%A6" title="遗传学">遗传学</a>(<a href="/wiki/%E9%81%97%E4%BC%A0%E5%AD%A6%E5%85%A5%E9%97%A8" title="遗传学入门">遗传学入门</a>)</span></li>
+<li><a href="/wiki/%E8%80%81%E4%BA%BA%E5%AD%B8" title="老人学">老人学</a></li>
+<li><a href="/wiki/%E5%85%8D%E7%96%AB%E5%AD%A6" title="免疫学">免疫学</a></li>
+<li><a href="/wiki/%E6%B9%96%E6%B2%BC%E5%AD%B8" title="湖沼学">湖沼学</a></li>
+<li><a href="/wiki/%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%AD%A6" title="海洋生物学">海洋生物学</a></li>
+<li><a href="/wiki/%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6" title="微生物学">微生物学</a></li>
+<li><a href="/wiki/%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6" title="分子生物学">分子生物学</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6" title="神经科学">神经科学</a></li>
+<li><a href="/wiki/%E5%8F%A4%E7%94%9F%E7%89%A9%E5%AD%A6" title="古生物学">古生物学</a></li>
+<li><a href="/wiki/%E5%AF%84%E7%94%9F%E8%99%AB%E5%AD%A6" title="寄生虫学">寄生虫学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%90%86%E5%AD%A6" title="生理学">生理学</a></li>
+<li><a href="/wiki/%E6%94%BE%E5%B0%84%E7%94%9F%E7%89%A9%E5%AD%B8" title="放射生物学">放射生物学</a></li>
+<li><span class="ilh-all" data-orig-title="Soil biology" data-lang-code="en" data-lang-name="英语" data-foreign-title="Soil biology"><span class="ilh-page"><a href="/w/index.php?title=Soil_biology&amp;action=edit&amp;redlink=1" class="new" title="Soil biology（页面不存在）">土壤生物学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Soil_biology" class="extiw" title="en:Soil biology"><span lang="en" dir="auto">Soil biology</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A4%BE%E6%9C%83%E7%94%9F%E7%89%A9%E5%AD%B8" title="社会生物学">社会生物学</a></li>
+<li><a href="/wiki/%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E5%AD%B8" title="系统分类学">系统分类学</a></li>
+<li><a href="/wiki/%E6%AF%92%E7%90%86%E5%AD%A6" title="毒理学">毒理学</a></li>
+<li><a href="/wiki/%E5%8A%A8%E7%89%A9%E5%AD%A6" title="动物学">动物学</a></li></ul>
+</div></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6" title="社会科学">社会科学</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><div class="hlist">
+<ul><li><a href="/wiki/%E6%AD%B7%E5%8F%B2%E5%AD%B8" title="历史学">历史学</a></li>
+<li><a href="/wiki/%E5%BF%83%E7%90%86%E5%AD%A6" title="心理学">心理学</a></li>
+<li><a href="/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6" title="语言学">语言学</a></li>
+<li><a href="/wiki/%E6%94%BF%E6%B2%BB%E5%AD%A6" title="政治学">政治学</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%AD%A6" title="法学">法学</a></li>
+<li><a href="/wiki/%E5%9C%8B%E9%9A%9B%E9%97%9C%E4%BF%82%E5%AD%B8" title="国际关系学">国际关系学</a></li>
+<li><a href="/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="经济学">经济学</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E5%AD%A6" title="社会学">社会学</a></li>
+<li><a href="/wiki/%E6%95%99%E8%82%B2%E5%AD%A6" title="教育学">教育学</a></li>
+<li><a href="/wiki/%E7%A7%91%E5%AD%B8%E6%95%99%E8%82%B2" title="科学教育">科学教育</a></li>
+<li><a href="/wiki/%E7%8A%AF%E7%BD%AA%E5%AD%B8" title="犯罪学">犯罪学</a></li>
+<li><a href="/wiki/%E4%BA%BA%E5%8F%A3%E5%AD%A6" title="人口学">人口学</a></li>
+<li><a href="/wiki/%E4%BA%BA%E7%B1%BB%E5%AD%A6" title="人类学">人类学</a></li>
+<li><a href="/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6" title="考古学">考古学</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6" title="地理学">地理学</a>(<a href="/wiki/%E4%BA%BA%E6%96%87%E5%9C%B0%E7%90%86%E5%AD%A6" title="人文地理学">人文地理学</a>)</li></ul>
+</div></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E6%87%89%E7%94%A8%E7%A7%91%E5%AD%B8" title="应用科学">应用科学</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><table class="sidebar nomobile nowraplinks" style="border-collapse: collapse; border-spacing: 0px; border:none; width:100%; margin:0px; font-size: 100%; clear:none; float:none;"><tbody><tr><th class="sidebar-heading">
+<a href="/wiki/%E5%B7%A5%E7%A8%8B%E5%AD%A6" title="工程学">工程学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E5%B7%A5%E4%B8%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6" title="工业工程学">工业工程学</a></li>
+<li><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="运筹学">运筹学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a>&#160;/&#32;<span class="nowrap"><a href="/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%B7%A5%E7%A8%8B" title="计算机工程">计算机工程</a></span></li>
+<li><a href="/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6" title="机器人学">机器人学</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B" title="软件工程">软件工程</a></li>
+<li><span class="ilh-all" data-orig-title="Web engineering" data-lang-code="en" data-lang-name="英语" data-foreign-title="Web engineering"><span class="ilh-page"><a href="/w/index.php?title=Web_engineering&amp;action=edit&amp;redlink=1" class="new" title="Web engineering（页面不存在）">互联网工程</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Web_engineering" class="extiw" title="en:Web engineering"><span lang="en" dir="auto">Web engineering</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B" title="土木工程">土木工程</a></li>
+<li><a href="/wiki/%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B" title="机械工程">机械工程</a></li>
+<li><a href="/wiki/%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B7%A5%E7%A8%8B" title="航空航天工程">航空航天工程</a></li>
+<li><a href="/wiki/%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E5%AD%B8" title="电机工程学">电机工程学</a></li>
+<li><a href="/wiki/%E6%A0%B8%E5%B7%A5%E7%A8%8B" title="核工程">核工程</a></li></ul>
+</div><div class="hlist">
+<ul><li><a href="/wiki/%E5%8C%96%E5%AD%A6%E5%B7%A5%E7%A8%8B" title="化学工程">化学工程</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%B7%A5%E7%A8%8B%E5%AD%A6" title="生物工程学">生物工程学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B" title="生物医学工程">生物医学工程</a></li>
+<li><a href="/wiki/%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B" title="基因工程">基因工程</a></li>
+<li><a href="/wiki/%E7%9F%BF%E4%B8%9A%E5%B7%A5%E7%A8%8B" title="矿业工程">矿业工程</a></li>
+<li><a href="/wiki/%E5%86%9C%E4%B8%9A%E5%B7%A5%E7%A8%8B" title="农业工程">农业工程</a></li>
+<li><a href="/wiki/%E6%B6%88%E9%98%B2%E5%B7%A5%E7%A8%8B" title="消防工程">消防工程</a></li>
+<li><a href="/wiki/%E8%BB%8D%E4%BA%8B%E5%B7%A5%E7%A8%8B" title="军事工程">军事工程</a></li></ul>
+</div></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/%E9%86%AB%E7%99%82%E8%A1%9B%E7%94%9F%E7%A7%91%E5%AD%B8" title="医疗卫生科学">医疗卫生科学</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/%E5%8C%BB%E5%AD%A6" title="医学">医学</a></li>
+<li><a href="/wiki/%E5%85%BD%E5%8C%BB%E5%AD%A6" title="兽医学">兽医学</a></li>
+<li><a href="/wiki/%E7%89%99%E9%86%AB%E5%AD%B8" title="牙医学">牙医学</a></li>
+<li><a href="/wiki/%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6" title="流行病学">流行病学</a></li>
+<li><a href="/wiki/%E8%8D%AF%E5%AD%A6" title="药学">药学</a></li>
+<li><a href="/wiki/%E6%8A%A4%E7%90%86%E5%AD%A6" title="护理学">护理学</a></li>
+<li><a href="/wiki/%E8%A6%96%E5%85%89%E5%AD%B8" class="mw-redirect" title="视光学">视光学</a></li>
+<li><span class="ilh-all" data-orig-title="Midwifery" data-lang-code="en" data-lang-name="英语" data-foreign-title="Midwifery"><span class="ilh-page"><a href="/w/index.php?title=Midwifery&amp;action=edit&amp;redlink=1" class="new" title="Midwifery（页面不存在）">助产术</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Midwifery" class="extiw" title="en:Midwifery"><span lang="en" dir="auto">Midwifery</span></a></span>）</span></span></li></ul>
+</div></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><a href="/wiki/%E7%A7%91%E9%99%85%E6%95%B4%E5%90%88" title="科际整合">交叉学科</a></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><div class="hlist">
+<ul><li><a href="/wiki/%E7%A7%91%E5%AD%A6%E8%AE%BA" title="科学论">科学论</a></li>
+<li><span class="ilh-all" data-orig-title="Scientific modelling" data-lang-code="en" data-lang-name="英语" data-foreign-title="Scientific modelling"><span class="ilh-page"><a href="/w/index.php?title=Scientific_modelling&amp;action=edit&amp;redlink=1" class="new" title="Scientific modelling（页面不存在）">科学建模</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Scientific_modelling" class="extiw" title="en:Scientific modelling"><span lang="en" dir="auto">Scientific modelling</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a></li>
+<li><span class="ilh-all" data-orig-title="Systems science" data-lang-code="en" data-lang-name="英语" data-foreign-title="Systems science"><span class="ilh-page"><a href="/w/index.php?title=Systems_science&amp;action=edit&amp;redlink=1" class="new" title="Systems science（页面不存在）">系统科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Systems_science" class="extiw" title="en:Systems science"><span lang="en" dir="auto">Systems science</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a></li>
+<li><a href="/wiki/%E6%BC%94%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%B8" title="演化心理学">演化心理学</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6" title="神经科学">神经科学</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%BB%8F%E5%B7%A5%E7%A8%8B" title="神经工程">神经工程</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E8%AF%AD%E8%A8%80%E5%AD%A6" title="计算语言学">计算语言学</a></li>
+<li><a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E7%A7%91%E5%AD%A6" title="网络科学">网络科学</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%BB%8F%E4%BF%A1%E6%81%AF%E5%AD%A6" title="神经信息学">神经信息学</a></li>
+<li><span class="ilh-all" data-orig-title="Web science" data-lang-code="en" data-lang-name="英语" data-foreign-title="Web science"><span class="ilh-page"><a href="/w/index.php?title=Web_science&amp;action=edit&amp;redlink=1" class="new" title="Web science（页面不存在）">互联网科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Web_science" class="extiw" title="en:Web science"><span lang="en" dir="auto">Web science</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86" title="数学物理">数学物理</a></li>
+<li><a href="/wiki/%E5%BA%94%E7%94%A8%E7%89%A9%E7%90%86%E5%AD%A6" title="应用物理学">应用物理学</a></li>
+<li><a href="/wiki/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F" title="复杂系统">复杂系统</a></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B8%E7%90%86%E7%94%9F%E7%89%A9%E5%AD%B8" title="数理生物学">数学&#160;/&#32;理论生物学</a></span></li></ul>
+</div><div class="hlist">
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E5%AD%B8" title="生物统计学">生物统计学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E5%B7%A5%E7%A8%8B" title="生物医学工程">生物医学工程</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6" title="生物信息学">生物信息学</a></li>
+<li><a href="/wiki/%E6%8E%A7%E5%88%B6%E8%AE%BA" title="控制论">控制论</a></li>
+<li><a href="/wiki/%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92" title="城市规划">城市规划</a></li>
+<li><a href="/wiki/%E5%8F%B8%E6%B3%95%E7%A7%91%E5%AD%A6" class="mw-redirect" title="司法科学">司法科学</a></li>
+<li><a href="/wiki/%E5%86%9B%E4%BA%8B%E5%AD%A6" title="军事学">军事学</a></li></ul>
+</div>
+<div class="hlist">
+<ul><li><a href="/wiki/%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6" title="环境科学">环境科学</a></li>
+<li><span class="ilh-all" data-orig-title="Environmental studies" data-lang-code="en" data-lang-name="英语" data-foreign-title="Environmental studies"><span class="ilh-page"><a href="/w/index.php?title=Environmental_studies&amp;action=edit&amp;redlink=1" class="new" title="Environmental studies（页面不存在）">环境研究</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Environmental_studies" class="extiw" title="en:Environmental studies"><span lang="en" dir="auto">Environmental studies</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Environmental social science" data-lang-code="en" data-lang-name="英语" data-foreign-title="Environmental social science"><span class="ilh-page"><a href="/w/index.php?title=Environmental_social_science&amp;action=edit&amp;redlink=1" class="new" title="Environmental social science（页面不存在）">环境社会科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Environmental_social_science" class="extiw" title="en:Environmental social science"><span lang="en" dir="auto">Environmental social science</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%80%AB%E7%90%86%E5%AD%B8" title="生物伦理学">生物伦理学</a></li>
+<li><a href="/wiki/%E7%A4%BE%E6%9C%83%E7%94%9F%E7%89%A9%E5%AD%B8" title="社会生物学">社会生物学</a></li>
+<li><a href="/wiki/%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6" title="图书馆学">图书馆学</a></li>
+<li><a href="/wiki/%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6" title="文化研究">文化研究</a></li>
+<li><a href="/wiki/%E7%AC%A6%E8%99%9F%E5%AD%B8" title="符号学">符号学</a></li>
+<li><span class="ilh-all" data-orig-title="Ethnic studies" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ethnic studies"><span class="ilh-page"><a href="/w/index.php?title=Ethnic_studies&amp;action=edit&amp;redlink=1" class="new" title="Ethnic studies（页面不存在）">种族研究</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ethnic_studies" class="extiw" title="en:Ethnic studies"><span lang="en" dir="auto">Ethnic studies</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9E%97%E4%B8%9A" title="林业">林业</a></li>
+<li><a href="/wiki/%E8%BE%B2%E5%AD%B8" class="mw-redirect" title="农学">农学</a></li></ul>
+</div></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center;padding-bottom:0;"><div class="navbox-abovebelow"><span style="font-size:110%;"><div class="hlist"><ul><li><a href="/wiki/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6" title="科学哲学">科学哲学</a>　<a href="/wiki/%E7%A7%91%E5%AD%A6%E5%8F%B2" title="科学史">科学史</a></li></ul></div></span></div></div><div class="sidebar-list-content mw-collapsible-content" style="padding-top:0.6em;"><div class="hlist">
+<ul><li><a href="/wiki/%E5%9F%BA%E7%A1%80%E7%A7%91%E5%AD%A6" title="基础科学">基础科学</a></li>
+<li><a href="/wiki/%E5%85%AC%E4%BC%97%E7%A7%91%E5%AD%A6" title="公众科学">公众科学</a></li>
+<li><a href="/wiki/%E8%BE%B9%E7%BC%98%E7%A7%91%E5%AD%A6" title="边缘科学">边缘科学</a></li>
+<li><span class="ilh-all" data-orig-title="Protoscience" data-lang-code="en" data-lang-name="英语" data-foreign-title="Protoscience"><span class="ilh-page"><a href="/w/index.php?title=Protoscience&amp;action=edit&amp;redlink=1" class="new" title="Protoscience（页面不存在）">原科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Protoscience" class="extiw" title="en:Protoscience"><span lang="en" dir="auto">Protoscience</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BC%AA%E7%A7%91%E5%AD%A6" title="伪科学">伪科学</a>（<a href="/wiki/%E8%A2%AB%E8%AA%8D%E5%AE%9A%E6%98%AF%E5%81%BD%E7%A7%91%E5%AD%B8%E7%9A%84%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8" title="被认定是伪科学的主题列表">列表</a>）</li>
+<li><a href="/wiki/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1" title="学术自由">学术自由</a></li>
+<li><span class="ilh-all" data-orig-title="科学政策" data-lang-code="en" data-lang-name="英语" data-foreign-title="Science policy"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%91%E5%AD%A6%E6%94%BF%E7%AD%96&amp;action=edit&amp;redlink=1" class="new" title="科学政策（页面不存在）">政策</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Science_policy" class="extiw" title="en:Science policy"><span lang="en" dir="auto">Science policy</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="科研经费" data-lang-code="en" data-lang-name="英语" data-foreign-title="Funding of science"><span class="ilh-page"><a href="/w/index.php?title=%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9&amp;action=edit&amp;redlink=1" class="new" title="科研经费（页面不存在）">经费</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Funding_of_science" class="extiw" title="en:Funding of science"><span lang="en" dir="auto">Funding of science</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95" title="科学方法">科学方法</a></li>
+<li><span class="ilh-all" data-orig-title="Technoscience" data-lang-code="en" data-lang-name="英语" data-foreign-title="Technoscience"><span class="ilh-page"><a href="/w/index.php?title=Technoscience&amp;action=edit&amp;redlink=1" class="new" title="Technoscience（页面不存在）">技科学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Technoscience" class="extiw" title="en:Technoscience"><span lang="en" dir="auto">Technoscience</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9E%83%E5%9C%BE%E7%A7%91%E5%AD%A6" title="垃圾科学">垃圾科学</a></li>
+<li><a href="/wiki/%E5%8F%8D%E7%A7%91%E5%AD%B8" title="反科学">反科学</a></li>
+<li><a href="/wiki/%E8%A2%AB%E5%8F%96%E4%BB%A3%E7%9A%84%E7%A7%91%E5%AD%B8%E7%90%86%E8%AB%96" title="被取代的科学理论">被取代的科学理论</a></li></ul>
+</div></div></div></td>
+</tr><tr><td class="sidebar-below hlist" style="display:block;margin-top:0.7em; border-top:1px solid #bbf;padding-top:0.15em;border-bottom:1px solid #bbf;">
+<ul><li><span typeof="mw:File"><span title="列表级条目"><img alt="列表级条目" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span><a href="/wiki/%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%BA%B2" title="科学大纲">科学大纲</a>　<span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span><a href="/wiki/Portal:%E7%A7%91%E5%AD%B8" title="Portal:科学">科学主题</a>　<span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span><a href="/wiki/Category:%E7%A7%91%E5%AD%A6" title="Category:科学">科学分类</a><br /></li></ul>
+<span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span><b><a href="/wiki/WikiProject:%E7%A7%91%E5%AD%B8" title="WikiProject:科学">专题</a></b>　<span typeof="mw:File"><span title="项目页面"><img alt="项目页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/16px-Symbol_information_vote.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/23px-Symbol_information_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/31px-Symbol_information_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span><a href="/wiki/%E7%A7%91%E5%AD%A6%E5%8F%B2" title="科学史">科学史</a></td></tr><tr><td class="sidebar-navbar" style="line-height:1.6;margin-top:0;padding-top:0.15em;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%A7%91%E5%AD%B8" title="Template:科学"><abbr title="查看该模板">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%A7%91%E5%AD%B8" title="Template talk:科学"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%A7%91%E5%AD%B8&amp;action=edit"><abbr title="编辑该模板">编</abbr></a></li></ul></div></td></tr></tbody></table>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E8.83.8C.E6.99.AF"></span><span class="mw-headline" id="背景">背景</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=1" title="编辑章节：背景"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>在物理学中，要求基于各种数学模型的理论，都能够对这些理论所描述的系统的行为给出精确的描述。不幸的是，很多问题无法得到精确解（即<a href="/wiki/%E8%A7%A3%E6%9E%90%E8%A7%A3" title="解析解">解析解</a>），或求精确解的过程过于复杂。（比如，<a href="/wiki/%E7%B6%93%E5%85%B8%E5%8A%9B%E5%AD%B8" class="mw-redirect" title="经典力学">经典力学</a>中的多体问题。<a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%B8" class="mw-redirect" title="量子力学">量子力学</a>中，除少数极端近似的大多数问题。）此时，将会使用数值近似的方法来求解这类问题。计算物理学就是这样一门数值近似的学科，它使用计算有限的计算步数（往往计算量很大）与简单的数学方法（<a href="/wiki/%E7%AE%97%E6%B3%95" title="算法">算法</a>），利用计算机操作、演算，得到相应的近似解与相应的<a href="/wiki/%E9%80%BC%E8%BF%91%E8%AF%AF%E5%B7%AE" title="逼近误差">逼近误差</a>。<sup id="cite_ref-ThijssenBook_1-1" class="reference"><a href="#cite_note-ThijssenBook-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span id=".E7.89.A9.E7.90.86.E5.AD.A6.E4.B8.AD.E7.9A.84.E5.9C.B0.E4.BD.8D"></span><span class="mw-headline" id="物理学中的地位">物理学中的地位</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=2" title="编辑章节：物理学中的地位"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>计算物理学在物理学中的地位目前存在着争议<sup id="cite_ref-ercolessi_4-0" class="reference"><a href="#cite_note-ercolessi-4">&#91;4&#93;</a></sup> 。有时候它被视作理论物理的重要工具，有时也被看做一种“计算机实验”<sup id="cite_ref-ercolessi_4-1" class="reference"><a href="#cite_note-ercolessi-4">&#91;4&#93;</a></sup> ，同时也有人将其看作介于理论物理与实验物理之间的第三条物理学分支。考虑到计算机也同时被应用于记录实验数据并进行相应分析，它也可能不应被单纯地归类为计算科学。
+</p>
+<h2><span id=".E9.97.AE.E9.A2.98.E4.B8.8E.E6.8C.91.E6.88.98"></span><span class="mw-headline" id="问题与挑战">问题与挑战</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=3" title="编辑章节：问题与挑战"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>即使使用了计算物理方法，物理问题也时常难以求解。这通常由如下几个（数学）原因造成：缺少相应算法、无法对数值解进行相应分析、复杂度过高和<a href="/wiki/%E6%B7%B7%E6%B2%8C" title="混沌">混沌</a>现象。比如，<a href="/wiki/%E6%96%AF%E5%A1%94%E5%85%8B%E6%95%88%E5%BA%94" title="斯塔克效应">斯塔克效应</a>现象中电子波函数的求解（量子力学中，当原子处在强<a href="/wiki/%E7%94%B5%E5%9C%BA" class="mw-redirect" title="电场">电场</a>时，电子行为会发生相应变化），将需要一套很复杂的算法才能求解（目前只能求解其中的一部分情况）；有些问题，则必须使用暴力计算或者<a href="/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%9C%E6%80%A7%E7%90%86%E8%AB%96" title="计算复杂性理论">时间空间复杂度</a>很高的算法，比如一些复杂方程的求解和图形化方法。有时也会需要使用数学中的<a href="/wiki/%E6%91%84%E5%8A%A8%E7%90%86%E8%AE%BA" title="摄动理论">摄动理论</a>（如量子力学中的<a href="/wiki/%E5%BE%AE%E6%93%BE%E7%90%86%E8%AB%96_(%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%B8)" title="摄动理论 (量子力学)">微扰理论</a>）进行近似求解，比如上面提到的斯塔克效应。
+</p><p>此外，<a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6" title="量子力学">量子力学</a>中很多问题的解是<a href="/wiki/EXPTIME" title="EXPTIME">指数形式</a>的，其数值解也会相应地发生指数暴增；此外，宏观系统往往包含10<sup>23</sup>数量级巨大的分子数目，也提高了模拟计算的难度。<sup id="cite_ref-Sauer1997_5-0" class="reference"><a href="#cite_note-Sauer1997-5">&#91;5&#93;</a></sup>
+</p><p>最后，很多物理系统本质上是非线性的，甚至是混沌的。这也使得我们难以确定计算机得到的“解”是否是由数值近似带来的逼近误差本身造成的。
+</p>
+<h2><span id=".E6.96.B9.E6.B3.95.E4.B8.8E.E7.AE.97.E6.B3.95"></span><span class="mw-headline" id="方法与算法">方法与算法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=4" title="编辑章节：方法与算法"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>由于计算物理学可以研究的问题十分广泛，人们通常按照其解决的数学问题或使用的数学方法来分类，一般可归类如下：
+</p>
+<table class="wikitable" border="1">
+
+<tbody><tr>
+<th>数学问题
+</th>
+<th>算法或方法举例
+</th>
+<th>物理问题举例
+</th></tr>
+<tr>
+<td><a href="/wiki/%E5%BE%AE%E5%88%86" title="微分">微分</a>的计算
+</td>
+<td><a href="/wiki/%E6%95%B8%E5%80%BC%E5%BE%AE%E5%88%86" title="数值微分">数值微分</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E7%A9%8D%E5%88%86" class="mw-redirect" title="积分">积分</a>的计算
+</td>
+<td><a href="/wiki/%E6%95%B0%E5%80%BC%E7%A7%AF%E5%88%86" class="mw-redirect" title="数值积分">数值积分</a>或<a href="/wiki/%E8%92%99%E7%89%B9%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特卡罗方法">蒙特卡洛积分</a>
+</td>
+<td>求<a href="/wiki/%E8%B4%A8%E5%BF%83" class="mw-redirect" title="质心">质心</a>位置、<a href="/wiki/%E5%8F%A0%E5%8A%A0%E5%8E%9F%E7%90%86" title="叠加原理">场的叠加</a>
+</td></tr>
+<tr>
+<td>求<a href="/wiki/%E5%87%BD%E6%95%B0" title="函数">函数</a>的<a href="/wiki/%E6%9E%81%E5%80%BC" title="极值">极值</a>
+</td>
+<td><a href="/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95" title="梯度下降法">最速下降法</a>、<a href="/wiki/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB" title="模拟退火">模拟退火算法</a>、<a href="/wiki/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95" title="遗传算法">遗传算法</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B" title="常微分方程">常微分方程</a>的求解
+</td>
+<td><a href="/wiki/%E9%BE%99%E6%A0%BC%EF%BC%8D%E5%BA%93%E5%A1%94%E6%B3%95" class="mw-redirect" title="龙格－库塔法">龙格－库塔法</a>（<a href="/wiki/%E5%88%9D%E5%80%BC%E5%95%8F%E9%A1%8C" title="初值问题">初值问题</a>）、<a href="/wiki/%E6%89%93%E9%9D%B6%E6%B3%95" title="打靶法">打靶法</a>（<a href="/wiki/%E8%BE%B9%E5%80%BC%E9%97%AE%E9%A2%98" title="边值问题">边值问题</a>）<sup id="cite_ref-刘金远_3-1" class="reference"><a href="#cite_note-刘金远-3">&#91;3&#93;</a></sup>
+</td>
+<td>经典力学中的<a href="/wiki/%E5%88%9A%E4%BD%93%E8%BF%90%E5%8A%A8" class="mw-redirect" title="刚体运动">刚体运动</a>、<a href="/wiki/%E5%A4%9A%E4%BD%93%E9%97%AE%E9%A2%98" title="多体问题">多体问题</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B" title="偏微分方程">偏微分方程</a>的求解
+</td>
+<td><a href="/wiki/%E5%B7%AE%E5%88%86" title="差分">差分</a>法、<a href="/wiki/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90" class="mw-redirect" title="有限元分析">有限元分析</a>和<span class="ilh-all" data-orig-title="伪谱法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pseudo-spectral method"><span class="ilh-page"><a href="/w/index.php?title=%E4%BC%AA%E8%B0%B1%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="伪谱法（页面不存在）">伪谱法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pseudo-spectral_method" class="extiw" title="en:Pseudo-spectral method"><span lang="en" dir="auto">Pseudo-spectral method</span></a></span>）</span></span>
+</td>
+<td><a href="/wiki/%E6%B3%A2%E5%8A%A8%E6%96%B9%E7%A8%8B" title="波动方程">波动问题</a>、<a href="/wiki/%E7%86%B1%E5%82%B3%E5%B0%8E%E6%96%B9%E7%A8%8B%E5%BC%8F" title="热传导方程">输运问题</a>、<a href="/wiki/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E6%96%B9%E7%A8%8B" title="拉普拉斯方程">静场问题</a>、<a href="/wiki/%E5%B0%8D%E6%B5%81" title="对流">对流问题</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E7%9F%A9%E9%98%B5" title="矩阵">矩阵</a>的<a href="/wiki/%E7%89%B9%E5%BE%81%E5%80%BC" class="mw-redirect" title="特征值">特征值</a>和<a href="/wiki/%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F" class="mw-redirect" title="特征向量">特征向量</a>的求解
+</td>
+<td><a href="/wiki/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90" title="矩阵分析">矩阵分析</a>相关方法，如<a href="/wiki/%E7%B2%BE%E7%A2%BA%E5%B0%8D%E8%A7%92%E5%8C%96%E6%B3%95" title="精确对角化法">精确对角化法</a>、<a href="/wiki/%E5%AF%86%E5%BA%A6%E7%9F%A9%E9%99%A3%E9%87%8D%E6%95%B4%E5%8C%96%E7%BE%A4" title="密度矩阵重整化群">密度矩阵重整化群</a>
+</td>
+<td><a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6" title="量子力学">量子力学</a>系统中<a href="/wiki/%E5%93%88%E5%AF%86%E9%A1%BF%E7%AE%97%E7%AC%A6" title="哈密顿算符">能量本征值</a>和<a href="/wiki/%E6%9C%AC%E5%BE%81%E6%80%81" class="mw-redirect" title="本征态">本征态</a>的求解
+</td></tr>
+<tr>
+<td>大量系列<a href="/wiki/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="随机事件">随机事件</a>的相互作用
+</td>
+<td><a href="/wiki/%E8%92%99%E7%89%B9%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95" class="mw-redirect" title="蒙特卡罗方法">蒙特卡罗方法</a>
+</td>
+<td><a href="/wiki/%E5%88%86%E5%AD%90%E5%8A%A8%E5%8A%9B%E5%AD%A6" title="分子动力学">分子动力学</a>、<a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93" title="等离子体">等离子体</a>的动力学方程
+</td></tr></tbody></table>
+<p>这些方法被用来研究所建模系统的物理特性。
+</p><p>计算物理学也时常受到<a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6" title="计算化学">计算化学</a>的影响，比如固体物理学家利用<a href="/wiki/%E5%AF%86%E5%BA%A6%E6%B3%9B%E5%87%BD%E7%90%86%E8%AB%96" title="密度泛函理论">密度泛函理论</a>研究固体的物理特性的方式，与化学家研究分子行为的方式基本一致。
+</p><p>此外，计算物理学研究也需要相应的<a href="/wiki/%E8%BD%AF%E4%BB%B6" title="软件">软件</a>与<a href="/wiki/%E7%A1%AC%E4%BB%B6" class="mw-disambig" title="硬件">硬件</a>来支撑，有时会需要超级计算机和高性能运算的相关技术支持。比如<a href="/wiki/%E6%A0%B8%E8%81%9A%E5%8F%98" title="核聚变">热核聚变</a>的研究中就使用了超级计算机来模拟等离子体行为。
+</p>
+<h2><span id=".E5.88.86.E6.94.AF.E4.B8.8E.E4.BA.A4.E5.8F.89"></span><span class="mw-headline" id="分支与交叉">分支与交叉</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=5" title="编辑章节：分支与交叉"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>几乎所有物理学的主要分支都能在计算物理学的应用中找到一席之地，比如<a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8A%9B%E5%AD%A6" title="计算力学">计算力学</a>、<span class="ilh-all" data-orig-title="计算电动力学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computational electromagnetics"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="计算电动力学（页面不存在）">计算电动力学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computational_electromagnetics" class="extiw" title="en:Computational electromagnetics"><span lang="en" dir="auto">Computational electromagnetics</span></a></span>）</span></span>、计算<a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93" title="等离子体">等离子体</a>等。<a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8A%9B%E5%AD%A6" title="计算力学">计算力学</a>又由<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6" title="计算流体力学">计算流体力学</a>（CFD）、计算<a href="/wiki/%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6" title="固体力学">固体力学</a>、计算<a href="/wiki/%E6%8E%A5%E8%A7%A6%E5%8A%9B%E5%AD%A6" title="接触力学">接触力学</a>组成。而计算流体力学与计算电动力学又共同促成了<span class="ilh-all" data-orig-title="计算磁流体力学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computational magnetohydrodynamics"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%A3%81%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="计算磁流体力学（页面不存在）">计算磁流体力学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computational_magnetohydrodynamics" class="extiw" title="en:Computational magnetohydrodynamics"><span lang="en" dir="auto">Computational magnetohydrodynamics</span></a></span>）</span></span>。量子力学N体问题中，当N趋近于无穷大时就变成了计算化学问题。
+作为计算物理重要分支的计算固体物理，又直接应用于<a href="/wiki/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6" title="材料科学">材料科学</a>。
+</p><p>一个与计算<a href="/wiki/%E5%87%9D%E8%81%9A%E6%80%81" class="mw-redirect" title="凝聚态">凝聚态</a>物质特性相关的分支叫做<a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="计算统计力学（页面不存在）">计算统计力学</a>，用于解决其他方法难以解决的一些问题（比如渗透过滤、<a href="/wiki/%E5%88%86%E5%AD%90%E7%94%B5%E6%B5%81%E5%81%87%E8%AF%B4" title="分子电流假说">磁旋</a>等）。
+</p><p><span class="ilh-all" data-orig-title="計算天體物理學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computational astrophysics"><span class="ilh-page"><a href="/w/index.php?title=%E8%A8%88%E7%AE%97%E5%A4%A9%E9%AB%94%E7%89%A9%E7%90%86%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="计算天体物理学（页面不存在）">计算天体物理学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computational_astrophysics" class="extiw" title="en:Computational astrophysics"><span lang="en" dir="auto">Computational astrophysics</span></a></span>）</span></span>，乃是对于天体物理学问题所进行的技术与方法。
+</p>
+<h2><span id=".E6.87.89.E7.94.A8"></span><span class="mw-headline" id="應用">应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=6" title="编辑章节：应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>主要用于解决计算物理学的问题，应用在物理学不同领域皆，现代物理学研究的重要组成部分。如：<a href="/wiki/%E5%8A%A0%E9%80%9F%E5%99%A8%E7%89%A9%E7%90%86%E5%AD%B8" title="加速器物理学">加速器物理学</a>、<a href="/wiki/%E5%A4%A9%E9%AB%94%E7%89%A9%E7%90%86%E5%AD%B8" class="mw-redirect" title="天体物理学">天体物理学</a>、<a href="/wiki/%E6%B5%81%E9%AB%94%E5%8A%9B%E5%AD%B8" class="mw-redirect" title="流体力学">流体力学</a>（含：<a href="/wiki/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6" title="计算流体力学">计算流体力学</a>）、<a href="/wiki/%E6%99%B6%E4%BD%93%E5%9C%BA%E7%90%86%E8%AE%BA" title="晶体场理论">晶体场理论</a>/<span class="ilh-all" data-orig-title="格点规范理论" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lattice field theory"><span class="ilh-page"><a href="/w/index.php?title=%E6%A0%BC%E7%82%B9%E8%A7%84%E8%8C%83%E7%90%86%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="格点规范理论（页面不存在）">格点规范理论</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lattice_field_theory" class="extiw" title="en:Lattice field theory"><span lang="en" dir="auto">Lattice field theory</span></a></span>）</span></span>（尤其是<span class="ilh-all" data-orig-title="格点量子色动力学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lattice quantum chromodynamics"><span class="ilh-page"><a href="/w/index.php?title=%E6%A0%BC%E7%82%B9%E9%87%8F%E5%AD%90%E8%89%B2%E5%8A%A8%E5%8A%9B%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="格点量子色动力学（页面不存在）">格点量子色动力学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lattice_quantum_chromodynamics" class="extiw" title="en:Lattice quantum chromodynamics"><span lang="en" dir="auto">Lattice quantum chromodynamics</span></a></span>）</span></span>）、<a href="/wiki/%E9%9B%BB%E6%BC%BF" class="mw-redirect" title="等离子体">等离子体</a>（见：<span class="ilh-all" data-orig-title="等离子体模拟" data-lang-code="en" data-lang-name="英语" data-foreign-title="Plasma modeling"><span class="ilh-page"><a href="/w/index.php?title=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E6%A8%A1%E6%8B%9F&amp;action=edit&amp;redlink=1" class="new" title="等离子体模拟（页面不存在）">等离子体模拟</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Plasma_modeling" class="extiw" title="en:Plasma modeling"><span lang="en" dir="auto">Plasma modeling</span></a></span>）</span></span>）、模拟物理系统（应用在<a href="/wiki/%E5%88%86%E5%AD%90%E5%8A%A8%E5%8A%9B%E5%AD%A6" title="分子动力学">分子动力学</a>）、<a href="/wiki/%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%93%E6%9E%84%E9%A2%84%E6%B5%8B" title="蛋白质结构预测">蛋白质结构预测</a>、<a href="/wiki/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="固体物理学">固体物理学</a>、<a href="/wiki/%E8%BD%AF%E7%89%A9%E8%B4%A8" title="软物质">软物质</a>等诸多物理学之领域。
+</p><p><span class="ilh-all" data-orig-title="计算化學在固体物理学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computational chemical methods in solid-state physics"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%B8%E5%9C%A8%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="计算化学在固体物理学（页面不存在）">计算化学在固体物理学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computational_chemical_methods_in_solid-state_physics" class="extiw" title="en:Computational chemical methods in solid-state physics"><span lang="en" dir="auto">Computational chemical methods in solid-state physics</span></a></span>）</span></span>，例如用<a href="/wiki/%E5%AF%86%E5%BA%A6%E6%B3%9B%E5%87%BD%E7%90%86%E8%AB%96" title="密度泛函理论">密度泛函理论</a>计算固体的特性，是一种类借助于计算化学理念研究来研究固体分子的物理特性的策略，以及参与其他大量的固体物理学计算。又如电子能带结构和磁性能，电荷密度可以通过这几种方法计算，包括<span class="ilh-all" data-orig-title="卢京格尔科恩–模型" data-lang-code="en" data-lang-name="英语" data-foreign-title="Luttinger–Kohn model"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%A2%E4%BA%AC%E6%A0%BC%E5%B0%94%E7%A7%91%E6%81%A9%E2%80%93%E6%A8%A1%E5%9E%8B&amp;action=edit&amp;redlink=1" class="new" title="卢京格尔科恩–模型（页面不存在）">卢京格尔科恩–模型</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Luttinger%E2%80%93Kohn_model" class="extiw" title="en:Luttinger–Kohn model"><span lang="en" dir="auto">Luttinger–Kohn model</span></a></span>）</span></span>/<a href="/wiki/K%C2%B7p%E5%BE%AE%E6%89%B0%E7%90%86%E8%AE%BA" class="mw-redirect" title="K·p微扰理论">K·p微扰理论</a>和<a href="/wiki/%E4%BB%8E%E5%A4%B4%E8%AE%A1%E7%AE%97%E6%B3%95" title="从头计算法">从头计算法</a>。
+</p>
+<h2><span id=".E5.BA.94.E7.94.A8.E8.BD.AF.E4.BB.B6"></span><span class="mw-headline" id="应用软件">应用软件</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=7" title="编辑章节：应用软件"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>计算物理常用软件主要为<a href="/wiki/Matlab" class="mw-redirect" title="Matlab">Matlab</a>、和<a href="/wiki/Mathematica" class="mw-redirect" title="Mathematica">Mathematica</a>和<a href="/wiki/Maple" title="Maple">Maple</a>等<a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值计算</a>软件，这些软件提供了大量求解常见计算物理问题的工具，供使用者直接应用。常见的高级语言也可以实现相同的计算功能，有时甚至能够更高速完成任务，但这也需要相应的编程技巧与计算物理知识作支撑。
+</p>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=8" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%95%B8%E5%AD%B8%E7%89%A9%E7%90%86" class="mw-redirect" title="数学物理">数学物理</a></li>
+<li><span class="ilh-all" data-orig-title="第一原理計算" data-lang-code="ja" data-lang-name="日语" data-foreign-title="第一原理計算"><span class="ilh-page"><a href="/w/index.php?title=%E7%AC%AC%E4%B8%80%E5%8E%9F%E7%90%86%E8%A8%88%E7%AE%97&amp;action=edit&amp;redlink=1" class="new" title="第一原理计算（页面不存在）">第一原理计算</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">日语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E5%8E%9F%E7%90%86%E8%A8%88%E7%AE%97" class="extiw" title="ja:第一原理計算"><span lang="ja" dir="auto">第一原理計算</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%88%86%E5%AD%90%E5%8A%A8%E5%8A%9B%E5%AD%A6" title="分子动力学">分子动力学</a></li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span><span class="mw-headline" id="参考资料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=9" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ThijssenBook-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ThijssenBook_1-0"><sup><b>1.0</b></sup></a> <a href="#cite_ref-ThijssenBook_1-1"><sup><b>1.1</b></sup></a></span> <span class="reference-text">
+<cite class="citation book">J. Thijssen, Joseph. <a rel="nofollow" class="external text" href="https://archive.org/details/computationalphy0000thij">Computational Physics</a>. <a href="/wiki/Cambridge_University_Press" class="mw-redirect" title="Cambridge University Press">Cambridge University Press</a>. 2007. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0521833469" title="Special:网络书源/0521833469"><span title="国际标准书号">ISBN</span>&#160;0521833469</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;rft.au=J.+Thijssen%2C+Joseph&amp;rft.btitle=Computational+Physics&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0521833469&amp;rft.pub=Cambridge+University+Press&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcomputationalphy0000thij&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-TapiaBook-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-TapiaBook_2-0">^</a></b></span> <span class="reference-text">
+<cite class="citation book">A. Tapia, Richard. Computational Science: Tools for a Changing World. Rice Center for Excellence and Equity in Education (CEEE). 2001.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;rft.aufirst=Richard&amp;rft.aulast=A.+Tapia&amp;rft.btitle=Computational+Science%3A+Tools+for+a+Changing+World&amp;rft.date=2001&amp;rft.genre=book&amp;rft.pub=Rice+Center+for+Excellence+and+Equity+in+Education+%28CEEE%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-刘金远-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-刘金远_3-0"><sup><b>3.0</b></sup></a> <a href="#cite_ref-刘金远_3-1"><sup><b>3.1</b></sup></a></span> <span class="reference-text">《计算物理学》 刘金远等 科学出版社 <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9787030347930" class="internal mw-magiclink-isbn">ISBN 978-7-03-034793-0</a></span>
+</li>
+<li id="cite_note-ercolessi-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-ercolessi_4-0"><sup><b>4.0</b></sup></a> <a href="#cite_ref-ercolessi_4-1"><sup><b>4.1</b></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fisica.uniud.it/~ercolessi/md/md/">A molecular dynamics primer,</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150111014856/http://www.fisica.uniud.it/~ercolessi/md/md/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） Furio Ercolessi, <a href="/w/index.php?title=University_of_Udine&amp;action=edit&amp;redlink=1" class="new" title="University of Udine（页面不存在）">University of Udine</a>, Italy. <a rel="nofollow" class="external text" href="http://www.fisica.uniud.it/~ercolessi/md/md.pdf">Article PDF</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150924013419/http://www.fisica.uniud.it/~ercolessi/md/md.pdf">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）.</span>
+</li>
+<li id="cite_note-Sauer1997-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sauer1997_5-0">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">How Long Do Numerical Chaotic Solutions Remain Valid?. <a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1997PhRvL..79...59S"><span title="Bibcode">Bibcode:1997PhRvL..79...59S</span></a>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.79.59"><span title="数位物件识别号">doi:10.1103/PhysRevLett.79.59</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;rft.atitle=How+Long+Do+Numerical+Chaotic+Solutions+Remain+Valid%3F&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1997PhRvL..79...59S&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.79.59&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;action=edit&amp;section=10" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://phycomp.technion.ac.il/~C20">C20 IUPAP Commission on Computational Physics</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20151115112756/http://phycomp.technion.ac.il/~C20">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.aps.org/units/dcomp/index.cfm">APS DCOMP</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20150111215353/http://www.aps.org/units/dcomp/index.cfm">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.iop.org/activity/groups/subject/comp/index.html">IoP CPG (UK)</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20150213081724/http://www.iop.org/activity/groups/subject/comp/index.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150418013304/http://www.scidac.gov/physics/physics.html">SciDAC: Scientific Discovery through Advanced Computing</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.compadre.org/OSP/">Open Source Physics</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20150203045430/http://www.compadre.org/OSP/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.obacs.com">SCINET Scientific Software Framework</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20171015234714/http://www.obacs.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://ceee.rice.edu/Books/CS/index.html">莱斯大学查理德中心</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20130316114940/http://ceee.rice.edu/Books/CS/index.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<p><br />
+</p>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%89%A9%E7%90%86%E5%AD%B8%E5%88%86%E6%94%AF" title="Template:物理学分支"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%89%A9%E7%90%86%E5%AD%B8%E5%88%86%E6%94%AF" title="Template talk:物理学分支"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%89%A9%E7%90%86%E5%AD%B8%E5%88%86%E6%94%AF&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6" title="物理学">物理学</a><a href="/wiki/Category:%E7%89%A9%E7%90%86%E5%AD%A6%E5%88%86%E6%94%AF" title="Category:物理学分支">分支</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6%E5%8F%B2" title="物理学史">物理学史</a></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">组成部分</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6" title="理论物理学">理论物理</a></li>
+<li><a href="/wiki/%E5%AF%A6%E9%A9%97%E7%89%A9%E7%90%86%E5%AD%B8" title="实验物理学">实验物理</a></li>
+<li><a href="/wiki/%E5%BA%94%E7%94%A8%E7%89%A9%E7%90%86%E5%AD%A6" title="应用物理学">应用物理</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%83%BD%E9%87%8F" title="能量">能量</a><span style="font-weight:bold;">&#160;·</span>&#32;<a href="/wiki/%E9%81%8B%E5%8B%95_(%E7%89%A9%E7%90%86%E5%AD%B8)" title="运动 (物理学)">运动</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%83%AD%E5%8A%9B%E5%AD%A6" title="热力学">热力学</a></li>
+<li><a href="/wiki/%E5%8A%9B%E5%AD%A6" title="力学">力学</a>
+<ul><li><a href="/wiki/%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6" title="经典力学">经典力学</a>
+<ul><li><a href="/wiki/%E5%BC%B9%E9%81%93%E5%AD%A6" title="弹道学">弹道</a></li>
+<li><a href="/wiki/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E5%8A%9B%E5%AD%A6" title="拉格朗日力学">拉格朗日</a></li>
+<li><a href="/wiki/%E5%93%88%E5%AF%86%E9%A1%BF%E5%8A%9B%E5%AD%A6" title="哈密顿力学">哈密顿</a></li></ul></li>
+<li><a href="/wiki/%E8%BF%9E%E7%BB%AD%E4%BB%8B%E8%B4%A8%E5%8A%9B%E5%AD%A6" title="连续介质力学">连续介质</a></li>
+<li><a href="/wiki/%E5%A4%A9%E9%AB%94%E5%8A%9B%E5%AD%B8" title="天体力学">天体</a></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6" title="统计力学">统计</a></li>
+<li><a href="/wiki/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6" title="流体力学">流体</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6" title="量子力学">量子</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B3%A2" title="波">波</a><span style="font-weight:bold;">&#160;·</span>&#32;<a href="/wiki/%E5%9C%BA_(%E7%89%A9%E7%90%86)" title="场 (物理)">场</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BC%95%E5%8A%9B" title="引力">引力</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%A3%81%E5%AD%A6" title="电磁学">电磁学</a>
+<ul><li><a href="/wiki/%E7%BB%8F%E5%85%B8%E7%94%B5%E7%A3%81%E5%AD%A6" title="经典电磁学">经典</a></li></ul></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA" title="量子场论">量子场论</a></li>
+<li><a href="/wiki/%E7%9B%B8%E5%AF%B9%E8%AE%BA" title="相对论">相对论</a>
+<ul><li><a href="/wiki/%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA" title="狭义相对论">狭义相对论</a></li>
+<li><a href="/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96" title="广义相对论">广义相对论</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">按专业</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%95%B8%E7%A2%BC%E7%89%A9%E7%90%86%E5%AD%B8" title="数码物理学">数码物理学</a></li>
+<li><a class="mw-selflink selflink">计算物理学</a></li>
+<li><a href="/wiki/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%B8" title="粒子物理学">粒子物理学</a></li>
+<li><a href="/wiki/%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%89%A9%E7%90%86%E5%AD%A6" title="原子核物理学">原子核物理学</a></li>
+<li><a href="/wiki/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E4%B8%8E%E5%85%89%E7%89%A9%E7%90%86%E5%AD%A6" title="原子分子与光物理学">原子分子与光物理学</a>
+<ul><li><a href="/wiki/%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="分子物理学">分子</a></li>
+<li><a href="/wiki/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="原子物理学">原子</a></li></ul></li>
+<li><a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="等离子体物理学">等离子体</a></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6" title="统计力学">统计</a></li>
+<li><a href="/wiki/%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E5%AD%A6" title="凝聚态物理学">凝聚态物理学</a>
+<ul><li><a href="/wiki/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="固体物理学">固体</a></li>
+<li><a href="/wiki/%E4%BB%8B%E8%A7%82%E7%89%A9%E7%90%86%E5%AD%A6" title="介观物理学">介观</a></li>
+<li><a href="/wiki/%E8%BD%AF%E7%89%A9%E8%B4%A8" title="软物质">软</a></li>
+<li><a href="/wiki/%E9%AB%98%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="高分子物理学">高分子</a></li></ul></li>
+<li><a href="/wiki/%E5%A3%B0%E5%AD%A6" title="声学">声学</a></li>
+<li><a href="/wiki/%E5%85%89%E5%AD%A6" title="光学">光学</a>
+<ul><li><a href="/wiki/%E5%87%A0%E4%BD%95%E5%85%89%E5%AD%A6" title="几何光学">几何</a></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E5%85%89%E5%AD%A6" title="物理光学">物理</a></li>
+<li><a href="/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%85%89%E5%AD%A6" title="非线性光学">非线性</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6" title="量子光学">量子</a></li></ul></li>
+<li><a href="/wiki/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="天体物理学">天体物理学</a>
+<ul><li><a href="/wiki/%E6%A0%B8%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="核天体物理学">核</a></li>
+<li><a href="/wiki/%E6%81%92%E6%98%9F%E7%89%A9%E7%90%86%E5%AD%A6" title="恒星物理学">恒星</a></li>
+<li><a href="/wiki/%E5%A4%A9%E4%BD%93%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="天体粒子物理学">天体粒子</a></li>
+<li><a href="/wiki/%E5%A4%AA%E9%98%B3%E7%89%A9%E7%90%86%E5%AD%A6" title="太阳物理学">太阳</a></li>
+<li><a href="/wiki/%E7%A9%BA%E9%97%B4%E7%89%A9%E7%90%86%E5%AD%A6" title="空间物理学">空间</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">生命科学中的物理学</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E5%AD%A6" title="生物物理学">生物物理学</a>
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8A%9B%E5%AD%A6" title="生物力学">生物力学</a></li>
+<li><a href="/wiki/%E5%86%9C%E4%B8%9A%E7%89%A9%E7%90%86%E5%AD%A6" title="农业物理学">农业物理学</a></li></ul></li>
+<li><a href="/wiki/%E9%86%AB%E5%AD%B8%E7%89%A9%E7%90%86" title="医学物理">医学物理</a>
+<ul><li><span class="ilh-all" data-orig-title="激光医学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Laser medicine"><span class="ilh-page"><a href="/w/index.php?title=%E6%BF%80%E5%85%89%E5%8C%BB%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="激光医学（页面不存在）">激光医学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Laser_medicine" class="extiw" title="en:Laser medicine"><span lang="en" dir="auto">Laser medicine</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%A0%B8%E5%8C%BB%E5%AD%A6" title="核医学">核医学</a></li>
+<li><a href="/wiki/%E9%86%AB%E5%AD%B8%E5%BD%B1%E5%83%8F" title="医学影像">医学影像</a></li>
+<li><a href="/wiki/%E5%BF%83%E7%90%86%E7%89%A9%E7%90%86%E5%AD%A6" title="心理物理学">心理物理学</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A7%91%E9%99%85%E6%95%B4%E5%90%88" title="科际整合">交叉学科</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6" title="天体物理学">天体物理学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86" title="数学物理">数学物理</a></li>
+<li><a href="/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%89%A9%E7%90%86%E5%AD%A6" title="非线性物理学">非线性物理学</a></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E7%89%A9%E7%90%86%E5%AD%B8" title="经济物理学">经济物理学</a></li>
+<li><a href="/wiki/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6" title="材料科学">材料科学</a>
+<ul><li><a href="/wiki/%E9%AB%98%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6" title="高分子物理学">高分子</a></li></ul></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6" title="物理化学">物理化学</a> / <a href="/wiki/%E5%8C%96%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6" title="化学物理学">化学物理学</a></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E5%AE%87%E5%AE%99%E5%AD%A6" title="物理宇宙学">物理宇宙学</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%B0%94%E7%89%A9%E7%90%86%E5%AD%A6" title="大气物理学">大气</a>
+<ul><li><a href="/wiki/%E4%BA%91%E7%89%A9%E7%90%86%E5%AD%A6" title="云物理学">云</a></li></ul></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%AD%A6" title="地球物理学">地球物理学</a></li>
+<li><a href="/wiki/%E5%9C%9F%E5%A3%A4%E7%89%A9%E7%90%86%E5%AD%B8" title="土壤物理学">土壤物理学</a></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E6%B5%B7%E6%B4%8B%E5%AD%A6" title="物理海洋学">物理海洋学</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6" title="量子信息科学">量子信息科学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">有关</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96" title="诺贝尔物理学奖">诺贝尔物理学奖</a></li>
+<li><a href="/wiki/%E7%89%A9%E7%90%86%E6%95%99%E8%82%B2" title="物理教育">物理教育</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E7%89%A9%E7%90%86%E5%AD%A6" title="Category:物理学">分类</a></b></li>
+<li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Portal:%E7%89%A9%E7%90%86%E5%AD%A6" title="Portal:物理学">主题</a></b></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Physics" class="extiw" title="commons:Category:Physics">共享资源</a></b></li>
+<li><span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span> <b><a href="/wiki/WikiProject:%E7%89%A9%E7%90%86%E5%AD%A6" title="WikiProject:物理学">专题</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template:计算机科学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template talk:计算机科学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a>的主要领域</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>注：该模板大致遵循<a href="/wiki/ACM_%E7%94%B5%E8%84%91%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F" title="ACM 电脑分类系统">ACM 电脑分类系统</a>。</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" title="计算机硬件">计算机硬件</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF" class="mw-redirect" title="印刷电路板">印刷电路板</a></li>
+<li><a href="/wiki/%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87" title="外部设备">外部设备</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a></li>
+<li><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="超大规模集成电路">超大规模集成电路</a></li>
+<li><a href="/wiki/%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97" title="绿色计算">绿色计算</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84" title="系统架构">系统架构</a>组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">电脑系统架构</a></li>
+<li><a href="/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F" title="嵌入式系统">嵌入式系统</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97" title="实时计算">实时计算</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">网络</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="网络传输协议">网络传输协议</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1" title="路由">路由</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" class="mw-redirect" title="网络服务">网络服务</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">软件组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%B4%E8%AD%AF%E5%99%A8" title="直译器">直译器</a></li>
+<li><a href="/wiki/%E4%B8%AD%E9%97%B4%E4%BB%B6" title="中间件">中间件</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虚拟机器">虚拟机器</a></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F" title="软件质量">软件质量</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96" title="编程语言理论">软件符号</a>和<a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" title="软件开发工具">工具</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B" title="编程范型">编程范型</a></li>
+<li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80" title="编程语言">编程语言</a></li>
+<li><a href="/wiki/%E7%B7%A8%E8%AD%AF%E5%99%A8" title="编译器">编译器</a></li>
+<li><a href="/wiki/%E9%A2%86%E5%9F%9F%E7%89%B9%E5%AE%9A%E8%AF%AD%E8%A8%80" title="领域特定语言">领域特定语言</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E6%A1%86%E6%9E%B6" title="软件框架">软件框架</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83" title="集成开发环境">集成开发环境</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86" title="软件配置管理">软件配置管理</a></li>
+<li><a href="/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB" title="函式库">函式库</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91" title="软件开发">软件开发</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B" title="软件开发过程">软件开发过程</a></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" title="需求分析">需求分析</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1" title="软件设计">软件设计</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%83%A8%E7%BD%B2" title="软件部署">软件部署</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E7%B6%AD%E8%AD%B7" title="软件维护">软件维护</a></li>
+<li><a href="/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6" title="开源软件">开源模式</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA" title="计算理论">计算理论</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%9C%BA" class="mw-redirect" title="自动机">自动机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7" title="可计算性">可计算性理论</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%9C%E6%80%A7%E7%90%86%E8%AB%96" title="计算复杂性理论">计算复杂性理论</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="量子计算机">量子计算</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值计算方法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%BB%E8%BE%91" title="计算机逻辑">计算机逻辑</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89%E5%AD%A6" title="形式语义学">形式语义学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%AE%97%E6%B3%95" title="算法">算法</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90" title="算法分析">算法分析</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1" title="算法设计">算法设计</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87" title="算法效率">算法效率</a></li>
+<li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E5%8C%96%E7%AE%97%E6%B3%95" title="随机化算法">随机化算法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95" title="计算几何">计算几何</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">计算数学</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6" title="离散数学">离散数学</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" title="信息与计算科学">信息与计算科学</a></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6" title="数学软件">数学软件</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91" title="数理逻辑">数理逻辑</a></li>
+<li><a href="/wiki/%E9%9B%86%E5%90%88%E8%AE%BA" title="集合论">集合论</a></li>
+<li><a href="/wiki/%E6%95%B0%E8%AE%BA" title="数论">数论</a></li>
+<li><a href="/wiki/%E5%9B%BE%E8%AE%BA" title="图论">图论</a></li>
+<li><a href="/wiki/%E7%B1%BB%E5%9E%8B%E8%AE%BA" title="类型论">类型论</a></li>
+<li><a href="/wiki/%E8%8C%83%E7%95%B4%E8%AE%BA" title="范畴论">范畴论</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA" title="信息论">信息论</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值分析</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90" title="数学分析">数学分析</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F" title="数据库管理系统">数据库管理系统</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E6%95%B8%E6%93%9A%E5%AD%98%E8%B2%AF%E5%99%A8" title="电脑数据存贮器">电脑数据</a></li>
+<li><span class="ilh-all" data-orig-title="企业信息系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Enterprise information system"><span class="ilh-page"><a href="/w/index.php?title=%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="企业信息系统（页面不存在）">企业信息系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Enterprise_information_system" class="extiw" title="en:Enterprise information system"><span lang="en" dir="auto">Enterprise information system</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E6%80%A7%E8%BD%AF%E4%BB%B6" title="社会性软件">社会性软件</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="地理信息系统">地理信息系统</a></li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F" title="决策支持系统">决策支持系统</a></li>
+<li><a href="/wiki/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6" title="过程控制">过程控制</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" title="数据挖掘">数据挖掘</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E5%9C%96%E6%9B%B8%E9%A4%A8" title="数位图书馆">数位图书馆</a></li>
+<li><a href="/wiki/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0" title="系统平台">系统平台</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7" title="数位行销">数位行销</a></li>
+<li><a href="/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91" title="万维网">万维网</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E6%AA%A2%E7%B4%A2" title="信息检索">信息检索</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">安全</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6" title="密码学">密码学</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95" title="形式化方法">形式化方法</a></li>
+<li><a href="/wiki/%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F" title="入侵检测系统">入侵检测系统</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" title="网络安全">网络安全</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="信息安全">信息安全</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92" title="人机交互">人机交互</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%8A%9F%E8%83%BD" title="计算机辅助功能">计算机辅助功能</a></li>
+<li><a href="/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="用户界面">用户界面</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%A1%E7%AE%97%E6%9C%BA" class="mw-redirect" title="可穿戴计算机">可穿戴计算机</a></li>
+<li><a href="/wiki/%E6%99%AE%E9%80%82%E8%AE%A1%E7%AE%97" title="普适计算">普适计算</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="聊天机器人">聊天机器人</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%B9%B6%E5%8F%91%E6%80%A7" title="并发性">并发性</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B6%E5%8F%91%E8%AE%A1%E7%AE%97" title="并发计算">并发计算</a></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="并行计算">并行计算</a></li>
+<li><a href="/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97" title="分布式计算">分布式计算</a></li>
+<li><a href="/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8B" title="多线程">多线程</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多元处理</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%8E%A8%E7%90%86" title="自动推理">自动推理</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E8%AF%AD%E8%A8%80%E5%AD%A6" title="计算语言学">计算语言学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89" title="计算机视觉">计算机视觉</a></li>
+<li><a href="/wiki/%E8%BF%9B%E5%8C%96%E8%AE%A1%E7%AE%97" title="进化计算">进化计算</a></li>
+<li><a href="/wiki/%E4%B8%93%E5%AE%B6%E7%B3%BB%E7%BB%9F" title="专家系统">专家系统</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="自然语言处理">自然语言处理</a></li>
+<li><a href="/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6" title="机器人学">机器人学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督式学习</a></li>
+<li><a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">无监督学习</a></li>
+<li><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="强化学习">强化学习</a></li>
+<li><a href="/wiki/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89" title="交叉验证">交叉验证</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="计算机图形学">计算机图形学</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8A%A8%E7%94%BB" title="计算机动画">计算机动画</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%A7%86%E5%8C%96" title="可视化">可视化</a></li>
+<li><a href="/wiki/%E6%B8%B2%E6%9F%93" title="渲染">渲染</a></li>
+<li><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="修饰照片">修饰照片</a></li>
+<li><a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E7%8E%B0%E5%AE%9E" title="混合现实">混合现实</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86" title="图像处理">图像处理</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9" title="图像压缩">图像压缩</a></li>
+<li><a href="/wiki/%E5%AE%9E%E4%BD%93%E9%80%A0%E5%9E%8B" title="实体造型">实体造型</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">应用计算</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1" title="电子商务">电子商务</a></li>
+<li><a href="/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BD%AF%E4%BB%B6" title="企业级软件">企业级软件</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%95%B0%E5%AD%A6" class="mw-redirect" title="计算数学">计算数学</a></li>
+<li><a class="mw-selflink selflink">计算物理学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6" title="计算化学">计算化学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%94%9F%E7%89%A9%E5%AD%A6" title="计算生物学">计算生物学</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8" title="计算社会科学">计算社会科学</a></li>
+<li><a href="/wiki/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6" title="医学信息学">医学信息学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF" title="数字艺术">数字艺术</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88" title="电子出版">电子出版</a></li>
+<li><a href="/wiki/%E7%B6%B2%E7%B5%A1%E6%88%B0" title="网络战">网络战</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">电子游戏</a></li>
+<li><a href="/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86%E5%99%A8" title="文字处理器">文字处理器</a></li>
+<li><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="运筹学">运筹学</a></li>
+<li><a href="/wiki/%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF%E5%AD%A6" title="教育技术学">教育技术学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6" title="生物信息学">生物信息学</a></li>
+<li><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a></li>
+<li><span class="ilh-all" data-orig-title="文件管理系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Document management system"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="文件管理系统（页面不存在）">文件管理系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Document_management_system" class="extiw" title="en:Document management system"><span lang="en" dir="auto">Document management system</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="Category:计算机科学">分类</a></b></li>
+<li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Portal:%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80" title="Portal:信息科技">主题</a></b></li>
+<li><span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span><b><a href="/wiki/WikiProject:%E7%94%B5%E8%84%91%E5%92%8C%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF" title="WikiProject:电脑和信息技术">专题</a></b></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">维基共享</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q909554" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4273564-6">4273564-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph265685&amp;CON_LNG=ENG">ph265685</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐9jw8g
+Cached time: 20240401200230
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.737 seconds
+Real time usage: 0.921 seconds
+Preprocessor visited node count: 2260/1000000
+Post‐expand include size: 163979/2097152 bytes
+Template argument size: 3473/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 32/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 41606/5000000 bytes
+Lua time usage: 0.342/10.000 seconds
+Lua memory usage: 15539272/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  624.603      1 -total
+ 33.81%  211.190      1 Template:Science
+ 19.95%  124.603      1 Template:Lang-en
+ 16.94%  105.821      3 Template:Sidebar
+ 11.32%   70.690      1 Template:Reflist
+ 10.13%   63.277      1 Template:Authority_control
+  9.91%   61.891      1 Template:NoteTA
+  8.97%   56.017     15 Template:Tsl
+  8.63%   53.933      2 Template:Cite_book
+  6.12%   38.201      1 Template:Longlink
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:158105-0!userlang=zh-cn!zh-cn and timestamp 20240401200230 and revision id 76728332. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=计算物理学&amp;oldid=76728332">https://zh.wikipedia.org/w/index.php?title=计算物理学&amp;oldid=76728332</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="Category:计算物理学">计算物理学</a></li><li><a href="/wiki/Category:%E7%89%A9%E7%90%86%E5%AD%A6%E5%88%86%E6%94%AF" title="Category:物理学分支">物理学分支</a></li><li><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" title="Category:计算科学">计算科学</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年4月9日 (星期日) 03:16。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-gxm7b","wgBackendResponseTime":201,"wgPageParseReport":{"limitreport":{"cputime":"0.737","walltime":"0.921","ppvisitednodes":{"value":2260,"limit":1000000},"postexpandincludesize":{"value":163979,"limit":2097152},"templateargumentsize":{"value":3473,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":32,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":41606,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  624.603      1 -total"," 33.81%  211.190      1 Template:Science"," 19.95%  124.603      1 Template:Lang-en"," 16.94%  105.821      3 Template:Sidebar"," 11.32%   70.690      1 Template:Reflist"," 10.13%   63.277      1 Template:Authority_control","  9.91%   61.891      1 Template:NoteTA","  8.97%   56.017     15 Template:Tsl","  8.63%   53.933      2 Template:Cite_book","  6.12%   38.201      1 Template:Longlink"]},"scribunto":{"limitreport-timeusage":{"value":"0.342","limit":"10.000"},"limitreport-memusage":{"value":15539272,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-9jw8g","timestamp":"20240401200230","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8ba1\u7b97\u7269\u7406\u5b66","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6","sameAs":"http:\/\/www.wikidata.org\/entity\/Q909554","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q909554","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-14T02:58:18Z","dateModified":"2023-04-09T03:16:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dd\/Julie_Perkins_at_LLNL.jpg"}</script>
+</body>
+</html>

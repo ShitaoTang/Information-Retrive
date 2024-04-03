@@ -1,0 +1,1584 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>齿轮 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"5be439b3-33fd-494c-b950-2b5d9ae8bfff","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"齿轮","wgTitle":"齿轮","wgCurRevisionId":81799047,"wgRevisionId":81799047,"wgArticleId":122519,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1英语来源 (en)","自2015年4月包含過多行話或專業術語的條目","维基共享资源分类链接使用了维基数据上的匹配项","包含BNF标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","机械零件","摩擦学","齿轮传动"],"wgPageViewLanguage":
+"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"齿轮","wgRelevantArticleId":122519,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"齒輪","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E9%BD%BF%E8%BD%AE","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,
+"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q143873","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=[
+"mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022",
+"ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/1200px-Engranajesreductores.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/800px-Engranajesreductores.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/640px-Engranajesreductores.JPG">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="齿轮 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E9%BD%BF%E8%BD%AE">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E9%BD%BF%E8%BD%AE">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-齿轮 rootpage-齿轮 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%BD%BF%E8%BD%AE" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%BD%BF%E8%BD%AE" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%BD%BF%E8%BD%AE" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%BD%BF%E8%BD%AE" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-發展史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#發展史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>发展史</div>
+		</a>
+		
+		<ul id="toc-發展史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-特点"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#特点">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>特点</div>
+		</a>
+		
+		<ul id="toc-特点-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-种类"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#种类">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>种类</div>
+		</a>
+		
+		<ul id="toc-种类-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-设计"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#设计">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>设计</div>
+		</a>
+		
+			<button aria-controls="toc-设计-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关设计子章节</span>
+			</button>
+		
+		<ul id="toc-设计-sublist" class="vector-toc-list">
+			<li id="toc-組件"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#組件">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>组件</div>
+			</a>
+			
+			<ul id="toc-組件-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-術語"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#術語">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>术语</div>
+			</a>
+			
+			<ul id="toc-術語-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-製造"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#製造">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>制造</div>
+		</a>
+		
+			<button aria-controls="toc-製造-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关制造子章节</span>
+			</button>
+		
+		<ul id="toc-製造-sublist" class="vector-toc-list">
+			<li id="toc-工艺"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#工艺">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>工艺</div>
+			</a>
+			
+			<ul id="toc-工艺-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-材料"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#材料">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>材料</div>
+			</a>
+			
+			<ul id="toc-材料-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-檢驗"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#檢驗">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>检验</div>
+			</a>
+			
+			<ul id="toc-檢驗-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-应用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#应用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>应用</div>
+		</a>
+		
+			<button aria-controls="toc-应用-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关应用子章节</span>
+			</button>
+		
+		<ul id="toc-应用-sublist" class="vector-toc-list">
+			<li id="toc-換擋齒輪"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#換擋齒輪">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>换挡齿轮</div>
+			</a>
+			
+			<ul id="toc-換擋齒輪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-象徵"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#象徵">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>象征</div>
+		</a>
+		
+			<button aria-controls="toc-象徵-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关象征子章节</span>
+			</button>
+		
+		<ul id="toc-象徵-sublist" class="vector-toc-list">
+			<li id="toc-含有齒輪的社會主義紋章"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#含有齒輪的社會主義紋章">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>含有齿轮的社会主义纹章</div>
+			</a>
+			
+			<ul id="toc-含有齒輪的社會主義紋章-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-含有齒輪的非社會主義紋章"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#含有齒輪的非社會主義紋章">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>含有齿轮的非社会主义纹章</div>
+			</a>
+			
+			<ul id="toc-含有齒輪的非社會主義紋章-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-UI设计"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#UI设计">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>UI设计</div>
+		</a>
+		
+		<ul id="toc-UI设计-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-注释"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#注释">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>注释</div>
+		</a>
+		
+		<ul id="toc-注释-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考文獻"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考文獻">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-參考文獻-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">齿轮</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。71种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-71" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">71种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%8C%A5%E1%88%AD%E1%88%B5_(%E1%88%9B%E1%88%BD%E1%8A%95)" title="ጥርስ (ማሽን) – 阿姆哈拉语" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%B3_(%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7)" title="ترس (ميكانيكا) – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Engrane" title="Engrane – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Di%C5%9Fli_%C3%A7arx" title="Dişli çarx – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AF%DB%8C%D8%B4%D9%84%DB%8C_%DA%86%D8%B1%D8%AE" title="دیشلی چرخ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%81%D1%82%D0%B0%D0%B5_%D0%BA%D0%BE%D0%BB%D0%B0" title="Зубчастае кола – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%97%D1%8A%D0%B1%D0%BD%D0%BE_%D0%BA%D0%BE%D0%BB%D0%B5%D0%BB%D0%BE" title="Зъбно колело – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0" title="গিয়ার – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Zup%C4%8Danik" title="Zupčanik – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Engranatge" title="Engranatge – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B0" title="Бера – 车臣语" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ozuben%C3%A9_kolo" title="Ozubené kolo – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A8%C4%83%D0%BB%D0%BB%C4%83_%D0%BA%D1%83%D1%81%D1%82%C4%83%D1%80%D0%BC%D0%B0" title="Шăллă кустăрма – 楚瓦什语" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Tandhjul" title="Tandhjul – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Zahnrad" title="Zahnrad – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B1%CE%BD%CE%AC%CE%B6%CE%B9" title="Γρανάζι – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Gear" title="Gear – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Dentrado" title="Dentrado – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Engranaje" title="Engranaje – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Hammasratas" title="Hammasratas – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Engranaje" title="Engranaje – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%AE%E2%80%8C%D8%AF%D9%86%D8%AF%D9%87" title="چرخ‌دنده – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Hammaspy%C3%B6r%C3%A4" title="Hammaspyörä – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Engrenage" title="Engrenage – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Giar" title="Giar – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Engrenaxe" title="Engrenaxe – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%9C%D7%92%D7%9C_%D7%A9%D7%99%D7%A0%D7%99%D7%99%D7%9D" title="גלגל שיניים – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%BF%E0%A4%AF%E0%A4%B0" title="गियर – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Zup%C4%8Danik" title="Zupčanik – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Fogasker%C3%A9k" title="Fogaskerék – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BF%D5%A1%D5%B4%D5%B6%D5%A1%D5%B6%D5%AB%D5%BE" title="Ատամնանիվ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Roda_gigi" title="Roda gigi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Ingrano" title="Ingrano – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ingranaggio" title="Ingranaggio – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%AD%AF%E8%BB%8A" title="歯車 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D1%96%D1%81%D1%82%D1%96_%D0%B4%D0%BE%D2%A3%D2%93%D0%B0%D0%BB%D0%B0%D2%9B" title="Тісті доңғалақ – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4" title="톱니바퀴 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-kv mw-list-item"><a href="https://kv.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BD%D1%8F_%D0%BC%D3%A7%D0%B4%D3%A7%D0%B4%D3%A7%D0%BC" title="Пиня мӧдӧдӧм – 科米语" lang="kv" hreflang="kv" class="interlanguage-link-target"><span>Коми</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Rota_dentata" title="Rota dentata – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Ingranaj" title="Ingranaj – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Krumpliaratis" title="Krumpliaratis – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Zobrats" title="Zobrats – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%BD%E2%80%8C%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%82" title="പൽ‌ച്ചക്രം – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Gear" title="Gear – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%82%E1%80%AE%E1%80%9A%E1%80%AC" title="ဂီယာ – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%97%E0%A4%BF%E0%A4%AF%E0%A4%B0" title="गियर – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Tandwiel" title="Tandwiel – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Tannhjul" title="Tannhjul – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Tannhjul" title="Tannhjul – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Engranatge" title="Engranatge – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ko%C5%82o_z%C4%99bate" title="Koło zębate – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Engrenagem" title="Engrenagem – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Roat%C4%83_din%C8%9Bat%C4%83" title="Roată dințată – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%BE" title="Зубчатое колесо – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Zup%C4%8Danik" title="Zupčanik – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Gear" title="Gear – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Ozuben%C3%A9_koleso" title="Ozubené koleso – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Zobnik_(strojni%C5%A1tvo)" title="Zobnik (strojništvo) – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Marsho" title="Marsho – 索马里语" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%97%D1%83%D0%BF%D1%87%D0%B0%D0%BD%D0%B8%D0%BA" title="Зупчаник – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Kugghjul" title="Kugghjul – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%B1%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%81" title="பற்சில்லு – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B8%AD%E0%B8%87" title="เฟือง – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Enggranahe" title="Enggranahe – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Di%C5%9Fli_%C3%A7ark" title="Dişli çark – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%81%D1%82%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0" title="Зубчаста передача – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/B%C3%A1nh_r%C4%83ng" title="Bánh răng – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E9%BD%BF%E8%BD%AE" title="齿轮 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%A6%D7%99%D7%99%D7%A0%D7%A8%D7%90%D7%93" title="ציינראד – 意第绪语" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-za mw-list-item"><a href="https://za.wikipedia.org/wiki/Loekgawq" title="Loekgawq – 壮语" lang="za" hreflang="za" class="interlanguage-link-target"><span>Vahcuengh</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%89%99%E8%BD%86" title="牙轆 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q143873#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%BD%BF%E8%BD%AE" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E9%BD%BF%E8%BD%AE" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E9%BD%BF%E8%BD%AE" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E9%BD%BF%E8%BD%AE" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E9%BD%BF%E8%BD%AE" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E9%BD%BF%E8%BD%AE" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E9%BD%BF%E8%BD%AE" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E9%BD%BF%E8%BD%AE" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E9%BD%BF%E8%BD%AE" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E9%BD%BF%E8%BD%AE" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E9%BD%BF%E8%BD%AE" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%BD%BF%E8%BD%AE"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E9%BD%BF%E8%BD%AE"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%BD%BF%E8%BD%AE" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E9%BD%BF%E8%BD%AE" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;oldid=81799047" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E9%BD%BF%E8%BD%AE&amp;id=81799047&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%25BD%25BF%25E8%25BD%25AE"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%25BD%25BF%25E8%25BD%25AE"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q143873" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E9%BD%BF%E8%BD%AE&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Gears" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-1d2080f2" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E9%BD%92%E8%BC%AA&amp;redirect=no" class="mw-redirect" title="齒輪">齒輪</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Cleanup-jargon plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>包含过多<a href="/wiki/Wikipedia:%E8%A1%8C%E8%AF%9D%E8%A7%A3%E9%87%8A" title="Wikipedia:行话解释">行话或专业术语</a>，可能需要简化或提出进一步解释。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2015年4月23日</span>)</i></small><span class="hide-when-compact"><br /><small>请在<a href="/wiki/Talk:%E9%BD%BF%E8%BD%AE" title="Talk:齿轮">讨论页</a>中发表对于本议题的看法，并移除或解释本条目中的行话。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div role="note" class="hatnote navigation-not-searchable"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89" title="Wikipedia:消歧义"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span><style data-mw-deduplicate="TemplateStyles:r74069148">body:not(.skin-minerva) .mw-parser-output .ifmobile>.mobile{display:none}body.skin-minerva .mw-parser-output .ifmobile>.nomobile{display:inherit;display:initial}</style><span class="ifmobile"><span class="nomobile">&#160;&#160;</span><span class="mobile"></span></span>此条目页的主题是含有齿的机械零件。关于与“<b>齿轮</b>”标题相近或相同的条目页，请见“<b><a href="/wiki/%E9%BD%92%E8%BC%AA_(%E6%B6%88%E6%AD%A7%E7%BE%A9)" class="mw-disambig" title="齿轮 (消歧义)">齿轮 (消歧义)</a></b>”。</div>
+<div id="noteTA-1d2080f2" class="noteTA"><div class="noteTA-local"><div data-noteta-code="zh-hans:老挝国徽;zh-hant:老撾國徽;zh-tw:寮國國徽;zh-sg:寮国国徽;"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Engranajesreductores.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/240px-Engranajesreductores.JPG" decoding="async" width="240" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/360px-Engranajesreductores.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Engranajesreductores.JPG/480px-Engranajesreductores.JPG 2x" data-file-width="2592" data-file-height="1944" /></a><figcaption>油井上的齿轮组</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Frame"><a href="/wiki/File:Gears_animation.gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/1/14/Gears_animation.gif" decoding="async" width="172" height="120" class="mw-file-element" data-file-width="172" data-file-height="120" /></a><figcaption>两个齿轮传递旋转运动。请注意，小齿轮旋转速度更快。虽然较大的齿轮转动较慢，它的扭矩按比例更大。</figcaption></figure>
+<p><b>齿轮</b>（Gear或cogwheel）是轮缘上有<a href="/wiki/%E9%BD%92" class="mw-redirect" title="齿">齿</a>能连续啮合传递<a href="/wiki/%E9%81%8B%E5%8B%95" class="mw-redirect" title="运动">运动</a>和<a href="/wiki/%E5%8A%9F%E7%8E%87" title="功率">动力</a>的<a href="/wiki/%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6" title="机械零件">机械零件</a>，齿轮依靠<a href="/wiki/%E9%BD%92" class="mw-redirect" title="齿">齿</a>的啮合传递<a href="/wiki/%E6%89%AD%E7%9F%A9" class="mw-redirect" title="扭矩">扭矩</a>。齿轮通过与其它齿状机械零件（如另一齿轮、<a href="/wiki/%E9%BD%BF%E6%9D%A1" title="齿条">齿条</a>、<a href="/wiki/%E8%9D%B8%E6%A1%BF" class="mw-redirect" title="蜗杆">蜗杆</a>）传动，传动方式是啮合传动，可实现改变转速与<a href="/wiki/%E6%89%AD%E7%9F%A9" class="mw-redirect" title="扭矩">扭矩</a>、改变运动方向和改变运动形式等功能。由于传动效率高、传动比准确、<a href="/wiki/%E5%8A%9F%E7%8E%87" title="功率">功率</a>范围大等优点，齿轮机构在工业产品中广泛应用，其设计与制造水准会直接影响到工业产品的<a href="/wiki/%E5%93%81%E8%B3%AA" class="mw-redirect" title="品质">品质</a>。
+</p><p>齿轮轮齿相互扣住齿轮会带动另一个齿轮转动来传送动力。将两个齿轮分开，也可以应用<a href="/wiki/%E9%8F%88%E6%A2%9D" class="mw-redirect" title="链条">链条</a>、<a href="/wiki/%E5%B1%A5%E5%B8%B6" title="履带">履带</a>、皮带来带动两边的齿轮而传送动力。齿轮一般由轮齿、齿槽、端面、法面、齿顶圆、齿根圆、基圆和分度圆组成。
+</p><p>两个齿轮为<a href="/w/index.php?title=%E5%A4%96%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE%E6%9C%BA%E6%9E%84&amp;action=edit&amp;redlink=1" class="new" title="外啮合齿轮机构（页面不存在）">外啮合齿轮机构</a>时，转动的方向会相反，如右图。
+为内啮合齿轮机构时，转动的方向会相同。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.99.BC.E5.B1.95.E5.8F.B2"></span><span class="mw-headline" id="發展史">发展史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=1" title="编辑章节：发展史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>人类对齿轮的使用源远流长，<a href="/wiki/%E4%BA%9E%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7" class="mw-redirect" title="亚里士多德">亚里士多德</a>可认为是第一个系统论述这一机构的人。而<a href="/wiki/%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7" title="阿基米德">阿基米德</a>不仅对齿轮和蜗轮有详尽的论述，<span class="ilh-all" data-orig-title="巴卜斯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pappus"><span class="ilh-page"><a href="/w/index.php?title=%E5%B7%B4%E5%8D%9C%E6%96%AF&amp;action=edit&amp;redlink=1" class="new" title="巴卜斯（页面不存在）">巴卜斯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pappus" class="extiw" title="en:Pappus"><span lang="en" dir="auto">Pappus</span></a></span>）</span></span>更记载了<a href="/wiki/%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7" title="阿基米德">阿基米德</a>通过一个<a href="/wiki/%E8%9C%97%E8%BD%AE" class="mw-redirect" title="蜗轮">蜗轮</a>和九个齿轮的机构，使少数几个奴隶就将大船<span class="ilh-all" data-orig-title="錫拉庫西亞" data-lang-code="en" data-lang-name="英语" data-foreign-title="Syracusia"><span class="ilh-page"><a href="/w/index.php?title=%E9%8C%AB%E6%8B%89%E5%BA%AB%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="锡拉库西亚（页面不存在）">锡拉库西亚</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Syracusia" class="extiw" title="en:Syracusia"><span lang="en" dir="auto">Syracusia</span></a></span>）</span></span>推下海中。
+古印度的棉核剔除机构（现收藏于柏林博物馆）都含有齿轮机构。齿轮的具体发明人无史可考，而早期齿轮并没有齿形和齿距的规格要求，因此连续转动的主动轮往往不能使被动轮连续转动。为了解决这一问题，齿形发展为弧形，并通过减小齿距使被动轮获得连续转动，这使得齿轮机构的汲水装置十分普及。
+</p><p>由于<a href="/wiki/%E9%90%98%E9%8C%B6" class="mw-redirect" title="钟表">钟表</a>的出现和普及，人们产生了对齿轮定速传动的需求。由齿廓啮合基本定律：
+</p>
+<ul><li>一对齿廓的瞬时速比，等于该瞬时接触点的公<a href="/wiki/%E6%B3%95%E7%BA%BF" title="法线">法线</a>截连心线为两段线段的反比。</li></ul>
+<p>和传动比恒定的条件：
+</p>
+<ul><li>过接触点所作两齿廓的公法线均须与连心线交于一固定的点。</li></ul>
+<p>所决定的齿形理论上是无穷多的，<a href="/w/index.php?title=Olaf_Roemer&amp;action=edit&amp;redlink=1" class="new" title="Olaf Roemer（页面不存在）">Olaf Roemer</a>在1674年曾论述<span class="ilh-all" data-orig-title="外擺線齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cycloid gear"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%96%E6%93%BA%E7%B7%9A%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="外摆线齿轮（页面不存在）">外摆线齿形</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cycloid_gear" class="extiw" title="en:Cycloid gear"><span lang="en" dir="auto">Cycloid gear</span></a></span>）</span></span>，而后来工程师也提出了<a href="/wiki/%E6%BC%B8%E9%96%8B%E7%B7%9A%E9%BD%92%E8%BC%AA" title="渐开线齿轮">渐开线齿形</a>（齿形为圆形的渐开线）。在1733年，Camus提出了著名的Camus定理：
+</p>
+<ul><li>轮齿接触点的公<a href="/wiki/%E6%B3%95%E7%BA%BF" title="法线">法线</a>必须通过中心连线上的节点。一条辅助瞬心线分别沿大轮和小轮的瞬心线（节圆）纯滚动时，与辅助瞬心线固联的辅助齿形在大轮和小轮上所包络形成的两齿廓曲线是彼此共轭的。</li></ul>
+<p>1765年，<a href="/w/index.php?title=Euler&amp;action=edit&amp;redlink=1" class="new" title="Euler（页面不存在）">Euler</a>阐明了相啮合的齿轮，其齿形曲线的<a href="/wiki/%E6%9B%B2%E7%8E%87%E5%8D%8A%E5%BE%91" class="mw-redirect" title="曲率半径">曲率半径</a>和<a href="/w/index.php?title=%E6%9B%B2%E7%8E%87%E4%B8%AD%E5%BF%83&amp;action=edit&amp;redlink=1" class="new" title="曲率中心（页面不存在）">曲率中心</a>位置的关系。其后<a href="/w/index.php?title=Savary&amp;action=edit&amp;redlink=1" class="new" title="Savary（页面不存在）">Savary</a>完善了这一关系，形成了现在使用的<a href="/w/index.php?title=Euler-Savary%E6%96%B9%E7%A8%8B&amp;action=edit&amp;redlink=1" class="new" title="Euler-Savary方程（页面不存在）">Euler-Savary方程</a>。1873年，<a href="/w/index.php?title=Hoppe&amp;action=edit&amp;redlink=1" class="new" title="Hoppe（页面不存在）">Hoppe</a>指出了不同齿数的齿轮在压力角改变时的渐开线齿形，从而奠定了变位齿轮的基础。19世纪末，范成切齿法原理的提出使渐开线齿形最终战胜摆线齿形走上了大规模生产的道路。
+</p><p>1907年，<a href="/w/index.php?title=Frank_Humphris&amp;action=edit&amp;redlink=1" class="new" title="Frank Humphris（页面不存在）">Frank Humphris</a>提出了<a href="/wiki/%E5%9C%86%E5%BC%A7" class="mw-redirect" title="圆弧">圆弧</a>齿形。圆弧齿形在使用寿命和减小尺寸方面有一定优势，因此在现代工业中也逐渐发挥作用。
+</p>
+<h2><span id=".E7.89.B9.E7.82.B9"></span><span class="mw-headline" id="特点">特点</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=2" title="编辑章节：特点"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>相对于其他的传动装置（例如，摩擦传动等），拥有定传动比的齿轮在一些精密机械（例如，需要极其精确传动比的手表）中有很强的优势。在驱动装置和从动装置相临近情况下，齿轮传动相对与其他传动方式的优势在于增加所需零件数目，不足之处在于齿轮的加工制造较昂贵，有润滑要求。
+</p>
+<h2><span id=".E7.A7.8D.E7.B1.BB"></span><span class="mw-headline" id="种类">种类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=3" title="编辑章节：种类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>齿轮的种类繁多，根据齿轮轴相对位置，分为平行轴、相交轴和交错轴三种类型。平行轴齿轮包括正齿轮、斜齿轮、内齿轮、齿条及斜齿条等。相交轴齿轮有直齿锥齿轮、弧齿锥齿轮、零度齿锥齿轮等。交错轴齿轮有交错轴斜齿齿轮、蜗杆蜗轮、准双曲面齿轮等。以传动比分类，有定传动比的圆形齿轮机构（圆柱、圆锥）和变传动比的非圆齿轮机构（椭圆齿轮）。
+</p>
+<table class="wikitable collapsible">
+<tbody><tr>
+<th style="background-color:lightblue;" colspan="4">以轮轴相对位置分类<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th></tr>
+<tr>
+<th>相对位置</th>
+<th>种类</th>
+<th>说明</th>
+<th>效率<span id="noteTag-cite_ref-sup"><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;注 1&#93;</a></sup></span>（%）
+</th></tr>
+<tr>
+<td rowspan="6">平行轴</td>
+<td>正齿轮</td>
+<td>圆柱齿轮，易于加工，使用最广泛</td>
+<td rowspan="6">98.0~99.5
+</td></tr>
+<tr>
+<td><a href="/wiki/%E9%BD%BF%E6%9D%A1" title="齿条">齿条</a></td>
+<td>节圆直径无限大的正齿轮
+</td></tr>
+<tr>
+<td>内齿轮</td>
+<td>轮齿在圆环内侧的齿轮
+</td></tr>
+<tr>
+<td>斜齿齿轮</td>
+<td>齿线为螺旋线的圆柱齿轮，比正齿轮强度高且运转平稳，被广泛使用。传动时产生轴向推力。
+</td></tr>
+<tr>
+<td>斜齿齿条</td>
+<td>与斜齿齿轮相啮合的条状齿轮。
+</td></tr>
+<tr>
+<td>人字齿轮</td>
+<td>齿线为左旋及右旋的两个斜齿齿轮组合而成的齿轮。不产生轴向推力。
+</td></tr>
+<tr>
+<td rowspan="3">相交轴</td>
+<td>直齿锥齿轮</td>
+<td>齿线与节锥线的母线一致的锥齿轮，比较容易制造，应用广泛。</td>
+<td rowspan="3">98.0~99.0
+</td></tr>
+<tr>
+<td>弧齿锥齿轮</td>
+<td>齿线为曲线，带有螺旋角。虽然制作难度稍大，但由于强度高，噪音低，也使用广泛。
+</td></tr>
+<tr>
+<td>零度齿锥齿轮</td>
+<td>螺旋角接近零度的曲线齿锥齿轮。
+</td></tr>
+<tr>
+<td rowspan="4">交错轴</td>
+<td>交错轴斜齿轮</td>
+<td>只适用于轻负荷情况</td>
+<td>70.0~95.0
+</td></tr>
+<tr>
+<td>圆柱蜗杆蜗轮</td>
+<td>运转平静，传动比大，具备自锁功能，以防负荷过大时产生反转。</td>
+<td>30.0~90.0
+</td></tr>
+<tr>
+<td>鼓形蜗杆副</td>
+<td>比圆柱蜗杆副制造困难，但能传动大负荷。</td>
+<td>-
+</td></tr>
+<tr>
+<td>准双曲面齿轮</td>
+<td>经偏心加工的弧齿圆锥齿轮，啮合原理复杂。</td>
+<td>-
+</td></tr>
+<tr>
+<td>-</td>
+<td><a href="/wiki/%E5%86%A0%E9%BD%BF%E8%BD%AE" class="mw-redirect" title="冠齿轮">面齿轮</a></td>
+<td>可与正齿轮或斜齿齿轮啮合的圆盘状齿轮。在直交及交错轴间传动。</td>
+<td>-
+</td></tr></tbody></table>
+<div style="clear: both; height: 1em"></div>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Gears_animation.gif" class="mw-file-description" title="直齿轮的啮合"><img alt="直齿轮的啮合" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gears_animation.gif/120px-Gears_animation.gif" decoding="async" width="120" height="84" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/1/14/Gears_animation.gif 1.5x" data-file-width="172" data-file-height="120" /></a></span></div>
+			<div class="gallerytext">直齿轮的啮合</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Rack_and_pinion_animation.gif" class="mw-file-description" title="齿轮齿条"><img alt="齿轮齿条" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rack_and_pinion_animation.gif/111px-Rack_and_pinion_animation.gif" decoding="async" width="111" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/6/68/Rack_and_pinion_animation.gif 1.5x" data-file-width="152" data-file-height="164" /></a></span></div>
+			<div class="gallerytext">齿轮齿条</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Gerotor_anm.gif" class="mw-file-description" title="内齿轮"><img alt="内齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gerotor_anm.gif/120px-Gerotor_anm.gif" decoding="async" width="120" height="90" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gerotor_anm.gif/180px-Gerotor_anm.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gerotor_anm.gif/240px-Gerotor_anm.gif 2x" data-file-width="400" data-file-height="300" /></a></span></div>
+			<div class="gallerytext">内齿轮</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Helical_Gears.jpg" class="mw-file-description" title="斜齿轮"><img alt="斜齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Helical_Gears.jpg/120px-Helical_Gears.jpg" decoding="async" width="120" height="106" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Helical_Gears.jpg/180px-Helical_Gears.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Helical_Gears.jpg/240px-Helical_Gears.jpg 2x" data-file-width="908" data-file-height="799" /></a></span></div>
+			<div class="gallerytext">斜齿轮</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Herringbone_gears_(Bentley,_Sketches_of_Engine_and_Machine_Details).jpg" class="mw-file-description" title="人字斜齿轮"><img alt="人字斜齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg/112px-Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg" decoding="async" width="112" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg/168px-Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg/224px-Herringbone_gears_%28Bentley%2C_Sketches_of_Engine_and_Machine_Details%29.jpg 2x" data-file-width="374" data-file-height="401" /></a></span></div>
+			<div class="gallerytext">人字斜齿轮</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Bevel_gear.jpg" class="mw-file-description" title="直齿锥齿轮"><img alt="直齿锥齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bevel_gear.jpg/120px-Bevel_gear.jpg" decoding="async" width="120" height="72" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bevel_gear.jpg/180px-Bevel_gear.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bevel_gear.jpg/240px-Bevel_gear.jpg 2x" data-file-width="684" data-file-height="409" /></a></span></div>
+			<div class="gallerytext">直齿锥齿轮</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Gear-kegelzahnrad.svg" class="mw-file-description" title="弧齿锥齿轮"><img alt="弧齿锥齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gear-kegelzahnrad.svg/120px-Gear-kegelzahnrad.svg.png" decoding="async" width="120" height="71" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gear-kegelzahnrad.svg/180px-Gear-kegelzahnrad.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gear-kegelzahnrad.svg/240px-Gear-kegelzahnrad.svg.png 2x" data-file-width="2100" data-file-height="1235" /></a></span></div>
+			<div class="gallerytext">弧齿锥齿轮</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Worm_Gear.gif" class="mw-file-description" title="圆柱蜗杆副"><img alt="圆柱蜗杆副" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Worm_Gear.gif/120px-Worm_Gear.gif" decoding="async" width="120" height="86" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Worm_Gear.gif/180px-Worm_Gear.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Worm_Gear.gif/240px-Worm_Gear.gif 2x" data-file-width="780" data-file-height="556" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%9D%B8%E6%A1%BF%E5%82%B3%E5%8B%95" title="蜗杆传动">圆柱蜗杆副</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Sprocket35b.jpg" class="mw-file-description" title="准双曲面齿轮"><img alt="准双曲面齿轮" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sprocket35b.jpg/120px-Sprocket35b.jpg" decoding="async" width="120" height="105" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sprocket35b.jpg/180px-Sprocket35b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sprocket35b.jpg/240px-Sprocket35b.jpg 2x" data-file-width="332" data-file-height="291" /></a></span></div>
+			<div class="gallerytext">准双曲面齿轮</div>
+		</li>
+</ul>
+<h2><span id=".E8.AE.BE.E8.AE.A1"></span><span class="mw-headline" id="设计">设计</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=4" title="编辑章节：设计"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>斜齿圆柱齿轮主要参数<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup>
+<a href="/w/index.php?title=%E8%9E%BA%E6%97%8B%E8%A7%92&amp;action=edit&amp;redlink=1" class="new" title="螺旋角（页面不存在）">螺旋角</a>：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta &gt;0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B2;<!-- β --></mi>
+        <mo>&gt;</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \beta &gt;0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a87dc52878418173659e6d0ff8e77ab2897eac9" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:5.593ex; height:2.509ex;" alt="{\displaystyle \beta &gt;0}"></span>为左旋，反之为右旋
+</p><p>齿距：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p_{n}=p_{t}\cos \beta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03B2;<!-- β --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{n}=p_{t}\cos \beta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6fb48072544eef6a3799f1997bd8dd3ffdbd1c3e" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:12.788ex; height:2.509ex;" alt="{\displaystyle p_{n}=p_{t}\cos \beta }"></span>，下标n和t分别表示法向和端面
+</p><p><a href="/wiki/%E6%A8%A1%E6%95%B0" title="模数">模数</a>：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m_{n}=m_{t}\cos \beta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03B2;<!-- β --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m_{n}=m_{t}\cos \beta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f619e8dedd10ab1907b548ff9c5957d11273b0a7" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:14.441ex; height:2.509ex;" alt="{\displaystyle m_{n}=m_{t}\cos \beta }"></span>
+</p><p>齿宽：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b={\frac {B}{\cos \beta }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>B</mi>
+            <mrow>
+              <mi>cos</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mi>&#x03B2;<!-- β --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b={\frac {B}{\cos \beta }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5e153ea67b209b020eec7220ede20080019b2b4" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:9.762ex; height:5.676ex;" alt="{\displaystyle b={\frac {B}{\cos \beta }}}"></span>
+</p><p><a href="/wiki/%E5%88%86%E5%BA%A6%E5%9C%86" title="分度圆">分度圆</a>直径：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle d=m_{t}z}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle d=m_{t}z}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7355404056231dae9fae623d27237c9e3c405a72" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:8.269ex; height:2.509ex;" alt="{\displaystyle d=m_{t}z}"></span>
+齿顶圆直径：da=m乘以（z+2）
+齿根圆直径：df=m乘以（z-2.5）
+</p><p>中心距：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a={\frac {m_{n}(z_{1}+z_{2})}{2\cos \beta }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>m</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>z</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>z</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <mi>cos</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mi>&#x03B2;<!-- β --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a={\frac {m_{n}(z_{1}+z_{2})}{2\cos \beta }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d65ff73a7100aeb294d15719cd42cc9a2a473ab" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:17.344ex; height:6.176ex;" alt="{\displaystyle a={\frac {m_{n}(z_{1}+z_{2})}{2\cos \beta }}}"></span>   &lt;注&gt;：m为齿轮模数，z为齿数
+</p><p>正确啮合条件：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle m_{1}=m_{2},\alpha _{1}=\alpha _{2},\beta _{1}=-\beta _{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>m</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03B1;<!-- α --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>&#x03B2;<!-- β --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>&#x03B2;<!-- β --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m_{1}=m_{2},\alpha _{1}=\alpha _{2},\beta _{1}=-\beta _{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6dd7265a6256d84111c744dab6aee746e9539cbc" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:29.184ex; height:2.509ex;" alt="{\displaystyle m_{1}=m_{2},\alpha _{1}=\alpha _{2},\beta _{1}=-\beta _{2}}"></span>
+</p>
+<ul><li>其中第3项只适用于传动轴中心线平行时，存在轴交角时螺旋角可以不相同</li></ul>
+<p><a href="/w/index.php?title=%E9%87%8D%E5%90%88%E5%BA%A6&amp;action=edit&amp;redlink=1" class="new" title="重合度（页面不存在）">重合度</a>：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon _{\gamma }=\epsilon _{\alpha }+{\frac {B\sin \beta }{\pi m_{n}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B3;<!-- γ --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>&#x03F5;<!-- ϵ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B1;<!-- α --></mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>B</mi>
+              <mi>sin</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mi>&#x03B2;<!-- β --></mi>
+            </mrow>
+            <mrow>
+              <mi>&#x03C0;<!-- π --></mi>
+              <msub>
+                <mi>m</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon _{\gamma }=\epsilon _{\alpha }+{\frac {B\sin \beta }{\pi m_{n}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2ed99b109120f8b927273645375b56a002c1d18" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.171ex; width:17.798ex; height:5.676ex;" alt="{\displaystyle \epsilon _{\gamma }=\epsilon _{\alpha }+{\frac {B\sin \beta }{\pi m_{n}}}}"></span>
+</p><p><a href="/w/index.php?title=%E7%95%B6%E9%87%8F%E9%BD%92%E6%95%B8&amp;action=edit&amp;redlink=1" class="new" title="当量齿数（页面不存在）">当量齿数</a>：<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle z_{v}={\frac {z}{\cos ^{3}\beta }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>v</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>z</mi>
+            <mrow>
+              <msup>
+                <mi>cos</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mi>&#x03B2;<!-- β --></mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z_{v}={\frac {z}{\cos ^{3}\beta }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62e92ec64ed7470f46f54905dd783755be0c6d1f" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.505ex; width:11.93ex; height:5.343ex;" alt="{\displaystyle z_{v}={\frac {z}{\cos ^{3}\beta }}}"></span>
+</p>
+<h3><span id=".E7.B5.84.E4.BB.B6"></span><span class="mw-headline" id="組件">组件</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=5" title="编辑章节：组件"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>轮齿：齿轮上的每一个用于啮合的凸起部分。</li>
+<li>齿槽：齿轮上两个相邻轮齿之间的空间。</li>
+<li>齿面：轮齿上位于齿顶圆柱面和齿顶圆柱面之间的侧表面。</li>
+<li>基圆：形成渐开线的发生线在其上作纯滚动的圆。</li>
+<li>齿顶圆：齿顶端所在的圆。</li>
+<li>齿根圆：槽底所在的圆。</li></ul>
+<h3><span id=".E8.A1.93.E8.AA.9E"></span><span class="mw-headline" id="術語">术语</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=6" title="编辑章节：术语"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span typeof="mw:File"><a href="/wiki/File:Gear_words.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gear_words.png/600px-Gear_words.png" decoding="async" width="600" height="504" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/2/28/Gear_words.png 1.5x" data-file-width="865" data-file-height="726" /></a></span>
+</p>
+<ul><li>节面：虚拟之滚动圆筒（或锥）表面，其上可以代换不同轮齿。</li>
+<li>节圆：节面之正剖面。</li>
+<li>齿顶圆：齿端所构成之圆，在齿轮之正剖面。</li>
+<li>齿根圆：齿间所构成之圆，在齿轮之正剖面。</li>
+<li>齿高：分度圆与齿冠圆间之径向距离。</li>
+<li>齿根：分度圆与齿根圆间之径向距离。</li>
+<li>顶隙：某齿轮之齿根与搭配齿轮之齿冠间之距离。</li>
+<li>齿面：在节面以外部分之齿面。</li>
+<li>齿腹：在节面以内部分之齿面。</li>
+<li>圆周齿厚（亦称齿厚）：齿在分度圆上之厚度，它是弧长，不是直线长度。</li>
+<li>齿距（pitch）：在节圆上相邻两齿之距离。</li>
+<li>侧隙：为齿轮圆周齿厚与配对之齿轮之齿间之差。理论上侧隙应为零，但在实际上为克服制造上之误差及热胀的问题，防止运转时，配对的齿与齿间发生排挤，仍必须存在某程度之空隙。侧隙之调整可加大中心矩或在切削时多切除一部分。</li>
+<li>周节（齿距，p）：齿宽度与齿间宽度，在节圆上量取。</li>
+<li>径节(P)：以英制为单位，即为节径上每吋之齿数。齿轮上之齿数不一定为整数，一般常取整数。</li></ul>
+<ul><li>模数(m)：分度圆直径除以齿数，采用SI公制。m=d/z，d以毫米为单位。节径通常以吋表示；故前面的状况模数为径节之倒数，不过所用之单位必须经过转换。</li>
+<li>过度曲线：轮齿与齿根圆连接过渡处的曲线（端面上看）。</li>
+<li>小齿轮：任何相配齿轮之最小齿轮。较大之齿轮则称为齿轮。</li>
+<li>传动比：单位时间内，驱动（或输入）齿轮与被动齿轮（输出）之回转数比。</li>
+<li>节点：一对相配齿轮之节圆之相切点。</li>
+<li>共切点：在节点处与节圆相切之线。</li>
+<li>作用线：相配齿轮外形在接触点之法线。</li>
+<li>接触线：相配齿轮外形接触点之轨迹。</li>
+<li>压力角（α）：齿轮上某个圆之共切线与通过齿接触点法线之交角。亦即作用线与共同切线之交角。通常取分度圆上的压力角为标准值，并称为分度圆压力角。</li>
+<li>中心距(a)：两轴之中心距离，以前例a=(d1+d2)/2。【未变位时的中心距】</li>
+<li>基圆（Base circle）：<a href="/wiki/%E6%BC%B8%E9%96%8B%E7%B7%9A" class="mw-redirect" title="渐开线">渐开线</a><a class="mw-selflink selflink">圆柱齿轮</a>（或<a href="/wiki/%E6%91%86%E7%BA%BF" title="摆线">摆线</a>圆柱齿轮）上的一个假想圆，形成渐开线<a href="/w/index.php?title=%E9%BD%BF%E5%BB%93&amp;action=edit&amp;redlink=1" class="new" title="齿廓（页面不存在）">齿廓</a>的发生线（或形成摆线齿廓的发生圆）在此假想圆的圆周上作<a href="/w/index.php?title=%E7%BA%AF%E6%BB%9A%E5%8A%A8&amp;action=edit&amp;redlink=1" class="new" title="纯滚动（页面不存在）">纯滚动</a>时，此假想圆即为基圆。</li></ul>
+<h2><span id=".E8.A3.BD.E9.80.A0"></span><span class="mw-headline" id="製造">制造</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=7" title="编辑章节：制造"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="/wiki/IGW" title="IGW">IGW</a></div>
+<h3><span id=".E5.B7.A5.E8.89.BA"></span><span class="mw-headline" id="工艺">工艺</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=8" title="编辑章节：工艺"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>齿轮的加工方法有铸造、锻造、模锻、冷扎、热扎、切削加工等，其中以切削加工最为常见。切削加工可按原理分成仿形法和范成法两种。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup>
+</p><p><a href="/w/index.php?title=%E4%BB%BF%E5%BD%A2%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="仿形法（页面不存在）">仿形法</a>是在<a href="/wiki/%E9%93%A3%E5%BA%8A" title="铣床">铣床</a>上采用刀刃形状与被切齿轮的齿槽两侧<a href="/w/index.php?title=%E9%BD%92%E5%BB%93&amp;action=edit&amp;redlink=1" class="new" title="齿廓（页面不存在）">齿廓</a>形状相同的铣刀逐个齿槽进行切质的加工工艺。仿形法生产效率低，加工精度低，适用与对精度要求不高的大模数单件小批量生产。
+</p><p>范成法又称展成法，是目前齿轮加工中最常用的一种，如插齿、滚齿、磨齿等。范成法是利用齿廓啮合基本定律来切制齿轮的，假想将一对啮合的齿轮之一作为刀具，而另一个作为齿坯，使两者仍按原传动比运动，同时刀具作切削运动，则在齿轮坯上便可加工出与刀具齿轮共轭的齿轮廓。
+</p><p>搓齿加工的成形原理。安装在滑台上的上下对置的两把搓齿模具，在经同步齿轮同步后由油压或伺服电机驱动作相对直线运动，模具被修磨成逐渐切入的齿形，工件由前后顶尖支撑，并可以通过前后顶尖的位移功能方便的调整工件加工部位，上下模具相对运动驱动工件旋转并逐渐的将工件挤压成形，经修整后最终退出，花键的成形精度及稳定性是由上下搓齿模具的预置刚性距离而获得，数秒钟内完成无屑成形。花键冷成形实际上时一次齿根材料被逐渐挤压替换到齿顶的无屑加工过程。搓齿成形工艺及其优点。效率与传统的切削加工相比，提高30倍以上，工件承载能力比切削件提高40%，粗糙度可达到Ra0.4以下，节约材料9%-15%，经冷成形的齿形的疲劳强度及扭转强度、耐磨性大幅提高。
+</p><p>在齿轮系统中，当齿轮数<a href="/wiki/%E4%BA%92%E8%B3%AA" title="互质">互质</a>时（齿轮数互为不相等的<a href="/wiki/%E8%B3%AA%E6%95%B8" class="mw-redirect" title="质数">质数</a>），可以因为齿轮咬合时的磨损被平均分散，而增加齿轮使用寿命。
+</p>
+<h3><span id=".E6.9D.90.E6.96.99"></span><span class="mw-headline" id="材料">材料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=9" title="编辑章节：材料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>许多有色金属合金，铸铁，粉末冶金，甚至塑料用于制造的齿轮。但最常用的是钢材，因为他们的高强度重量比，低成本。常用塑料的成本和重量是一个问题。设计合理的塑料齿轮可以在许多情况下代替钢，因为它有许多理想性能，包括耐污垢，低速啮合，并能够“跳过”。制造商已经在许多消费项目物品中采用塑料齿轮，如影印机，光存储设备，录像机，价格便宜的发电机，消费类音频设备，伺服电机，和打印机。
+</p><p>在机械设备中，齿轮常用材料有45号调质钢，40Cr调质钢等。45号钢，40Cr在调质后进行表面淬火可以在基本保持齿根弯曲疲劳强度的前提下很大程度地增加齿面疲劳强度，40Cr齿轮采用调质后表面淬火的热处理工艺可使齿面硬度达到45～55 HRC。20CrMnTi（渗炭后淬火）是比较好的齿轮材料，其强度极限(1200MPa)和屈服极限(1100MPa)是相对较高的，表面硬度可达58～62 HRC，在高速重载并且对机械尺寸和质量有较高要求的设备中的典型材料。
+</p>
+<h3><span id=".E6.AA.A2.E9.A9.97"></span><span class="mw-headline" id="檢驗">检验</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=10" title="编辑章节：检验"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>齿轮几何检查和验证，可使用各种方法，如<a href="/wiki/X%E5%B0%84%E7%BA%BF%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%AD%E5%B1%82%E6%88%90%E5%83%8F" class="mw-redirect" title="X射线计算机断层成像">CT</a>扫描、坐标测量机、白光扫描或<a href="/w/index.php?title=%E6%BF%80%E5%85%89%E6%8E%83%E6%8F%8F&amp;action=edit&amp;redlink=1" class="new" title="激光扫描（页面不存在）">激光扫描</a>。特别有用的塑料齿轮，CT扫描可以检查内部几何和不完善之处，如孔隙率。
+</p>
+<h2><span id=".E5.BA.94.E7.94.A8"></span><span class="mw-headline" id="应用">应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=11" title="编辑章节：应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.8F.9B.E6.93.8B.E9.BD.92.E8.BC.AA"></span><span class="mw-headline" id="換擋齒輪">换挡齿轮</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=12" title="编辑章节：换挡齿轮"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>在某些机器（如汽车）有必要改变传动比，以适应任务。有几种方法实现这个目标。例如：
+</p>
+<ul><li>手动变速箱</li>
+<li>自动变速器</li>
+<li>自动手速器</li></ul>
+<h2><span id=".E8.B1.A1.E5.BE.B5"></span><span class="mw-headline" id="象徵">象征</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=13" title="编辑章节：象征"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>齿轮是一种常见产业的符号。有些国家的国徽等徽章会出现齿轮。
+</p>
+<h3><span id=".E5.90.AB.E6.9C.89.E9.BD.92.E8.BC.AA.E7.9A.84.E7.A4.BE.E6.9C.83.E4.B8.BB.E7.BE.A9.E7.B4.8B.E7.AB.A0"></span><span class="mw-headline" id="含有齒輪的社會主義紋章">含有齿轮的社会主义纹章</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=14" title="编辑章节：含有齿轮的社会主义纹章"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">参见：<a href="/wiki/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%BA%B9%E7%AB%A0" title="社会主义纹章">社会主义纹章</a></div>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:National_Emblem_of_the_People%27s_Republic_of_China_(3).svg" class="mw-file-description" title="中华人民共和国国徽"><img alt="中华人民共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg/112px-National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg.png" decoding="async" width="112" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg/168px-National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg/224px-National_Emblem_of_the_People%27s_Republic_of_China_%283%29.svg.png 2x" data-file-width="271" data-file-height="290" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="中华人民共和国国徽">中华人民共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_(CPPCC)_logo.svg" class="mw-file-description" title="中国人民政治协商会议会徽"><img alt="中国人民政治协商会议会徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg/118px-Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg/177px-Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg/236px-Charter_of_the_Chinese_People%27s_Political_Consultative_Conference_%28CPPCC%29_logo.svg.png 2x" data-file-width="739" data-file-height="750" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%BE%BD" title="中国人民政治协商会议会徽">中国人民政治协商会议会徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Supreme_People%27s_Court_of_P.R.China%27s_badge.svg" class="mw-file-description" title="中华人民共和国人民法院法徽"><img alt="中华人民共和国人民法院法徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Supreme_People%27s_Court_of_P.R.China%27s_badge.svg/108px-Supreme_People%27s_Court_of_P.R.China%27s_badge.svg.png" decoding="async" width="108" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Supreme_People%27s_Court_of_P.R.China%27s_badge.svg/163px-Supreme_People%27s_Court_of_P.R.China%27s_badge.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Supreme_People%27s_Court_of_P.R.China%27s_badge.svg/217px-Supreme_People%27s_Court_of_P.R.China%27s_badge.svg.png 2x" data-file-width="723" data-file-height="800" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%B3%95%E5%BE%BD" title="中华人民共和国人民法院法徽">中华人民共和国人民法院法徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:China_Youth_League_logo.svg" class="mw-file-description" title="中国共产主义青年团团徽"><img alt="中国共产主义青年团团徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/China_Youth_League_logo.svg/118px-China_Youth_League_logo.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/China_Youth_League_logo.svg/177px-China_Youth_League_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/China_Youth_League_logo.svg/237px-China_Youth_League_logo.svg.png 2x" data-file-width="420" data-file-height="426" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E9%9D%92%E5%B9%B4%E5%9B%A2" title="中国共产主义青年团">中国共产主义青年团</a>团徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Vietnam.svg" class="mw-file-description" title="越南国徽"><img alt="越南国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/118px-Emblem_of_Vietnam.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/177px-Emblem_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/235px-Emblem_of_Vietnam.svg.png 2x" data-file-width="519" data-file-height="529" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%B6%8A%E5%8D%97%E5%9C%8B%E5%BE%BD" title="越南国徽">越南国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Laos.svg" class="mw-file-description" title="老挝国徽"><img alt="老挝国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/120px-Emblem_of_Laos.svg.png" decoding="async" width="120" height="105" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/180px-Emblem_of_Laos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/240px-Emblem_of_Laos.svg.png 2x" data-file-width="602" data-file-height="529" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%AF%AE%E5%9C%8B%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="老挝国徽">老挝国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Laos_Ministry_of_AF.svg" class="mw-file-description" title="老挝农林部（英语：Ministry of Agriculture and Forestry (Laos)）徽章"><img alt="老挝农林部（英语：Ministry of Agriculture and Forestry (Laos)）徽章" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Laos_Ministry_of_AF.svg/120px-Laos_Ministry_of_AF.svg.png" decoding="async" width="120" height="99" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Laos_Ministry_of_AF.svg/180px-Laos_Ministry_of_AF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Laos_Ministry_of_AF.svg/240px-Laos_Ministry_of_AF.svg.png 2x" data-file-width="367" data-file-height="303" /></a></span></div>
+			<div class="gallerytext"><span class="ilh-all" data-orig-title="老挝农林部" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ministry of Agriculture and Forestry (Laos)"><span class="ilh-page"><a href="/w/index.php?title=%E8%80%81%E6%8C%9D%E5%86%9C%E6%9E%97%E9%83%A8&amp;action=edit&amp;redlink=1" class="new" title="老挝农林部（页面不存在）">老挝农林部</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Forestry_(Laos)" class="extiw" title="en:Ministry of Agriculture and Forestry (Laos)"><span lang="en" dir="auto">Ministry of Agriculture and Forestry (Laos)</span></a></span>）</span></span>徽章</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_LPRYU.svg" class="mw-file-description" title="老挝人民革命青年团团徽"><img alt="老挝人民革命青年团团徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_LPRYU.svg/114px-Emblem_of_LPRYU.svg.png" decoding="async" width="114" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_LPRYU.svg/171px-Emblem_of_LPRYU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_LPRYU.svg/228px-Emblem_of_LPRYU.svg.png 2x" data-file-width="255" data-file-height="268" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%80%81%E6%8C%9D%E4%BA%BA%E6%B0%91%E9%9D%A9%E5%91%BD%E9%9D%92%E5%B9%B4%E5%9B%A2" title="老挝人民革命青年团">老挝人民革命青年团</a>团徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Lao_People%27s_Army.svg" class="mw-file-description" title="老挝人民军军徽"><img alt="老挝人民军军徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emblem_of_Lao_People%27s_Army.svg/120px-Emblem_of_Lao_People%27s_Army.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emblem_of_Lao_People%27s_Army.svg/180px-Emblem_of_Lao_People%27s_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emblem_of_Lao_People%27s_Army.svg/240px-Emblem_of_Lao_People%27s_Army.svg.png 2x" data-file-width="602" data-file-height="602" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%80%81%E6%92%BE%E4%BA%BA%E6%B0%91%E8%BB%8D" class="mw-redirect" title="老挝人民军">老挝人民军</a>军徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_People%27s_Republic_of_Kampuchea_(1979%E2%80%931981).svg" class="mw-file-description" title="柬埔寨人民共和国国徽（1979－1981）"><img alt="柬埔寨人民共和国国徽（1979－1981）" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg/120px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg.png" decoding="async" width="120" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg/180px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg/240px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281979%E2%80%931981%29.svg.png 2x" data-file-width="544" data-file-height="527" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9C%8B%E5%BE%BD" title="柬埔寨国徽">柬埔寨人民共和国国徽</a>（1979－1981）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_People%27s_Republic_of_Kampuchea_(1981-1989).svg" class="mw-file-description" title="柬埔寨人民共和国国徽（1981－1989）"><img alt="柬埔寨人民共和国国徽（1981－1989）" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg/114px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg.png" decoding="async" width="114" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg/171px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg/228px-Emblem_of_the_People%27s_Republic_of_Kampuchea_%281981-1989%29.svg.png 2x" data-file-width="775" data-file-height="815" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9C%8B%E5%BE%BD" title="柬埔寨国徽">柬埔寨人民共和国国徽</a>（1981－1989）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_State_of_Cambodia_(1989%E2%80%931992).svg" class="mw-file-description" title="柬埔寨国徽（1989－1992）"><img alt="柬埔寨国徽（1989－1992）" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg/116px-Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg.png" decoding="async" width="116" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg/174px-Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg/232px-Emblem_of_the_State_of_Cambodia_%281989%E2%80%931992%29.svg.png 2x" data-file-width="692" data-file-height="715" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9C%8B%E5%BE%BD" title="柬埔寨国徽">柬埔寨国徽</a>（1989－1992）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:State_emblem_of_the_People%27s_republic_of_Mongolia_(1960%E2%80%931992).svg" class="mw-file-description" title="蒙古人民共和国国徽（1960－1992）"><img alt="蒙古人民共和国国徽（1960－1992）" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg/109px-State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg.png" decoding="async" width="109" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg/164px-State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg/219px-State_emblem_of_the_People%27s_republic_of_Mongolia_%281960%E2%80%931992%29.svg.png 2x" data-file-width="979" data-file-height="1073" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%92%99%E5%8F%A4%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="蒙古人民共和国国徽">蒙古人民共和国国徽</a>（1960－1992）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Burkina_Faso_1984-1991.svg" class="mw-file-description" title="布基纳法索国徽（1984－1991）"><img alt="布基纳法索国徽（1984－1991）" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Burkina_Faso_1984-1991.svg/120px-Coat_of_arms_of_Burkina_Faso_1984-1991.svg.png" decoding="async" width="120" height="112" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Burkina_Faso_1984-1991.svg/180px-Coat_of_arms_of_Burkina_Faso_1984-1991.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Burkina_Faso_1984-1991.svg/240px-Coat_of_arms_of_Burkina_Faso_1984-1991.svg.png 2x" data-file-width="622" data-file-height="581" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%B8%83%E5%9F%BA%E7%BA%B3%E6%B3%95%E7%B4%A2%E5%9B%BD%E5%BE%BD" title="布基纳法索国徽">布基纳法索国徽</a>（1984－1991）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Mozambique_(1975-1982).svg" class="mw-file-description" title="莫桑比克人民共和国国徽"><img alt="莫桑比克人民共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblem_of_Mozambique_%281975-1982%29.svg/115px-Emblem_of_Mozambique_%281975-1982%29.svg.png" decoding="async" width="115" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblem_of_Mozambique_%281975-1982%29.svg/172px-Emblem_of_Mozambique_%281975-1982%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblem_of_Mozambique_%281975-1982%29.svg/230px-Emblem_of_Mozambique_%281975-1982%29.svg.png 2x" data-file-width="340" data-file-height="355" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%8E%AB%E6%A1%91%E6%AF%94%E5%85%8B%E5%9B%BD%E5%BE%BD" title="莫桑比克国徽">莫桑比克人民共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Afghanistan_(1980-1987).svg" class="mw-file-description" title="阿富汗民主共和国国徽"><img alt="阿富汗民主共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Emblem_of_Afghanistan_%281980-1987%29.svg/120px-Emblem_of_Afghanistan_%281980-1987%29.svg.png" decoding="async" width="120" height="114" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Emblem_of_Afghanistan_%281980-1987%29.svg/180px-Emblem_of_Afghanistan_%281980-1987%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Emblem_of_Afghanistan_%281980-1987%29.svg/240px-Emblem_of_Afghanistan_%281980-1987%29.svg.png 2x" data-file-width="474" data-file-height="450" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="阿富汗国徽">阿富汗民主共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Afghanistan_(1987-1992).svg" class="mw-file-description" title="阿富汗共和国国徽"><img alt="阿富汗共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Afghanistan_%281987-1992%29.svg/120px-Emblem_of_Afghanistan_%281987-1992%29.svg.png" decoding="async" width="120" height="111" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Afghanistan_%281987-1992%29.svg/180px-Emblem_of_Afghanistan_%281987-1992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Afghanistan_%281987-1992%29.svg/240px-Emblem_of_Afghanistan_%281987-1992%29.svg.png 2x" data-file-width="361" data-file-height="333" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="阿富汗国徽">阿富汗共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg" class="mw-file-description" title="阿富汗人民民主党党徽"><img alt="阿富汗人民民主党党徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg/118px-Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg/177px-Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg/235px-Emblem_of_the_People%27s_Democratic_Party_of_Afghanistan.svg.png 2x" data-file-width="512" data-file-height="522" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E9%BB%A8" title="阿富汗人民民主党">阿富汗人民民主党</a>党徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg" class="mw-file-description" title="阿富汗民主青年组织徽章"><img alt="阿富汗民主青年组织徽章" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg/111px-Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg.png" decoding="async" width="111" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg/166px-Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg/222px-Emblem_of_the_Democratic_Youth_Organisation_of_Afghanistan.svg.png 2x" data-file-width="233" data-file-height="252" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%91%E4%B8%BB%E9%9D%92%E5%B9%B4%E7%BB%84%E7%BB%87" title="阿富汗民主青年组织">阿富汗民主青年组织</a>徽章</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg" class="mw-file-description" title="埃塞俄比亚人民民主共和国国徽"><img alt="埃塞俄比亚人民民主共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg/120px-Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg.png" decoding="async" width="120" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg/180px-Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg/240px-Emblem_of_the_People%27s_Democratic_Republic_of_Ethiopia.svg.png 2x" data-file-width="534" data-file-height="514" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E5%9B%BD%E5%BE%BD" title="埃塞俄比亚国徽">埃塞俄比亚人民民主共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_the_Democratic_Republic_of_Madagascar.svg" class="mw-file-description" title="马达加斯加民主共和国国徽"><img alt="马达加斯加民主共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_the_Democratic_Republic_of_Madagascar.svg/120px-Emblem_of_the_Democratic_Republic_of_Madagascar.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_the_Democratic_Republic_of_Madagascar.svg/180px-Emblem_of_the_Democratic_Republic_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_the_Democratic_Republic_of_Madagascar.svg/240px-Emblem_of_the_Democratic_Republic_of_Madagascar.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="马达加斯加国徽">马达加斯加民主共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Benin_(1975%E2%80%931990).svg" class="mw-file-description" title="贝宁人民共和国国徽"><img alt="贝宁人民共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Emblem_of_Benin_%281975%E2%80%931990%29.svg/97px-Emblem_of_Benin_%281975%E2%80%931990%29.svg.png" decoding="async" width="97" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Emblem_of_Benin_%281975%E2%80%931990%29.svg/146px-Emblem_of_Benin_%281975%E2%80%931990%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Emblem_of_Benin_%281975%E2%80%931990%29.svg/195px-Emblem_of_Benin_%281975%E2%80%931990%29.svg.png 2x" data-file-width="424" data-file-height="522" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E8%B2%9D%E5%AF%A7%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="贝宁国徽">贝宁人民共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Serbia_(1947%E2%80%932004).svg" class="mw-file-description" title="塞尔维亚社会主义共和国国徽"><img alt="塞尔维亚社会主义共和国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg/93px-Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg.png" decoding="async" width="93" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg/140px-Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg/187px-Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg.png 2x" data-file-width="569" data-file-height="731" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD" title="塞尔维亚社会主义共和国国徽">塞尔维亚社会主义共和国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg" class="mw-file-description" title="阿尔巴尼亚劳动青年联盟徽章"><img alt="阿尔巴尼亚劳动青年联盟徽章" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg/110px-Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg.png" decoding="async" width="110" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg/166px-Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg/221px-Bashkimi_i_Rinis%C3%AB_s%C3%AB_Pun%C3%ABs_s%C3%AB_Shqip%C3%ABris%C3%AB.svg.png 2x" data-file-width="326" data-file-height="354" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%E5%8A%B3%E5%8A%A8%E9%9D%92%E5%B9%B4%E8%81%94%E7%9B%9F" title="阿尔巴尼亚劳动青年联盟">阿尔巴尼亚劳动青年联盟</a>徽章</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Symbol_of_Pioneer_Organization_Romania.svg" class="mw-file-description" title="罗马尼亚先锋组织徽章"><img alt="罗马尼亚先锋组织徽章" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Symbol_of_Pioneer_Organization_Romania.svg/94px-Symbol_of_Pioneer_Organization_Romania.svg.png" decoding="async" width="94" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Symbol_of_Pioneer_Organization_Romania.svg/141px-Symbol_of_Pioneer_Organization_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Symbol_of_Pioneer_Organization_Romania.svg/188px-Symbol_of_Pioneer_Organization_Romania.svg.png 2x" data-file-width="448" data-file-height="571" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%85%88%E9%94%8B%E7%BB%84%E7%BB%87" title="先锋组织">罗马尼亚先锋组织</a>徽章</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Bulgaria_(1948%E2%80%931968).svg" class="mw-file-description" title="保加利亚人民共和国国徽（1948－1968）"><img alt="保加利亚人民共和国国徽（1948－1968）" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg/120px-Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg/180px-Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg/240px-Coat_of_arms_of_Bulgaria_%281948%E2%80%931968%29.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%BE%BD" title="保加利亚国徽">保加利亚人民共和国国徽</a>（1948－1968）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Bulgaria_(1968%E2%80%931971).svg" class="mw-file-description" title="保加利亚人民共和国国徽（1968－1971）"><img alt="保加利亚人民共和国国徽（1968－1971）" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg/106px-Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg.png" decoding="async" width="106" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg/159px-Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg/212px-Coat_of_arms_of_Bulgaria_%281968%E2%80%931971%29.svg.png 2x" data-file-width="75" data-file-height="85" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%BE%BD" title="保加利亚国徽">保加利亚人民共和国国徽</a>（1968－1971）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Bulgaria_(1971%E2%80%931990).svg" class="mw-file-description" title="保加利亚人民共和国国徽（1971－1990）"><img alt="保加利亚人民共和国国徽（1971－1990）" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg/120px-Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg/180px-Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg/240px-Coat_of_arms_of_Bulgaria_%281971%E2%80%931990%29.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%BE%BD" title="保加利亚国徽">保加利亚人民共和国国徽</a>（1971－1990）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Bulgaria_(1990%E2%80%931991).svg" class="mw-file-description" title="保加利亚人民共和国国徽（1990－1991）"><img alt="保加利亚人民共和国国徽（1990－1991）" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg/116px-Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg.png" decoding="async" width="116" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg/174px-Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg/232px-Coat_of_arms_of_Bulgaria_%281990%E2%80%931991%29.svg.png 2x" data-file-width="384" data-file-height="398" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%BE%BD" title="保加利亚国徽">保加利亚人民共和国国徽</a>（1990－1991）</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:CPUSA_logo.svg" class="mw-file-description" title="美国共产党党徽"><img alt="美国共产党党徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/CPUSA_logo.svg/120px-CPUSA_logo.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/CPUSA_logo.svg/179px-CPUSA_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/CPUSA_logo.svg/239px-CPUSA_logo.svg.png 2x" data-file-width="297" data-file-height="298" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E7%BE%8E%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB%A8" title="美国共产党">美国共产党</a>党徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Flag_of_JCP.svg" class="mw-file-description" title="日本共产党党徽"><img alt="日本共产党党徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_JCP.svg/120px-Flag_of_JCP.svg.png" decoding="async" width="120" height="84" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_JCP.svg/180px-Flag_of_JCP.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_JCP.svg/240px-Flag_of_JCP.svg.png 2x" data-file-width="1006" data-file-height="701" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A2%E9%BB%A8" title="日本共产党">日本共产党</a>党徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg" class="mw-file-description" title="土耳其工人党党徽（2017）"><img alt="土耳其工人党党徽（2017）" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg/120px-T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg.png" decoding="async" width="120" height="117" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg/180px-T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg/240px-T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg.png 2x" data-file-width="512" data-file-height="501" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B7%A5%E4%BA%BA%E5%85%9A_(2017%E5%B9%B4)" title="土耳其工人党 (2017年)">土耳其工人党</a>党徽（2017）</div>
+		</li>
+</ul>
+<h3><span id=".E5.90.AB.E6.9C.89.E9.BD.92.E8.BC.AA.E7.9A.84.E9.9D.9E.E7.A4.BE.E6.9C.83.E4.B8.BB.E7.BE.A9.E7.B4.8B.E7.AB.A0"></span><span class="mw-headline" id="含有齒輪的非社會主義紋章">含有齿轮的非社会主义纹章</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=15" title="编辑章节：含有齿轮的非社会主义纹章"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Arms_of_the_Islamic_Emirate_of_Afghanistan.svg" class="mw-file-description" title="阿富汗伊斯兰酋长国国徽"><img alt="阿富汗伊斯兰酋长国国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arms_of_the_Islamic_Emirate_of_Afghanistan.svg/119px-Arms_of_the_Islamic_Emirate_of_Afghanistan.svg.png" decoding="async" width="119" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arms_of_the_Islamic_Emirate_of_Afghanistan.svg/178px-Arms_of_the_Islamic_Emirate_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arms_of_the_Islamic_Emirate_of_Afghanistan.svg/238px-Arms_of_the_Islamic_Emirate_of_Afghanistan.svg.png 2x" data-file-width="315" data-file-height="318" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%9B%BD%E5%BE%BD" title="阿富汗国徽">阿富汗伊斯兰酋长国国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Italy.svg" class="mw-file-description" title="意大利国徽"><img alt="意大利国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/105px-Emblem_of_Italy.svg.png" decoding="async" width="105" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/158px-Emblem_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/211px-Emblem_of_Italy.svg.png 2x" data-file-width="710" data-file-height="808" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%9C%8B%E5%BE%BD" title="意大利国徽">意大利国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Angola.svg" class="mw-file-description" title="安哥拉国徽"><img alt="安哥拉国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/106px-Emblem_of_Angola.svg.png" decoding="async" width="106" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/159px-Emblem_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/212px-Emblem_of_Angola.svg.png 2x" data-file-width="345" data-file-height="390" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%AE%89%E5%93%A5%E6%8B%89%E5%9C%8B%E5%BE%BD" class="mw-redirect" title="安哥拉国徽">安哥拉国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Rwanda.svg" class="mw-file-description" title="卢旺达国徽"><img alt="卢旺达国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Rwanda.svg/110px-Coat_of_arms_of_Rwanda.svg.png" decoding="async" width="110" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Rwanda.svg/165px-Coat_of_arms_of_Rwanda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Rwanda.svg/220px-Coat_of_arms_of_Rwanda.svg.png 2x" data-file-width="670" data-file-height="732" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E7%9B%A7%E6%97%BA%E9%81%94%E5%9C%8B%E5%BE%BD" title="卢旺达国徽">卢旺达国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_Botswana.svg" class="mw-file-description" title="博茨瓦纳国徽"><img alt="博茨瓦纳国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/120px-Coat_of_arms_of_Botswana.svg.png" decoding="async" width="120" height="93" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/180px-Coat_of_arms_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/240px-Coat_of_arms_of_Botswana.svg.png 2x" data-file-width="588" data-file-height="454" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%B4%8D%E5%9C%8B%E5%BE%BD" title="博茨瓦纳国徽">博茨瓦纳国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:State_seal_of_Myanmar_(1974-1988).svg" class="mw-file-description" title="缅甸国徽"><img alt="缅甸国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/State_seal_of_Myanmar_%281974-1988%29.svg/120px-State_seal_of_Myanmar_%281974-1988%29.svg.png" decoding="async" width="120" height="97" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/State_seal_of_Myanmar_%281974-1988%29.svg/180px-State_seal_of_Myanmar_%281974-1988%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/State_seal_of_Myanmar_%281974-1988%29.svg/240px-State_seal_of_Myanmar_%281974-1988%29.svg.png 2x" data-file-width="1723" data-file-height="1399" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E7%BC%85%E7%94%B8%E5%9B%BD%E5%BE%BD" title="缅甸国徽">缅甸国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Coat_of_arms_of_East_Timor.svg" class="mw-file-description" title="东帝汶国徽"><img alt="东帝汶国徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_East_Timor.svg/120px-Coat_of_arms_of_East_Timor.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_East_Timor.svg/180px-Coat_of_arms_of_East_Timor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_East_Timor.svg/240px-Coat_of_arms_of_East_Timor.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E6%9D%B1%E5%B8%9D%E6%B1%B6%E5%9C%8B%E5%BE%BD" title="东帝汶国徽">东帝汶国徽</a></div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Hallstahammar_vapen.svg" class="mw-file-description" title="哈尔斯塔哈马市镇市徽"><img alt="哈尔斯塔哈马市镇市徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hallstahammar_vapen.svg/99px-Hallstahammar_vapen.svg.png" decoding="async" width="99" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hallstahammar_vapen.svg/149px-Hallstahammar_vapen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hallstahammar_vapen.svg/198px-Hallstahammar_vapen.svg.png 2x" data-file-width="251" data-file-height="304" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%93%88%E5%B0%94%E6%96%AF%E5%A1%94%E5%93%88%E9%A9%AC%E5%B8%82%E9%95%87" title="哈尔斯塔哈马市镇">哈尔斯塔哈马市镇</a>市徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Blason_ville_44_Rouans.svg" class="mw-file-description" title="鲁昂斯市徽"><img alt="鲁昂斯市徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blason_ville_44_Rouans.svg/109px-Blason_ville_44_Rouans.svg.png" decoding="async" width="109" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blason_ville_44_Rouans.svg/164px-Blason_ville_44_Rouans.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blason_ville_44_Rouans.svg/218px-Blason_ville_44_Rouans.svg.png 2x" data-file-width="600" data-file-height="660" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E9%B2%81%E6%98%82%E6%96%AF" title="鲁昂斯">鲁昂斯</a>市徽</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Blason_ville_fr_Paris_XIII.svg" class="mw-file-description" title="巴黎十三区徽章"><img alt="巴黎十三区徽章" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blason_ville_fr_Paris_XIII.svg/109px-Blason_ville_fr_Paris_XIII.svg.png" decoding="async" width="109" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blason_ville_fr_Paris_XIII.svg/164px-Blason_ville_fr_Paris_XIII.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blason_ville_fr_Paris_XIII.svg/218px-Blason_ville_fr_Paris_XIII.svg.png 2x" data-file-width="611" data-file-height="671" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E5%B7%B4%E9%BB%8E%E5%8D%81%E4%B8%89%E5%8D%80" class="mw-redirect" title="巴黎十三区">巴黎十三区</a>徽章</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/File:Emblem_of_Wa_State.svg" class="mw-file-description" title="佤邦邦徽"><img alt="佤邦邦徽" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Emblem_of_Wa_State.svg/118px-Emblem_of_Wa_State.svg.png" decoding="async" width="118" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Emblem_of_Wa_State.svg/178px-Emblem_of_Wa_State.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Emblem_of_Wa_State.svg/237px-Emblem_of_Wa_State.svg.png 2x" data-file-width="512" data-file-height="519" /></a></span></div>
+			<div class="gallerytext"><a href="/wiki/%E4%BD%A4%E9%82%A6" title="佤邦">佤邦</a>邦徽</div>
+		</li>
+</ul>
+<h2><span id="UI.E8.AE.BE.E8.AE.A1"></span><span class="mw-headline" id="UI设计">UI设计</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=16" title="编辑章节：UI设计"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>齿轮形状的图标在UI设计中常常用来表达“设置”的含义，是由螺丝刀和扳手演变而来，不过也有用三条横线来表达“设置”的设计，这种设置的设计因外形类似汉堡也被戏称为汉堡包<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup>。
+</p><p>在传统机械，例如钟表和机械手表中，齿轮不可或缺，这也是采用齿轮作为设置设计的原因之一。
+</p>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=17" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%8F%98%E9%80%9F%E7%AE%B1" class="mw-redirect" title="变速箱">变速箱</a></li>
+<li><a href="/wiki/%E9%BD%BF%E6%9D%A1" title="齿条">齿条</a></li>
+<li><a href="/wiki/%E6%BB%9A%E5%AD%90%E9%93%BE" title="滚子链">滚子链</a></li>
+<li><a href="/wiki/%E5%B7%AE%E9%80%9F%E5%99%A8" title="差速器">差速器</a></li></ul>
+<h2><span id=".E6.B3.A8.E9.87.8A"></span><span class="mw-headline" id="注释">注释</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=18" title="编辑章节：注释"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="references-NoteFoot"><ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">传动效率，不包括轴承及搅拌润滑等损失。</span>
+</li>
+</ol></div>
+<h2><span id=".E5.8F.83.E8.80.83.E6.96.87.E7.8D.BB"></span><span class="mw-headline" id="參考文獻">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=19" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Gears" class="extiw" title="commons:Category:Gears"><span style="font-weight:bold;">齿轮</span></a></td></tr></tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">KOHARA GEAR INDUSTRY. <a rel="nofollow" class="external text" href="https://khkchina.com/pdf/technical-reference-ch.pdf">齿轮技术资料</a> <span style="font-size:85%;">(PDF)</span>. 小原齿轮工业株式会社.  <span class="reference-accessdate"> &#91;<span class="nowrap">2021-01-20</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210128072211/https://khkchina.com/pdf/technical-reference-ch.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2021-01-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%BD%BF%E8%BD%AE&amp;rft.atitle=%E9%BD%BF%E8%BD%AE%E6%8A%80%E6%9C%AF%E8%B5%84%E6%96%99&amp;rft.au=KOHARA+GEAR+INDUSTRY&amp;rft.genre=unknown&amp;rft.jtitle=%E5%B0%8F%E5%8E%9F%E9%BD%BF%E8%BD%AE%E5%B7%A5%E4%B8%9A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&amp;rft_id=https%3A%2F%2Fkhkchina.com%2Fpdf%2Ftechnical-reference-ch.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">郭蘅译. 齒輪簡易設計. 徐氏基金会. 1979-01.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%BD%BF%E8%BD%AE&amp;rft.au=%E9%83%AD%E8%98%85%E8%AD%AF&amp;rft.btitle=%E9%BD%92%E8%BC%AA%E7%B0%A1%E6%98%93%E8%A8%AD%E8%A8%88&amp;rft.date=1979-01&amp;rft.genre=book&amp;rft.pub=%E5%BE%90%E6%B0%8F%E5%9F%BA%E9%87%91%E6%9C%83&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">機械設計製造手冊. 全华图书股份有限公司. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-957-21-4069-7" title="Special:网络书源/978-957-21-4069-7"><span title="国际标准书号">ISBN</span>&#160;978-957-21-4069-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%BD%BF%E8%BD%AE&amp;rft.btitle=%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E8%A3%BD%E9%80%A0%E6%89%8B%E5%86%8A&amp;rft.genre=book&amp;rft.isbn=978-957-21-4069-7&amp;rft.pub=%E5%85%A8%E8%8F%AF%E5%9C%96%E6%9B%B8%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ux.stackexchange.com/questions/60152/why-is-the-settings-icon-either-associated-with-gears-or-a-wrench-screwdriver#comment93463_60152">Why is the settings icon either associated with gears or a wrench + screwdriver</a>. User Experience Stack Exchange.  <span class="reference-accessdate"> &#91;<span class="nowrap">2024-03-06</span>&#93;</span> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%BD%BF%E8%BD%AE&amp;rft.atitle=Why+is+the+settings+icon+either+associated+with+gears+or+a+wrench+%2B+screwdriver&amp;rft.genre=unknown&amp;rft.jtitle=User+Experience+Stack+Exchange&amp;rft_id=https%3A%2F%2Fux.stackexchange.com%2Fquestions%2F60152%2Fwhy-is-the-settings-icon-either-associated-with-gears-or-a-wrench-screwdriver%23comment93463_60152&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;action=edit&amp;section=20" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://geararium.org/">齿轮博物馆</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20191225034905/http://geararium.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.geartechnology.com/">齿轮制造杂志</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210505203037/http://www.geartechnology.com/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E9%BD%92%E8%BC%AA" title="Template:齿轮"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E9%BD%92%E8%BC%AA" title="Template talk:齿轮"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%BD%92%E8%BC%AA&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a class="mw-selflink selflink">齿轮</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">系统</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">齿轮</a>（ <a class="mw-selflink selflink">斜齿轮</a>）</li>
+<li><a href="/wiki/%E8%9D%B8%E6%A1%BF%E5%82%B3%E5%8B%95" title="蜗杆传动">蜗杆</a></li>
+<li><a href="/wiki/%E9%BD%BF%E6%9D%A1" title="齿条">齿条</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%98%9F%E9%BD%BF%E8%BD%AE" title="行星齿轮">行星齿轮</a></li>
+<li><span class="ilh-all" data-orig-title="太陽行星齒輪系" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sun and planet gear"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%AA%E9%99%BD%E8%A1%8C%E6%98%9F%E9%BD%92%E8%BC%AA%E7%B3%BB&amp;action=edit&amp;redlink=1" class="new" title="太阳行星齿轮系（页面不存在）">太阳行星齿轮系</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sun_and_planet_gear" class="extiw" title="en:Sun and planet gear"><span lang="en" dir="auto">Sun and planet gear</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%A2%E5%8B%95%E9%BD%92%E8%BC%AA%E8%A3%9D%E7%BD%AE" title="波动齿轮装置">波动齿轮装置</a></li>
+<li><span class="ilh-all" data-orig-title="擺線齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cycloidal drive"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%BA%E7%B7%9A%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="摆线齿轮（页面不存在）">摆线齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cycloidal_drive" class="extiw" title="en:Cycloidal drive"><span lang="en" dir="auto">Cycloidal drive</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="非圓形齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Non-circular gear"><span class="ilh-page"><a href="/w/index.php?title=%E9%9D%9E%E5%9C%93%E5%BD%A2%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="非圆形齿轮（页面不存在）">非圆形齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Non-circular_gear" class="extiw" title="en:Non-circular gear"><span lang="en" dir="auto">Non-circular gear</span></a></span>）</span></span></li></ul>
+</div></td><td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/File:Gears_large.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/70px-Gears_large.jpg" decoding="async" width="70" height="95" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/105px-Gears_large.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/140px-Gears_large.jpg 2x" data-file-width="500" data-file-height="680" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">形状</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">正齿轮</a></li>
+<li><span class="ilh-all" data-orig-title="傘齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bevel gear"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%98%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="伞齿轮（页面不存在）">伞齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bevel_gear" class="extiw" title="en:Bevel gear"><span lang="en" dir="auto">Bevel gear</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%86%A0%E7%8B%80%E9%BD%92%E8%BC%AA" title="冠状齿轮">冠状齿轮</a></li>
+<li><span class="ilh-all" data-orig-title="螺旋錐齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Spiral bevel gear"><span class="ilh-page"><a href="/w/index.php?title=%E8%9E%BA%E6%97%8B%E9%8C%90%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="螺旋锥齿轮（页面不存在）">螺旋锥齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Spiral_bevel_gear" class="extiw" title="en:Spiral bevel gear"><span lang="en" dir="auto">Spiral bevel gear</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="螺旋齒" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gear#Helical"><span class="ilh-page"><a href="/w/index.php?title=%E8%9E%BA%E6%97%8B%E9%BD%92&amp;action=edit&amp;redlink=1" class="new" title="螺旋齿（页面不存在）">螺旋齿</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gear#Helical" class="extiw" title="en:Gear"><span lang="en" dir="auto">Gear#Helical</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="人字齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Herringbone gear"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%BA%E5%AD%97%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="人字齿轮（页面不存在）">人字齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Herringbone_gear" class="extiw" title="en:Herringbone gear"><span lang="en" dir="auto">Herringbone gear</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">齿轮轮廓</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%BC%B8%E9%96%8B%E7%B7%9A%E9%BD%92%E8%BC%AA" title="渐开线齿轮">渐开线齿轮</a></li>
+<li><span class="ilh-all" data-orig-title="擺線齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Cycloid gear"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%BA%E7%B7%9A%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="摆线齿轮（页面不存在）">摆线齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Cycloid_gear" class="extiw" title="en:Cycloid gear"><span lang="en" dir="auto">Cycloid gear</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">机械学</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8F%98%E9%80%9F%E5%99%A8" title="变速器">变速器</a></li>
+<li><a href="/wiki/%E5%B7%AE%E9%80%9F%E5%99%A8" title="差速器">差速器</a></li>
+<li><a href="/wiki/%E8%81%94%E8%BD%B4%E5%99%A8" title="联轴器">联轴器</a></li>
+<li><a href="/wiki/%E8%BD%AE%E7%B3%BB" title="轮系">轮系</a></li>
+<li><span class="ilh-all" data-orig-title="自行車齒輪" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bicycle gearing"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%BD%92%E8%BC%AA&amp;action=edit&amp;redlink=1" class="new" title="自行车齿轮（页面不存在）">自行车齿轮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bicycle_gearing" class="extiw" title="en:Bicycle gearing"><span lang="en" dir="auto">Bicycle gearing</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%84%A1%E6%AE%B5%E8%87%AA%E5%8B%95%E8%AE%8A%E9%80%9F%E5%99%A8" title="无段自动变速器">无段自动变速器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">范例</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="font-weight:normal;">自行车</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BE%8C%E8%AE%8A%E9%80%9F%E7%9B%A4" title="后变速盘">后变速盘</a></li>
+<li><a href="/wiki/%E5%8F%98%E9%80%9F%E5%99%A8_(%E8%87%AA%E8%A1%8C%E8%BD%A6)" title="变速器 (自行车)">变速器</a></li>
+<li><span class="ilh-all" data-orig-title="齒轂" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hub gear"><span class="ilh-page"><a href="/w/index.php?title=%E9%BD%92%E8%BD%82&amp;action=edit&amp;redlink=1" class="new" title="齿毂（页面不存在）">齿毂</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hub_gear" class="extiw" title="en:Hub gear"><span lang="en" dir="auto">Hub gear</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BB%B8%E5%82%B3%E5%8B%95" title="轴传动">轴传动</a></li>
+<li><a href="/wiki/%E9%8F%88%E8%BC%AA" title="链轮">链轮</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/%E6%99%82%E9%90%98" title="时钟">钟表</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%BD%AE%E7%B3%BB" title="轮系">轮系</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">参见</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%BB%9A%E7%8F%A0%E4%B8%9D%E6%9D%A0" title="滚珠丝杠">滚珠螺杆</a></li>
+<li><a href="/w/index.php?title=%E5%B0%8E%E8%9E%BA%E6%A1%BF&amp;action=edit&amp;redlink=1" class="new" title="导螺杆（页面不存在）">导螺杆</a></li>
+<li><span class="ilh-all" data-orig-title="螺旋千斤頂" data-lang-code="en" data-lang-name="英语" data-foreign-title="Jackscrew"><span class="ilh-page"><a href="/w/index.php?title=%E8%9E%BA%E6%97%8B%E5%8D%83%E6%96%A4%E9%A0%82&amp;action=edit&amp;redlink=1" class="new" title="螺旋千斤顶（页面不存在）">螺旋千斤顶</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Jackscrew" class="extiw" title="en:Jackscrew"><span lang="en" dir="auto">Jackscrew</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B8%A6_(%E6%9C%BA%E6%A2%B0)" title="带 (机械)">带 (机械)</a></li>
+<li><span class="ilh-all" data-orig-title="鏈傳動" data-lang-code="en" data-lang-name="英语" data-foreign-title="Chain drive"><span class="ilh-page"><a href="/w/index.php?title=%E9%8F%88%E5%82%B3%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="链传动（页面不存在）">链传动</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Chain_drive" class="extiw" title="en:Chain drive"><span lang="en" dir="auto">Chain drive</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="齒輪製造業" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gear manufacturing"><span class="ilh-page"><a href="/w/index.php?title=%E9%BD%92%E8%BC%AA%E8%A3%BD%E9%80%A0%E6%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="齿轮制造业（页面不存在）">齿轮制造业</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gear_manufacturing" class="extiw" title="en:Gear manufacturing"><span lang="en" dir="auto">Gear manufacturing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="樂高技術" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lego Technic"><span class="ilh-page"><a href="/w/index.php?title=%E6%A8%82%E9%AB%98%E6%8A%80%E8%A1%93&amp;action=edit&amp;redlink=1" class="new" title="乐高技术（页面不存在）">乐高技术</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lego_Technic" class="extiw" title="en:Lego Technic"><span lang="en" dir="auto">Lego Technic</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q143873" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11978025k">cb11978025k</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11978025k">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4067333-9">4067333-9</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007560570205171">987007560570205171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85053623">sh85053623</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00562765">00562765</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph123892&amp;CON_LNG=ENG">ph123892</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐4ktdb
+Cached time: 20240402004302
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.508 seconds
+Real time usage: 0.797 seconds
+Preprocessor visited node count: 1930/1000000
+Post‐expand include size: 67050/2097152 bytes
+Template argument size: 1192/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 24/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 59208/5000000 bytes
+Lua time usage: 0.186/10.000 seconds
+Lua memory usage: 4878497/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  592.686      1 -total
+ 16.55%   98.105      1 Template:Otheruses
+ 15.84%   93.894      1 Template:Hatnote
+ 14.90%   88.315      2 Template:Navbox
+ 14.05%   83.245      1 Template:齒輪
+ 10.70%   63.397      1 Template:Reflist
+ 10.62%   62.917      1 Template:Cleanup-jargon
+ 10.13%   60.017      1 Template:Ambox
+  9.37%   55.523      1 Template:Commons_category
+  9.15%   54.241      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:122519-0!userlang=zh-cn!zh-cn and timestamp 20240402004302 and revision id 81799047. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=齿轮&amp;oldid=81799047">https://zh.wikipedia.org/w/index.php?title=齿轮&amp;oldid=81799047</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6" title="Category:机械零件">机械零件</a></li><li><a href="/wiki/Category:%E6%91%A9%E6%93%A6%E5%AD%A6" title="Category:摩擦学">摩擦学</a></li><li><a href="/wiki/Category:%E9%BD%BF%E8%BD%AE%E4%BC%A0%E5%8A%A8" title="Category:齿轮传动">齿轮传动</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li><li><a href="/wiki/Category:%E8%87%AA2015%E5%B9%B44%E6%9C%88%E5%8C%85%E5%90%AB%E9%81%8E%E5%A4%9A%E8%A1%8C%E8%A9%B1%E6%88%96%E5%B0%88%E6%A5%AD%E8%A1%93%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:自2015年4月包含過多行話或專業術語的條目">自2015年4月包含过多行话或专业术语的条目</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年3月6日 (星期三) 19:31。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E9%BD%BF%E8%BD%AE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2408","wgBackendResponseTime":181,"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.797","ppvisitednodes":{"value":1930,"limit":1000000},"postexpandincludesize":{"value":67050,"limit":2097152},"templateargumentsize":{"value":1192,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":59208,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  592.686      1 -total"," 16.55%   98.105      1 Template:Otheruses"," 15.84%   93.894      1 Template:Hatnote"," 14.90%   88.315      2 Template:Navbox"," 14.05%   83.245      1 Template:齒輪"," 10.70%   63.397      1 Template:Reflist"," 10.62%   62.917      1 Template:Cleanup-jargon"," 10.13%   60.017      1 Template:Ambox","  9.37%   55.523      1 Template:Commons_category","  9.15%   54.241      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.186","limit":"10.000"},"limitreport-memusage":{"value":4878497,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-4ktdb","timestamp":"20240402004302","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u9f7f\u8f6e","url":"https:\/\/zh.wikipedia.org\/wiki\/%E9%BD%BF%E8%BD%AE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q143873","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q143873","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-26T21:43:38Z","dateModified":"2024-03-06T19:31:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7e\/Engranajesreductores.JPG"}</script>
+</body>
+</html>

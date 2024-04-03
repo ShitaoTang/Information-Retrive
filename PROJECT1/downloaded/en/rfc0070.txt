@@ -1,0 +1,287 @@
+
+
+
+
+
+
+Network Working Group                                      S. Crocker
+Request for Comments #70                                   UCLA
+                                                           15 October 70
+
+                           A Note on Padding
+
+The padding on a message is a string of the form 10*.  For Hosts with
+word lengths 16, 32, 48, etc., bits long, this string is necessarily in
+the last word received from the Imp.  For Hosts with word lengths which
+are not a multiple of 16 (but which are at least 16 bits long), the 1
+bit will be in either the last word or the next to last word.  Of
+course if the 1 bit is in the next to last word, the last word is all
+zero.
+
+An unpleasant coding task is discovering the bit position of the 1 bit
+within its word.  One obvious technique is to repeatedly test the
+low-order bit, shifting the word right one bit position if the
+low-order bit is zero.  The following techniques are more pleasant.
+
+Isolating the Low-Order Bit
+
+Let W be a non-zero word, where the word length is n.  Then W is of the
+form
+
+            x....x10....0
+            \__ __/\__ __/
+               V      V
+             n-k-1    k
+
+where 0<=k p' =>
+R(p) > R(p'), we obtain the following table of useful divisors for
+p < 100.
+
+
+
+
+
+                                                                [Page 4]
+
+Network Working Group      A Note on Padding                      RFC 70
+
+
+      p     R(p)                                p     R(p)
+
+      1      1                                 29     28
+
+      3      2                                 37     36
+
+      5      4                                 53     52
+
+      9      6                                 59     58
+
+      11     10                                61     60
+
+      13     12                                67     66
+
+      19     18                                83     82
+
+      25     20
+
+Notice that 9 and 25 are useful divisors even though they generate only
+6 and 20 remainders, respectively.
+
+Determination of R(p)
+
+If p is odd, the remainders
+
+           0
+      mod(2 ,p)
+           1
+      mod(2 ,p)
+
+           .
+           .
+           .
+                                                               t
+will be between 1 and p-1 inclusive.  At some power of 2, say 2 , there
+                                                       k    t
+will be a repeated remainder, so that for some k < t, 2  = 2  mod p.
+       t+1    k+1
+Since 2    = 2    mod p
+       t+2    k+2
+and   2    = 2    mod p
+
+           .
+           .
+           .
+          etc.
+                                          0    t-1
+all of the distinct remainders occur for 2 ...2   .  Therefore, R(p)=t.
+
+
+
+                                                                [Page 5]
+
+Network Working Group      A Note on Padding                      RFC 70
+
+
+Next we show that
+
+      R(p)
+     2     = 1 mod p
+                      R(p)    k
+We already know that 2     = 2  mod p
+
+for some 0<=k=q,
+          k       q      k-q
+     mod(2 ,p) = 2 *mod(2   ,p').
+
+
+
+                                                                [Page 6]
+
+Network Working Group      A Note on Padding                      RFC 70
+
+
+From this we can see that the sequence of remainders will have an
+                             q-1
+initial segment of 1, 2, ...2    of length q, and repeating segments of
+
+length R(p').  Therefore, R(p) = q+R(p').  Since we normally expect
+
+     R(p) ~ p,
+
+even p generally will not be useful.
+
+I don't know of a direct way of choosing a p for a given n, but the
+previous table was generated from the following Fortran program run
+under the SEX system at UCLA.
+
+
+
+            0
+                    CALL IASSGN('OC ',56)
+            1       FORMAT(I3,I5)
+                    M=0
+                    DO 100 K=1,100,2
+                    K=1
+                    L=0
+            20      L=L+1
+                    N=MOD(2*N,K)
+                    IF(N.GT.1) GO TO 20
+                    IF(L.LE.M) GO TO 100
+                    M=L
+                    WRITE(56,1)K,L
+            100     CONTINUE
+                    STOP
+                    END
+
+      Fortran program to computer useful divisors
+
+In the program, K takes on trial values of p, N takes on the values of
+the successive remainders, L counts up to R(p), and M remembers the
+previous largest R(p).  Execution is quite speedy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                [Page 7]
+
+Network Working Group      A Note on Padding                      RFC 70
+
+
+Results from Number Theory
+
+The quantity referred to above as R(p) is usually written Ord 2 and is
+                                                             p
+read "the order of 2 mod p".  The maximum value of Ord 2 is given by
+                                                      p
+Euler's phi-function, sometimes called the totient.  The totient of a
+
+positive integer p is the number of integers less than p which are
+
+relatively prime to p.  The totient is easy to compute from a
+
+representation of p as a product of primes:
+
+               n      n        n
+     Let p = p  1 * p  2 ... p  k
+              1      2        k
+
+where the p  are distinct primes.  Then
+           i
+                          k -1               k -1                 k -1
+     phi(p) = (p - 1) * p  1   * (p - 1) * p  2   ... (p - 1) * p  k
+                1        1         2        2           k        k
+
+If p is prime, the totient of p is simply
+
+     phi(p) = p-1.
+
+If p is not prime, the totient is smaller.
+
+If a is relatively prime to p, then Euler's generalization of Fermat's
+theorem states
+
+      phi(m)
+     a       = 1 mod p.
+
+It is this theorem which places an upper bound Ord 2, because Ord 2 is
+                                                  p              p
+the smallest value such that
+
+      Ord 2
+     2   p  = 1 mod p
+
+Moreover it is always true that phi(p) is divisible by Ord 2.
+                                                          p
+
+
+
+
+
+
+                                                                [Page 8]
+
+Network Working Group      A Note on Padding                      RFC 70
+
+
+Acknowledgements
+
+Bob Kahn read an early draft and made many comments which improved the
+exposition.  Alex Hurwitz assured me that a search technique is
+necessary to compute R(p), and supplied the names for the quantities
+and theorems I uncovered.
+
+
+       [ This RFC was put into machine readable form for entry ]
+       [ into the online RFC archives by Guillaume Lahaye and  ] 
+                          [ John Hewes 6/97 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                [Page 9]
+

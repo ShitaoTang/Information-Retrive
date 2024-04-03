@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>光导纤维 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"fbd546bb-6ca4-4078-9c2c-48b418404f61","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"光導纖維","wgTitle":"光導纖維","wgCurRevisionId":81644526,"wgRevisionId":81644526,"wgArticleId":32936,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有英語的條目","包含AAT标识符的维基百科条目","包含BNF标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","纖維光學","材料科學","光电子学"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"光導纖維","wgRelevantArticleId":32936,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"光纖","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q162",
+"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc",
+"skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/49/Fibreoptic.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1814">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/49/Fibreoptic.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1209">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="967">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="光导纤维 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-光導纖維 rootpage-光導纖維 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-原理"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#原理">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>原理</div>
+		</a>
+		
+			<button aria-controls="toc-原理-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关原理子章节</span>
+			</button>
+		
+		<ul id="toc-原理-sublist" class="vector-toc-list">
+			<li id="toc-折射率"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#折射率">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>折射率</div>
+			</a>
+			
+			<ul id="toc-折射率-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-全內反射"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#全內反射">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>全内反射</div>
+			</a>
+			
+			<ul id="toc-全內反射-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-種類"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#種類">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>种类</div>
+		</a>
+		
+			<button aria-controls="toc-種類-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关种类子章节</span>
+			</button>
+		
+		<ul id="toc-種類-sublist" class="vector-toc-list">
+			<li id="toc-多模光纖"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#多模光纖">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>多模光纤</div>
+			</a>
+			
+			<ul id="toc-多模光纖-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-單模光纖"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#單模光纖">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>单模光纤</div>
+			</a>
+			
+			<ul id="toc-單模光纖-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-特种光纖"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#特种光纖">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>特种光纤</div>
+			</a>
+			
+			<ul id="toc-特种光纖-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-衰減機制"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#衰減機制">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>衰减机制</div>
+		</a>
+		
+			<button aria-controls="toc-衰減機制-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关衰减机制子章节</span>
+			</button>
+		
+		<ul id="toc-衰減機制-sublist" class="vector-toc-list">
+			<li id="toc-光散射"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#光散射">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>光散射</div>
+			</a>
+			
+			<ul id="toc-光散射-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-紫外線和紅外線吸收"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#紫外線和紅外線吸收">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>紫外线和红外线吸收</div>
+			</a>
+			
+			<ul id="toc-紫外線和紅外線吸收-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-光纤的接头"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#光纤的接头">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>光纤的接头</div>
+		</a>
+		
+		<ul id="toc-光纤的接头-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-光纖的應用"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#光纖的應用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>光纤的应用</div>
+		</a>
+		
+		<ul id="toc-光纖的應用-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-光纖熔接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#光纖熔接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>光纤熔接</div>
+		</a>
+		
+		<ul id="toc-光纖熔接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-獲頒2009年諾貝爾物理學獎"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#獲頒2009年諾貝爾物理學獎">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>获颁2009年诺贝尔物理学奖</div>
+		</a>
+		
+		<ul id="toc-獲頒2009年諾貝爾物理學獎-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參見"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參見">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>参见</div>
+		</a>
+		
+		<ul id="toc-參見-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考文獻"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考文獻">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-參考文獻-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">光导纤维</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。87种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-87" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">87种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Optiese_vesel" title="Optiese vesel – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%81_%D8%A8%D8%B5%D8%B1%D9%8A" title="ليف بصري – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ary mw-list-item"><a href="https://ary.wikipedia.org/wiki/%D9%81%D9%8A%D8%A8%D8%B1%D8%A9_%D8%A4%D9%BE%D8%AA%D9%8A%D9%83%D9%8A%D8%A9" title="فيبرة ؤپتيكية – 摩洛哥阿拉伯文" lang="ary" hreflang="ary" class="interlanguage-link-target"><span>الدارجة</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95_%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81" title="আলোক তন্তু – 阿萨姆语" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Fibra_%C3%B3ptica" title="Fibra óptica – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Fiber-optik" title="Fiber-optik – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D0%B2%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE" title="Оптично влакно – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%AA%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2_%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0" title="অপটিক্যাল ফাইবার – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Opti%C4%8Dko_vlakno" title="Optičko vlakno – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Fibra_%C3%B2ptica" title="Fibra òptica – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%8E%D8%A8%DA%B5%DB%8C_%D8%AA%DB%8C%D8%B4%DA%A9%DB%8C" title="کێبڵی تیشکی – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Optick%C3%A9_vl%C3%A1kno" title="Optické vlákno – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Ffibr_optig" title="Ffibr optig – 威尔士语" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Lysleder" title="Lysleder – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item" title="优良条目"><a href="https://de.wikipedia.org/wiki/Lichtwellenleiter" title="Lichtwellenleiter – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-dty mw-list-item"><a href="https://dty.wikipedia.org/wiki/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2_%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0" title="अप्टिकल फाइबर – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target"><span>डोटेली</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9F%CF%80%CF%84%CE%B9%CE%BA%CE%AE_%CE%AF%CE%BD%CE%B1" title="Οπτική ίνα – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Optical_fiber" title="Optical fiber – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Optika_fibro" title="Optika fibro – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Fibra_%C3%B3ptica" title="Fibra óptica – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Valgusjuhe" title="Valgusjuhe – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Zuntz_optiko" title="Zuntz optiko – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%A8%D8%B1_%D9%86%D9%88%D8%B1%DB%8C" title="فیبر نوری – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Valokuitu" title="Valokuitu – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Fibre_optique" title="Fibre optique – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Sn%C3%A1ith%C3%ADn_opt%C3%BAil" title="Snáithín optúil – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Fibra_%C3%B3ptica" title="Fibra óptica – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-guc mw-list-item"><a href="https://guc.wikipedia.org/wiki/Kaaule_o%27ukaas%C3%BC" title="Kaaule o&#039;ukaasü – 瓦尤文" lang="guc" hreflang="guc" class="interlanguage-link-target"><span>Wayuunaiki</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%91_%D7%90%D7%95%D7%A4%D7%98%D7%99" title="סיב אופטי – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%AF_%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81" title="प्रकाशीय तन्तु – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Opti%C4%8Dko_vlakno" title="Optičko vlakno – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Fib_optik" title="Fib optik – 海地克里奥尔语" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Optikai_sz%C3%A1l" title="Optikai szál – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%95%D5%BA%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A9%D5%A5%D5%AC%D6%84" title="Օպտիկական թելք – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Serat_optik" title="Serat optik – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Fibra_ottica" title="Fibra ottica – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC" title="光ファイバー – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%9E%E1%83%A2%E1%83%98%E1%83%99%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%91%E1%83%9D%E1%83%AD%E1%83%99%E1%83%9D" title="ოპტიკური ბოჭკო – 格鲁吉亚语" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Isirg_asekdan" title="Isirg asekdan – 卡拜尔语" lang="kab" hreflang="kab" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D3%99%D1%83%D0%BB%D0%B5%D0%B6%D0%BE%D0%BB" title="Сәулежол – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%AA%E0%B3%8D%E0%B2%9F%E0%B2%BF%E0%B2%95%E0%B2%B2%E0%B3%8D%E2%80%8C_%E0%B2%AB%E0%B3%88%E0%B2%AC%E0%B2%B0%E0%B3%8D" title="ಆಪ್ಟಿಕಲ್‌ ಫೈಬರ್ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B4%91%EC%84%AC%EC%9C%A0" title="광섬유 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Fibra_optica" title="Fibra optica – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/%C5%A0viesolaidis" title="Šviesolaidis – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Optisk%C4%81_%C5%A1%C4%B7iedra" title="Optiskā šķiedra – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%BE_%D0%B2%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE" title="Оптичко влакно – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%92%E0%B4%AA%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%AB%E0%B5%88%E0%B4%AC%E0%B5%BC" title="ഒപ്റ്റിക്കൽ ഫൈബർ – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%95_%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%82" title="प्रकाशवाहक तंतू – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Gentian_optik" title="Gentian optik – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%96%E1%80%94%E1%80%BA%E1%80%99%E1%80%BB%E1%80%BE%E1%80%84%E1%80%BA" title="အလင်းဖန်မျှင် – 缅甸语" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-mzn mw-list-item"><a href="https://mzn.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%DB%8C_%D9%81%DB%8C%D8%A8%D8%B1" title="نوری فیبر – 马赞德兰语" lang="mzn" hreflang="mzn" class="interlanguage-link-target"><span>مازِرونی</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2_%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0" title="अप्टिकल फाइबर – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Optische_vezel" title="Optische vezel – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Optisk_fiber" title="Optisk fiber – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Fiberoptikk" title="Fiberoptikk – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Fibra_optica" title="Fibra optica – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%95%E0%A8%BE%E0%A8%B8%E0%A8%BC%E0%A9%80_%E0%A8%A4%E0%A9%B0%E0%A8%A6" title="ਪ੍ਰਕਾਸ਼ੀ ਤੰਦ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/%C5%9Awiat%C5%82ow%C3%B3d" title="Światłowód – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D9%8A_%D9%81%D8%A7%DB%8C%D8%A8%D8%B1" title="نوري فایبر – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Fibra_%C3%B3ptica" title="Fibra óptica – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Fibr%C4%83_optic%C4%83" title="Fibră optică – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE" title="Оптическое волокно – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Fibbra_ottica" title="Fibbra ottica – 西西里语" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Opti%C4%8Dko_vlakno" title="Optičko vlakno – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%9A%E0%B7%8F%E0%B7%81_%E0%B6%AD%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%94" title="ප්‍රකාශ තන්තු – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Optical_fiber" title="Optical fiber – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Optick%C3%A9_vl%C3%A1kno" title="Optické vlákno – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Opti%C4%8Dno_vlakno" title="Optično vlakno – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Fibra_optike" title="Fibra optike – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%BE_%D0%B2%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE" title="Оптичко влакно – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Serat_optik" title="Serat optik – 巽他语" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Fiberoptik" title="Fiberoptik – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Uzi_wa_kioo" title="Uzi wa kioo – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B4%E0%AF%88" title="ஒளியிழை – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tcy mw-list-item"><a href="https://tcy.wikipedia.org/wiki/%E0%B2%A6%E0%B3%8D%E0%B2%AF%E0%B3%81%E0%B2%A4%E0%B2%BF_%E0%B2%87%E0%B2%B0%E0%B3%86%E0%B2%95%E0%B3%81%E0%B2%B2%E0%B3%81" title="ದ್ಯುತಿ ಇರೆಕುಲು – 圖盧文" lang="tcy" hreflang="tcy" class="interlanguage-link-target"><span>ತುಳು</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%86%E0%B0%AA%E0%B1%8D%E0%B0%9F%E0%B0%BF%E0%B0%95%E0%B0%B2%E0%B1%8D_%E0%B0%AB%E0%B1%88%E0%B0%AC%E0%B0%B0%E0%B1%8D" title="ఆప్టికల్ ఫైబర్ – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%83%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B3%E0%B9%81%E0%B8%AA%E0%B8%87" title="ใยแก้วนำแสง – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Fiber_Optics" title="Fiber Optics – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Optik_fiber" title="Optik fiber – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE" title="Оптоволокно – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Optik_tola" title="Optik tola – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/S%E1%BB%A3i_quang_h%E1%BB%8Dc" title="Sợi quang học – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Sabot_nga_optika" title="Sabot nga optika – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%85%89%E5%AF%BC%E7%BA%A4%E7%BB%B4" title="光导纤维 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%A4%D7%98%D7%99%D7%A9%D7%A2_%D7%A4%D7%99%D7%91%D7%A8%D7%A2" title="אפטישע פיברע – 意第绪语" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E5%85%89%E7%BA%96" title="光纖 – 文言文" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%85%89%E7%BA%96" title="光纖 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q162#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;oldid=81644526" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;id=81644526&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%2585%2589%25E5%25B0%258E%25E7%25BA%2596%25E7%25B6%25AD"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%2585%2589%25E5%25B0%258E%25E7%25BA%2596%25E7%25B6%25AD"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q162" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Optical_fiber" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-80298275" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E5%85%89%E7%BA%96&amp;redirect=no" class="mw-redirect" title="光纖">光纖</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-80298275" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="地名"></div><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div><figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Fibreoptic.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fibreoptic.jpg/220px-Fibreoptic.jpg" decoding="async" width="220" height="333" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fibreoptic.jpg/330px-Fibreoptic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/49/Fibreoptic.jpg 2x" data-file-width="350" data-file-height="529" /></a><figcaption>一捆光纤。</figcaption></figure>
+<p><b>光导纤维</b>，或称<b>光学纤维</b>（英语：<span lang="en">Optical fiber</span>），简称<b>光纤</b>，是一种由<a href="/wiki/%E7%8E%BB%E7%92%83" title="玻璃">玻璃</a>或<a href="/wiki/%E5%A1%91%E6%96%99" title="塑料">塑料</a>制成的纤维，利用<a href="/wiki/%E5%85%89" title="光">光</a>在这些纤维中以<a href="/wiki/%E5%85%A8%E5%85%A7%E5%8F%8D%E5%B0%84" title="全内反射">全内反射</a>原理传输的<a href="/w/index.php?title=%E5%85%89%E5%82%B3%E5%B0%8E&amp;action=edit&amp;redlink=1" class="new" title="光传导（页面不存在）">光传导</a>工具。微细的光纤封装在塑料护套中，使得它能够<a href="/wiki/%E5%BD%8E%E6%9B%B2_(%E5%8A%9B%E5%AD%B8)" title="弯曲 (力学)">弯曲</a>而不至于<a href="/wiki/%E6%96%B7%E8%A3%82" title="断裂">断裂</a>。通常光纤的一端的<a href="/w/index.php?title=%E7%99%BC%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="发射（页面不存在）">发射</a>设备使用<a href="/wiki/%E7%99%BC%E5%85%89%E4%BA%8C%E6%A5%B5%E9%AB%94" class="mw-redirect" title="发光二极管">发光二极管</a>或一束<a href="/wiki/%E6%BF%80%E5%85%89" title="激光">激光</a>将<a href="/w/index.php?title=%E5%85%89%E8%84%88%E8%A1%9D&amp;action=edit&amp;redlink=1" class="new" title="光脉冲（页面不存在）">光脉冲</a>发送至光纤中，光纤的另一端的接收设备使用<a href="/w/index.php?title=%E5%85%89%E6%95%8F%E5%85%83%E4%BB%B6&amp;action=edit&amp;redlink=1" class="new" title="光敏组件（页面不存在）">光敏组件</a>检测<a href="/wiki/%E8%84%89%E5%86%B2" class="mw-redirect" title="脉冲">脉冲</a>。包含光纤的线缆称为<b>光缆</b>。由于信息在光导纤维的传输损失比电在<a href="/wiki/%E9%9B%BB%E7%B7%9A" class="mw-redirect" title="电线">电线</a>传导的<a href="/wiki/%E6%8D%9F%E8%80%97" class="mw-disambig" title="损耗">损耗</a>低得多，更因为主要生产原料是<a href="/wiki/%E7%A1%85" title="硅">硅</a>，蕴藏量极大，较易<a href="/w/index.php?title=%E9%96%8B%E6%8E%A1&amp;action=edit&amp;redlink=1" class="new" title="开采（页面不存在）">开采</a>，所以价格很便宜，促使光纤被用作长距离的<a href="/wiki/%E4%BF%A1%E6%81%AF" title="信息">信息</a>传递介质。随着光纤的价格进一步降低，光纤也被用于<a href="/wiki/%E9%86%AB%E7%99%82%E8%A1%9B%E7%94%9F" class="mw-redirect" title="医疗卫生">医疗</a>和<a href="/wiki/%E5%A8%9B%E6%A8%82" title="娱乐">娱乐</a>的用途。
+</p><p>光纤主要分为两类，<span class="ilh-all" data-orig-title="漸變光纖" data-lang-code="en" data-lang-name="英语" data-foreign-title="graded-index fiber"><span class="ilh-page"><a href="/w/index.php?title=%E6%BC%B8%E8%AE%8A%E5%85%89%E7%BA%96&amp;action=edit&amp;redlink=1" class="new" title="渐变光纤（页面不存在）">渐变光纤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/graded-index_fiber" class="extiw" title="en:graded-index fiber"><span lang="en" dir="auto">graded-index fiber</span></a></span>）</span></span>与<span class="ilh-all" data-orig-title="突變光纖" data-lang-code="en" data-lang-name="英语" data-foreign-title="step-index profile"><span class="ilh-page"><a href="/w/index.php?title=%E7%AA%81%E8%AE%8A%E5%85%89%E7%BA%96&amp;action=edit&amp;redlink=1" class="new" title="突变光纤（页面不存在）">突变光纤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/step-index_profile" class="extiw" title="en:step-index profile"><span lang="en" dir="auto">step-index profile</span></a></span>）</span></span>。前者的<a href="/wiki/%E6%8A%98%E5%B0%84%E7%8E%87" title="折射率">折射率</a>是<a href="/w/index.php?title=%E6%BC%B8%E8%AE%8A&amp;action=edit&amp;redlink=1" class="new" title="渐变（页面不存在）">渐变</a>的，而后者的折射率是突变的。另外还分为<a href="/wiki/%E5%96%AE%E6%A8%A1%E5%85%89%E7%BA%96" title="单模光纤">单模光纤</a>及<a href="/wiki/%E5%A4%9A%E6%A8%A1%E5%85%89%E7%BA%96" class="mw-redirect" title="多模光纤">多模光纤</a>。近年来，又有新的<a href="/wiki/%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93" title="光子晶体">光子晶体</a>光纤问世。
+</p><p>光导纤维是双重构造，纤芯部分是高折射率玻璃，表层部分是低折射率的玻璃或塑料，光在纤芯内传输，并在表层交界处不断进行<a href="/wiki/%E5%85%A8%E5%8F%8D%E5%B0%84" class="mw-redirect" title="全反射">全反射</a>，沿“之”字形向前传输。这种纤维比<a href="/wiki/%E5%A4%B4%E5%8F%91" class="mw-redirect" title="头发">头发</a>稍粗，这样细的纤维要有折射率截然不同的双重结构分布，是一个非常惊人的技术。各国科学家经过多年努力，创造了<a href="/w/index.php?title=%E5%86%85%E9%99%84%E7%9D%80%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="内附着法（页面不存在）">内附着法</a>、<a href="/w/index.php?title=MCVD%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="MCVD法（页面不存在）">MCVD法</a>、<a href="/w/index.php?title=VAD%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="VAD法（页面不存在）">VAD法</a>等等，制成了超高纯<a href="/wiki/%E7%9F%B3%E8%8B%B1%E7%8E%BB%E7%92%83" class="mw-redirect" title="石英玻璃">石英玻璃</a>，特制成的光导纤维传输光的<a href="/wiki/%E6%95%88%E7%8E%87" title="效率">效率</a>明显提升。现在较好的光导纤维，其光传输损失每<a href="/wiki/%E5%85%AC%E9%87%8C" title="公里">公里</a>只有零点二<a href="/wiki/%E5%88%86%E8%B4%9D" class="mw-redirect" title="分贝">分贝</a>；也就是说传播一公里后只损耗4.5％。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8E.9F.E7.90.86"></span><span class="mw-headline" id="原理">原理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=1" title="编辑章节：原理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Frame"><a href="/wiki/File:Optical_fiber_types.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Optical_fiber_types.svg/550px-Optical_fiber_types.svg.png" decoding="async" width="550" height="300" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Optical_fiber_types.svg/825px-Optical_fiber_types.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Optical_fiber_types.svg/1100px-Optical_fiber_types.svg.png 2x" data-file-width="550" data-file-height="300" /></a><figcaption>各种各样的光纤。</figcaption></figure>
+<p>光纤是<a href="/wiki/%E5%9C%93%E6%9F%B1%E5%BD%A2" class="mw-redirect" title="圆柱形">圆柱形</a>的<a href="/wiki/%E4%BB%8B%E8%B3%AA%E6%B3%A2%E5%B0%8E" class="mw-redirect" title="介质波导">介质波导</a>，应用<a href="/wiki/%E5%85%A8%E5%85%A7%E5%8F%8D%E5%B0%84" title="全内反射">全内反射原理</a>来传导光线。光纤的结构大致分为里面的<b>纤芯</b>部分与外面的<b>包覆</b>部分。为了要局限光信号于纤芯，包层的折射率必须小于纤芯的折射率。<span class="ilh-all" data-orig-title="漸變光纖" data-lang-code="en" data-lang-name="英语" data-foreign-title="graded-index fiber"><span class="ilh-page"><a href="/w/index.php?title=%E6%BC%B8%E8%AE%8A%E5%85%89%E7%BA%96&amp;action=edit&amp;redlink=1" class="new" title="渐变光纤（页面不存在）">渐变光纤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/graded-index_fiber" class="extiw" title="en:graded-index fiber"><span lang="en" dir="auto">graded-index fiber</span></a></span>）</span></span>的折射率是缓慢改变的，从<a href="/w/index.php?title=%E8%BB%B8%E5%BF%83&amp;action=edit&amp;redlink=1" class="new" title="轴心（页面不存在）">轴心</a>到包覆，逐渐地减小；而<span class="ilh-all" data-orig-title="突變光纖" data-lang-code="en" data-lang-name="英语" data-foreign-title="step-index profile"><span class="ilh-page"><a href="/w/index.php?title=%E7%AA%81%E8%AE%8A%E5%85%89%E7%BA%96&amp;action=edit&amp;redlink=1" class="new" title="突变光纤（页面不存在）">突变光纤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/step-index_profile" class="extiw" title="en:step-index profile"><span lang="en" dir="auto">step-index profile</span></a></span>）</span></span>在核心-包覆边界区域的折射率是急剧改变的。
+</p>
+<h3><span id=".E6.8A.98.E5.B0.84.E7.8E.87"></span><span class="mw-headline" id="折射率">折射率</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=2" title="编辑章节：折射率"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%8A%98%E5%B0%84%E7%8E%87" title="折射率">折射率</a></div>
+<p>折射率可以用来计算在物质里的光线速度。在<a href="/wiki/%E7%9C%9F%E7%A9%BA" title="真空">真空</a>里，及<a href="/wiki/%E5%A4%96%E5%A4%AA%E7%A9%BA" class="mw-redirect" title="外太空">外太空</a>，光线的传播速度最快，大约为3亿<a href="/wiki/%E5%85%AC%E5%B0%BA" class="mw-redirect" title="米">米</a>／秒。一种物质的折射率是真空<a href="/wiki/%E5%85%89%E9%80%9F" title="光速">光速</a>除以光线在这<a href="/wiki/%E7%89%A9%E8%B3%AA" class="mw-redirect" title="物质">物质</a>里传播的速度。所以，根据定义，真空折射率是1。折射率越大，光线传播的速度越慢。通常光纤的核心的折射率是1.48，包覆的折射率是1.46。所以，光纤传导<a href="/wiki/%E8%A8%8A%E8%99%9F" class="mw-redirect mw-disambig" title="信号">信号</a>的速度粗算大约为200000公里／秒。<a href="/wiki/%E9%9B%BB%E8%A9%B1" class="mw-redirect" title="电话">电话</a>信号，经过光纤传导，从<a href="/wiki/%E7%B4%90%E7%B4%84" class="mw-redirect" title="纽约">纽约</a>到<a href="/wiki/%E6%82%89%E5%B0%BC" title="悉尼">悉尼</a>，大约12000公里距离，会有最低0.06秒<a href="/wiki/%E6%99%82%E9%96%93" class="mw-redirect" title="时间">时间</a>的延迟。
+</p>
+<h3><span id=".E5.85.A8.E5.85.A7.E5.8F.8D.E5.B0.84"></span><span class="mw-headline" id="全內反射">全内反射</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=3" title="编辑章节：全内反射"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%85%A8%E5%8F%8D%E5%B0%84" class="mw-redirect" title="全反射">全反射</a></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Laser_in_fibre.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Laser_in_fibre.jpg/300px-Laser_in_fibre.jpg" decoding="async" width="300" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Laser_in_fibre.jpg/450px-Laser_in_fibre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Laser_in_fibre.jpg/600px-Laser_in_fibre.jpg 2x" data-file-width="2560" data-file-height="1920" /></a><figcaption>激光的反弹于一根<a href="/wiki/%E5%A3%93%E5%85%8B%E5%8A%9B" class="mw-disambig" title="亚克力">亚克力</a>棍内部，显示出光线的<a href="/wiki/%E5%85%A8%E5%8F%8D%E5%B0%84" class="mw-redirect" title="全反射">全反射</a>。</figcaption></figure>
+<p>当移动于<a href="/wiki/%E5%AF%86%E5%BA%A6" title="密度">密度</a>较高的介质的光线，以大角度<a href="/w/index.php?title=%E5%85%A5%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="入射（页面不存在）">入射</a>于核心-包覆边界时，假若这<a href="/wiki/%E5%85%A5%E5%B0%84%E8%A7%92" title="入射角">入射角</a>（光线与边界面的<a href="/wiki/%E6%B3%95%E7%BA%BF" title="法线">法线</a>之间的夹角）的角度大于<a href="/wiki/%E8%87%A8%E7%95%8C%E8%A7%92" class="mw-redirect" title="临界角">临界角</a>的角度，则这光线会被完全地<a href="/wiki/%E5%8F%8D%E5%B0%84_(%E7%89%A9%E7%90%86%E5%AD%A6)" title="反射 (物理学)">反射</a>回去。光纤就是应用这种效应来局限传导光线于核心。在光纤内部传播的光线会被边界反射过来，反射过去。由于光线入射于边界的角度必须大于<a href="/wiki/%E8%87%A8%E7%95%8C%E8%A7%92" class="mw-redirect" title="临界角">临界角</a>的角度，只有在某一角度范围内射入光纤的光线，才能够通过整个光纤，不会泄漏损失。这角度范围称为光纤的<span class="ilh-all" data-orig-title="受光錐角" data-lang-code="en" data-lang-name="英语" data-foreign-title="acceptance cone"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%97%E5%85%89%E9%8C%90%E8%A7%92&amp;action=edit&amp;redlink=1" class="new" title="受光锥角（页面不存在）">受光锥角</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/acceptance_cone" class="extiw" title="en:acceptance cone"><span lang="en" dir="auto">acceptance cone</span></a></span>）</span></span>，是光纤的核心折射率与包覆折射率的差值的<a href="/wiki/%E5%87%BD%E6%95%B8" class="mw-redirect" title="函数">函数</a>。
+</p><p>更简单地说，光线射入光纤的角度必须小于<span class="ilh-all" data-orig-title="受光角" data-lang-code="en" data-lang-name="英语" data-foreign-title="acceptance angle"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%97%E5%85%89%E8%A7%92&amp;action=edit&amp;redlink=1" class="new" title="受光角（页面不存在）">受光角</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/acceptance_angle" class="extiw" title="en:acceptance angle"><span lang="en" dir="auto">acceptance angle</span></a></span>）</span></span>的角度，才能够传导于光纤核心。受光角的<a href="/wiki/%E6%AD%A3%E5%BC%A6" title="正弦">正弦</a>是光纤的<a href="/wiki/%E6%95%B0%E5%80%BC%E5%AD%94%E5%BE%84" title="数值孔径">数值孔径</a>。<a href="/wiki/%E6%95%B0%E5%80%BC%E5%AD%94%E5%BE%84" title="数值孔径">数值孔径</a>越大的光纤，越不需要精密的<a href="/wiki/%E7%86%94%E6%8E%A5" class="mw-redirect" title="熔接">熔接</a>和操作技术。单模光纤的数值孔径比较小，需要比较精密的熔接和操作技术。
+</p><p><br />
+</p><p><br />
+</p>
+<h2><span id=".E7.A8.AE.E9.A1.9E"></span><span class="mw-headline" id="種類">种类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=4" title="编辑章节：种类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E5.A4.9A.E6.A8.A1.E5.85.89.E7.BA.96"></span><span class="mw-headline" id="多模光纖">多模光纤</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=5" title="编辑章节：多模光纤"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Optical-fibre.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Optical-fibre.svg/350px-Optical-fibre.svg.png" decoding="async" width="350" height="162" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Optical-fibre.svg/525px-Optical-fibre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Optical-fibre.svg/700px-Optical-fibre.svg.png 2x" data-file-width="550" data-file-height="255" /></a><figcaption>光波传播于多模光纤。</figcaption></figure>
+<p>核心<a href="/wiki/%E7%9B%B4%E5%BE%91" class="mw-redirect" title="直径">直径</a>较大的光纤（大于10 <a href="/wiki/%E5%BE%AE%E7%B1%B3" title="微米">微米</a>）的<a href="/wiki/%E7%89%A9%E7%90%86" class="mw-redirect" title="物理">物理</a>性质，可以用<a href="/wiki/%E5%87%A0%E4%BD%95%E5%85%89%E5%AD%A6" title="几何光学">几何光学</a>的理论来分析，这种光纤称为<b>多模光纤</b>，用于通信用途时，线材会以<b>橘色</b>外皮做为识别。
+</p><p>在一个多模突变光纤内，<a href="/wiki/%E5%85%89%E7%B7%9A" class="mw-redirect" title="光线">光线</a>靠着全反射传导于核心。当光线遇到核心-包覆边界时，假若入射角大于临界角，则光线会被完全反射。临界角的角度是由核心折射率与包覆折射率共同决定。假若入射角小于<a href="/wiki/%E8%87%A8%E7%95%8C%E8%A7%92" class="mw-redirect" title="临界角">临界角</a>，则光线会<a href="/wiki/%E6%8A%98%E5%B0%84" title="折射">折射</a>入包覆，无法继续传导于核心。临界角又决定了光纤的<span class="ilh-all" data-orig-title="受光角" data-lang-code="en" data-lang-name="英语" data-foreign-title="acceptance angle"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%97%E5%85%89%E8%A7%92&amp;action=edit&amp;redlink=1" class="new" title="受光角（页面不存在）">受光角</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/acceptance_angle" class="extiw" title="en:acceptance angle"><span lang="en" dir="auto">acceptance angle</span></a></span>）</span></span>，通常以<a href="/wiki/%E6%95%B0%E5%80%BC%E5%AD%94%E5%BE%84" title="数值孔径">数值孔径</a>来表示其大小。较高的数值孔径会允许光线，以较近轴心和较宽松的角度，传导于核心，造成光线和光纤更有效率的<a href="/wiki/%E8%80%A6%E5%90%88" class="mw-disambig" title="耦合">耦合</a>。但是，由于不同角度的光线会有不同的<a href="/wiki/%E5%85%89%E7%A8%8B" title="光程">光程</a>，通过光纤所需的时间也会不同，所以，较高的数值孔径也会增加<a href="/wiki/%E8%89%B2%E6%95%A3" class="mw-redirect" title="色散">色散</a>。有些时候，较低的数值孔径会是更适当的选择。
+</p><p>渐变光纤的核心的折射率，从轴心到包覆，逐渐地减低。这会使朝着包覆传导的光线，平滑缓慢地改变方向，而不是急剧地从核心-包覆边界反射过去。这样，大角度光线会花更多的时间，传导于低折射率区域，而不是高折射率区域。因此，所形成的<a href="/wiki/%E6%9B%B2%E7%BA%BF" title="曲线">曲线</a>路径，会减低<a href="/w/index.php?title=%E5%A4%9A%E9%87%8D%E8%B7%AF%E5%BE%91%E8%89%B2%E6%95%A3&amp;action=edit&amp;redlink=1" class="new" title="多重路径色散（页面不存在）">多重路径色散</a>。工程师可以精心设计渐变光纤的折射率分布，使得各种光线在光纤内的轴传导速度差值，能够极小化。这理想折射率分布应该会非常接近于<a href="/wiki/%E6%8B%8B%E7%89%A9%E7%B7%9A" class="mw-redirect" title="抛物线">抛物线</a>分布。
+</p>
+<h3><span id=".E5.96.AE.E6.A8.A1.E5.85.89.E7.BA.96"></span><span class="mw-headline" id="單模光纖">单模光纤</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=6" title="编辑章节：单模光纤"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Singlemode_fibre_structure.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Singlemode_fibre_structure.svg/250px-Singlemode_fibre_structure.svg.png" decoding="async" width="250" height="226" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Singlemode_fibre_structure.svg/375px-Singlemode_fibre_structure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Singlemode_fibre_structure.svg/500px-Singlemode_fibre_structure.svg.png 2x" data-file-width="419" data-file-height="378" /></a><figcaption>单模光纤内部结构：<br /> 1.核心：直径8&#160;µm<br /> 2.包覆：直径125&#160;µm<br /> 3.缓冲层：直径250&#160;µm<br /> 4.外套：直径400&#160;µm</figcaption></figure>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%96%AE%E6%A8%A1%E5%85%89%E7%BA%96" title="单模光纤">单模光纤</a></div>
+<p>核心直径小于传播光波<a href="/wiki/%E6%B3%A2%E9%95%B7" class="mw-redirect" title="波长">波长</a>约十倍的光纤，不能用<a href="/wiki/%E5%87%A0%E4%BD%95%E5%85%89%E5%AD%A6" title="几何光学">几何光学</a>理论来分析其物理性质。替而代之，必须改用<a href="/wiki/%E9%BA%A5%E5%85%8B%E6%96%AF%E9%9F%8B%E6%96%B9%E7%A8%8B%E7%B5%84" class="mw-redirect" title="麦克斯韦方程组">麦克斯韦方程组</a>来分析，导出相关的<a href="/wiki/%E9%9B%BB%E7%A3%81%E6%B3%A2%E6%96%B9%E7%A8%8B%E5%BC%8F" title="电磁波方程式">电磁波方程式</a>。视为<a href="/wiki/%E5%85%89%E6%B3%A2%E5%AF%BC" title="光波导">光学波导</a>，光纤可以传播多于一个<span class="ilh-all" data-orig-title="橫模" data-lang-code="en" data-lang-name="英语" data-foreign-title="transverse mode"><span class="ilh-page"><a href="/w/index.php?title=%E6%A9%AB%E6%A8%A1&amp;action=edit&amp;redlink=1" class="new" title="横模（页面不存在）">横模</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/transverse_mode" class="extiw" title="en:transverse mode"><span lang="en" dir="auto">transverse mode</span></a></span>）</span></span>的光波。只允许一种横模传导的光纤称为<b>单模光纤</b>。用于通信用途时，线材会以<a href="/wiki/%E9%BB%83%E8%89%B2" class="mw-redirect" title="黄色">黄色</a>外皮做为识别<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。大直径核心、多横模的光纤的物理性质，也可以用电磁波波动方程式分析。结果会显示出，这种光纤允许多于一个横模的光波。这样的解析多模光纤，所得到的结果，与几何光学的解析结果大致相同。
+</p><p><a href="/w/index.php?title=%E6%B3%A2%E5%B0%8E%E5%88%86%E6%9E%90&amp;action=edit&amp;redlink=1" class="new" title="波导分析（页面不存在）">波导分析</a>显示，在光纤内的光波的<a href="/wiki/%E8%83%BD%E9%87%8F" title="能量">能量</a>，并不是全部局限于核心里。令人惊讶地，特别是在单模光纤里，有很大一部分的能量是以<a href="/wiki/%E6%BC%B8%E9%80%9D%E6%B3%A2" title="渐逝波">渐逝波</a>的形式传导于包覆。
+</p><p>最常见的一种单模光纤，核心直径大约为7.5–9.5 <a href="/wiki/%E5%BE%AE%E7%B1%B3" title="微米">微米</a>，专门用于传导<a href="/wiki/%E8%BF%91%E7%B4%85%E5%A4%96%E7%B7%9A" class="mw-redirect" title="近红外线">近红外线</a>。多模光纤的核心直径可以小至50微米，或者大至几百微米。
+</p>
+<h3><span id=".E7.89.B9.E7.A7.8D.E5.85.89.E7.BA.96"></span><span class="mw-headline" id="特种光纖">特种光纤</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=7" title="编辑章节：特种光纤"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>有些特种光纤的核心或包覆会特别地制作成非圆柱形，通常像椭圆形或长方形。这包括<span class="ilh-all" data-orig-title="保偏光纤" data-lang-code="en" data-lang-name="英语" data-foreign-title="polarization-maintaining fiber"><span class="ilh-page"><a href="/w/index.php?title=%E4%BF%9D%E5%81%8F%E5%85%89%E7%BA%A4&amp;action=edit&amp;redlink=1" class="new" title="保偏光纤（页面不存在）">保偏光纤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/polarization-maintaining_fiber" class="extiw" title="en:polarization-maintaining fiber"><span lang="en" dir="auto">polarization-maintaining fiber</span></a></span>）</span></span>。
+</p><p><a href="/wiki/%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93" title="光子晶体">光子晶体</a>光纤是一种新型的光纤，其折射率以<a href="/w/index.php?title=%E8%A6%8F%E5%BE%8B%E6%80%A7&amp;action=edit&amp;redlink=1" class="new" title="规律性（页面不存在）">规律性</a>的模式变化（通常沿着光纤的轴向会有圆柱空洞）。光子晶体光纤应用<a href="/wiki/%E7%B9%9E%E5%B0%84" class="mw-redirect" title="衍射">衍射</a>效应（单独的或加上全反射效应）来局限光波于光纤核心。
+</p><p><br />
+</p>
+<h2><span id=".E8.A1.B0.E6.B8.9B.E6.A9.9F.E5.88.B6"></span><span class="mw-headline" id="衰減機制">衰减机制</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=8" title="编辑章节：衰减机制"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/w/index.php?title=%E9%80%8F%E6%98%8E%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="透明材料（页面不存在）">透明材料</a></div>
+<p>在介质内，光纤的<span class="ilh-all" data-orig-title="衰減" data-lang-code="en" data-lang-name="英语" data-foreign-title="attenuation"><span class="ilh-page"><a href="/wiki/%E8%A1%B0%E5%87%8F" title="衰减">衰减</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/attenuation" class="extiw" title="en:attenuation"><span lang="en" dir="auto">attenuation</span></a></span>）</span></span>，又称为<b>传输损失</b>，指的是随着传输距离的增加，光束（或信号）强度会减低。由于现代光传输介质的高质量<a href="/wiki/%E9%80%8F%E6%98%8E%E5%BA%A6" class="mw-disambig" title="透明度">透明度</a>，光纤的<b>衰减系数</b>的单位通常是<a href="/wiki/%E5%88%86%E8%B2%9D" title="分贝">dB</a>/<a href="/wiki/Km" class="mw-redirect" title="Km">km</a>（每公里长度介质的<a href="/wiki/%E5%88%86%E8%B2%9D" title="分贝">分贝</a>）。因为<a href="/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A1%85" title="二氧化硅">石英玻璃</a>纤维能够满足严格的规定，局限光束于内部，传输介质材料大多是由石英玻璃纤维制成的。
+</p><p>阻碍<a href="/wiki/%E6%95%B8%E4%BD%8D%E8%A8%8A%E8%99%9F" class="mw-redirect" title="数字信号">数字信号</a>远距离传输的一个重要因素就是<a href="/wiki/%E8%A1%B0%E5%87%8F" title="衰减">衰减</a>。因此，减少衰减是光纤光学研究的必然目标。经过多次实验得到的结果，显示出<a href="/wiki/%E6%95%A3%E5%B0%84" title="散射">散射</a>和<a href="/wiki/%E5%90%B8%E6%94%B6_(%E5%85%89%E5%AD%A6)" title="吸收 (光学)">吸收</a>是造成光纤衰减的主要原因之一。
+</p><p><br />
+</p>
+<h3><span id=".E5.85.89.E6.95.A3.E5.B0.84"></span><span class="mw-headline" id="光散射">光散射</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=9" title="编辑章节：光散射"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Reflection_angles.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Reflection_angles.svg/261px-Reflection_angles.svg.png" decoding="async" width="261" height="313" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Reflection_angles.svg/392px-Reflection_angles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Reflection_angles.svg/522px-Reflection_angles.svg.png 2x" data-file-width="170" data-file-height="204" /></a><figcaption>镜面反射。</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Diffuse_reflection.PNG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/7/79/Diffuse_reflection.PNG" decoding="async" width="261" height="211" class="mw-file-element" data-file-width="261" data-file-height="211" /></a><figcaption>漫反射。</figcaption></figure>
+<p>因为光线的全反射，光线可以传输于光纤核心。<a href="/w/index.php?title=%E7%B2%97%E7%B3%99&amp;action=edit&amp;redlink=1" class="new" title="粗糙（页面不存在）">粗糙</a>、<a href="/w/index.php?title=%E4%B8%8D%E8%A6%8F%E5%89%87&amp;action=edit&amp;redlink=1" class="new" title="不规则（页面不存在）">不规则</a>的<a href="/wiki/%E8%A1%A8%E9%9D%A2" class="mw-redirect" title="表面">表面</a>，甚至在<a href="/wiki/%E5%88%86%E5%AD%90" title="分子">分子</a>层次，也会使光线往<a href="/wiki/%E9%9A%A8%E6%A9%9F" class="mw-redirect" title="随机">随机</a>方向反射，称这现象为<a href="/wiki/%E6%BC%AB%E5%8F%8D%E5%B0%84" title="漫反射">漫反射</a>或<a href="/wiki/%E6%95%A3%E5%B0%84" title="散射">散射</a><sup id="cite_ref-z_2-0" class="reference"><a href="#cite_note-z-2">&#91;2&#93;</a></sup>，其特征通常是多种不同的反射角。
+</p><p>大多数物体因为表面的光散射，可以被人类<a href="/wiki/%E8%A6%96%E8%A6%BA" class="mw-redirect" title="视觉">视觉</a>侦测到。光散射跟入射光波的波长有关。<a href="/wiki/%E5%8F%AF%E8%A6%8B%E5%85%89" class="mw-redirect" title="可见光">可见光</a>的波长大约是1微米。人类视觉无法侦测到小于这尺寸的物体<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。所以，位于可见物体表面的<a href="/wiki/%E6%95%A3%E5%B0%84" title="散射">散射中心</a>也有类似的<a href="/wiki/%E7%A9%BA%E9%96%93" title="空间">空间</a>尺寸。
+</p><p>光波入射于内部的边界面时，会因为<span class="ilh-all" data-orig-title="非相干散射" data-lang-code="en" data-lang-name="英语" data-foreign-title="incoherent scattering"><span class="ilh-page"><a href="/w/index.php?title=%E9%9D%9E%E7%9B%B8%E5%B9%B2%E6%95%A3%E5%B0%84&amp;action=edit&amp;redlink=1" class="new" title="非相干散射（页面不存在）">非相干散射</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/incoherent_scattering" class="extiw" title="en:incoherent scattering"><span lang="en" dir="auto">incoherent scattering</span></a></span>）</span></span>而造成衰减。对于晶体材料或多晶材料，像<a href="/wiki/%E9%87%91%E5%B1%AC" class="mw-redirect" title="金属">金属</a>或<a href="/wiki/%E9%99%B6%E7%93%B7" class="mw-disambig" title="陶瓷">陶瓷</a>，除了细孔以外，大部分内部接口的形式乃<a href="/wiki/%E6%99%B6%E7%95%8C" class="mw-redirect" title="晶界">晶界</a>，分隔了晶粒尺寸的微小区域。材料学专家发现，假若能将散射中心（或晶界）的尺寸减小到低于入射光波的波长，则光散射的影响会减小很多，可以被忽略。这发现引起更多有关<span class="ilh-all" data-orig-title="透明陶瓷材料" data-lang-code="en" data-lang-name="英语" data-foreign-title="transparent ceramic material"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%8F%E6%98%8E%E9%99%B6%E7%93%B7%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="透明陶瓷材料（页面不存在）">透明陶瓷材料</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/transparent_ceramic_material" class="extiw" title="en:transparent ceramic material"><span lang="en" dir="auto">transparent ceramic material</span></a></span>）</span></span>的研究。
+</p><p>类似地，在光学光纤内，光散射是由分子层次的不规则玻璃结构所造成的。很多材料学专家认为玻璃无疑是多晶材料的极限案例。而其展现出短距离现像的<b>畴域</b> (<span lang="en">domain</span>），则是金属、合金、玻璃、陶瓷等等的基础<a href="/wiki/%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99" title="建筑材料">建筑材料</a>。散布在这些畴域之间，有很多<a href="/w/index.php?title=%E5%BE%AE%E7%B5%90%E6%A7%8B&amp;action=edit&amp;redlink=1" class="new" title="微结构（页面不存在）">微结构</a><a href="/w/index.php?title=%E7%BC%BA%E9%99%B7&amp;action=edit&amp;redlink=1" class="new" title="缺陷（页面不存在）">缺陷</a>，是造成光散射的最理想地点。
+</p><p>当功率变高时，光纤的<a href="/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%85%89%E5%AD%A6" title="非线性光学">非线性光学</a>行为也可能会造成光散射<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>。
+</p>
+<h3><span id=".E7.B4.AB.E5.A4.96.E7.B7.9A.E5.92.8C.E7.B4.85.E5.A4.96.E7.B7.9A.E5.90.B8.E6.94.B6"></span><span class="mw-headline" id="紫外線和紅外線吸收">紫外线和红外线吸收</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=10" title="编辑章节：紫外线和红外线吸收"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>除了光散射以外，光纤材料会选择性地吸收某些特定<a href="/wiki/%E6%B3%A2%E9%95%B7" class="mw-redirect" title="波长">波长</a>的光波，这也会造成衰减或信号损失。吸收光波的机制类似<a href="/wiki/%E9%A1%8F%E8%89%B2" class="mw-redirect" title="颜色">颜色</a>显现的机制。
+</p>
+<ol><li>在<a href="/wiki/%E9%9B%BB%E5%AD%90" class="mw-redirect" title="电子">电子</a>层次，光纤材料的每种组成<a href="/wiki/%E5%8E%9F%E5%AD%90" title="原子">原子</a>，其不同的电子<a href="/wiki/%E8%BB%8C%E5%9F%9F" class="mw-disambig" title="轨域">轨域</a>的<a href="/wiki/%E8%83%BD%E7%B4%9A" class="mw-redirect" title="能级">能级</a>差值，决定了光纤材料能否吸收某特定<a href="/wiki/%E9%A0%BB%E7%8E%87" title="频率">频率</a>或<a href="/wiki/%E9%A0%BB%E7%8E%87" title="频率">频率带</a>的<a href="/wiki/%E5%85%89%E5%AD%90" title="光子">光子</a>。这些特定频率或频率带的光子，大多属于紫外线或可见光的频区。这就是很多可见物质显示出<a href="/wiki/%E9%A1%8F%E8%89%B2" class="mw-redirect" title="颜色">颜色</a>的机制。</li>
+<li>在原子或分子层次，<a href="/wiki/%E6%8C%AF%E5%8B%95" class="mw-redirect" title="振动">振动</a>频率、<a href="/wiki/%E5%A0%86%E7%A9%8D" title="堆积">堆积</a>结构、<a href="/wiki/%E5%8C%96%E5%AD%B8%E9%8D%B5" class="mw-redirect" title="化学键">化学键</a>强度等等，这些重要因素共同决定了材料传输<a href="/wiki/%E7%B4%85%E5%A4%96%E7%B7%9A" class="mw-redirect" title="红外线">红外线</a>，<a href="/wiki/%E9%81%A0%E7%B4%85%E5%A4%96%E7%B7%9A" title="远红外线">远红外线</a>，<a href="/wiki/%E7%84%A1%E7%B7%9A%E9%9B%BB%E6%B3%A2" class="mw-redirect" title="无线电波">无线电波</a>，<a href="/wiki/%E5%BE%AE%E6%B3%A2" title="微波">微波</a>等等长波的能力。</li></ol>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:1D_normal_modes_(280_kB).gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/9/9b/1D_normal_modes_%28280_kB%29.gif" decoding="async" width="275" height="275" class="mw-file-element" data-file-width="275" data-file-height="275" /></a><figcaption>在一个晶体物体内部，<a href="/wiki/%E6%8C%AF%E5%8B%95" class="mw-redirect" title="振动">振动</a>的<a href="/wiki/%E7%AE%80%E6%AD%A3%E6%A8%A1" title="简正模">简正模</a>。</figcaption></figure>
+<p>在设计任何透明光学组件前，必须先知道<a href="/wiki/%E6%9D%90%E6%96%99" title="材料">材料</a>的性质和限制，然后才能选择适当的材料。任何材料在<a href="/w/index.php?title=%E4%BD%8E%E9%A0%BB%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="低频率（页面不存在）">低频率</a>区域的<a href="/w/index.php?title=%E6%99%B6%E6%A0%BC%E5%90%B8%E6%94%B6%E7%89%B9%E6%80%A7&amp;action=edit&amp;redlink=1" class="new" title="晶格吸收特性（页面不存在）">晶格吸收特性</a>，也赋予了这项材料对于这低频率光波的透明限制。这是组成的原子或分子的<a href="/w/index.php?title=%E7%86%B1%E6%84%9F%E6%87%89%E6%8C%AF%E5%8B%95&amp;action=edit&amp;redlink=1" class="new" title="热感应振动（页面不存在）">热感应振动</a>，和入射光波之间，相互<a href="/wiki/%E8%80%A6%E5%90%88" class="mw-disambig" title="耦合">耦合</a>的结果。因此，在红外线频区（＞ 1微米），每一种材料都要避开这些由于原子或分子振动机制而产生的吸收区域。
+</p><p>因为某特定频率的红外线光波，恰恰好匹配了，某种材料的原子或分子的<a href="/w/index.php?title=%E8%87%AA%E7%84%B6%E6%8C%AF%E5%8B%95%E9%A0%BB%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="自然振动频率（页面不存在）">自然振动频率</a>，这种材料会选择性地吸收这特定频率的光波。由于不同的原子或分子有不同的自然振动频率，它们会选择性地吸收不同频率（或不同频率带）的红外线光波。
+</p><p>由于光波频率不匹配光纤材料的自然振动频率，会造成光波的反射或<a href="/wiki/%E9%80%8F%E5%B0%84" class="mw-redirect" title="透射">透射</a>。当红外线光波入射于这不匹配的光纤材料，一部分能量会被反射，另一部分能量会被<a href="/wiki/%E9%80%8F%E5%B0%84" class="mw-redirect" title="透射">透射</a>。
+</p>
+<h2><span id=".E5.85.89.E7.BA.A4.E7.9A.84.E6.8E.A5.E5.A4.B4"></span><span class="mw-headline" id="光纤的接头">光纤的接头</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=11" title="编辑章节：光纤的接头"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E5%85%89%E7%BA%96%E6%8E%A5%E9%A0%AD" title="光纤接头">光纤接头</a></div>
+<ul><li>FC Ferrule Connector圆型带螺纹（配线架上用的最多）</li>
+<li>SC Snap-in Connector卡接式方型（路由器交换机上用的最多）</li>
+<li>S/PDIF Sony/Philips Digital Interface Format(数字音频传输接口)</li></ul>
+<h2><span id=".E5.85.89.E7.BA.96.E7.9A.84.E6.87.89.E7.94.A8"></span><span class="mw-headline" id="光纖的應用">光纤的应用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=12" title="编辑章节：光纤的应用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>目前用于通信中的光纤主要是玻璃纤维，其外径约为250微米，中心通光部分直径为10~60微米。在<a href="/wiki/%E9%86%AB%E5%AD%B8" class="mw-redirect" title="医学">医学</a>上，光纤用于医疗诊病用的<a href="/wiki/%E5%85%A7%E8%A6%96%E9%8F%A1" class="mw-redirect" title="内视镜">内视镜</a>(endoscope)；在娱乐方面，常用于<a href="/wiki/%E9%9F%B3%E9%9F%BF" title="音响">音响</a>的信号线。
+</p>
+<h2><span id=".E5.85.89.E7.BA.96.E7.86.94.E6.8E.A5"></span><span class="mw-headline" id="光纖熔接">光纤熔接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=13" title="编辑章节：光纤熔接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>光纤熔接技术主要是用熔纤机将光纤和光纤或光纤和<a href="/w/index.php?title=%E5%B0%BE%E7%BA%96&amp;action=edit&amp;redlink=1" class="new" title="尾纤（页面不存在）">尾纤</a>连接，把光缆中的裸纤和光纤尾纤熔合在一起变成一个整体，而尾纤则有一个单独的光纤头。通过与光纤收发器连接，将光纤和<a href="/wiki/%E5%8F%8C%E7%BB%9E%E7%BA%BF" title="双绞线">双绞线</a>连接，接到信息插座。在光纤的熔接过程中用到的主要工具有：<a href="/w/index.php?title=%E5%85%89%E7%AB%AF%E7%9B%92&amp;action=edit&amp;redlink=1" class="new" title="光端盒（页面不存在）">光端盒</a>、<a href="/w/index.php?title=%E5%85%89%E7%BA%96%E6%94%B6%E7%99%BC%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="光纤收发器（页面不存在）">光纤收发器</a>、尾纤、<a href="/w/index.php?title=%E8%80%A6%E5%90%88%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="耦合器（页面不存在）">耦合器</a>、专用<a href="/wiki/%E5%89%A5%E7%BA%BF%E9%92%B3" title="剥线钳">剥线钳</a>、<a href="/w/index.php?title=%E5%85%89%E7%BA%96%E5%88%87%E5%89%B2%E5%88%80&amp;action=edit&amp;redlink=1" class="new" title="光纤切割刀（页面不存在）">光纤切割刀</a>等。剥皮后用光纤切割刀切割且保证切面平整，再用熔纤机对接。
+</p>
+<h2><span id=".E7.8D.B2.E9.A0.922009.E5.B9.B4.E8.AB.BE.E8.B2.9D.E7.88.BE.E7.89.A9.E7.90.86.E5.AD.B8.E7.8D.8E"></span><span class="mw-headline" id="獲頒2009年諾貝爾物理學獎">获颁2009年诺贝尔物理学奖</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=14" title="编辑章节：获颁2009年诺贝尔物理学奖"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E9%AB%98%E9%8C%95" title="高锟">高锟</a>因提出光纤可作长距离通信而获颁2009年的<a href="/wiki/%E8%AB%BE%E8%B2%9D%E7%88%BE%E7%89%A9%E7%90%86%E5%AD%B8%E7%8D%8E" class="mw-redirect" title="诺贝尔物理学奖">诺贝尔物理学奖</a>。诺贝尔奖评审委员会称高锟的研究有助建立今日<a href="/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2" class="mw-redirect" title="互联网">网络</a>世界的基础，为今日的日常生活创立许多革新，也为科学的发展提供新工具。
+</p>
+<h2><span id=".E5.8F.83.E8.A6.8B"></span><span class="mw-headline" id="參見">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=15" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%85%89%E7%BA%96%E9%80%9A%E8%A8%8A" title="光纤通信">光纤通信</a></li>
+<li><a href="/wiki/%E6%B5%B7%E5%BA%95%E9%9B%BB%E7%BA%9C" title="海底电缆">海底电缆</a></li></ul>
+<h2><span id=".E5.8F.83.E8.80.83.E6.96.87.E7.8D.BB"></span><span class="mw-headline" id="參考文獻">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;action=edit&amp;section=16" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><small>
+</small></p><small><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170505230421/http://www.thefoa.org/tech/ColCodes.htm">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-03</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.thefoa.org/tech/ColCodes.htm">原始内容</a>存档于2017-05-05）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefoa.org%2Ftech%2FColCodes.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-z-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-z_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFKerker,_Milton1909" class="citation">Kerker, Milton, The Scattering of Light, and other electromagnetic radiation, New York: Academic Press, 1909</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;rft.au=Kerker%2C+Milton&amp;rft.btitle=The+Scattering+of+Light%2C+and+other+electromagnetic+radiation&amp;rft.date=1909&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFvan_de_Hulst,_H.C.1981" class="citation">van de Hulst, H.C., Light scattering by small particles, New York: Dover, 1981, <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0486642283" title="Special:网络书源/0486642283"><span title="国际标准书号">ISBN</span>&#160;0486642283</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;rft.au=van+de+Hulst%2C+H.C.&amp;rft.btitle=Light+scattering+by+small+particles&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=0486642283&amp;rft.place=New+York&amp;rft.pub=Dover&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFSmith,_R.G.1972" class="citation">Smith, R.G., <i>Optical power handling capacity of low loss optical fibers as determined by stimulated Raman and Brillouin scattering</i>, Applied Optics, 1972, <b>11</b>: 2489</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;rft.atitle=Optical+power+handling+capacity+of+low+loss+optical+fibers+as+determined+by+stimulated+Raman+and+Brillouin+scattering&amp;rft.au=Smith%2C+R.G.&amp;rft.date=1972&amp;rft.genre=article&amp;rft.jtitle=Applied+Optics&amp;rft.pages=2489&amp;rft.volume=11&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></small><small></small><p><small></small>
+</p>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>中相关的多媒体资源：<b><a class="external text" href="https://commons.wikimedia.org/wiki/Kerosene_lamps?uselang=zh-cn">光导纤维</a></b></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E4%BA%BA%E5%B7%A5%E5%85%89%E6%BA%90" title="Template:人工光源"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E4%BA%BA%E5%B7%A5%E5%85%89%E6%BA%90" title="Template talk:人工光源"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E4%BA%BA%E5%B7%A5%E5%85%89%E6%BA%90&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%85%A7%E6%98%8E" title="照明">照明</a>和<a href="/wiki/%E7%94%B5%E7%81%AF" title="电灯">电灯</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">概念</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%89%B2%E6%B8%A9" title="色温">色温</a></li>
+<li><a href="/wiki/%E7%99%BC%E5%85%89%E6%95%88%E8%83%BD" title="发光性能">发光性能</a></li>
+<li><a href="/wiki/%E7%9C%A9%E5%85%89" title="眩光">眩光</a></li>
+<li><a href="/wiki/%E7%94%B5%E7%81%AF" title="电灯">电灯</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%85%89%E6%BA%90" title="电光源">电光源</a></li>
+<li><a href="/wiki/%E7%87%88%E5%85%B7" title="灯具">灯具</a></li>
+<li><a href="/wiki/%E5%85%89%E5%AE%B3" title="光害">光污染</a></li>
+<li><span class="ilh-all" data-orig-title="補強照明" data-lang-code="en" data-lang-name="英语" data-foreign-title="Accent lighting"><span class="ilh-page"><a href="/w/index.php?title=%E8%A3%9C%E5%BC%B7%E7%85%A7%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="补强照明（页面不存在）">补强照明</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Accent_lighting" class="extiw" title="en:Accent lighting"><span lang="en" dir="auto">Accent lighting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="燈泡插座" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lightbulb socket"><span class="ilh-page"><a href="/w/index.php?title=%E7%87%88%E6%B3%A1%E6%8F%92%E5%BA%A7&amp;action=edit&amp;redlink=1" class="new" title="灯泡插座（页面不存在）">灯泡插座</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lightbulb_socket" class="extiw" title="en:Lightbulb socket"><span lang="en" dir="auto">Lightbulb socket</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="任务用光" data-lang-code="en" data-lang-name="英语" data-foreign-title="Task lighting"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%BB%E5%8A%A1%E7%94%A8%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="任务用光（页面不存在）">任务用光</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Task_lighting" class="extiw" title="en:Task lighting"><span lang="en" dir="auto">Task lighting</span></a></span>）</span></span></li></ul>
+</div></td><td class="navbox-image" rowspan="19" style="width:0%;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/File:Oxygen480-apps-ktip.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Oxygen480-apps-ktip.svg/120px-Oxygen480-apps-ktip.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Oxygen480-apps-ktip.svg/180px-Oxygen480-apps-ktip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Oxygen480-apps-ktip.svg/240px-Oxygen480-apps-ktip.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">产生方法</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;"><a href="/wiki/%E7%99%BD%E7%86%BE" title="白炽">白热型</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%99%BD%E7%86%BE%E7%87%88" title="白炽灯">白炽灯</a></li>
+<li><a href="/wiki/%E5%8D%A4%E7%B4%A0%E7%81%AF%E6%B3%A1" title="卤素灯泡">卤素灯泡</a></li>
+<li><a href="/wiki/%E8%83%BD%E6%96%AF%E7%89%B9%E7%99%BC%E5%85%89%E9%AB%94" title="能斯特发光体">能斯特发光体</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;"><a href="/wiki/%E5%86%B7%E5%8F%91%E5%85%89" title="冷发光">冷发光</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%8D%A7%E5%85%89" title="荧光">荧光</a>
+<ul><li><a href="/wiki/%E8%9E%A2%E5%85%89%E7%87%88" title="萤光灯">荧光灯</a></li>
+<li><a href="/wiki/%E4%B8%80%E4%BD%93%E5%BC%8F%E8%8D%A7%E5%85%89%E7%81%AF" title="一体式荧光灯">节能灯</a></li>
+<li><a href="/wiki/%E6%97%A0%E6%9E%81%E7%81%AF" title="无极灯">无极灯</a>〔感应灯〕</li></ul></li>
+<li><a href="/wiki/%E5%85%89%E8%87%B4%E5%8F%91%E5%85%89" title="光致发光">光致发光</a>
+<ul><li>激光灯</li></ul></li>
+<li><a href="/wiki/%E5%8C%96%E5%AD%A6%E5%8F%91%E5%85%89" title="化学发光">化学发光</a></li>
+<li><a href="/wiki/%E5%9B%BA%E6%85%8B%E7%85%A7%E6%98%8E" title="固态照明">固态照明</a> SSL
+<ul><li><a href="/wiki/%E7%99%BC%E5%85%89%E4%BA%8C%E6%A5%B5%E7%AE%A1" title="发光二极管">发光二极管</a> LED</li>
+<li><a href="/wiki/LED%E7%87%88" title="LED灯">LED灯</a></li></ul></li>
+<li><a href="/wiki/%E9%98%B4%E6%9E%81%E5%B0%84%E7%BA%BF%E5%8F%91%E5%85%89" title="阴极射线发光">阴极射线发光</a>
+<ul><li><span class="ilh-all" data-orig-title="電子激發冷光" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electron-stimulated luminescence"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%AD%90%E6%BF%80%E7%99%BC%E5%86%B7%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="电子激发冷光（页面不存在）">电子激发冷光灯泡</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electron-stimulated_luminescence" class="extiw" title="en:Electron-stimulated luminescence"><span lang="en" dir="auto">Electron-stimulated luminescence</span></a></span>）</span></span> ESL</li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E8%87%B4%E7%99%BC%E5%85%89" title="电致发光">电致发光</a>
+<ul><li><span class="ilh-all" data-orig-title="場致高分子電致發光技術" data-lang-code="en" data-lang-name="英语" data-foreign-title="Field-induced polymer electroluminescent technology"><span class="ilh-page"><a href="/w/index.php?title=%E5%A0%B4%E8%87%B4%E9%AB%98%E5%88%86%E5%AD%90%E9%9B%BB%E8%87%B4%E7%99%BC%E5%85%89%E6%8A%80%E8%A1%93&amp;action=edit&amp;redlink=1" class="new" title="场致高分子电致发光技术（页面不存在）">场致高分子电致发光技术</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Field-induced_polymer_electroluminescent_technology" class="extiw" title="en:Field-induced polymer electroluminescent technology"><span lang="en" dir="auto">Field-induced polymer electroluminescent technology</span></a></span>）</span></span> FIPEL</li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E5%8C%96%E5%AD%B8%E7%99%BC%E5%85%89" title="电化学发光">电化学发光</a></li>
+<li><span class="ilh-all" data-orig-title="輻射發光" data-lang-code="en" data-lang-name="英语" data-foreign-title="Radioluminescence"><span class="ilh-page"><a href="/w/index.php?title=%E8%BC%BB%E5%B0%84%E7%99%BC%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="辐射发光（页面不存在）">辐射发光</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Radioluminescence" class="extiw" title="en:Radioluminescence"><span lang="en" dir="auto">Radioluminescence</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;">电弧</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BC%A7%E5%85%89%E7%87%88" title="弧光灯">弧光灯</a>
+<ul><li>碳弧灯</li>
+<li><a href="/w/index.php?title=%E6%B1%9E%E5%BC%A7%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="汞弧灯（页面不存在）">汞弧灯</a></li>
+<li><a href="/w/index.php?title=%E6%B0%99%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="氙灯（页面不存在）">氙灯</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="強烈弧光燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Klieg light"><span class="ilh-page"><a href="/w/index.php?title=%E5%BC%B7%E7%83%88%E5%BC%A7%E5%85%89%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="强烈弧光灯（页面不存在）">克里格尔灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Klieg_light" class="extiw" title="en:Klieg light"><span lang="en" dir="auto">Klieg light</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="雅勃洛奇科夫蜡烛" data-lang-code="en" data-lang-name="英语" data-foreign-title="Yablochkov candle"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%85%E5%8B%83%E6%B4%9B%E5%A5%87%E7%A7%91%E5%A4%AB%E8%9C%A1%E7%83%9B&amp;action=edit&amp;redlink=1" class="new" title="雅勃洛奇科夫蜡烛（页面不存在）">雅勃洛奇科夫蜡烛</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Yablochkov_candle" class="extiw" title="en:Yablochkov candle"><span lang="en" dir="auto">Yablochkov candle</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;"><a href="/wiki/%E7%87%83%E7%83%A7" title="燃烧">燃烧</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="阿爾岡燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Argand lamp"><span class="ilh-page"><a href="/w/index.php?title=%E9%98%BF%E7%88%BE%E5%B2%A1%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="阿尔冈灯（页面不存在）">阿尔冈灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Argand_lamp" class="extiw" title="en:Argand lamp"><span lang="en" dir="auto">Argand lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%9C%A1%E7%83%9B" title="蜡烛">蜡烛</a></li>
+<li><span class="ilh-all" data-orig-title="卡索燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Carcel lamp"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%A1%E7%B4%A2%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="卡索灯（页面不存在）">卡索灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Carcel_lamp" class="extiw" title="en:Carcel lamp"><span lang="en" dir="auto">Carcel lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%99%BC%E7%84%B0%E7%AD%92" title="发焰筒">發焰筒</a></li>
+<li><a href="/wiki/%E7%85%A4%E6%B0%A3%E7%87%88" title="煤气灯">煤气灯</a></li>
+<li><a href="/wiki/%E7%85%A4%E6%B2%B9%E7%87%88" title="煤油灯">煤油灯</a></li>
+<li><a href="/wiki/%E9%9B%BB%E7%9F%B3%E7%87%88" title="电石灯">电石灯</a></li>
+<li><a href="/wiki/%E6%B2%B9%E7%81%AF" title="油灯">油灯</a></li>
+<li><span class="ilh-all" data-orig-title="燈盞" data-lang-code="en" data-lang-name="英语" data-foreign-title="Diya (lamp)"><span class="ilh-page"><a href="/w/index.php?title=%E7%87%88%E7%9B%9E&amp;action=edit&amp;redlink=1" class="new" title="灯盏（页面不存在）">灯盏</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Diya_(lamp)" class="extiw" title="en:Diya (lamp)"><span lang="en" dir="auto">Diya (lamp)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="安全灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Safety lamp"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="安全灯（页面不存在）">安全灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Safety_lamp" class="extiw" title="en:Safety lamp"><span lang="en" dir="auto">Safety lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%81%AF%E7%AC%BC" title="灯笼">灯笼</a>
+<ul><li><span class="ilh-all" data-orig-title="埃及燈籠" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fanous"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%83%E5%8F%8A%E7%87%88%E7%B1%A0&amp;action=edit&amp;redlink=1" class="new" title="埃及灯笼（页面不存在）">埃及灯笼</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fanous" class="extiw" title="en:Fanous"><span lang="en" dir="auto">Fanous</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="紙燈籠" data-lang-code="en" data-lang-name="英语" data-foreign-title="Paper lantern"><span class="ilh-page"><a href="/w/index.php?title=%E7%B4%99%E7%87%88%E7%B1%A0&amp;action=edit&amp;redlink=1" class="new" title="纸灯笼（页面不存在）">纸灯笼</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Paper_lantern" class="extiw" title="en:Paper lantern"><span lang="en" dir="auto">Paper lantern</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%81%AB%E7%82%AC" title="火炬">火炬</a></li>
+<li><a href="/wiki/%E7%87%9F%E7%81%AB" title="营火">营火</a></li>
+<li><span class="ilh-all" data-orig-title="石灰灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Limelight"><span class="ilh-page"><a href="/w/index.php?title=%E7%9F%B3%E7%81%B0%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="石灰灯（页面不存在）">石灰灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Limelight" class="extiw" title="en:Limelight"><span lang="en" dir="auto">Limelight</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="鎂火把" data-lang-code="en" data-lang-name="英语" data-foreign-title="Magnesium torch"><span class="ilh-page"><a href="/w/index.php?title=%E9%8E%82%E7%81%AB%E6%8A%8A&amp;action=edit&amp;redlink=1" class="new" title="镁火把（页面不存在）">镁火把</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Magnesium_torch" class="extiw" title="en:Magnesium torch"><span lang="en" dir="auto">Magnesium torch</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="灯芯草蜡烛" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rushlight"><span class="ilh-page"><a href="/w/index.php?title=%E7%81%AF%E8%8A%AF%E8%8D%89%E8%9C%A1%E7%83%9B&amp;action=edit&amp;redlink=1" class="new" title="灯芯草蜡烛（页面不存在）">灯芯草蜡烛</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rushlight" class="extiw" title="en:Rushlight"><span lang="en" dir="auto">Rushlight</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="蒂利燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tilley lamp"><span class="ilh-page"><a href="/w/index.php?title=%E8%92%82%E5%88%A9%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="蒂利灯（页面不存在）">蒂利灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tilley_lamp" class="extiw" title="en:Tilley lamp"><span lang="en" dir="auto">Tilley lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B1%BD%E5%8C%96%E7%87%88" title="汽化灯">汽化灯</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;"><a href="/wiki/%E6%B0%94%E4%BD%93%E6%94%BE%E7%94%B5%E7%81%AF" class="mw-redirect" title="气体放电灯">气体放电灯</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9C%93%E8%99%B9%E7%87%88" title="霓虹灯">霓虹灯</a>
+<ul><li><a href="/wiki/%E6%B0%96%E7%81%AF" title="氖灯">氖灯</a></li></ul></li>
+<li><a href="/wiki/%E5%BE%AE%E6%B3%A2%E7%A1%AB%E7%81%AF" title="微波硫灯">微波硫灯</a></li>
+<li><span class="ilh-all" data-orig-title="氘弧燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Deuterium arc lamp"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%98%E5%BC%A7%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="氘弧灯（页面不存在）">氘弧灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Deuterium_arc_lamp" class="extiw" title="en:Deuterium arc lamp"><span lang="en" dir="auto">Deuterium arc lamp</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="氙气灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Xenon arc lamp"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%99%E6%B0%94%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="氙气灯（页面不存在）">氙气灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Xenon_arc_lamp" class="extiw" title="en:Xenon arc lamp"><span lang="en" dir="auto">Xenon arc lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%81%AF" title="等离子灯">等离子灯</a></li>
+<li><span class="ilh-all" data-orig-title="閃光管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Flashtube"><span class="ilh-page"><a href="/w/index.php?title=%E9%96%83%E5%85%89%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="闪光管（页面不存在）">氙气闪光灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Flashtube" class="extiw" title="en:Flashtube"><span lang="en" dir="auto">Flashtube</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="font-weight:normal;text-align:center;"><a href="/wiki/%E9%AB%98%E5%BC%B7%E5%BA%A6%E6%B0%A3%E9%AB%94%E6%94%BE%E9%9B%BB%E7%87%88" title="高强度气体放电灯">高强度<br />气体放电灯</a><br /> HID</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B0%B4%E9%8A%80%E7%87%88" title="水银灯">水银灯</a></li>
+<li><a href="/wiki/%E9%92%A0%E7%81%AF" title="钠灯">钠灯</a></li>
+<li><a href="/wiki/%E9%87%91%E5%B1%AC%E9%B9%B5%E5%8C%96%E7%89%A9%E7%87%88" title="金属卤化物灯">金属卤化物灯</a>
+<ul><li><span class="ilh-all" data-orig-title="陶瓷金屬鹵化物燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ceramic metal-halide lamp"><span class="ilh-page"><a href="/w/index.php?title=%E9%99%B6%E7%93%B7%E9%87%91%E5%B1%AC%E9%B9%B5%E5%8C%96%E7%89%A9%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="陶瓷金属卤化物灯（页面不存在）">陶瓷金属卤化物灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ceramic_metal-halide_lamp" class="extiw" title="en:Ceramic metal-halide lamp"><span lang="en" dir="auto">Ceramic metal-halide lamp</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="HMI燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hydrargyrum medium-arc iodide lamp"><span class="ilh-page"><a href="/w/index.php?title=HMI%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="HMI灯（页面不存在）">HMI灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hydrargyrum_medium-arc_iodide_lamp" class="extiw" title="en:Hydrargyrum medium-arc iodide lamp"><span lang="en" dir="auto">Hydrargyrum medium-arc iodide lamp</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="水银石英碘化灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hydrargyrum quartz iodide"><span class="ilh-page"><a href="/w/index.php?title=%E6%B0%B4%E9%93%B6%E7%9F%B3%E8%8B%B1%E7%A2%98%E5%8C%96%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="水银石英碘化灯（页面不存在）">水银石英碘化灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hydrargyrum_quartz_iodide" class="extiw" title="en:Hydrargyrum quartz iodide"><span lang="en" dir="auto">Hydrargyrum quartz iodide</span></a></span>）</span></span> HQI</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">规格</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A%E5%9E%8B%E7%81%AF%E6%B3%A1" title="A型灯泡">A型灯泡</a></li>
+<li><a href="/wiki/%E7%88%B1%E8%BF%AA%E7%94%9F%E8%9E%BA%E6%97%8B" title="爱迪生螺旋">螺口灯泡</a>
+<ul><li>E26/27</li></ul></li>
+<li><span class="ilh-all" data-orig-title="卡口灯泡" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bayonet mount"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%A1%E5%8F%A3%E7%81%AF%E6%B3%A1&amp;action=edit&amp;redlink=1" class="new" title="卡口灯泡（页面不存在）">卡口灯泡</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bayonet_mount" class="extiw" title="en:Bayonet mount"><span lang="en" dir="auto">Bayonet mount</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%8C%E9%92%88%E8%BF%9E%E6%8E%A5%E5%99%A8" title="双针连接器">双针连接器</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">固定式</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%8A%9B%E7%89%A9%E9%9D%A2%E9%8D%8D%E9%8B%81%E5%8F%8D%E5%B0%84%E7%87%88" title="抛物面镀铝反射灯">抛物面镀铝反射灯</a></li>
+<li><a href="/wiki/%E5%A4%9A%E9%87%8D%E5%8F%8D%E5%B0%84%E7%BD%A9%E7%81%AF" title="多重反射罩灯">多重反射罩灯</a></li>
+<li><span class="ilh-all" data-orig-title="橢圓形反射聚光燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ellipsoidal reflector spotlight"><span class="ilh-page"><a href="/w/index.php?title=%E6%A9%A2%E5%9C%93%E5%BD%A2%E5%8F%8D%E5%B0%84%E8%81%9A%E5%85%89%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="椭圆形反射聚光灯（页面不存在）">椭圆形反射聚光灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ellipsoidal_reflector_spotlight" class="extiw" title="en:Ellipsoidal reflector spotlight"><span lang="en" dir="auto">Ellipsoidal reflector spotlight</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="航空障礙燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Aviation obstruction lighting"><span class="ilh-page"><a href="/w/index.php?title=%E8%88%AA%E7%A9%BA%E9%9A%9C%E7%A4%99%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="航空障碍灯（页面不存在）">飞机警示灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Aviation_obstruction_lighting" class="extiw" title="en:Aviation obstruction lighting"><span lang="en" dir="auto">Aviation obstruction lighting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="平衡臂燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Balanced-arm lamp"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B3%E8%A1%A1%E8%87%82%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="平衡臂灯（页面不存在）">平衡臂灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Balanced-arm_lamp" class="extiw" title="en:Balanced-arm lamp"><span lang="en" dir="auto">Balanced-arm lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%9E%9D%E5%BD%A2%E5%90%8A%E7%87%88" title="枝形吊灯">枝形吊灯</a></li>
+<li><a href="/wiki/%E7%B7%8A%E6%80%A5%E7%85%A7%E6%98%8E%E7%87%88" title="紧急照明灯">紧急照明灯</a></li>
+<li><span class="ilh-all" data-orig-title="鵝頸燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gooseneck lamp"><span class="ilh-page"><a href="/w/index.php?title=%E9%B5%9D%E9%A0%B8%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="鹅颈灯（页面不存在）">鹅颈灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gooseneck_lamp" class="extiw" title="en:Gooseneck lamp"><span lang="en" dir="auto">Gooseneck lamp</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="智慧型街道照明" data-lang-code="en" data-lang-name="英语" data-foreign-title="Intelligent street lighting"><span class="ilh-page"><a href="/w/index.php?title=%E6%99%BA%E6%85%A7%E5%9E%8B%E8%A1%97%E9%81%93%E7%85%A7%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="智能街道照明（页面不存在）">智能街道照明</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Intelligent_street_lighting" class="extiw" title="en:Intelligent street lighting"><span lang="en" dir="auto">Intelligent street lighting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="導光管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Light tube"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%8E%E5%85%89%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="导光管（页面不存在）">导光管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Light_tube" class="extiw" title="en:Light tube"><span lang="en" dir="auto">Light tube</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A4%9C%E7%87%88" title="夜灯">夜灯</a></li>
+<li><a href="/wiki/%E5%90%8A%E7%87%88" title="吊灯">吊灯</a></li>
+<li><span class="ilh-all" data-orig-title="崁燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Recessed light"><span class="ilh-page"><a href="/w/index.php?title=%E5%B4%81%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="崁灯（页面不存在）">崁灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Recessed_light" class="extiw" title="en:Recessed light"><span lang="en" dir="auto">Recessed light</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="壁燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sconce (light fixture)"><span class="ilh-page"><a href="/w/index.php?title=%E5%A3%81%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="壁灯（页面不存在）">壁灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sconce_(light_fixture)" class="extiw" title="en:Sconce (light fixture)"><span lang="en" dir="auto">Sconce (light fixture)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%A1%97%E7%87%88" title="街灯">街灯</a></li>
+<li><span class="ilh-all" data-orig-title="落地灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Torchère"><span class="ilh-page"><a href="/w/index.php?title=%E8%90%BD%E5%9C%B0%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="落地灯（页面不存在）">落地灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Torch%C3%A8re" class="extiw" title="en:Torchère"><span lang="en" dir="auto">Torchère</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="軌道燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Track lighting"><span class="ilh-page"><a href="/w/index.php?title=%E8%BB%8C%E9%81%93%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="轨道灯（页面不存在）">轨道灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Track_lighting" class="extiw" title="en:Track lighting"><span lang="en" dir="auto">Track lighting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="平板燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Troffer"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B3%E6%9D%BF%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="平板灯（页面不存在）">平板灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Troffer" class="extiw" title="en:Troffer"><span lang="en" dir="auto">Troffer</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">移动式</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="自行車燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bicycle lighting"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="自行车灯（页面不存在）">自行车灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bicycle_lighting" class="extiw" title="en:Bicycle lighting"><span lang="en" dir="auto">Bicycle lighting</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%89%8B%E9%9B%BB%E7%AD%92" title="手电筒">手电筒</a>
+<ul><li><a href="/wiki/%E6%88%B0%E8%A1%93%E7%87%88" title="战术灯">战术灯</a></li>
+<li><a href="/wiki/%E5%8B%95%E5%8A%9B%E7%87%88" title="动力灯">动力灯</a></li></ul></li>
+<li><a href="/wiki/%E8%9E%A2%E5%85%89%E6%A3%92" title="荧光棒">荧光棒</a></li>
+<li><a href="/wiki/%E5%89%8D%E7%85%A7%E7%87%88" title="前照灯">前照灯</a>
+<ul><li><span class="ilh-all" data-orig-title="頭戴式頭燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Headlamp (outdoor)"><span class="ilh-page"><a href="/w/index.php?title=%E9%A0%AD%E6%88%B4%E5%BC%8F%E9%A0%AD%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="头戴式头灯（页面不存在）">头戴式</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Headlamp_(outdoor)" class="extiw" title="en:Headlamp (outdoor)"><span lang="en" dir="auto">Headlamp (outdoor)</span></a></span>）</span></span></li></ul></li>
+<li><a href="/wiki/%E7%81%AF%E7%AC%BC" title="灯笼">灯笼</a></li>
+<li><a href="/wiki/%E6%BF%80%E5%85%89%E7%AC%94" title="激光笔">激光笔</a></li>
+<li><a href="/wiki/%E8%88%AA%E8%A1%8C%E7%87%88" title="航行灯">航行灯</a></li>
+<li><a href="/wiki/%E6%8E%A2%E7%85%A7%E7%81%AF" title="探照灯">探照灯</a></li>
+<li><span class="ilh-all" data-orig-title="太阳能灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Solar lamp"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%AA%E9%98%B3%E8%83%BD%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="太阳能灯（页面不存在）">太阳能灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Solar_lamp" class="extiw" title="en:Solar lamp"><span lang="en" dir="auto">Solar lamp</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/%E6%B1%BD%E8%BD%A6%E7%81%AF" title="汽车灯">汽车灯</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%97%A5%E9%96%93%E8%A1%8C%E8%BB%8A%E7%87%88" title="日间行车灯">日间行车灯</a></li>
+<li><a href="/wiki/%E5%89%8D%E7%85%A7%E7%87%88" title="前照灯">前照灯</a>
+<ul><li><a href="/wiki/%E9%9A%B1%E8%97%8F%E5%BC%8F%E9%A0%AD%E7%87%88" title="隐藏式头灯">隐藏式头灯</a></li>
+<li><a href="/wiki/%E6%8A%9B%E7%89%A9%E9%9D%A2%E9%8D%8D%E9%8B%81%E5%8F%8D%E5%B0%84%E7%87%88" title="抛物面镀铝反射灯">抛物面镀铝反射灯</a></li></ul></li>
+<li><a href="/w/index.php?title=%E5%B0%BE%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="尾灯（页面不存在）">尾灯</a></li>
+<li><a href="/w/index.php?title=%E5%80%92%E8%BB%8A%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="倒车灯（页面不存在）">倒车灯</a></li>
+<li><span class="ilh-all" data-orig-title="安全反光鏡" data-lang-code="en" data-lang-name="英语" data-foreign-title="Safety reflector"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%89%E5%85%A8%E5%8F%8D%E5%85%89%E9%8F%A1&amp;action=edit&amp;redlink=1" class="new" title="安全反光镜（页面不存在）">安全反光镜</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Safety_reflector" class="extiw" title="en:Safety reflector"><span lang="en" dir="auto">Safety reflector</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="逆反射器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Retroreflector"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%86%E5%8F%8D%E5%B0%84%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="逆反射器（页面不存在）">逆反射器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Retroreflector" class="extiw" title="en:Retroreflector"><span lang="en" dir="auto">Retroreflector</span></a></span>）</span></span></li></ul></li>
+<li><a href="/w/index.php?title=%E5%89%8E%E8%BB%8A%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="刹车灯（页面不存在）">刹车灯</a></li>
+<li><a href="/wiki/%E6%96%B9%E5%90%91%E7%87%88" title="方向灯">方向灯</a>
+<ul><li><span class="ilh-all" data-orig-title="方向指示器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trafficators"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%B9%E5%90%91%E6%8C%87%E7%A4%BA%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="方向指示器（页面不存在）">方向指示器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trafficators" class="extiw" title="en:Trafficators"><span lang="en" dir="auto">Trafficators</span></a></span>）</span></span></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><span class="ilh-all" data-orig-title="節日照明技術" data-lang-code="en" data-lang-name="英语" data-foreign-title="Holiday lighting technology"><span class="ilh-page"><a href="/w/index.php?title=%E7%AF%80%E6%97%A5%E7%85%A7%E6%98%8E%E6%8A%80%E8%A1%93&amp;action=edit&amp;redlink=1" class="new" title="节日照明技术（页面不存在）">装饰</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Holiday_lighting_technology" class="extiw" title="en:Holiday lighting technology"><span lang="en" dir="auto">Holiday lighting technology</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="薰香燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Aroma lamp"><span class="ilh-page"><a href="/w/index.php?title=%E8%96%B0%E9%A6%99%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="熏香灯（页面不存在）">熏香灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Aroma_lamp" class="extiw" title="en:Aroma lamp"><span lang="en" dir="auto">Aroma lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%BB%91%E5%85%89%E7%81%AF" title="黑光灯">黑光灯</a></li>
+<li><span class="ilh-all" data-orig-title="泡泡燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bubble light"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%A1%E6%B3%A1%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="泡泡灯（页面不存在）">泡泡灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bubble_light" class="extiw" title="en:Bubble light"><span lang="en" dir="auto">Bubble light</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%81%96%E8%AA%95%E7%87%88" title="圣诞灯">圣诞灯</a></li>
+<li><span class="ilh-all" data-orig-title="爆裂管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Crackle tube"><span class="ilh-page"><a href="/w/index.php?title=%E7%88%86%E8%A3%82%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="爆裂管（页面不存在）">爆裂管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Crackle_tube" class="extiw" title="en:Crackle tube"><span lang="en" dir="auto">Crackle tube</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="DJ燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="DJ lighting"><span class="ilh-page"><a href="/w/index.php?title=DJ%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="DJ灯（页面不存在）">DJ灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/DJ_lighting" class="extiw" title="en:DJ lighting"><span lang="en" dir="auto">DJ lighting</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="电致发光纤维线" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electroluminescent wire"><span class="ilh-page"><a href="/w/index.php?title=%E7%94%B5%E8%87%B4%E5%8F%91%E5%85%89%E7%BA%A4%E7%BB%B4%E7%BA%BF&amp;action=edit&amp;redlink=1" class="new" title="电致发光纤维线（页面不存在）">电致发光纤维线</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electroluminescent_wire" class="extiw" title="en:Electroluminescent wire"><span lang="en" dir="auto">Electroluminescent wire</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%86%94%E5%B2%A9%E7%81%AF" title="熔岩灯">熔岩灯</a></li>
+<li><span class="ilh-all" data-orig-title="遮簷" data-lang-code="en" data-lang-name="英语" data-foreign-title="Marquee (structure)"><span class="ilh-page"><a href="/w/index.php?title=%E9%81%AE%E7%B0%B7&amp;action=edit&amp;redlink=1" class="new" title="遮檐（页面不存在）">遮檐</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Marquee_(structure)" class="extiw" title="en:Marquee (structure)"><span lang="en" dir="auto">Marquee (structure)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%81%AF" title="等离子灯">等离子灯</a></li>
+<li><a href="/wiki/%E9%A2%91%E9%97%AA%E7%81%AF" title="频闪灯">频闪灯</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/%E8%88%9E%E5%8F%B0%E7%81%AF%E5%85%89" title="舞台灯光">舞台灯光</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="舞檯燈光設備" data-lang-code="en" data-lang-name="英语" data-foreign-title="Stage lighting instrument"><span class="ilh-page"><a href="/w/index.php?title=%E8%88%9E%E6%AA%AF%E7%87%88%E5%85%89%E8%A8%AD%E5%82%99&amp;action=edit&amp;redlink=1" class="new" title="舞台灯光设备（页面不存在）">舞台灯光设备</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Stage_lighting_instrument" class="extiw" title="en:Stage lighting instrument"><span lang="en" dir="auto">Stage lighting instrument</span></a></span>）</span></span>
+<ul><li><a href="/w/index.php?title=%E6%B3%9B%E5%85%89%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="泛光灯（页面不存在）">泛光灯</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="腳燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Footlight"><span class="ilh-page"><a href="/w/index.php?title=%E8%85%B3%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="脚灯（页面不存在）">脚灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Footlight" class="extiw" title="en:Footlight"><span lang="en" dir="auto">Footlight</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="舞台燈片" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gobo (lighting)"><span class="ilh-page"><a href="/w/index.php?title=%E8%88%9E%E5%8F%B0%E7%87%88%E7%89%87&amp;action=edit&amp;redlink=1" class="new" title="舞台灯片（页面不存在）">舞台灯片</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gobo_(lighting)" class="extiw" title="en:Gobo (lighting)"><span lang="en" dir="auto">Gobo (lighting)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="投光燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Scoop (theater)"><span class="ilh-page"><a href="/w/index.php?title=%E6%8A%95%E5%85%89%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="投光灯（页面不存在）">投光灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Scoop_(theater)" class="extiw" title="en:Scoop (theater)"><span lang="en" dir="auto">Scoop (theater)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%81%9A%E5%85%89%E7%87%88" title="聚光灯">聚光灯</a>
+<ul><li><span class="ilh-all" data-orig-title="橢圓形反射聚光燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ellipsoidal reflector spotlight"><span class="ilh-page"><a href="/w/index.php?title=%E6%A9%A2%E5%9C%93%E5%BD%A2%E5%8F%8D%E5%B0%84%E8%81%9A%E5%85%89%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="椭圆形反射聚光灯（页面不存在）">椭圆形反射聚光灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ellipsoidal_reflector_spotlight" class="extiw" title="en:Ellipsoidal reflector spotlight"><span lang="en" dir="auto">Ellipsoidal reflector spotlight</span></a></span>）</span></span></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">产业、科学</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%AE%BA%E8%8F%8C%E7%87%88" title="杀菌灯">杀菌灯</a></li>
+<li><a href="/wiki/%E6%A4%8D%E7%89%A9%E7%94%9F%E9%95%B7%E7%87%88" title="植物生长灯">植物生长灯</a></li>
+<li><span class="ilh-all" data-orig-title="紅外線燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Infrared lamp"><span class="ilh-page"><a href="/w/index.php?title=%E7%B4%85%E5%A4%96%E7%B7%9A%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="红外线灯（页面不存在）">红外线灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Infrared_lamp" class="extiw" title="en:Infrared lamp"><span lang="en" dir="auto">Infrared lamp</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%A0%BB%E9%96%83%E8%A7%80%E6%B8%AC%E5%99%A8" title="频闪观测器">频闪观测器</a></li>
+<li><a href="/wiki/%E6%9B%AC%E9%BB%91%E7%87%88" title="晒黑灯">晒黑灯</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">有关议题</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E7%89%A9%E5%8F%91%E5%85%89" title="生物发光">生物发光</a></li>
+<li><span class="ilh-all" data-orig-title="戰場照明" data-lang-code="en" data-lang-name="英语" data-foreign-title="Battlefield illumination"><span class="ilh-page"><a href="/w/index.php?title=%E6%88%B0%E5%A0%B4%E7%85%A7%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="战场照明（页面不存在）">战场照明</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Battlefield_illumination" class="extiw" title="en:Battlefield illumination"><span lang="en" dir="auto">Battlefield illumination</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BF%80%E5%85%89" title="激光">激光</a> LASER</li>
+<li><span class="ilh-all" data-orig-title="光藝術" data-lang-code="en" data-lang-name="英语" data-foreign-title="Light art"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E8%97%9D%E8%A1%93&amp;action=edit&amp;redlink=1" class="new" title="光艺术（页面不存在）">光艺术</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Light_art" class="extiw" title="en:Light art"><span lang="en" dir="auto">Light art</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="發光寶石" data-lang-code="en" data-lang-name="英语" data-foreign-title="Luminous gemstones"><span class="ilh-page"><a href="/w/index.php?title=%E7%99%BC%E5%85%89%E5%AF%B6%E7%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="发光宝石（页面不存在）">发光宝石</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Luminous_gemstones" class="extiw" title="en:Luminous gemstones"><span lang="en" dir="auto">Luminous gemstones</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="定向閃光信號燈" data-lang-code="en" data-lang-name="英语" data-foreign-title="Signal lamp"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%9A%E5%90%91%E9%96%83%E5%85%89%E4%BF%A1%E8%99%9F%E7%87%88&amp;action=edit&amp;redlink=1" class="new" title="定向闪光信号灯（页面不存在）">定向闪光信号灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Signal_lamp" class="extiw" title="en:Signal lamp"><span lang="en" dir="auto">Signal lamp</span></a></span>）</span></span></li>
+<li><a class="mw-selflink selflink">光导纤维</a></li>
+<li><span class="ilh-all" data-orig-title="汽車燈泡類型列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of automotive light bulb types"><span class="ilh-page"><a href="/w/index.php?title=%E6%B1%BD%E8%BB%8A%E7%87%88%E6%B3%A1%E9%A1%9E%E5%9E%8B%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="汽车灯泡类型列表（页面不存在）">汽车灯泡类型</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_automotive_light_bulb_types" class="extiw" title="en:List of automotive light bulb types"><span lang="en" dir="auto">List of automotive light bulb types</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/%E5%85%89%E6%BA%90%E5%88%97%E8%A1%A8" title="光源列表">光源列表</a></li>
+<li><span class="ilh-all" data-orig-title="反射光源列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of reflected light sources"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%8D%E5%B0%84%E5%85%89%E6%BA%90%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="反射光源列表（页面不存在）">反射光源列表</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_reflected_light_sources" class="extiw" title="en:List of reflected light sources"><span lang="en" dir="auto">List of reflected light sources</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%85%89%E5%AD%A6" title="Template:光学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%85%89%E5%AD%A6" title="Template talk:光学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%85%89%E5%AD%A6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%85%89%E5%AD%A6" title="光学">光学</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%E8%A7%86%E8%A7%89" title="视觉">视觉</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span> <a href="/wiki/%E5%85%89%E5%AD%A6%E4%BB%AA%E5%99%A8" title="光学仪器">仪器</a><span style="white-space:nowrap; font-weight:bold;">&#160;·</span> <a href="/wiki/%E5%85%89%E5%AD%B8%E5%8F%B2" title="光学史">历史</a></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%87%A0%E4%BD%95%E5%85%89%E5%AD%A6" title="几何光学">几何光学</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8F%8D%E5%B0%84_(%E7%89%A9%E7%90%86%E5%AD%A6)" title="反射 (物理学)">反射</a></li>
+<li><a href="/wiki/%E6%8A%98%E5%B0%84" title="折射">折射</a></li>
+<li><a href="/wiki/%E8%8F%B2%E6%B6%85%E8%80%B3%E6%96%B9%E7%A8%8B" title="菲涅耳方程">菲涅耳方程</a></li>
+<li><a href="/wiki/%E6%96%AF%E6%B6%85%E5%B0%94%E5%AE%9A%E5%BE%8B" title="斯涅尔定律">斯涅尔定律</a></li>
+<li><a href="/wiki/%E8%B2%BB%E9%A6%AC%E5%8E%9F%E7%90%86" title="费马原理">费马原理</a></li>
+<li><a href="/wiki/%E9%A9%AC%E5%90%95%E6%96%AF%E5%AE%9A%E7%90%86" title="马吕斯定理">马吕斯定理</a></li>
+<li><a href="/wiki/%E9%80%8F%E9%95%9C" title="透镜">透镜</a></li>
+<li><a href="/wiki/%E5%AF%A6%E5%83%8F" title="实像">实像</a></li>
+<li><a href="/wiki/%E8%99%9B%E5%83%8F" title="虚像">虚像</a></li>
+<li><a href="/wiki/%E5%83%8F%E5%B7%AE" title="像差">像差</a></li>
+<li><a href="/wiki/%E5%83%8F%E6%95%A3" title="像散">像散</a></li>
+<li><a href="/wiki/%E8%89%B2%E5%B7%AE" title="色差">色差</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%89%A9%E7%90%86%E5%85%89%E5%AD%A6" title="物理光学">物理光学</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B2%E6%B6%89_(%E7%89%A9%E7%90%86%E5%AD%A6)" title="干涉 (物理学)">干涉</a></li>
+<li><a href="/wiki/%E8%A1%8D%E5%B0%84" title="衍射">衍射</a></li>
+<li><a href="/wiki/%E6%95%A3%E5%B0%84" title="散射">散射</a></li>
+<li><a href="/wiki/%E9%9B%99%E7%B8%AB%E5%AF%A6%E9%A9%97" title="双缝实验">双缝干涉</a></li>
+<li><a href="/wiki/%E8%BF%88%E5%85%8B%E8%80%B3%E5%AD%99%E5%B9%B2%E6%B6%89%E4%BB%AA" title="迈克耳孙干涉仪">迈克耳孙干涉仪</a></li>
+<li><a href="/wiki/%E9%A6%AC%E8%B5%AB-%E6%9B%BE%E5%BE%B7%E7%88%BE%E5%B9%B2%E6%B6%89%E5%84%80" title="马赫-曾德尔干涉仪">马赫-曾德尔干涉仪</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%B8%83%E9%87%8C-%E7%8F%80%E7%BD%97%E5%B9%B2%E6%B6%89%E4%BB%AA" title="法布里-珀罗干涉仪">法布里-珀罗干涉仪</a></li>
+<li><a href="/wiki/%E6%83%A0%E6%9B%B4%E6%96%AF-%E8%8F%B2%E6%B6%85%E8%80%B3%E5%8E%9F%E7%90%86" title="惠更斯-菲涅耳原理">惠更斯-菲涅耳原理</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%9F%BA%E7%88%BE%E9%9C%8D%E5%A4%AB%E8%A1%8D%E5%B0%84%E5%85%AC%E5%BC%8F" title="基尔霍夫衍射公式">菲涅耳-基尔霍夫衍射公式</a></li>
+<li><a href="/wiki/%E5%A4%AB%E7%90%85%E7%A6%BE%E8%B4%B9%E8%A1%8D%E5%B0%84" title="夫琅禾费衍射">夫琅禾费衍射</a></li>
+<li><a href="/wiki/%E8%8F%B2%E6%B6%85%E8%80%B3%E8%A1%8D%E5%B0%84" title="菲涅耳衍射">菲涅耳衍射</a></li>
+<li><a href="/wiki/%E5%85%89%E6%A0%85" title="光栅">光栅</a></li>
+<li><a href="/wiki/%E7%91%9E%E5%88%A9%E6%95%A3%E5%B0%84" title="瑞利散射">瑞利散射</a></li>
+<li><a href="/wiki/%E7%B1%B3%E6%B0%8F%E6%95%A3%E5%B0%84" title="米氏散射">米氏散射</a></li>
+<li><a href="/wiki/%E8%89%B2%E6%95%A3_(%E5%85%89%E5%AD%B8)" title="色散 (光学)">色散 (光学)</a></li>
+<li><a href="/wiki/%E5%81%8F%E6%8C%AF" title="偏振">偏振</a></li>
+<li><span class="ilh-all" data-orig-title="傅里叶光学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fourier optics"><span class="ilh-page"><a href="/w/index.php?title=%E5%82%85%E9%87%8C%E5%8F%B6%E5%85%89%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="傅里叶光学（页面不存在）">傅里叶光学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fourier_optics" class="extiw" title="en:Fourier optics"><span lang="en" dir="auto">Fourier optics</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">现代光学</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%BF%80%E5%85%89" title="激光">激光</a></li>
+<li><a href="/wiki/%E5%85%89%E8%B0%B1%E5%AD%A6" title="光谱学">光谱学</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6" title="量子光学">量子光学</a></li>
+<li><a href="/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%85%89%E5%AD%A6" title="非线性光学">非线性光学</a></li>
+<li><span class="ilh-all" data-orig-title="晶体光学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Crystal optics"><span class="ilh-page"><a href="/w/index.php?title=%E6%99%B6%E4%BD%93%E5%85%89%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="晶体光学（页面不存在）">晶体光学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Crystal_optics" class="extiw" title="en:Crystal optics"><span lang="en" dir="auto">Crystal optics</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%85%89%E5%AD%A6%E5%B7%A5%E7%A8%8B" title="光学工程">光学工程</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%85%89%E5%AD%90%E5%AD%A6" title="光子学">光子学</a></li>
+<li><a class="mw-selflink selflink">光导纤维</a></li>
+<li><a href="/wiki/%E5%85%89%E9%80%9A%E8%A8%8A" title="光通信">光通信</a></li>
+<li><a href="/wiki/%E5%85%89%E5%AD%A6%E4%BB%AA%E5%99%A8" title="光学仪器">光学仪器</a></li>
+<li><a href="/wiki/%E9%A1%AF%E5%BE%AE%E9%8F%A1" title="显微镜">显微镜</a></li>
+<li><a href="/wiki/%E6%9C%9B%E8%BF%9C%E9%95%9C" title="望远镜">望远镜</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%A4%A7%E6%B0%A3%E5%85%89%E5%AD%B8" title="大气光学">自然光象</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%9A%88" title="晕">晕</a></li>
+<li><a href="/wiki/%E5%B9%BB%E6%97%A5" title="幻日">幻日</a></li>
+<li><a href="/wiki/%E5%85%89%E6%9F%B1" title="光柱">日柱</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%89%BF" title="日承">日承</a></li>
+<li><a href="/wiki/%E5%BD%A9%E8%99%B9" title="彩虹">彩虹</a></li>
+<li><a href="/wiki/%E6%9C%88%E8%99%B9" title="月虹">月虹</a></li>
+<li><a href="/wiki/%E8%8F%AF_(%E5%85%89%E8%B1%A1)" title="华 (光象)">华</a></li>
+<li><a href="/wiki/%E5%85%89%E7%92%B0_(%E5%85%89%E8%B1%A1)" title="光环 (光象)">光环</a></li>
+<li><a href="/wiki/%E5%BD%A9%E9%9B%B2" title="彩云">彩云</a></li>
+<li><a href="/wiki/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC" title="海市蜃楼">海市蜃楼</a></li>
+<li><a href="/wiki/%E7%B6%A0%E9%96%83%E5%85%89" title="绿闪光">绿闪光</a></li>
+<li><a href="/wiki/%E7%92%B0%E5%A4%A9%E9%A0%82%E5%BC%A7" title="环天顶弧">环天顶弧</a></li>
+<li><a href="/wiki/%E8%8D%89%E9%9C%B2%E5%AF%B6%E5%85%89" title="草露宝光">草露宝光</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">物理学者</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81%C2%B7%E8%8F%B2%E6%B6%85%E8%80%B3" title="奥古斯丁·菲涅耳">菲涅耳</a></li>
+<li><a href="/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%86%AF%C2%B7%E5%A4%AB%E7%90%85%E5%92%8C%E8%B4%B9" title="约瑟夫·冯·夫琅和费">夫琅和费</a></li>
+<li><a href="/wiki/%E4%BC%8A%E6%9C%AC%C2%B7%E6%B5%B7%E4%BB%80%E6%9C%A8" title="伊本·海什木">海什木</a></li>
+<li><a href="/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89%C2%B7%E6%83%A0%E6%9B%B4%E6%96%AF" title="克里斯蒂安·惠更斯">惠更斯</a></li>
+<li><a href="/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF" title="艾萨克·牛顿">牛顿</a></li>
+<li><a href="/wiki/%E7%AC%AC%E4%B8%89%E4%BB%A3%E7%91%9E%E5%88%A9%E7%94%B7%E7%88%B5%E7%B4%84%E7%BF%B0%C2%B7%E6%96%AF%E7%89%B9%E6%8B%89%E7%89%B9" title="第三代瑞利男爵约翰·斯特拉特">瑞利</a></li>
+<li><a href="/wiki/%E5%A8%81%E7%90%86%E5%8D%9A%C2%B7%E5%8F%B8%E4%B9%83%E8%80%B3" title="威理博·司乃耳">斯涅尔</a></li>
+<li><a href="/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%9D%A8" title="托马斯·杨">托马斯·杨</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%85%89%E9%80%9A%E4%BF%A1" title="Template:光通信"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%85%89%E9%80%9A%E4%BF%A1" title="Template talk:光通信"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%85%89%E9%80%9A%E4%BF%A1&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%85%89%E9%80%9A%E8%A8%8A" title="光通信">光通信</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">基本</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%83%BD%E7%81%AB" title="烽火">烽火（狼烟）</a></li>
+<li><a href="/wiki/%E7%81%AF%E5%A1%94" title="灯塔">灯塔</a></li>
+<li><span class="ilh-all" data-orig-title="光信标" data-lang-code="en" data-lang-name="英语" data-foreign-title="Beacon"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E4%BF%A1%E6%A0%87&amp;action=edit&amp;redlink=1" class="new" title="光信标（页面不存在）">光信标</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Beacon" class="extiw" title="en:Beacon"><span lang="en" dir="auto">Beacon</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="液压电报" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hydraulic telegraph"><span class="ilh-page"><a href="/w/index.php?title=%E6%B6%B2%E5%8E%8B%E7%94%B5%E6%8A%A5&amp;action=edit&amp;redlink=1" class="new" title="液压电报（页面不存在）">液压电报</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hydraulic_telegraph" class="extiw" title="en:Hydraulic telegraph"><span lang="en" dir="auto">Hydraulic telegraph</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9C%8B%E9%9A%9B%E4%BF%A1%E8%99%9F%E6%97%97" title="国际信号旗">国际信号旗</a></li>
+<li><span class="ilh-all" data-orig-title="光学电报" data-lang-code="en" data-lang-name="英语" data-foreign-title="Semaphore line"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E5%AD%A6%E7%94%B5%E6%8A%A5&amp;action=edit&amp;redlink=1" class="new" title="光学电报（页面不存在）">光学电报</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Semaphore_line" class="extiw" title="en:Semaphore line"><span lang="en" dir="auto">Semaphore line</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="日光反射信号器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Heliograph"><span class="ilh-page"><a href="/w/index.php?title=%E6%97%A5%E5%85%89%E5%8F%8D%E5%B0%84%E4%BF%A1%E5%8F%B7%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="日光反射信号器（页面不存在）">日光反射信号器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Heliograph" class="extiw" title="en:Heliograph"><span lang="en" dir="auto">Heliograph</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="信号灯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Signal lamp"><span class="ilh-page"><a href="/wiki/%E4%BF%A1%E8%99%9F%E7%87%88" class="mw-redirect" title="信号灯">信号灯</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Signal_lamp" class="extiw" title="en:Signal lamp"><span lang="en" dir="auto">Signal lamp</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">先进</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%85%89%E7%BA%96%E9%80%9A%E8%A8%8A" title="光纤通信">光纤通信</a>
+<ul><li><a class="mw-selflink selflink">光导纤维</a>
+<ul><li><a href="/wiki/%E5%85%89%E7%BA%A4%E7%94%B5%E7%BC%86" title="光纤电缆">光纤电缆</a></li>
+<li><a href="/wiki/%E5%85%89%E7%BA%96%E6%8E%A5%E9%A0%AD" title="光纤接头">接头</a></li></ul></li></ul></li>
+<li><span class="ilh-all" data-orig-title="光无线通信" data-lang-code="en" data-lang-name="英语" data-foreign-title="Optical wireless"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1&amp;action=edit&amp;redlink=1" class="new" title="光无线通信（页面不存在）">光无线通信</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Optical_wireless" class="extiw" title="en:Optical wireless"><span lang="en" dir="auto">Optical wireless</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E8%87%AA%E7%94%B1%E7%A9%BA%E9%96%93%E5%85%89%E9%80%9A%E4%BF%A1" title="自由空间光通信">自由空间光通信</a>（FSO）</li>
+<li><a href="/wiki/%E5%8F%AF%E8%A6%8B%E5%85%89%E9%80%9A%E8%A8%8A" title="可见光通信">可见光</a></li>
+<li><a href="/wiki/%E5%85%89%E7%85%A7%E4%B8%8A%E7%BD%91%E6%8A%80%E6%9C%AF" title="光照上网技术">LiFi</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="光电话" data-lang-code="en" data-lang-name="英语" data-foreign-title="Photophone"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E7%94%B5%E8%AF%9D&amp;action=edit&amp;redlink=1" class="new" title="光电话（页面不存在）">光电话</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Photophone" class="extiw" title="en:Photophone"><span lang="en" dir="auto">Photophone</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="光传输网络" data-lang-code="en" data-lang-name="英语" data-foreign-title="Optical Transport Network"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E4%BC%A0%E8%BE%93%E7%BD%91%E7%BB%9C&amp;action=edit&amp;redlink=1" class="new" title="光传输网络（页面不存在）">光传输网络</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Optical_Transport_Network" class="extiw" title="en:Optical Transport Network"><span lang="en" dir="auto">Optical Transport Network</span></a></span>）</span></span>（OTN）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">技术</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="光載波傳輸速率" data-lang-code="en" data-lang-name="英语" data-foreign-title="Optical Carrier transmission rates"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E8%BC%89%E6%B3%A2%E5%82%B3%E8%BC%B8%E9%80%9F%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="光载波传输速率（页面不存在）">光载波传输速率</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Optical_Carrier_transmission_rates" class="extiw" title="en:Optical Carrier transmission rates"><span lang="en" dir="auto">Optical Carrier transmission rates</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="亮度调制" data-lang-code="en" data-lang-name="英语" data-foreign-title="Intensity modulation"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%AE%E5%BA%A6%E8%B0%83%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="亮度调制（页面不存在）">亮度调制</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Intensity_modulation" class="extiw" title="en:Intensity modulation"><span lang="en" dir="auto">Intensity modulation</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="调制后向反射器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Modulating retro-reflector"><span class="ilh-page"><a href="/w/index.php?title=%E8%B0%83%E5%88%B6%E5%90%8E%E5%90%91%E5%8F%8D%E5%B0%84%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="调制后向反射器（页面不存在）">调制后向反射器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Modulating_retro-reflector" class="extiw" title="en:Modulating retro-reflector"><span lang="en" dir="auto">Modulating retro-reflector</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q162" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E8%97%9D%E8%A1%93%E8%88%87%E5%BB%BA%E7%AF%89%E7%B4%A2%E5%BC%95%E5%85%B8" title="艺术与建筑索引典">AAT</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://vocab.getty.edu/page/aat/300183039">300183039</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119415249">cb119415249</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119415249">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="集成规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4267405-0">4267405-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007548408305171">987007548408305171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85095177">sh85095177</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00562771">00562771</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph115596&amp;CON_LNG=ENG">ph115596</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐vqxzj
+Cached time: 20240401191059
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.861 seconds
+Real time usage: 1.098 seconds
+Preprocessor visited node count: 4419/1000000
+Post‐expand include size: 559637/2097152 bytes
+Template argument size: 4136/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 92/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13085/5000000 bytes
+Lua time usage: 0.368/10.000 seconds
+Lua memory usage: 21674681/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  626.834      1 -total
+ 42.76%  268.013      4 Template:Navbox
+ 27.84%  174.489      1 Template:ArtificialLightSources
+ 18.99%  119.039      1 Template:Lang-en
+ 15.26%   95.649      1 Template:NoteTA
+ 14.81%   92.827     49 Template:Link-en
+  8.39%   52.562      1 Template:Authority_control
+  6.44%   40.380     13 Template:Tsl
+  6.01%   37.655     24 Template:Le
+  5.28%   33.101      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:32936-0!userlang=zh-cn!zh-cn and timestamp 20240401191059 and revision id 81644526. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=光導纖維&amp;oldid=81644526">https://zh.wikipedia.org/w/index.php?title=光導纖維&amp;oldid=81644526</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E7%BA%96%E7%B6%AD%E5%85%89%E5%AD%B8" title="Category:纖維光學">纤维光学</a></li><li><a href="/wiki/Category:%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%B8" title="Category:材料科學">材料科学</a></li><li><a href="/wiki/Category:%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6" title="Category:光电子学">光电子学</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABAAT%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含AAT标识符的维基百科条目">包含AAT标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年2月25日 (星期日) 14:20。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-tbz4d","wgBackendResponseTime":202,"wgPageParseReport":{"limitreport":{"cputime":"0.861","walltime":"1.098","ppvisitednodes":{"value":4419,"limit":1000000},"postexpandincludesize":{"value":559637,"limit":2097152},"templateargumentsize":{"value":4136,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":92,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13085,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  626.834      1 -total"," 42.76%  268.013      4 Template:Navbox"," 27.84%  174.489      1 Template:ArtificialLightSources"," 18.99%  119.039      1 Template:Lang-en"," 15.26%   95.649      1 Template:NoteTA"," 14.81%   92.827     49 Template:Link-en","  8.39%   52.562      1 Template:Authority_control","  6.44%   40.380     13 Template:Tsl","  6.01%   37.655     24 Template:Le","  5.28%   33.101      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.368","limit":"10.000"},"limitreport-memusage":{"value":21674681,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-vqxzj","timestamp":"20240401191059","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5149\u5c0e\u7e96\u7dad","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%85%89%E5%B0%8E%E7%BA%96%E7%B6%AD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q162","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q162","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-01T06:47:06Z","dateModified":"2024-02-25T14:20:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/Fibreoptic.jpg","headline":"\u7c21\u7a31\u5149\u7e96\uff0c\u662f\u4e00\u7a2e\u7531\u73bb\u7483\u6216\u5851\u6599\u88fd\u6210\u7684\u7e96\u7dad"}</script>
+</body>
+</html>

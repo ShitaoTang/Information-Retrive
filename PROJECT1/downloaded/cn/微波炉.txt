@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>微波炉 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"d4d2042e-3398-4b83-9720-cf9d3c7614bd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"微波炉","wgTitle":"微波炉","wgCurRevisionId":76600044,"wgRevisionId":76600044,"wgArticleId":132197,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2018年2月带有失效链接的条目","条目有永久失效的外部链接","需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","使用小型訊息框的頁面","包含AAT标识符的维基百科条目","包含BNF标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目",
+"消費電子產品","煮食爐"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"微波炉","wgRelevantArticleId":132197,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,
+"wgWikibaseItemId":"Q127956","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc",
+"skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-1200px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="878">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-800px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="585">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-640px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="468">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="微波炉 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-微波炉 rootpage-微波炉 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BE%AE%E6%B3%A2%E7%82%89" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BE%AE%E6%B3%A2%E7%82%89" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%BE%AE%E6%B3%A2%E7%82%89" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%BE%AE%E6%B3%A2%E7%82%89" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-历史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#历史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>历史</div>
+		</a>
+		
+		<ul id="toc-历史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-工作原理"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#工作原理">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>工作原理</div>
+		</a>
+		
+		<ul id="toc-工作原理-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-效率"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#效率">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>效率</div>
+		</a>
+		
+		<ul id="toc-效率-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-使用須知"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#使用須知">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>使用须知</div>
+		</a>
+		
+			<button aria-controls="toc-使用須知-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关使用须知子章节</span>
+			</button>
+		
+		<ul id="toc-使用須知-sublist" class="vector-toc-list">
+			<li id="toc-容器和包装"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#容器和包装">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>容器和包装</div>
+			</a>
+			
+			<ul id="toc-容器和包装-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-食物"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#食物">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>食物</div>
+			</a>
+			
+			<ul id="toc-食物-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-其他"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#其他">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>其他</div>
+			</a>
+			
+			<ul id="toc-其他-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-参見"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参見">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参见</div>
+		</a>
+		
+		<ul id="toc-参見-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考資料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考資料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-參考資料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">微波炉</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。80种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-80" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">80种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Mikrogolfoond" title="Mikrogolfoond – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86_%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D8%AC_%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%8A%D8%A9" title="فرن الأمواج الصغرية – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Fornu_de_microondes" title="Fornu de microondes – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Mikrodal%C4%9Fal%C4%B1_soba" title="Mikrodalğalı soba – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D1%80%D0%B0%D1%85%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B5%D1%87" title="Мікрахвалевая печ – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D1%8A%D0%BB%D0%BD%D0%BE%D0%B2%D0%B0_%D1%84%D1%83%D1%80%D0%BD%D0%B0" title="Микровълнова фурна – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AD_%E0%A6%93%E0%A6%AD%E0%A7%87%E0%A6%A8" title="মাইক্রোওয়েভ ওভেন – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Mikrovalna_pe%C4%87" title="Mikrovalna peć – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Forn_microones" title="Forn microones – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/M%C3%AC-p%C5%8F%CC%A4-l%C3%B9" title="Mì-pŏ̤-lù – Mindong" lang="cdo" hreflang="cdo" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-chy mw-list-item"><a href="https://chy.wikipedia.org/wiki/N%C3%AA%C5%A1ev%C3%A2h%C3%A1%27eneo%27o" title="Nêševâhá&#039;eneo&#039;o – 夏延语" lang="chy" hreflang="chy" class="interlanguage-link-target"><span>Tsetsêhestâhese</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%81%DA%95%D9%86%DB%8C_%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%DB%86%D9%88%DB%95%DB%8C%DA%A4" title="فڕنی مایکرۆوەیڤ – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Mikrovlnn%C3%A1_trouba" title="Mikrovlnná trouba – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Popty_microdon" title="Popty microdon – 威尔士语" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Mikrob%C3%B8lgeovn" title="Mikrobølgeovn – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Mikrowellenherd" title="Mikrowellenherd – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%BF%CF%8D%CF%81%CE%BD%CE%BF%CF%82_%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CE%BA%CF%85%CE%BC%CE%AC%CF%84%CF%89%CE%BD" title="Φούρνος μικροκυμάτων – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Microwave_oven" title="Microwave oven – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Mikroondilo" title="Mikroondilo – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Horno_de_microondas" title="Horno de microondas – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Mikrolaineahi" title="Mikrolaineahi – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Mikrouhin_labe" title="Mikrouhin labe – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87_%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D9%88%DB%8C%D9%88" title="دستگاه مایکروویو – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Mikroaaltouuni" title="Mikroaaltouuni – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Four_%C3%A0_micro-ondes" title="Four à micro-ondes – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Mikroswalken-Aurn" title="Mikroswalken-Aurn – 北弗里西亚语" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Magnetron" title="Magnetron – 西弗里西亚语" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Micreathonn%C3%A1n" title="Micreathonnán – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Forno_de_microondas" title="Forno de microondas – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gv mw-list-item"><a href="https://gv.wikipedia.org/wiki/Oghe_veegrahonnagh" title="Oghe veegrahonnagh – 马恩语" lang="gv" hreflang="gv" class="interlanguage-link-target"><span>Gaelg</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%A0%D7%95%D7%A8_%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%92%D7%9C" title="תנור מיקרוגל – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%A4%E0%A4%B0%E0%A4%82%E0%A4%97_%E0%A4%9A%E0%A5%82%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE" title="सूक्ष्मतरंग चूल्हा – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Mikrovalna_pe%C4%87nica" title="Mikrovalna pećnica – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Mikrohull%C3%A1m%C3%BA_s%C3%BCt%C5%91" title="Mikrohullámú sütő – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Pemanggang_gelombang_mikro" title="Pemanggang gelombang mikro – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Mikro-ondoforno" title="Mikro-ondoforno – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/%C3%96rbylgjuofn" title="Örbylgjuofn – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Forno_a_microonde" title="Forno a microonde – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8" title="電子レンジ – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Oven_gelombang_mikro" title="Oven gelombang mikro – 爪哇语" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BB%D2%9B%D1%8B%D0%BD%D0%B4%D1%8B_%D0%BF%D0%B5%D1%88" title="Микротолқынды пеш – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%88%E0%B2%95%E0%B3%8D%E0%B2%B0%E0%B3%8B%E0%B2%B5%E0%B3%87%E0%B2%B5%E0%B3%8D_%E0%B2%93%E0%B2%B5%E0%B2%A8%E0%B3%8D" title="ಮೈಕ್ರೋವೇವ್ ಓವನ್ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80" title="전자레인지 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D1%83%D0%BD_%D0%BC%D0%B5%D1%88%D0%B8" title="Микротолкун меши – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Furnulus_undarum_brevium" title="Furnulus undarum brevium – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Mikrowell_(Apparat)" title="Mikrowell (Apparat) – 卢森堡语" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Mikrobang%C5%B3_krosnel%C4%97" title="Mikrobangų krosnelė – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Mikrovi%C4%BC%C5%86u_kr%C4%81sns" title="Mikroviļņu krāsns – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D0%BA%D0%B0" title="Микробранова печка – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%88%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%B5%E0%B5%87%E0%B4%B5%E0%B5%8D_%E0%B4%93%E0%B4%B5%E0%B5%BB" title="മൈക്രോവേവ് ഓവൻ – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mrj mw-list-item"><a href="https://mrj.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D1%8D%D3%93%D0%BD_%D0%BA%D0%B0%D0%BC%D0%B0%D0%BA%D0%B0" title="Микрокоэӓн камака – 西馬里文" lang="mrj" hreflang="mrj" class="interlanguage-link-target"><span>Кырык мары</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Ketuhar_gelombang_mikro" title="Ketuhar gelombang mikro – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Magnetron_(oven)" title="Magnetron (oven) – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Mikrob%C3%B8lgjeomn" title="Mikrobølgjeomn – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Mikrob%C3%B8lgeovn" title="Mikrobølgeovn – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pdc mw-list-item"><a href="https://pdc.wikipedia.org/wiki/Nuukoffe" title="Nuukoffe – 賓夕法尼亞德文" lang="pdc" hreflang="pdc" class="interlanguage-link-target"><span>Deitsch</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Kuchenka_mikrofalowa" title="Kuchenka mikrofalowa – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Forno_de_micro-ondas" title="Forno de micro-ondas – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/T%27unapillunya_p%27ukuru" title="T&#039;unapillunya p&#039;ukuru – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Cuptor_cu_microunde" title="Cuptor cu microunde – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B5%D1%87%D1%8C" title="Микроволновая печь – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Mikrotalasna_pe%C4%87" title="Mikrotalasna peć – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Microwave_oven" title="Microwave oven – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Mikrovlnn%C3%A1_r%C3%BAra" title="Mikrovlnná rúra – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Mikrovalovna_pe%C4%8Dica" title="Mikrovalovna pečica – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%B0%D0%BB%D0%B0%D1%81%D0%BD%D0%B0_%D0%BF%D0%B5%D1%9B" title="Микроталасна пећ – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Mikrov%C3%A5gsugn" title="Mikrovågsugn – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Oveni_ya_mikrowevu" title="Oveni ya mikrowevu – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%81%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%B2%E0%AF%88_%E0%AE%85%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="நுண்ணலை அடுப்பு – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%94%D0%B0%D1%81%D1%82%D0%B3%D0%BE%D2%B3%D0%B8_%D0%BC%D0%B0%D0%B9%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%B9%D0%B2" title="Дастгоҳи майкровейв – 塔吉克语" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%95%E0%B8%B2%E0%B8%AD%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%9F" title="เตาอบไมโครเวฟ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Mikrodalga_f%C4%B1r%C4%B1n" title="Mikrodalga fırın – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%BA%D1%8B%D0%BD%D0%BB%D1%8B_%D0%BC%D0%B8%D1%87" title="Микродулкынлы мич – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D1%80%D0%BE%D1%85%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%87" title="Мікрохвильова піч – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Mikroto%CA%BBlqinli_pech" title="Mikrotoʻlqinli pech – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/L%C3%B2_vi_ba" title="Lò vi ba – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Microwave_oven" title="Microwave oven – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89" title="微波炉 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/B%C3%AE-pho-l%C3%B4%CD%98" title="Bî-pho-lô͘ – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%88%90" title="微波爐 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q127956#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%BE%AE%E6%B3%A2%E7%82%89" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%BE%AE%E6%B3%A2%E7%82%89" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%BE%AE%E6%B3%A2%E7%82%89" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%BE%AE%E6%B3%A2%E7%82%89" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;oldid=76600044" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;id=76600044&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BE%25AE%25E6%25B3%25A2%25E7%2582%2589"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BE%25AE%25E6%25B3%25A2%25E7%2582%2589"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q127956" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Microwave_oven" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-3be464a3" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-3be464a3" class="noteTA"><div class="noteTA-local"><div data-noteta-code="zh-hans:保鲜膜; zh-hant:保鮮膜; zh-hk:保鮮紙;"></div><div data-noteta-code="zh-cn:通过;zh-tw:透過;zh-hk:通過;"></div></div></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Consumer_Reports_-_Kenmore_microwave_oven.tif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-250px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg" decoding="async" width="250" height="183" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-375px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Consumer_Reports_-_Kenmore_microwave_oven.tif/lossy-page1-500px-Consumer_Reports_-_Kenmore_microwave_oven.tif.jpg 2x" data-file-width="2865" data-file-height="2096" /></a><figcaption>微波炉</figcaption></figure>
+<p><b>微波炉</b>是指利用<a href="/wiki/%E5%BE%AE%E6%B3%A2" title="微波">微波</a><a href="/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2%E8%B0%B1" class="mw-redirect" title="电磁波谱">波段</a>的电磁波加热食品的<a href="/wiki/%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8" title="家用电器">家用</a>或工业用<a href="/wiki/%E9%9B%BB%E5%99%A8" class="mw-redirect" title="电器">电器</a>。食品中存在的<a href="/wiki/%E6%9E%81%E6%80%A7" title="极性">电极性分子</a>会在微波的震荡下旋转，从而产生热量。<a href="/wiki/%E5%A4%9A%E8%85%94%E7%A3%81%E6%8E%A7%E7%AE%A1" title="多腔磁控管">多腔磁控管</a>技术的进步使得这一原理的应用得以实现。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.8E.86.E5.8F.B2"></span><span class="mw-headline" id="历史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=1" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>使用微波来烹饪食物的方法是首先由任职<a href="/wiki/%E9%9B%B7%E7%A5%9E%E5%85%AC%E5%8F%B8" title="雷神公司">雷神公司</a>的<a href="/wiki/%E5%9F%B9%E8%A5%BF%C2%B7%E5%8F%B2%E8%B3%93%E8%B3%BD" class="mw-redirect" title="培西·史宾赛">培西·史宾赛</a>想到的，<a href="/wiki/%E5%9F%B9%E8%A5%BF%C2%B7%E5%8F%B2%E8%B3%93%E8%B3%BD" class="mw-redirect" title="培西·史宾赛">培西·史宾赛</a>过去为公司建造雷达设备的磁电管。一天，他在一个启动的<a href="/wiki/%E9%9B%B7%E8%BE%BE" title="雷达">雷达</a>设备上工作时，突然发觉自己放在口袋里的花生<a href="/wiki/%E5%B7%A7%E5%85%8B%E5%8A%9B" title="巧克力">巧克力</a>融化了。经<a href="/wiki/%E5%9F%B9%E8%A5%BF%C2%B7%E5%8F%B2%E8%B3%93%E8%B3%BD" class="mw-redirect" title="培西·史宾赛">培西·史宾赛</a>的思索和研究，发现他的<a href="/wiki/%E5%B7%A7%E5%85%8B%E5%8A%9B" title="巧克力">巧克力</a>是被<a href="/wiki/%E5%BE%AE%E6%B3%A2" title="微波">微波</a>所融化，所以认为<a href="/wiki/%E7%A3%81%E6%8E%A7%E7%AE%A1" class="mw-redirect" title="磁控管">磁控管</a>也能用来<a href="/wiki/%E7%83%B9%E9%A3%AA" class="mw-redirect" title="烹饪">烹饪</a>。
+</p><p>1960年代，利顿电子公司设计了一种磁控管，将其应用于微波炉中，但利顿公司并未把微波炉的市场设想为家庭。而日本人<a href="/w/index.php?title=%E4%BD%90%E4%BD%90%E6%9C%A8%E6%AD%A3%E6%B2%BB&amp;action=edit&amp;redlink=1" class="new" title="佐佐木正治（页面不存在）">佐佐木正治</a>认为这项技术可以用于家用烹调，并说服日本早川公司（即<a href="/wiki/%E5%A4%8F%E6%99%AE" title="夏普">夏普</a>公司的前身）实践他的想法，当然虽然这是一项新科技，实际上以物理学的角度看，电磁波早就在烹饪当中使用了，就是点燃炉火的红外光热能来加热食物，不过微波的加热形式更方便，在1962年人类烹饪革命的微波炉开始大规模生产。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span id=".E5.B7.A5.E4.BD.9C.E5.8E.9F.E7.90.86"></span><span class="mw-headline" id="工作原理">工作原理</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=2" title="编辑章节：工作原理"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>如果一些物体（比如液态<a href="/wiki/%E6%B0%B4" title="水">水</a>）含有<a href="/wiki/%E6%9E%81%E6%80%A7" title="极性">电极性分子</a>并且这些分子可自由震荡，那么它们可被微波炉加热。当这些物体被置于<a href="/wiki/%E5%BE%AE%E6%B3%A2" title="微波">微波</a>传播空间中，在微波高频振荡（微波炉常采用2.45 GHz的微波<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>）的<a href="/wiki/%E7%94%B5%E7%A3%81%E5%9C%BA" title="电磁场">电磁场</a>作用下，物体中的<a href="/wiki/%E6%9E%81%E6%80%A7" title="极性">电极性分子</a>（尤其是水分子，可强烈地对微波作出响应）的方向会随振荡<a href="/wiki/%E9%9B%BB%E5%A0%B4" title="电场">电场</a>一起振动，一个分子的固有<a href="/wiki/%E7%94%B5%E7%A3%81%E5%9C%BA" title="电磁场">电磁场</a>被改变并影响邻近分子，于是分子的振动便在分子之间传递开去，分子振动就是内能，增加内能就是加热，微波能令物质中的内能增加，也即是能令物质加热。虽然非电极性分子也会因<a href="/wiki/%E9%9B%BB%E5%A0%B4" title="电场">电场</a>产生一些<a href="/w/index.php?title=%E4%BD%8D%E7%A7%BB%E6%9E%81%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="位移极化（页面不存在）">位移极化</a>，但这本身对内能几乎没有贡献。有的食物本身就有自由的<a href="/wiki/%E6%9E%81%E6%80%A7" title="极性">电极性分子</a>，因此可以被微波直接加热；其他食物只要与水均匀混合，也可以通过水间接地被微波加热。另外，有说微波加热是分子<a href="/wiki/%E5%85%B1%E6%8C%AF" title="共振">共振</a>的结果，这是错误的，水分子的<a href="/wiki/%E5%85%B1%E6%8C%AF%E9%A0%BB%E7%8E%87" class="mw-redirect" title="共振频率">共振频率</a>为1THz以上。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>有些情况下，微波加热可以做到由内而外，即内部温升比表面快。例如内部有较多水分而表面较干，这样内部加热就会比表面快；又例如内部的<a href="/wiki/%E7%86%B1%E5%AE%B9%E9%87%8F" title="热容量">热容量</a>比表面低，内部温升就比较快。但并不是所有食物被微波加热时都有此情况出现。
+</p>
+<h2><span id=".E6.95.88.E7.8E.87"></span><span class="mw-headline" id="效率">效率</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=3" title="编辑章节：效率"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/35px-Tango-nosources.svg.png" decoding="async" width="35" height="35" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/53px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/70px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></td><td class="mbox-text"><span class="mbox-text-span">此章节<b><a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">尚无参考来源</a></b>，内容或许<b><a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查证">无法查证</a></b>。</span></td></tr></tbody></table>
+<p>微波炉只能将其耗用的部分电能转为热能，以一个1100W的微波炉为例，一般只有700W的微波产生，效率为64%。虽然产生微波的效率不高，但因为微波加热不会浪费热能于器皿上，也较小在空气中散失，所以仍有不差的效率。
+</p>
+<h2><span id=".E4.BD.BF.E7.94.A8.E9.A0.88.E7.9F.A5"></span><span class="mw-headline" id="使用須知">使用须知</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=4" title="编辑章节：使用须知"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Symbol_Microwave_oven.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Symbol_Microwave_oven.svg/130px-Symbol_Microwave_oven.svg.png" decoding="async" width="130" height="130" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Symbol_Microwave_oven.svg/195px-Symbol_Microwave_oven.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Symbol_Microwave_oven.svg/260px-Symbol_Microwave_oven.svg.png 2x" data-file-width="43" data-file-height="43" /></a><figcaption>一些塑料容器底部带有微波安全标志，这些容器可以在微波炉内加热。</figcaption></figure>
+<h3><span id=".E5.AE.B9.E5.99.A8.E5.92.8C.E5.8C.85.E8.A3.85"></span><span class="mw-headline" id="容器和包装">容器和包装</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=5" title="编辑章节：容器和包装"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>折叠的金属在微波加热的情况下会产生<a href="/wiki/%E9%9B%BB%E5%BC%A7" class="mw-redirect" title="电弧">电弧</a>（蓝色火花）。当微波使金属累积电能，捏成一团的金属使电流跳过空隙，并产生电弧。如：用铝箔折成的小球放在微波炉加热时，表面出现火花。此爆闪的现象对现代微波炉而言不容易产生危害，但仍有风险且使用金属容器会影响加热效果。<sup id="cite_ref-流言终结者_4-0" class="reference"><a href="#cite_note-流言终结者-4">&#91;4&#93;</a></sup></li>
+<li>平面的金属在微波炉中碰到炉壁时，电流会经炉壁传回<a href="/wiki/%E7%A3%81%E6%8E%A7%E7%AE%A1" class="mw-redirect" title="磁控管">磁控管</a>，使磁控管熔化，引致<a href="/wiki/%E7%9F%AD%E8%B7%AF" title="短路">短路</a>。<sup id="cite_ref-流言终结者_4-1" class="reference"><a href="#cite_note-流言终结者-4">&#91;4&#93;</a></sup></li>
+<li>将<a href="/wiki/%E4%BF%9D%E9%AE%AE%E7%B4%99" title="保鲜膜">保鲜膜</a>与食品一起加热时，保鲜膜中的<a href="/wiki/PVC" class="mw-redirect" title="PVC">PVC</a>会释出<a href="/wiki/%E6%B0%AB%E6%B0%AF%E9%85%B8" class="mw-redirect" title="氢氯酸">氢氯酸</a>和<a href="/wiki/%E5%A1%91%E5%8C%96%E5%8A%91" title="塑化剂">塑化剂</a>。若使用保鲜膜，应选择“不含有PVC”或“可用于微波炉加热”者，并避免直接碰触到食物<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>。注明"微波安全"符号的塑料容器，可以在微波炉加热<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>。但有人仍然对塑胶容器能否在微波炉使用存在质疑<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>。</li></ul>
+<table class="wikitable">
+
+<tbody><tr>
+<th>材质名称</th>
+<th>常用于</th>
+<th>耐热温度(<a href="/wiki/%E2%84%83" class="mw-redirect" title="℃">℃</a>)</th>
+<th>耐油
+</th></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E5%B0%8D%E8%8B%AF%E4%BA%8C%E7%94%B2%E9%85%B8%E4%B9%99%E4%BA%8C%E9%85%AF" class="mw-redirect" title="聚对苯二甲酸乙二酯">PETE</a></td>
+<td>茶或碳酸饮料的<a href="/wiki/%E5%AF%B6%E7%89%B9%E7%93%B6" title="宝特瓶">宝特瓶</a></td>
+<td>60~85</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E4%B9%99%E7%83%AF" title="聚乙烯">HDPE</a></td>
+<td><a href="/wiki/%E5%A1%91%E8%86%A0%E8%A2%8B" class="mw-redirect" title="塑料袋">塑料袋</a>、纸盒或纸碗或纸杯的内层、保鲜膜</td>
+<td>90~110</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E6%B0%AF%E4%B9%99%E7%83%AF" title="聚氯乙烯">PVC</a></td>
+<td>保鲜膜</td>
+<td>60~80</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E4%B9%99%E7%83%AF" title="聚乙烯">LDPE</a></td>
+<td>塑料袋、纸盒或纸碗或纸杯的内层</td>
+<td>70~90</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E4%B8%99%E7%83%AF" title="聚丙烯">PP</a></td>
+<td>塑料袋、纸盒或纸碗或纸杯的内层、可微波的塑胶容器、吸管</td>
+<td>100~140</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+<tr>
+<td><a href="/wiki/%E8%81%9A%E8%8B%AF%E4%B9%99%E7%83%AF" title="聚苯乙烯">PS</a></td>
+<td>泡面的碗</td>
+<td>70~90</td>
+<td class="table-no" style="text-align:center; background:#FF9090">否
+</td></tr>
+<tr>
+<td>其他</td>
+<td><a href="/wiki/%E4%B8%89%E8%81%9A%E6%B0%B0%E8%83%BA-%E7%94%B2%E9%86%9B%E6%A0%91%E8%84%82" title="三聚氰胺-甲醛树脂">美耐皿</a>、<a href="/wiki/%E8%81%9A%E7%A2%B3%E9%85%B8%E9%85%AF" title="聚碳酸酯">运动水壶</a></td>
+<td>120~130</td>
+<td class="table-yes" style="text-align:center; background:#90FF90">是
+</td></tr>
+</tbody></table>
+<h3><span id=".E9.A3.9F.E7.89.A9"></span><span class="mw-headline" id="食物">食物</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=6" title="编辑章节：食物"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>微波烹饪对于高水分食品如粥、饭、面条、牛奶、蔬菜等是合适的。脂肪含量高水分含量低的食物，如坚果、奶酪、五花肉等，用微波炉加热时由于温度上升过快容易焦煳。</li>
+<li>使用微波炉加热<a href="/wiki/%E8%84%82%E8%82%AA" title="脂肪">脂肪</a>含量高的食物，如：含有大量脂肪的<a href="/wiki/%E8%82%89%E7%B1%BB%E9%A3%9F%E7%89%A9" title="肉类食物">肉类食品</a>时，应在容器上方加上盖子，以免<a href="/wiki/%E8%84%82%E8%82%AA" title="脂肪">脂肪</a>因过热喷离肉类至炉内部。</li>
+<li>带壳、带皮食物须戳破或去除外皮后再微波，否则会因内部水分蒸发导致内部压力增加而爆裂。
+<ul><li>带壳<a href="/wiki/%E8%9B%8B" class="mw-redirect" title="蛋">蛋</a>不论生熟都不应微波加热。去壳生蛋须刺破蛋黄，否则高温加热时也会爆裂喷溅；去壳熟蛋因蛋白紧密包覆，蛋黄依然有可能爆裂，需切开加热。<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li></ul></li>
+<li>加热液体时应避免单独入微波炉加热，要放置搅拌棒等以助热能释放。没有杂质的蒸馏水加热后尤其不应立即取出，因温度可能已经超过沸点但仍然不沸腾汽化，一旦受到扰动则会<a href="/wiki/%E6%9A%B4%E6%B2%B8" title="暴沸">暴沸</a><a href="/wiki/%E7%81%BC%E5%82%B7" title="灼伤">灼伤</a>。一般家用自来水因为其中含有少许杂质，单独加热也会沸腾。<sup id="cite_ref-流言终结者_4-2" class="reference"><a href="#cite_note-流言终结者-4">&#91;4&#93;</a></sup></li>
+<li>婴儿食品谨慎使用微波炉加热，<a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6" title="中国农业大学">中国农业大学</a>食品学院营养与食品安全系副教授范志红表示，这主要是为了避免加热不均匀带来的营养素损失，也避免过高的温度可能产生有害物质。因为婴儿对营养素的需求是非常严格的，身体的解毒能力也远未发育完全。<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li></ul>
+<h3><span id=".E5.85.B6.E4.BB.96"></span><span class="mw-headline" id="其他">其他</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=7" title="编辑章节：其他"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>研究显示，使用微波炉并不会增加致突变原或致癌原。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>留意时间上限问题。</li>
+<li>医学界的确禁止使用普通微波炉融化冰冻的血浆，原因在于用普通微波炉加热时，血液制品因受热不均匀，容易出现局部过热。而血液一旦温度升高到40℃以上就会出现溶血，严重的溶血反应可以导致身体组织死亡，危及患者生命。这种医疗事故并非是微波加热本身会产生毒性。</li></ul>
+<h2><span id=".E5.8F.82.E8.A6.8B"></span><span class="mw-headline" id="参見">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=8" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%A1%91%E8%86%A0%E5%88%86%E9%A1%9E%E6%A8%99%E8%AA%8C" title="塑胶分类标志">塑胶分类标志</a></li>
+<li><a href="/wiki/%E5%BF%AB%E9%A4%90" title="快餐">速食</a>文化</li>
+<li><a href="/wiki/%E5%BE%AE%E6%B3%A2%E7%88%90%E4%BE%BF%E7%95%B6" title="微波炉便当">微波炉便当</a></li></ul>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=9" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">（<a href="/wiki/%E7%BE%8E%E5%9B%BD" title="美国">美</a>）鲍勃·约翰斯通. 我们在燃烧. 华夏出版社. 2004年. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/7-5080-3534-8" title="Special:网络书源/7-5080-3534-8"><span title="国际标准书号">ISBN</span>&#160;7-5080-3534-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.au=%EF%BC%88%E7%BE%8E%EF%BC%89%E9%B2%8D%E5%8B%83%C2%B7%E7%BA%A6%E7%BF%B0%E6%96%AF%E9%80%9A&amp;rft.btitle=%E6%88%91%E4%BB%AC%E5%9C%A8%E7%87%83%E7%83%A7&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=7-5080-3534-8&amp;rft.pub=%E5%8D%8E%E5%A4%8F%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">David M. Pozar. 微波工程. 由郭仁财翻译. 高立图书. 2016: 第672页. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9789863780809" title="Special:网络书源/9789863780809"><span title="国际标准书号">ISBN</span>&#160;9789863780809</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.au=David+M.+Pozar&amp;rft.btitle=%E5%BE%AE%E6%B3%A2%E5%B7%A5%E7%A8%8B&amp;rft.date=2016&amp;rft.genre=book&amp;rft.isbn=9789863780809&amp;rft.pages=%E7%AC%AC672%E9%A0%81&amp;rft.pub=%E9%AB%98%E7%AB%8B%E5%9C%96%E6%9B%B8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Schmitt, Ron. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402160705/http://books.google.fi/books?id=7gJ4RocvEskC">Electromagnetics Explained: a handbook for wireless/RF, EMC, and high-speed electronics</a>. Burlington, Mass., USA: Elsevier. 2002: 343 <span class="reference-accessdate"> &#91;<span class="nowrap">3 December</span> 2012&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7506-7403-4" title="Special:网络书源/978-0-7506-7403-4"><span title="国际标准书号">ISBN</span>&#160;978-0-7506-7403-4</a>. （<a rel="nofollow" class="external text" href="http://books.google.fi/books?id=7gJ4RocvEskC">原始内容</a>存档于2015-04-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.aufirst=Ron&amp;rft.aulast=Schmitt&amp;rft.btitle=Electromagnetics+Explained%3A+a+handbook+for+wireless%2FRF%2C+EMC%2C+and+high-speed+electronics&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=978-0-7506-7403-4&amp;rft.pages=343&amp;rft.place=Burlington%2C+Mass.%2C+USA&amp;rft.pub=Elsevier&amp;rft_id=http%3A%2F%2Fbooks.google.fi%2Fbooks%3Fid%3D7gJ4RocvEskC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-流言终结者-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-流言终结者_4-0"><sup><b>4.0</b></sup></a> <a href="#cite_ref-流言终结者_4-1"><sup><b>4.1</b></sup></a> <a href="#cite_ref-流言终结者_4-2"><sup><b>4.2</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.56.com/u16/v_MTk1MzM4MDU.html">流言终结者：铜板砸死人（下）</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2013-05-21</span>&#93;</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.btitle=%E6%B5%81%E8%A8%80%E7%BB%88%E7%BB%93%E8%80%85%EF%BC%9A%E9%93%9C%E6%9D%BF%E7%A0%B8%E6%AD%BB%E4%BA%BA%EF%BC%88%E4%B8%8B%EF%BC%89&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.56.com%2Fu16%2Fv_MTk1MzM4MDU.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2018年2月失效">永久失效链接</span></a>&#93;</span></sup></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110731204844/http://www.tepu.org.tw/?p=1086&amp;cat=31&amp;pgid=132">我們的年夜飯安全嗎？</a>. 看守台湾协会. 2008-01-30 <span class="reference-accessdate"> &#91;<span class="nowrap">2012-04-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.tepu.org.tw/?p=1086&amp;cat=31&amp;pgid=132">原始内容</a>存档于2011-07-31） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（台湾）网页">（中文（台湾））</span>. <q>PVC保鲜膜添加有大量的塑化剂</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E6%88%91%E5%80%91%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A3%AF%E5%AE%89%E5%85%A8%E5%97%8E%EF%BC%9F&amp;rft.date=2008-01-30&amp;rft.genre=unknown&amp;rft.jtitle=%E7%9C%8B%E5%AE%88%E5%8F%B0%E7%81%A3%E5%8D%94%E6%9C%83&amp;rft_id=http%3A%2F%2Fwww.tepu.org.tw%2F%3Fp%3D1086%26cat%3D31%26pgid%3D132&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100926171011/http://plasticsinfo.org/s_plasticsinfo/sec_level2_faq.asp?CID=703&amp;DID=2837">FAQs: Using Plastics in the Microwave</a>. American Chemistry Council.  <span class="reference-accessdate"> &#91;<span class="nowrap">12 May</span> 2010&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.plasticsinfo.org/s_plasticsinfo/sec_level2_faq.asp?CID=703&amp;DID=2837">原始内容</a>存档于26 September 2010）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.btitle=FAQs%3A+Using+Plastics+in+the+Microwave&amp;rft.genre=unknown&amp;rft.pub=American+Chemistry+Council&amp;rft_id=http%3A%2F%2Fwww.plasticsinfo.org%2Fs_plasticsinfo%2Fsec_level2_faq.asp%3FCID%3D703%26DID%3D2837&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">刘宜叡. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200518064048/https://www.thenewslens.com/article/111326">裝滷味的塑膠袋耐熱嗎？破解塑膠容器五大疑慮</a>. The News Lens 关键评论.  <span class="reference-accessdate"> &#91;<span class="nowrap">2019-02-07</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.thenewslens.com/article/111326">原始内容</a>存档于2020-05-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E8%A3%9D%E6%BB%B7%E5%91%B3%E7%9A%84%E5%A1%91%E8%86%A0%E8%A2%8B%E8%80%90%E7%86%B1%E5%97%8E%EF%BC%9F%E7%A0%B4%E8%A7%A3%E5%A1%91%E8%86%A0%E5%AE%B9%E5%99%A8%E4%BA%94%E5%A4%A7%E7%96%91%E6%85%AE&amp;rft.au=%E5%8A%89%E5%AE%9C%E5%8F%A1&amp;rft.genre=unknown&amp;rft.jtitle=The+News+Lens+%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96&amp;rft_id=https%3A%2F%2Fwww.thenewslens.com%2Farticle%2F111326&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200518064055/https://plasticspackage.pidc.org.tw/learn-container-30.html">認識、挑選及使用食品容器具</a>. 卫生福利部食品药物管理署.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-20</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://plasticspackage.pidc.org.tw/learn-container-30.html">原始内容</a>存档于2020-05-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E8%AA%8D%E8%AD%98%E3%80%81%E6%8C%91%E9%81%B8%E5%8F%8A%E4%BD%BF%E7%94%A8%E9%A3%9F%E5%93%81%E5%AE%B9%E5%99%A8%E5%85%B7&amp;rft.genre=unknown&amp;rft.jtitle=%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E9%A3%9F%E5%93%81%E8%97%A5%E7%89%A9%E7%AE%A1%E7%90%86%E7%BD%B2&amp;rft_id=https%3A%2F%2Fplasticspackage.pidc.org.tw%2Flearn-container-30.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">ETtoday新闻云. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20211212084141/https://house.ettoday.net/news/1643843">爸爸加熱水煮蛋…下秒「原地自爆炸巨響」全家驚醒！ 網長知識：我也這樣過 | ETtoday房產雲</a>. house.ettoday.net.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-25</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://house.ettoday.net/news/1643843">原始内容</a>存档于2021-12-12） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（繁体）网页">（中文（繁体））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E7%88%B8%E7%88%B8%E5%8A%A0%E7%86%B1%E6%B0%B4%E7%85%AE%E8%9B%8B%E2%80%A6%E4%B8%8B%E7%A7%92%E3%80%8C%E5%8E%9F%E5%9C%B0%E8%87%AA%E7%88%86%E7%82%B8%E5%B7%A8%E9%9F%BF%E3%80%8D%E5%85%A8%E5%AE%B6%E9%A9%9A%E9%86%92%EF%BC%81+%E7%B6%B2%E9%95%B7%E7%9F%A5%E8%AD%98%EF%BC%9A%E6%88%91%E4%B9%9F%E9%80%99%E6%A8%A3%E9%81%8E+%7C+ETtoday%E6%88%BF%E7%94%A2%E9%9B%B2&amp;rft.au=ETtoday%E6%96%B0%E8%81%9E%E9%9B%B2&amp;rft.genre=unknown&amp;rft.jtitle=house.ettoday.net&amp;rft_id=https%3A%2F%2Fhouse.ettoday.net%2Fnews%2F1643843&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">foodNEXT, 食力. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200518064103/https://www.foodnext.net/life/lifesafe/paper/4111169812">想把茶葉蛋再加熱，拿去微波？千萬別這麼做！</a>. 食力 foodNEXT.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-25</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.foodnext.net/life/lifesafe/paper/4111169812">原始内容</a>存档于2020-05-18） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（台湾）网页">（中文（台湾））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E6%83%B3%E6%8A%8A%E8%8C%B6%E8%91%89%E8%9B%8B%E5%86%8D%E5%8A%A0%E7%86%B1%EF%BC%8C%E6%8B%BF%E5%8E%BB%E5%BE%AE%E6%B3%A2%EF%BC%9F%E5%8D%83%E8%90%AC%E5%88%A5%E9%80%99%E9%BA%BC%E5%81%9A%EF%BC%81&amp;rft.aufirst=%E9%A3%9F%E5%8A%9B&amp;rft.aulast=foodNEXT&amp;rft.genre=unknown&amp;rft.jtitle=%E9%A3%9F%E5%8A%9B+foodNEXT&amp;rft_id=https%3A%2F%2Fwww.foodnext.net%2Flife%2Flifesafe%2Fpaper%2F4111169812&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">中关村在线. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200518064110/https://tech.sina.com.cn/e/2020-01-09/doc-iihnzhha1256376.shtml">微波炉7大冷门知识 使用过程中勿忘</a>. tech.sina.com.cn. 2020-01-09 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-25</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://tech.sina.com.cn/e/2020-01-09/doc-iihnzhha1256376.shtml">原始内容</a>存档于2020-05-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.atitle=%E5%BE%AE%E6%B3%A2%E7%82%897%E5%A4%A7%E5%86%B7%E9%97%A8%E7%9F%A5%E8%AF%86+%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E5%8B%BF%E5%BF%98&amp;rft.au=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF&amp;rft.date=2020-01-09&amp;rft.genre=unknown&amp;rft.jtitle=tech.sina.com.cn&amp;rft_id=https%3A%2F%2Ftech.sina.com.cn%2Fe%2F2020-01-09%2Fdoc-iihnzhha1256376.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">人民网<a rel="nofollow" class="external autonumber" href="http://paper.people.com.cn/xaq/html/2013-04/26/content_1231970.htm?div=-1">[1]</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20160304074658/http://paper.people.com.cn/xaq/html/2013-04/26/content_1231970.htm?div=-1">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/7959444/">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2021-04-16</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420033046/https://pubmed.ncbi.nlm.nih.gov/7959444/">存档</a>于2021-04-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%BE%AE%E6%B3%A2%E7%82%89&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F7959444%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;action=edit&amp;section=10" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.thenewslens.com/article/91387">【图辑】会致癌？有辐射？各种微波炉谣言一次破解</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20201225065937/https://www.thenewslens.com/article/91387">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://4rdp.blogspot.com/2008/04/blog-post_20.html">微波炉使用</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20220330061242/http://4rdp.blogspot.com/2008/04/blog-post_20.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.tudou.com/programs/view/VMnutPzD1KM/">突沸视频</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20150603085938/http://www.tudou.com/programs/view/VMnutPzD1KM/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li>科普文：<a rel="nofollow" class="external text" href="http://www.guokr.com/article/96408/">微波炉加热食物会产生危害吗？</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210609061954/http://www.guokr.com/article/96408/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（简体中文）</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.people.com.cn/GB/huanbao/8220/30473/39442/39454/2922358.html">捕捉微波炉的三种“秋波”：选择钟情之“波”</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200518064230/http://www.people.com.cn/GB/huanbao/8220/30473/39442/39454/2922358.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（中文）</span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080513170330/http://www.meishichina.com/Eat/WeiBo/Index.html">美食中国：微波炉菜谱</a><span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（简体中文）</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.meishij.net/chufang/diy/weibolucaipu/">美食杰：微波炉菜谱</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20220603043735/http://www.meishij.net/chufang/diy/weibolucaipu/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）<span style="font-family: sans-serif; cursor: default; color:#54595d; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="中文">（简体中文）</span></li></ul>
+<p><br />
+</p>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E7%83%B9%E9%A3%AA%E6%8A%80%E8%A1%93" title="Template:烹饪技术"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E7%83%B9%E9%A3%AA%E6%8A%80%E8%A1%93" title="Template talk:烹饪技术"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E7%83%B9%E9%A3%AA%E6%8A%80%E8%A1%93&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E7%83%B9%E9%A3%AA" class="mw-redirect" title="烹饪">烹饪</a>技术</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">干烹</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E7%86%B1%E5%82%B3%E5%B0%8E" class="mw-redirect" title="热传导">热传导</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="乾烤" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dry roasting"><span class="ilh-page"><a href="/w/index.php?title=%E4%B9%BE%E7%83%A4&amp;action=edit&amp;redlink=1" class="new" title="干烤（页面不存在）">干烤</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dry_roasting" class="extiw" title="en:Dry roasting"><span lang="en" dir="auto">Dry roasting</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B2%B9%E7%85%8E" title="油煎">煎</a></li>
+<li><a href="/w/index.php?title=%E9%B9%BD%E7%82%92&amp;action=edit&amp;redlink=1" class="new" title="盐炒（页面不存在）">盐炒</a>＆<span class="ilh-all" data-orig-title="盐焗" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hot salt frying"><span class="ilh-page"><a href="/w/index.php?title=%E7%9B%90%E7%84%97&amp;action=edit&amp;redlink=1" class="new" title="盐焗（页面不存在）">盐焗</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hot_salt_frying" class="extiw" title="en:Hot salt frying"><span lang="en" dir="auto">Hot salt frying</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B2%99%E7%82%92" title="沙炒">沙炒</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E5%AF%B9%E6%B5%81%E4%BC%A0%E7%83%AD" title="对流传热">热对流</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%83%A4" title="烤">烤</a></li>
+<li><a href="/wiki/%E7%84%97%E7%83%A4" class="mw-redirect" title="焗烤">焗烤</a></li>
+<li><a href="/wiki/%E7%87%92%E7%83%A4" title="烧烤">烧烤</a>
+<ul><li>烘烤</li></ul></li>
+<li><a href="/wiki/%E7%83%A4" title="烤">烤炙</a></li>
+<li><a href="/wiki/%E7%86%8F" title="熏">烟熏</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><a href="/wiki/%E7%86%B1%E8%BC%BB%E5%B0%84" title="热辐射">热辐射</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E7%82%AD%E7%87%92&amp;action=edit&amp;redlink=1" class="new" title="炭烧（页面不存在）">炭烧</a>＆<a href="/wiki/%E7%87%92%E7%83%A4" title="烧烤">炭烤</a></li>
+<li><a href="/wiki/%E9%A0%82%E7%83%98" class="mw-redirect" title="顶烘">顶烘</a></li>
+<li><span class="ilh-all" data-orig-title="烘 (烤盤)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Grilling (gridiron)"><span class="ilh-page"><a href="/w/index.php?title=%E7%83%98_(%E7%83%A4%E7%9B%A4)&amp;action=edit&amp;redlink=1" class="new" title="烘 (烤盘)（页面不存在）">烘</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Grilling_(gridiron)" class="extiw" title="en:Grilling (gridiron)"><span lang="en" dir="auto">Grilling (gridiron)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A4%9A%E5%A3%AB" title="多士">烤面包</a></li>
+<li><a href="/wiki/%E7%83%A4" title="烤">烤炙</a></li>
+<li><a href="/wiki/%E5%8F%89%E7%87%92" title="叉烧">叉烤肉</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B0%B4" title="水">水</a>烹</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;">高温加热</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%85%AE" title="煮">煮</a></li>
+<li><a href="/wiki/%E7%85%8E%E7%85%AE" class="mw-redirect" title="煎煮">煎煮</a></li>
+<li><span class="ilh-all" data-orig-title="濾煮" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parboiling"><span class="ilh-page"><a href="/w/index.php?title=%E6%BF%BE%E7%85%AE&amp;action=edit&amp;redlink=1" class="new" title="滤煮（页面不存在）">滤煮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parboiling" class="extiw" title="en:Parboiling"><span lang="en" dir="auto">Parboiling</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%87%99%E9%BA%B5" title="烫面">烫面</a></li>
+<li><a href="/wiki/%E7%84%AF" title="焯">焯</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;">低温加热</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="文火煮" data-lang-code="en" data-lang-name="英语" data-foreign-title="Coddling"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E7%81%AB%E7%85%AE&amp;action=edit&amp;redlink=1" class="new" title="文火煮（页面不存在）">文火煮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Coddling" class="extiw" title="en:Coddling"><span lang="en" dir="auto">Coddling</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="擂油" data-lang-code="en" data-lang-name="英语" data-foreign-title="Creaming (food)"><span class="ilh-page"><a href="/w/index.php?title=%E6%93%82%E6%B2%B9&amp;action=edit&amp;redlink=1" class="new" title="擂油（页面不存在）">擂油</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Creaming_(food)" class="extiw" title="en:Creaming (food)"><span lang="en" dir="auto">Creaming (food)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="沏" data-lang-code="en" data-lang-name="英语" data-foreign-title="Infusion"><span class="ilh-page"><a href="/w/index.php?title=%E6%B2%8F&amp;action=edit&amp;redlink=1" class="new" title="沏（页面不存在）">沏</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Infusion" class="extiw" title="en:Infusion"><span lang="en" dir="auto">Infusion</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B0%B4%E7%85%AE" title="水煮">水煮</a></li>
+<li><a href="/w/index.php?title=%E8%92%B8%E7%87%89&amp;action=edit&amp;redlink=1" class="new" title="蒸炖（页面不存在）">炖</a></li>
+<li><span class="ilh-all" data-orig-title="慢煮鍋" data-lang-code="en" data-lang-name="英语" data-foreign-title="Slow cooker"><span class="ilh-page"><a href="/w/index.php?title=%E6%85%A2%E7%85%AE%E9%8D%8B&amp;action=edit&amp;redlink=1" class="new" title="慢煮锅（页面不存在）">慢煮锅</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Slow_cooker" class="extiw" title="en:Slow cooker"><span lang="en" dir="auto">Slow cooker</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B5%B8%E6%BC%AC" class="mw-redirect" title="浸渍">浸渍</a></li>
+<li><a href="/wiki/%E7%82%96" title="炖">炖煮</a></li>
+<li><span class="ilh-all" data-orig-title="掩煮" data-lang-code="en" data-lang-name="英语" data-foreign-title="Smothering (food)"><span class="ilh-page"><a href="/w/index.php?title=%E6%8E%A9%E7%85%AE&amp;action=edit&amp;redlink=1" class="new" title="掩煮（页面不存在）">掩煮</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Smothering_(food)" class="extiw" title="en:Smothering (food)"><span lang="en" dir="auto">Smothering (food)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%9C%9F%E7%A9%BA%E4%BD%8E%E6%BA%AB%E7%83%B9%E8%AA%BF%E6%B3%95" title="真空低温烹调法">真空烹调</a></li>
+<li><a href="/wiki/%E7%82%86" title="炆">炆</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;">间接加热</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="隔水燉" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bain-marie"><span class="ilh-page"><a href="/w/index.php?title=%E9%9A%94%E6%B0%B4%E7%87%89&amp;action=edit&amp;redlink=1" class="new" title="隔水炖（页面不存在）">隔水炖</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bain-marie" class="extiw" title="en:Bain-marie"><span lang="en" dir="auto">Bain-marie</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="雙層蒸鍋" data-lang-code="en" data-lang-name="英语" data-foreign-title="Double steaming"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%99%E5%B1%A4%E8%92%B8%E9%8D%8B&amp;action=edit&amp;redlink=1" class="new" title="双层蒸锅（页面不存在）">双层蒸锅</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Double_steaming" class="extiw" title="en:Double steaming"><span lang="en" dir="auto">Double steaming</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%82%96" title="炖">炖</a>
+<ul><li><a href="/wiki/%E6%B0%B4" title="水">水</a>蒸<a href="/w/index.php?title=%E6%B5%81%E8%B3%AA&amp;action=edit&amp;redlink=1" class="new" title="流质（页面不存在）">流质</a></li></ul></li>
+<li><a href="/wiki/%E8%92%B8" title="蒸">蒸</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%A3%9F%E7%94%A8%E6%B2%B9" title="食用油">脂</a>烹</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;">高温加热</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B2%E9%A6%8F" title="干馏">焦化</a></li>
+<li><span class="ilh-all" data-orig-title="燒黑" data-lang-code="en" data-lang-name="英语" data-foreign-title="Blackening (cooking)"><span class="ilh-page"><a href="/w/index.php?title=%E7%87%92%E9%BB%91&amp;action=edit&amp;redlink=1" class="new" title="烧黑（页面不存在）">烧黑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Blackening_(cooking)" class="extiw" title="en:Blackening (cooking)"><span lang="en" dir="auto">Blackening (cooking)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%82%B8" title="炸">炸</a></li>
+<li><a href="/wiki/%E6%B2%B9%E7%85%8E" title="油煎">煎封</a></li>
+<li><a href="/wiki/%E5%AB%A9%E7%85%8E" class="mw-redirect" title="嫩煎">嫩煎</a></li>
+<li><a href="/wiki/%E7%82%92" title="炒">炒</a></li>
+<li><a href="/wiki/%E7%88%86%E7%82%92" title="爆炒">爆炒</a></li>
+<li><a href="/wiki/%E6%B2%B9%E7%85%8E" title="油煎">煎</a></li>
+<li><a href="/wiki/%E7%88%86%E9%A6%99" title="爆香">爆香</a></li>
+<li><a href="/wiki/%E6%A2%85%E7%B4%8D%E5%8F%8D%E6%87%89" class="mw-redirect" title="梅纳反应">梅纳反应</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;">低温加热</div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="焦糖化" data-lang-code="en" data-lang-name="英语" data-foreign-title="Caramelization"><span class="ilh-page"><a href="/w/index.php?title=%E7%84%A6%E7%B3%96%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="焦糖化（页面不存在）">焦糖化</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Caramelization" class="extiw" title="en:Caramelization"><span lang="en" dir="auto">Caramelization</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="文煎" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gentle frying"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E7%85%8E&amp;action=edit&amp;redlink=1" class="new" title="文煎（页面不存在）">文煎</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gentle_frying" class="extiw" title="en:Gentle frying"><span lang="en" dir="auto">Gentle frying</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%87%BA%E6%B0%B4" title="出水">出水</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">混合媒介</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%87%92%E7%83%A4" title="烧烤">烧烤</a></li>
+<li><a href="/wiki/%E7%84%96%E7%83%A7_(%E9%A5%AE%E9%A3%9F)" title="焖烧 (饮食)">烧</a></li>
+<li><span class="ilh-all" data-orig-title="鏊烘" data-lang-code="en" data-lang-name="英语" data-foreign-title="Griddle"><span class="ilh-page"><a href="/w/index.php?title=%E9%8F%8A%E7%83%98&amp;action=edit&amp;redlink=1" class="new" title="鏊烘（页面不存在）">鏊烘</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Griddle" class="extiw" title="en:Griddle"><span lang="en" dir="auto">Griddle</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%82%92" title="炒">炒</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">设备基础</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%B0%A3%E7%82%B8%E9%8D%8B" title="气炸锅">气炸锅</a></li>
+<li><a class="mw-selflink selflink">微波炉</a></li>
+<li><a href="/wiki/%E5%A3%93%E5%8A%9B%E9%8D%8B" title="压力锅">压力锅</a></li>
+<li><a href="/wiki/%E5%8E%8B%E5%8A%9B%E6%B2%B9%E7%82%B8" title="压力油炸">压力油炸</a></li>
+<li><a href="/wiki/%E7%87%9C%E7%87%92%E9%8D%8B" title="焖烧锅">焖烧锅</a></li>
+<li><a href="/wiki/%E7%87%9C%E7%87%92%E6%9D%AF" title="焖烧杯">焖烧杯</a></li>
+<li><a href="/wiki/%E6%B0%A3%E7%88%90" title="气炉">瓦斯炉</a></li>
+<li><a href="/wiki/%E9%9B%BB%E7%A3%81%E7%88%90" title="电磁炉">电磁炉</a></li>
+<li><a href="/wiki/%E7%94%B5%E9%99%B6%E7%82%89" title="电陶炉">电陶炉</a></li>
+<li><a href="/wiki/%E7%83%A4%E7%88%90" title="烤炉">烤炉</a></li>
+<li><a href="/wiki/%E6%B0%B4%E6%B3%A2%E7%88%90" title="水波炉">水波炉</a></li>
+<li><a href="/wiki/%E7%A0%82%E9%94%85" title="砂锅">砂锅</a>烹</li>
+<li><span class="ilh-all" data-orig-title="窯" data-lang-code="en" data-lang-name="英语" data-foreign-title="Earth oven"><span class="ilh-page"><a href="/wiki/%E7%AA%91" title="窑">窑</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Earth_oven" class="extiw" title="en:Earth oven"><span lang="en" dir="auto">Earth oven</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="砌石爐" data-lang-code="en" data-lang-name="英语" data-foreign-title="Roman oven"><span class="ilh-page"><a href="/w/index.php?title=%E7%A0%8C%E7%9F%B3%E7%88%90&amp;action=edit&amp;redlink=1" class="new" title="砌石炉（页面不存在）">砌石炉</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Roman_oven" class="extiw" title="en:Roman oven"><span lang="en" dir="auto">Roman oven</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%A5%E7%83%A4%E7%88%90" class="mw-redirect" title="泥烤炉">泥烤炉</a></li>
+<li><span class="ilh-all" data-orig-title="乾草箱" data-lang-code="en" data-lang-name="英语" data-foreign-title="Haybox"><span class="ilh-page"><a href="/w/index.php?title=%E4%B9%BE%E8%8D%89%E7%AE%B1&amp;action=edit&amp;redlink=1" class="new" title="干草箱（页面不存在）">干草箱</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Haybox" class="extiw" title="en:Haybox"><span lang="en" dir="auto">Haybox</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">非加热</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%86%83" title="腌">腌制防腐</a></li>
+<li><a href="/wiki/%E8%85%8C%E6%B3%A1" title="腌泡">腌渍入味</a></li>
+<li><span class="ilh-all" data-orig-title="酸化 (生物化学)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Souring"><span class="ilh-page"><a href="/w/index.php?title=%E9%85%B8%E5%8C%96_(%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6)&amp;action=edit&amp;redlink=1" class="new" title="酸化 (生物化学)（页面不存在）">酸化</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Souring" class="extiw" title="en:Souring"><span lang="en" dir="auto">Souring</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%8F%91%E9%85%B5" title="发酵">发酵食物</a></li>
+<li><a href="/wiki/%E5%87%89%E6%8B%8C" title="凉拌">凉拌</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">另见</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="食品製作" data-lang-code="en" data-lang-name="英语" data-foreign-title="Food preparation"><span class="ilh-page"><a href="/w/index.php?title=%E9%A3%9F%E5%93%81%E8%A3%BD%E4%BD%9C&amp;action=edit&amp;redlink=1" class="new" title="食品制作（页面不存在）">食品制作</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Food_preparation" class="extiw" title="en:Food preparation"><span lang="en" dir="auto">Food preparation</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%A3%9F%E5%93%81%E4%BF%9D%E5%AD%98" title="食品保存">食物保存法</a></li>
+<li><a href="/wiki/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8" title="食品安全">食品安全</a></li>
+<li><a href="/wiki/%E5%86%92%E7%85%99%E9%BB%9E" title="冒烟点">冒烟点</a></li>
+<li><a href="/wiki/%E5%8E%BB%E8%85%A5" title="去腥">去腥</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q127956" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E8%97%9D%E8%A1%93%E8%88%87%E5%BB%BA%E7%AF%89%E7%B4%A2%E5%BC%95%E5%85%B8" title="艺术与建筑索引典">AAT</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://vocab.getty.edu/page/aat/300200798">300200798</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11969492v">cb11969492v</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11969492v">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007533697205171">987007533697205171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85084969">sh85084969</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01181197">01181197</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph115315&amp;CON_LNG=ENG">ph115315</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐nh7q2
+Cached time: 20240401203904
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.469 seconds
+Real time usage: 0.642 seconds
+Preprocessor visited node count: 4188/1000000
+Post‐expand include size: 118166/2097152 bytes
+Template argument size: 8652/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 26/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19787/5000000 bytes
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 4736349/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  509.444      1 -total
+ 33.26%  169.432      1 Template:Refs
+ 30.62%  155.990      1 Template:烹飪技術
+ 30.02%  152.910      1 Template:Navbox
+ 16.52%   84.136      3 Template:Navbox_subgroup
+ 12.55%   63.951     16 Template:Tsl
+ 11.62%   59.191      1 Template:Authority_control
+ 10.87%   55.379      3 Template:Cite_book
+ 10.22%   52.079      1 Template:NoteTA
+  9.73%   49.583      1 Template:Dead_link
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:132197-0!userlang=zh-cn!zh-cn and timestamp 20240401203904 and revision id 76600044. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=微波炉&amp;oldid=76600044">https://zh.wikipedia.org/w/index.php?title=微波炉&amp;oldid=76600044</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E6%B6%88%E8%B2%BB%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81" title="Category:消費電子產品">消费电子产品</a></li><li><a href="/wiki/Category:%E7%85%AE%E9%A3%9F%E7%88%90" title="Category:煮食爐">煮食炉</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B42%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2018年2月带有失效链接的条目">自2018年2月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E6%9D%A1%E7%9B%AE%E6%9C%89%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%95%88%E7%9A%84%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Category:条目有永久失效的外部链接">条目有永久失效的外部链接</a></li><li><a href="/wiki/Category:%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:需补充来源的条目">需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8%E5%B0%8F%E5%9E%8B%E8%A8%8A%E6%81%AF%E6%A1%86%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:使用小型訊息框的頁面">使用小型讯息框的页面</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABAAT%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含AAT标识符的维基百科条目">包含AAT标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年3月31日 (星期五) 15:22。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%BE%AE%E6%B3%A2%E7%82%89&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2412","wgBackendResponseTime":158,"wgPageParseReport":{"limitreport":{"cputime":"0.469","walltime":"0.642","ppvisitednodes":{"value":4188,"limit":1000000},"postexpandincludesize":{"value":118166,"limit":2097152},"templateargumentsize":{"value":8652,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":19787,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  509.444      1 -total"," 33.26%  169.432      1 Template:Refs"," 30.62%  155.990      1 Template:烹飪技術"," 30.02%  152.910      1 Template:Navbox"," 16.52%   84.136      3 Template:Navbox_subgroup"," 12.55%   63.951     16 Template:Tsl"," 11.62%   59.191      1 Template:Authority_control"," 10.87%   55.379      3 Template:Cite_book"," 10.22%   52.079      1 Template:NoteTA","  9.73%   49.583      1 Template:Dead_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":4736349,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-nh7q2","timestamp":"20240401203904","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5fae\u6ce2\u7089","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%BE%AE%E6%B3%A2%E7%82%89","sameAs":"http:\/\/www.wikidata.org\/entity\/Q127956","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q127956","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-15T13:22:27Z","dateModified":"2023-03-31T15:22:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/85\/Consumer_Reports_-_Kenmore_microwave_oven.tif","headline":"\u53a8\u7528\u7535\u5668"}</script>
+</body>
+</html>

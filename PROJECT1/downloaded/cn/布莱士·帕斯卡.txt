@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>布莱兹·帕斯卡 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"da6e4153-3913-4504-9397-c8383a2a78f8","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"布莱兹·帕斯卡","wgTitle":"布莱兹·帕斯卡","wgCurRevisionId":79724032,"wgRevisionId":79724032,"wgArticleId":147605,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["使用ISBN魔术链接的页面","自2019年12月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","使用受影响于参数的人物信息框","含有hCards的条目","本地相关图片与维基数据不同","含有法語的條目","包含BIBSYS标识符的维基百科条目","包含BNA标识符的维基百科条目","包含BNC标识符的维基百科条目","包含BNE标识符的维基百科条目",
+"包含BNF标识符的维基百科条目","包含CINII标识符的维基百科条目","包含CONOR标识符的维基百科条目","包含FAST标识符的维基百科条目","包含GND标识符的维基百科条目","包含ISNI标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LAC标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含LNB标识符的维基百科条目","包含MusicBrainz标识符的维基百科条目","包含MGP标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","包含NLA标识符的维基百科条目","包含NLK标识符的维基百科条目","包含NLP标识符的维基百科条目","包含NNL标识符的维基百科条目","包含NSK标识符的维基百科条目","包含NTA标识符的维基百科条目","包含SBN标识符的维基百科条目","包含SELIBR标识符的维基百科条目","包含SNAC-ID标识符的维基百科条目",
+"包含SUDOC标识符的维基百科条目","包含VIAF标识符的维基百科条目","包含29元素的规范控制","1623年出生","1662年逝世","布莱兹·帕斯卡","法国数学家","法國物理學家","17世纪法国哲学家","歐洲紙幣上的人物","无神论批评者","克莱蒙费朗人","箴言作家","法国天主教神学家","杨森主义者"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"布莱兹·帕斯卡","wgRelevantArticleId":147605,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"布莱士·帕斯卡","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,
+"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1290","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready"
+,"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame",
+"ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/1200px-Blaise_Pascal_Versailles.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1429">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/800px-Blaise_Pascal_Versailles.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="953">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/640px-Blaise_Pascal_Versailles.JPG">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="762">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="布莱兹·帕斯卡 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-布莱兹·帕斯卡 rootpage-布莱兹·帕斯卡 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-早期的生活和教育"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#早期的生活和教育">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>早期的生活和教育</div>
+		</a>
+		
+		<ul id="toc-早期的生活和教育-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-对数学的贡献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#对数学的贡献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>对数学的贡献</div>
+		</a>
+		
+		<ul id="toc-对数学的贡献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-去世"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#去世">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>去世</div>
+		</a>
+		
+		<ul id="toc-去世-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-作品"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#作品">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>作品</div>
+		</a>
+		
+		<ul id="toc-作品-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-紀念"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#紀念">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>纪念</div>
+		</a>
+		
+		<ul id="toc-紀念-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參見"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參見">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>参见</div>
+		</a>
+		
+		<ul id="toc-參見-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">布莱兹·帕斯卡</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。135种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-135" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">135种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 瑞士德语" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%89%A5%E1%88%88%E1%8B%9D_%E1%8D%93%E1%88%B5%E1%8A%AB%E1%88%8D" title="ብለዝ ፓስካል – 阿姆哈拉语" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 阿拉贡语" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-anp mw-list-item"><a href="https://anp.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%BC_%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B2" title="ब्लेज़ पास्कल – 昂加语" lang="anp" hreflang="anp" class="interlanguage-link-target"><span>अंगिका</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%84%D9%8A%D8%B2_%D8%A8%D8%A7%D8%B3%D9%83%D8%A7%D9%84" title="بليز باسكال – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B3%D9%83%D8%A7%D9%84" title="باسكال – 埃及阿拉伯文" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-ay mw-list-item"><a href="https://ay.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 艾马拉语" lang="ay" hreflang="ay" class="interlanguage-link-target"><span>Aymar aru</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Blez_Paskal" title="Blez Paskal – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 巴什基尔语" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 巴伐利亞文" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 薩莫吉希亞文" lang="sgs" hreflang="sgs" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB" title="Блез Паскал – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9C_%E0%A6%AA%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B2" title="ব্লেজ পাস্কাল – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bo mw-list-item"><a href="https://bo.wikipedia.org/wiki/%E0%BD%95%E0%BD%B2%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BC%8B%E0%BD%9F%E0%BD%B2%E0%BC%8B%E0%BD%95%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%81%E0%BD%A3%E0%BC%8D" title="ཕི་ལེ་ཟི་ཕ་སི་ཁལ། – 藏语" lang="bo" hreflang="bo" class="interlanguage-link-target"><span>བོད་ཡིག</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 布列塔尼语" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%D9%84%DB%8E%D8%B2_%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84" title="بلێز پاسکال – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-crh mw-list-item"><a href="https://crh.wikipedia.org/wiki/Blez_Paskal" title="Blez Paskal – 克里米亚鞑靼语" lang="crh" hreflang="crh" class="interlanguage-link-target"><span>Qırımtatarca</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C,_%D0%91%D0%BB%D0%B5%D0%B7" title="Паскаль, Блез – 楚瓦什语" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 威尔士语" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%BB%CE%B5%CE%B6_%CE%A0%CE%B1%CF%83%CE%BA%CE%AC%CE%BB" title="Μπλεζ Πασκάλ – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%84%D8%B2_%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84" title="بلز پاسکال – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fiu-vro mw-list-item"><a href="https://fiu-vro.wikipedia.org/wiki/Pascali_Blaise" title="Pascali Blaise – 佛羅文" lang="vro" hreflang="vro" class="interlanguage-link-target"><span>Võro</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 法罗语" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 西弗里西亚语" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gan mw-list-item"><a href="https://gan.wikipedia.org/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1" title="帕斯卡 – 赣语" lang="gan" hreflang="gan" class="interlanguage-link-target"><span>贛語</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-got mw-list-item"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%B1%F0%90%8C%BB%F0%90%8C%B0%F0%90%8C%B9%F0%90%8D%83_%F0%90%8D%80%F0%90%8C%B0%F0%90%8D%83%F0%90%8C%BA%F0%90%8C%B0%F0%90%8C%BB" title="𐌱𐌻𐌰𐌹𐍃 𐍀𐌰𐍃𐌺𐌰𐌻 – 哥特语" lang="got" hreflang="got" class="interlanguage-link-target"><span>𐌲𐌿𐍄𐌹𐍃𐌺</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 豪萨语" lang="ha" hreflang="ha" class="interlanguage-link-target"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%96_%D7%A4%D7%A1%D7%A7%D7%9C" title="בלז פסקל – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%BC_%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B2" title="ब्लेज़ पास्कल – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr badge-Q17437796 badge-featuredarticle mw-list-item" title="典范条目"><a href="https://hr.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 海地克里奥尔语" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%AC%D5%A5%D5%A6_%D5%8A%D5%A1%D5%BD%D5%AF%D5%A1%D5%AC" title="Բլեզ Պասկալ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 国际语" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%91%E3%82%B9%E3%82%AB%E3%83%AB" title="ブレーズ・パスカル – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jam mw-list-item"><a href="https://jam.wikipedia.org/wiki/Bliez_Paskal" title="Bliez Paskal – 牙買加克里奧爾英文" lang="jam" hreflang="jam" class="interlanguage-link-target"><span>Patois</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 爪哇语" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9A%E1%83%94%E1%83%96_%E1%83%9E%E1%83%90%E1%83%A1%E1%83%99%E1%83%90%E1%83%9A%E1%83%98" title="ბლეზ პასკალი – 格鲁吉亚语" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 卡拜尔语" lang="kab" hreflang="kab" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kbp mw-list-item"><a href="https://kbp.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target"><span>Kabɩyɛ</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%B2%E0%B3%8D" title="ಪ್ಯಾಸ್ಕಲ್ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A0%88%EC%A6%88_%ED%8C%8C%EC%8A%A4%EC%B9%BC" title="블레즈 파스칼 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 库尔德语" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-kw mw-list-item"><a href="https://kw.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 康沃尔语" lang="kw" hreflang="kw" class="interlanguage-link-target"><span>Kernowek</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Blasius_Pascalis" title="Blasius Pascalis – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 卢森堡语" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lfn mw-list-item"><a href="https://lfn.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 新共同語言" lang="lfn" hreflang="lfn" class="interlanguage-link-target"><span>Lingua Franca Nova</span></a></li><li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 利古里亚语" lang="lij" hreflang="lij" class="interlanguage-link-target"><span>Ligure</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Bl%C4%93zs_Pask%C4%81ls" title="Blēzs Paskāls – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 马拉加斯语" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB" title="Блез Паскал – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B8%E0%B5%8D_%E0%B4%AA%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B5%BD" title="ബ്ലെയിസ് പാസ്കൽ – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 蒙古语" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9D_%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B2" title="ब्लेझ पास्कल – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mwl mw-list-item"><a href="https://mwl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 米兰德斯语" lang="mwl" hreflang="mwl" class="interlanguage-link-target"><span>Mirandés</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%87%E0%A4%9C_%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B2" title="ब्लेइज पास्कल – 尼泊尔语" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Blasi_Pascal" title="Blasi Pascal – 奥克语" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A8%B2%E0%A9%87%E0%A8%B8_%E0%A8%AA%E0%A8%BE%E0%A8%B8%E0%A8%95%E0%A8%BE%E0%A8%B2" title="ਬਲੇਸ ਪਾਸਕਾਲ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pam mw-list-item"><a href="https://pam.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 邦板牙语" lang="pam" hreflang="pam" class="interlanguage-link-target"><span>Kapampangan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 皮埃蒙特文" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D9%84%DB%8C%D8%B3_%D9%BE%D8%A7%D8%B3%DA%A9%D9%84" title="بلیس پاسکل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%A8%D9%84%D9%8A%D8%B2_%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84" title="بليز پاسکال – 普什图语" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-roa-rup mw-list-item"><a href="https://roa-rup.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 阿罗马尼亚语" lang="rup" hreflang="rup" class="interlanguage-link-target"><span>Armãneashti</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C,_%D0%91%D0%BB%D0%B5%D0%B7" title="Паскаль, Блез – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sc mw-list-item"><a href="https://sc.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 萨丁语" lang="sc" hreflang="sc" class="interlanguage-link-target"><span>Sardu</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 西西里语" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 苏格兰语" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%8A%E0%B6%BD%E0%B7%9A%E0%B7%83%E0%B7%8A_%E0%B6%B4%E0%B7%90%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B6%BD%E0%B7%8A" title="බ්ලේස් පැස්කල් – 僧伽罗语" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-skr mw-list-item"><a href="https://skr.wikipedia.org/wiki/%D8%A8%D9%84%DB%8C%D8%B2_%D9%BE%D8%A7%D8%B3%DA%A9%D9%84" title="بلیز پاسکل – 色莱基语" lang="skr" hreflang="skr" class="interlanguage-link-target"><span>سرائیکی</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB" title="Блез Паскал – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 巽他语" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-szy mw-list-item"><a href="https://szy.wikipedia.org/wiki/Pulayce-Pa%E2%80%99seka-e%EF%BC%88Blaise_Pascal%EF%BC%89%E5%B8%83%E8%90%8A%E8%8C%B2%E5%B8%95%E6%96%AF%E5%8D%A1%E7%88%BE" title="Pulayce-Pa’seka-e（Blaise Pascal）布萊茲帕斯卡爾 – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target"><span>Sakizaya</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%81_%E0%AE%AA%E0%AE%BE%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D" title="பிலைசு பாஸ்கல் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8D%E0%B0%B2%E0%B1%87%E0%B0%9C%E0%B1%8D_%E0%B0%AA%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%B2%E0%B1%8D" title="బ్లేజ్ పాస్కల్ – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB" title="Блез Паскал – 塔吉克语" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B8%8B_%E0%B8%9B%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5" title="แบลซ ปัสกาล – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 他加禄语" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B3%D9%83%D8%A7%D9%84" title="پاسكال – 维吾尔语" lang="ug" hreflang="ug" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B7_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C" title="Блез Паскаль – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D9%84%DB%8C%D8%B2_%D9%BE%D8%A7%D8%B3%DA%A9%D9%84" title="بلیز پاسکل – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 乌兹别克语" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vo mw-list-item"><a href="https://vo.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 沃拉普克语" lang="vo" hreflang="vo" class="interlanguage-link-target"><span>Volapük</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="布莱兹·帕斯卡 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%9A%E1%83%94%E1%83%96_%E1%83%9E%E1%83%90%E1%83%A1%E1%83%99%E1%83%90%E1%83%9A%E1%83%98" title="ბლეზ პასკალი – 明格列爾文" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-yo mw-list-item"><a href="https://yo.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 约鲁巴语" lang="yo" hreflang="yo" class="interlanguage-link-target"><span>Yorùbá</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1" title="帕斯卡 – 文言文" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Blaise_Pascal" title="Blaise Pascal – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E5%A3%AB%E5%B8%95%E6%96%AF%E5%8D%A1" title="布萊士帕斯卡 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1290#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;oldid=79724032" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;id=79724032&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B8%2583%25E8%258E%25B1%25E5%2585%25B9%25C2%25B7%25E5%25B8%2595%25E6%2596%25AF%25E5%258D%25A1"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25B8%2583%25E8%258E%25B1%25E5%2585%25B9%25C2%25B7%25E5%25B8%2595%25E6%2596%25AF%25E5%258D%25A1"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1290" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Blaise_Pascal" hreflang="en"><span>维基共享资源</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://zh.wikiquote.org/wiki/%E5%B8%83%E8%90%8A%E5%A3%AB%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" hreflang="zh"><span>维基语录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%A3%AB%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;redirect=no" class="mw-redirect" title="布莱士·帕斯卡">布莱士·帕斯卡</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-Refimprove plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要补充更多<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2019年12月7日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助补充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit">改善这篇条目</a>，<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81" class="mw-redirect" title="Wikipedia:可供查证">无法查证</a>的内容可能会因为<a href="/wiki/Template:Fact" class="mw-redirect" title="Template:Fact">异议提出</a>而被移除。<br />致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">"布莱兹·帕斯卡"</a> &#8212; <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="infobox biography vcard" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:88%;line-height:1.5em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">布莱兹‧帕斯卡<br />Blaise Pascal</span></th></tr><tr><td colspan="2" style="text-align:center"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Blaise_Pascal_Versailles.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/220px-Blaise_Pascal_Versailles.JPG" decoding="async" width="220" height="262" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/330px-Blaise_Pascal_Versailles.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG 2x" data-file-width="2365" data-file-height="2817" /></a></span><div>1691年弗朗索瓦二世-奎斯内尔为热拉尔-埃德林克制作的帕斯卡画像</div></td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap;;">出生</th><td style=""><span style="display:none">(<span class="bday">1623-06-19</span>)</span>1623年6月19日<br /><span class="birthplace"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/22px-Royal_Standard_of_the_King_of_France.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/33px-Royal_Standard_of_the_King_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/44px-Royal_Standard_of_the_King_of_France.svg.png 2x" data-file-width="1200" data-file-height="800" /></span></span>&#160;</span><a href="/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E7%8E%8B%E5%9C%8B" title="法兰西王国">法兰西王国</a><a href="/wiki/%E5%85%8B%E8%90%8A%E8%92%99%E8%B2%BB%E6%9C%97" class="mw-redirect" title="克莱蒙费朗">克莱蒙费朗</a></span></td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap;;">逝世</th><td style="">1662年8月19日<span style="display:none">(<span class="dday deathdate">1662岁—08—19</span>)</span>（39岁）<br /><span class="deathplace"><span class="flagicon"><span class="mw-image-border notpageimage" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/22px-Royal_Standard_of_the_King_of_France.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/33px-Royal_Standard_of_the_King_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Royal_Standard_of_the_King_of_France.svg/44px-Royal_Standard_of_the_King_of_France.svg.png 2x" data-file-width="1200" data-file-height="800" /></span></span>&#160;</span><a href="/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E7%8E%8B%E5%9C%8B" title="法兰西王国">法兰西王国</a><a href="/wiki/%E5%B7%B4%E9%BB%8E" title="巴黎">巴黎</a></span></td></tr><tr><th scope="row" style="text-align:left;white-space: nowrap;;">信仰</th><td class="category" style=""><a href="/wiki/%E8%A9%B9%E6%A3%AE%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="詹森主义">詹森主义</a></td></tr><tr><td colspan="2" style="text-align:center;"></td></tr><tr><th scope="row" style="text-align:left;">时代</th><td class="category" style=""><a href="/wiki/17%E4%B8%96%E7%B4%80%E5%93%B2%E5%AD%B8" class="mw-redirect" title="17世纪哲学">17世纪哲学</a></td></tr><tr><th scope="row" style="text-align:left;">地区</th><td class="category" style=""><a href="/wiki/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%B8" class="mw-redirect" title="西方哲学">西方哲学</a></td></tr><tr class="note"><th scope="row" style="text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="nowrap">主要领域</span></div></th><td style=""><a href="/wiki/%E7%A5%9E%E5%AD%B8" title="神学">神学</a>、<a href="/wiki/%E6%95%B8%E5%AD%B8" class="mw-redirect" title="数学">数学</a>、<a href="/wiki/%E5%93%B2%E5%AD%B8" class="mw-redirect" title="哲学">哲学</a>、<a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%B8" class="mw-redirect" title="物理学">物理学</a></td></tr><tr class="note"><th scope="row" style="text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="nowrap">著名思想</span></div></th><td style=""><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E7%9A%84%E8%B3%AD%E6%B3%A8" title="帕斯卡的赌注">帕斯卡的赌注</a>、<br /><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E4%B8%89%E8%A7%92" class="mw-redirect" title="帕斯卡三角">帕斯卡三角</a>、<br /><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%AE%9A%E5%BE%8B" title="帕斯卡定律">帕斯卡定律</a>、<br /><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%AE%9A%E7%90%86" title="帕斯卡定理">帕斯卡定理</a>、<br /><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E8%A8%88%E7%AE%97%E5%99%A8" class="mw-redirect" title="帕斯卡计算器">帕斯卡计算器</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center;"><div class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left; border: none; padding: 0;">
+<div style="line-height: 1.6em; font-weight: bold; background:transparent; text-align:left;"><div>受影响于</div></div>
+<ul class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height: inherit; list-style: none; margin-left: 0; text-align:left;"><li style="line-height: inherit; margin: 0"><a href="/wiki/%E5%B8%8C%E6%B3%A2%E7%9A%84%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81" title="希波的奥古斯丁">奥古斯丁</a>、<a href="/wiki/%E7%B1%B3%E6%AD%87%E7%88%BE%C2%B7%E5%BE%B7%C2%B7%E8%92%99%E6%B3%B0%E6%B6%85" class="mw-redirect" title="米歇尔·德·蒙泰涅">蒙泰涅</a>、<a href="/wiki/%E7%AC%9B%E5%8D%A1%E5%85%92" class="mw-redirect" title="笛卡儿">笛卡儿</a>、<a href="/w/index.php?title=%E5%BA%B7%E5%85%A7%E7%95%99%E6%96%AF%C2%B7%E5%A5%A7%E5%9C%96%C2%B7%E6%A5%8A%E6%A3%AE&amp;action=edit&amp;redlink=1" class="new" title="康内留斯·奥图·杨森（页面不存在）">杨森</a>、<a href="/wiki/%E6%84%9B%E6%AF%94%E5%85%8B%E6%B3%B0%E5%BE%B7" title="爱比克泰德">爱比克泰德</a></li></ul>
+</div></td></tr><tr><td colspan="2" style="text-align:center;"><div class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left; border: none; padding: 0;">
+<div style="line-height: 1.6em; font-weight: bold; background:transparent; text-align:left;"><div>影响于</div></div>
+<ul class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height: inherit; list-style: none; margin-left: 0; text-align:left;"><li style="line-height: inherit; margin: 0"><a href="/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%A9%B9%E5%A7%86%E5%A3%AB" title="威廉·詹姆士">威廉·詹姆士</a>、<a href="/wiki/%E8%90%8A%E5%B8%83%E5%B0%BC%E8%8C%B2" class="mw-redirect" title="莱布尼兹">莱布尼兹</a>、<a href="/wiki/%E5%8D%A2%E6%A2%AD" class="mw-redirect" title="卢梭">卢梭</a>、<a href="/wiki/%E6%89%98%E5%85%8B%E7%BB%B4%E5%B0%94" class="mw-redirect" title="托克维尔">托克维尔</a>、<a href="/wiki/%E5%B0%BC%E9%87%87" class="mw-redirect" title="尼采">尼采</a>、<a href="/wiki/%E6%9F%8F%E6%A0%BC%E6%A3%AE" class="mw-redirect" title="柏格森">柏格森</a>、<a href="/wiki/%E5%8D%A1%E7%93%A6%E8%80%B6%E6%96%AF" title="卡瓦耶斯">卡瓦耶斯</a>、<a href="/wiki/%E5%B8%83%E8%BF%AA%E5%8E%84" class="mw-redirect" title="布迪厄">布迪厄</a></li></ul>
+</div></td></tr></tbody></table>
+<p><b>布莱兹‧帕斯卡</b>（<span lang="fr"><b>Blaise Pascal</b></span>，1623年6月19日—1662年8月19日），<a href="/wiki/%E6%B3%95%E5%9B%BD" title="法国">法国</a><a href="/wiki/%E7%A5%9E%E5%AD%B8%E5%AE%B6" class="mw-redirect" title="神学家">神学家</a>、<a href="/wiki/%E5%93%B2%E5%AD%A6%E5%AE%B6" class="mw-redirect" title="哲学家">哲学家</a>、<a href="/wiki/%E6%95%B0%E5%AD%A6%E5%AE%B6" title="数学家">数学家</a>、<a href="/wiki/%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6" title="物理学家">物理学家</a>、<a href="/wiki/%E5%8C%96%E5%AD%B8%E5%AE%B6" class="mw-redirect" title="化学家">化学家</a>、<a href="/wiki/%E9%9F%B3%E6%A8%82%E5%AE%B6" class="mw-redirect" title="音乐家">音乐家</a>、<a href="/wiki/%E6%95%99%E8%82%B2%E5%AE%B6" title="教育家">教育家</a>、<a href="/wiki/%E6%B0%94%E8%B1%A1%E5%AD%A6%E5%AE%B6" class="mw-redirect" title="气象学家">气象学家</a>。帕斯卡早期进行自然和应用<a href="/wiki/%E7%A7%91%E5%AD%A6" title="科学">科学</a>的研究，对机械<a href="/wiki/%E8%AE%A1%E7%AE%97%E5%99%A8" class="mw-redirect" title="计算器">计算器</a>的制造和<a href="/wiki/%E6%B5%81%E4%BD%93" title="流体">流体</a>的研究作出重要贡献，扩展<a href="/wiki/%E6%89%98%E9%87%8C%E5%88%87%E5%88%A9" class="mw-redirect" title="托里切利">托里切利</a>的工作，澄清了<a href="/wiki/%E5%8E%8B%E5%BC%BA" title="压强">压强</a>和<a href="/wiki/%E7%9C%9F%E7%A9%BA" title="真空">真空</a>的概念。帕斯卡还有力地为<a href="/wiki/%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95" title="科学方法">科学方法</a>辩护。<a href="/wiki/%E6%95%B0%E5%AD%A6" title="数学">数学</a>上，帕斯卡促成了两个重要的新研究领域。他16岁写出一篇题为<a href="/wiki/%E5%B0%84%E5%BD%B1%E5%87%A0%E4%BD%95" title="射影几何">射影几何</a>的论文，1654年开始与<a href="/wiki/%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E8%B4%B9%E9%A9%AC" class="mw-redirect" title="皮埃尔·德·费马">皮埃尔·德·费马</a>通信，讨论<a href="/wiki/%E6%A6%82%E7%8E%87%E8%AE%BA" title="概率论">概率论</a>，深刻影响了现代<a href="/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="经济学">经济学</a>和<a href="/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6" title="社会科学">社会科学</a>的发展。
+</p><p>1654年末一次信仰上的神秘经历后，他离开数学和物理学，专注于沉思和<a href="/wiki/%E7%A5%9E%E5%AD%A6" class="mw-redirect" title="神学">神学</a>与哲学写作。他是坚定的<a href="/wiki/%E8%A9%B9%E6%A3%AE%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="詹森主义">詹森教派</a>信徒，人文思想大受<a href="/wiki/%E8%92%99%E7%94%B0" class="mw-redirect" title="蒙田">蒙田</a>影响。宗教论战之作《<span class="ilh-all" data-orig-title="致外省人书" data-lang-code="en" data-lang-name="英语" data-foreign-title="Lettres provinciales"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%B4%E5%A4%96%E7%9C%81%E4%BA%BA%E4%B9%A6&amp;action=edit&amp;redlink=1" class="new" title="致外省人书（页面不存在）">致外省人书</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Lettres_provinciales" class="extiw" title="en:Lettres provinciales"><span lang="en" dir="auto">Lettres provinciales</span></a></span>）</span></span>》（<i>Lettres provinciales</i>）被奉为<a href="/wiki/%E6%B3%95%E6%96%87" class="mw-redirect" title="法文">法文</a>写作的典范，身后其笔记本被编为《<a href="/wiki/%E6%80%9D%E6%83%B3%E9%8C%84" title="思想录">思想录</a>》。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E6.97.A9.E6.9C.9F.E7.9A.84.E7.94.9F.E6.B4.BB.E5.92.8C.E6.95.99.E8.82.B2"></span><span class="mw-headline" id="早期的生活和教育">早期的生活和教育</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=1" title="编辑章节：早期的生活和教育"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>帕斯卡出生于<a href="/wiki/%E5%85%8B%E8%90%8A%E8%92%99%E8%B2%BB%E6%9C%97" class="mw-redirect" title="克莱蒙费朗">克莱蒙费朗</a>，三岁丧母<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。他的父亲艾蒂安·帕斯卡（1588–1651），在<a href="/wiki/%E7%A7%91%E5%AD%B8" class="mw-redirect" title="科学">科学</a>和<a href="/wiki/%E6%95%B8%E5%AD%B8" class="mw-redirect" title="数学">数学</a>上有着很大的兴趣，是一名罗勃贵族和当地法官。帕斯卡有2名姊妹，妹妹叫杰奎琳，姐姐叫洁柏特。1631年，在他的妻子死亡五年后，艾蒂安和他的孩子们搬到了<a href="/wiki/%E5%B7%B4%E9%BB%8E" title="巴黎">巴黎</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。这个新抵达的家庭马上就聘请了一位女佣，露易丝‧迪佛特，而她最后并成为了这家庭重要的一位成员。艾蒂安从未再娶，由于他的孩子们都展现出杰出的智慧，所以他决定他将要独自教育他们，尤其是展现出数学和科学上惊人的天分的儿子布莱兹‧帕斯卡。
+</p><p>在他11岁那年，他创作了一篇有关于身体振动发出声音的论文，然后艾蒂安便在他儿子15岁前禁止他继续追求数学知识，以免他荒废<a href="/wiki/%E6%8B%89%E4%B8%81%E8%AA%9E" class="mw-redirect" title="拉丁语">拉丁语</a>和<a href="/wiki/%E5%B8%8C%E8%87%98%E6%96%87" class="mw-redirect" title="希腊文">希腊文</a>的学习。不过有一天，艾蒂安发现布莱兹（12岁）正用一块木炭在墙壁上写一项独立证明，即三角形的角度总和会等于两个直角相加即180度。从那时起，这个男孩便被允许学习<a href="/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95%E5%AD%A6" class="mw-redirect" title="欧几里得几何学">欧几里得几何学</a>，以及在默桑神父<a href="/wiki/%E4%BF%AE%E9%81%93%E9%99%A2" title="修道院">修道院</a>旁听一些欧洲杰出的数学家和科学家，例如<a href="/w/index.php?title=%E7%BE%85%E8%B2%9D%E7%93%A6%E7%88%BE&amp;action=edit&amp;redlink=1" class="new" title="罗贝瓦尔（页面不存在）">罗贝瓦尔</a>、<a href="/wiki/%E5%90%89%E6%8B%89%E5%BE%B7%C2%B7%E7%AC%9B%E6%B2%99%E6%A0%BC" class="mw-redirect" title="吉拉德·笛沙格">吉拉德·笛沙格</a>、<a href="/w/index.php?title=%E9%82%81%E5%A4%9A%E6%B2%BB&amp;action=edit&amp;redlink=1" class="new" title="迈多治（页面不存在）">迈多治</a>、<a href="/wiki/%E4%BC%BD%E6%A1%91%E7%8B%84" class="mw-redirect" title="伽桑狄">伽桑狄</a>，和<a href="/wiki/%E7%AC%9B%E5%8D%A1%E5%B0%94" class="mw-redirect" title="笛卡尔">笛卡尔</a>。
+</p><p>吉拉德·笛沙格的一份关于<a href="/wiki/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF" title="圆锥曲线">圆锥曲线</a>的作品尤其让帕斯卡感兴趣，根据德扎格的思想，16岁的帕斯卡写了一篇被称作神秘六边形的短篇论文，Essai pour les coniques（圆锥曲线专论），作为证明的方法，然后将这份他第一次认真创作的数学作品寄到巴黎的<a href="/wiki/%E9%A9%AC%E5%85%B0%C2%B7%E6%A2%85%E6%A3%AE" title="马兰·梅森">马兰·梅森</a>神父，这至今仍被广为称作“<a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%AE%9A%E7%90%86" title="帕斯卡定理">帕斯卡定理</a>”。它描述了一个圆锥曲线的内接六边形的三对对边延长线的交点共线，又称<a href="/w/index.php?title=%E5%B8%95%E6%96%AF%E5%8D%A1%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="帕斯卡线（页面不存在）">帕斯卡线</a>。帕斯卡的作品过于早熟，以至于笛卡尔看了他的手稿后，拒绝相信这是小帕斯卡所写的。当梅森神父保证这份作品为小帕斯卡所写时，笛卡尔嗤之以鼻，说：“我不觉得他给出的关于<a href="/wiki/%E5%9C%86%E9%94%A5" title="圆锥">圆锥</a>的证明比早先的方法更合适这件事有什么奇怪的。”并说：“但关于这份主题的其他东西可以推荐，因为这几乎不会发生在一个16岁的少年身上。”
+</p><p>在当时的法国，办公室和职位是可以买卖的。1631年时，艾蒂安用65,665里弗（livres）卖出了他在间接税法院副总裁的职位。这笔钱被投资在<a href="/w/index.php?title=%E6%94%BF%E5%BA%9C%E5%9F%BA%E9%87%91&amp;action=edit&amp;redlink=1" class="new" title="政府基金（页面不存在）">政府基金</a>，如果不浪费的话，必定会成为一笔丰厚的收入而能让帕斯卡家族可以搬到巴黎并好好享受那里的生活。但在1638年，<a href="/wiki/%E9%BB%8E%E5%A1%9E%E7%95%99" title="黎塞留">黎塞留</a>急需钱来供应<a href="/wiki/%E4%B8%89%E5%8D%81%E5%B9%B4%E6%88%B0%E7%88%AD" title="三十年战争">三十年战争</a>的开销，拖欠了政府基金的发放，于是艾蒂安·帕斯卡的财产一下子从将近66000里弗降到少于7300里弗。就像许多人一样，因为反对黎塞留的税务政策，艾蒂安被迫逃离巴黎，留下他三个孩子给邻居珊卡特女士照顾。她是一位有着坏名声的美女，据说拥有全法国最奢华的启蒙沙龙。艾蒂安一直到杰奎琳在一场黎塞留有出席的儿童戏剧表演中表现出众才被赦免。在当时艾蒂安也重获<a href="/wiki/%E6%A8%9E%E6%A9%9F%E4%B8%BB%E6%95%99" class="mw-redirect" title="枢机主教">枢机主教</a>的青睐，并在1639年时，被指派为国王的税务专员，前往一个因革命而税制陷入极端混乱的城市—<a href="/wiki/%E9%AD%AF%E6%98%82" class="mw-redirect" title="鲁昂">鲁昂</a>。
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Arts_et_Metiers_Pascaline_dsc03869.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/220px-Arts_et_Metiers_Pascaline_dsc03869.jpg" decoding="async" width="220" height="121" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/330px-Arts_et_Metiers_Pascaline_dsc03869.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/440px-Arts_et_Metiers_Pascaline_dsc03869.jpg 2x" data-file-width="2042" data-file-height="1119" /></a><figcaption>帕斯卡设计的计算器</figcaption></figure>
+<p>1642年，为了减轻他父亲无止尽地、重复地计算税务的收支负担，未满19岁的帕斯卡努力地制造出一台可以运行加减的<a href="/wiki/%E8%A8%88%E7%AE%97%E5%99%A8" class="mw-redirect" title="计算器">计算器</a>，称为<a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E8%A8%88%E7%AE%97%E5%99%A8" class="mw-redirect" title="帕斯卡计算器">帕斯卡计算器</a>。而在<a href="/w/index.php?title=%E5%B7%B4%E9%BB%8E%E5%B7%A5%E8%97%9D%E7%BE%8E%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="巴黎工艺美术博物馆（页面不存在）">巴黎工艺美术博物馆</a>和德国<a href="/wiki/%E5%BE%B7%E7%B4%AF%E6%96%AF%E9%A0%93" class="mw-redirect" title="德累斯顿">德累斯顿</a>的<a href="/wiki/%E8%8C%A8%E6%B8%A9%E6%A0%BC%E5%AE%AB" title="茨温格宫">茨温格博物馆</a>，展示着他原创的两台计算器。虽然这些机械后来成为早期电脑工程的先驱，但在当时并没有造成很大的商业成功。因为它实在是太过昂贵以致于变得比较像是件玩具，和非常有钱的法国或欧洲人展示地位的象征。然而帕斯卡在下个十年仍然不断的精进他的设计，并且总共做了20台这样的机器。
+</p>
+<h2><span id=".E5.AF.B9.E6.95.B0.E5.AD.A6.E7.9A.84.E8.B4.A1.E7.8C.AE"></span><span class="mw-headline" id="对数学的贡献">对数学的贡献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=2" title="编辑章节：对数学的贡献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:PascalTriangleAnimated2.gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/PascalTriangleAnimated2.gif/220px-PascalTriangleAnimated2.gif" decoding="async" width="220" height="203" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif 1.5x" data-file-width="260" data-file-height="240" /></a><figcaption><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E4%B8%89%E8%A7%92" class="mw-redirect" title="帕斯卡三角">帕斯卡三角</a></figcaption></figure>
+<p>帕斯卡的一生都在影响数学研究。他在1653年的《论算术三角》中描述了一个<a href="/wiki/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0" class="mw-redirect" title="二项式系数">二项式系数</a>的表格表示，表中的每个数都等于其肩上的两个数的和，现在被称作<a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E4%B8%89%E8%A7%92" class="mw-redirect" title="帕斯卡三角">帕斯卡三角</a>。
+</p><p>在1654年，在一个热衷于赌博问题的朋友的影响下，他和<a href="/wiki/%E8%B4%B9%E9%A9%AC" class="mw-redirect" title="费马">费马</a>通信讨论，并因此诞生了数学理论<a href="/wiki/%E6%A6%82%E7%8E%87%E8%AE%BA" title="概率论">概率论</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。这个朋友的具体问题是：基于赢得赌局的<a href="/wiki/%E6%A6%82%E7%8E%87" title="概率">概率</a>，两个提前结束游戏的玩家如何在给定现在赌局的情形下公平的分赌注。<a href="/wiki/%E6%9C%9F%E6%9C%9B" class="mw-redirect" title="期望">期望</a>的概念在这一讨论中提出。费马和帕斯卡完成的<a href="/wiki/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90" title="数学分析">分析</a>和概率的工作给<a href="/wiki/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8" class="mw-redirect" title="莱布尼茨">莱布尼茨</a>提出<a href="/wiki/%E6%97%A0%E7%A9%B7%E5%B0%8F%E6%BC%94%E7%AE%97" title="无穷小演算">无穷小微积分</a>奠定了基础。1654年后受宗教经历影响，帕斯卡几乎放弃了数学工作。
+</p>
+<h2><span id=".E5.8E.BB.E4.B8.96"></span><span class="mw-headline" id="去世">去世</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=3" title="编辑章节：去世"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1662年，帕斯卡病情加重，情绪状况也因前几年姐姐的死恶化了许多。帕斯卡注意到自己即将逝去，便寻求医院来解决他的不治之症，但却被他的医生拒绝了，原因是他的状况实在是太不稳定以致于难以照顾。1662年8月18日的巴黎，帕斯卡开始抽搐且进入了临终。1662年8月19日清晨，帕斯卡去世，埋在<a href="/wiki/%E5%9C%A3%E8%89%BE%E8%92%82%E5%AE%89%E6%95%99%E5%A0%82" class="mw-redirect" title="圣艾蒂安教堂">圣艾蒂安教堂</a>的坟墓里。
+</p><p>一份尸检报告指出，帕斯卡的胃及其他腹部器官都有着很严重的问题，脑部也有受损。然而，造成这种状况的原因仍然无法确定，虽然推测可能是肺结核或胃癌，也有可能是两者共同导致。而时常折磨著帕斯卡的头痛则一般被归因于脑的病变。
+</p>
+<h2><span id=".E4.BD.9C.E5.93.81"></span><span class="mw-headline" id="作品">作品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=4" title="编辑章节：作品"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>《圆锥曲线专论》（1639）</li>
+<li>《关于真空的新实验》（1647）</li>
+<li>《算数三角形》（1653）</li>
+<li>《致外省人书》（1656-57）</li>
+<li>《几何的精神》（1657或1658）</li>
+<li>《写在签名的形式》（1661）</li>
+<li>《思想录》（未完成即死亡）</li>
+<li>《人类幸福》</li></ul>
+<h2><span id=".E7.B4.80.E5.BF.B5"></span><span class="mw-headline" id="紀念">纪念</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=5" title="编辑章节：纪念"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E5%9C%8B%E9%9A%9B%E5%96%AE%E4%BD%8D%E5%88%B6" class="mw-redirect" title="国际单位制">国际单位制</a>中的<a href="/wiki/%E5%8E%8B%E5%BC%BA" title="压强">压强</a><a href="/wiki/%E8%A8%88%E9%87%8F%E5%96%AE%E4%BD%8D" class="mw-redirect" title="计量单位">单位</a><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1" title="帕斯卡">帕斯卡</a>（Pa）以他的名字命名。</li>
+<li>一种结构化计算机编程语言<a href="/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)" class="mw-redirect" title="Pascal (编程语言)">帕斯卡语言</a>为纪念他而命名。</li>
+<li>在法国，年度杰出奖颁给布莱兹‧帕斯卡‧查尔斯全国杰出科学家奖以进行他们在法兰西岛的研究。</li>
+<li>一座位于法国<a href="/wiki/%E5%85%8B%E8%90%8A%E8%92%99%E8%B2%BB%E6%9C%97" class="mw-redirect" title="克莱蒙费朗">克莱蒙费朗</a>的大学，以帕斯卡的名字命名为<a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%E2%80%A7%E5%B8%95%E6%96%AF%E5%8D%A1%E5%A4%A7%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="布莱兹‧帕斯卡大学（页面不存在）">布莱兹‧帕斯卡大学</a>。</li>
+<li><a href="/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7" title="加拿大">加拿大</a><a href="/wiki/%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81" title="安大略省">安大略省</a>的<a href="/wiki/%E6%BB%91%E9%90%B5%E7%9B%A7%E5%A4%A7%E5%AD%B8" title="滑铁卢大学">滑铁卢大学</a>每年都会举办一场以他命名的数学竞赛。<a href="/w/index.php?title=%E5%B8%95%E6%96%AF%E5%8D%A1%E7%AB%B6%E8%B3%BD&amp;action=edit&amp;redlink=1" class="new" title="帕斯卡竞赛（页面不存在）">帕斯卡竞赛</a>开放给世界上每一位年龄在15岁或9年级以下的学生参加。</li>
+<li><a href="/wiki/%E7%BE%85%E4%BC%AF%E6%89%98%C2%B7%E7%BE%85%E5%A1%9E%E9%87%8C%E5%B0%BC" title="罗伯托·罗塞里尼">罗伯托·罗塞里尼</a>导演了一部传记式的电影（标题为布莱兹‧帕斯卡），在1971在<a href="/wiki/%E6%84%8F%E5%A4%A7%E5%88%A9" title="意大利">意大利</a>开始播送。</li>
+<li>帕斯卡在1984年<a href="/wiki/BBC_Two" class="mw-redirect" title="BBC Two">BBC Two</a>第一版的纪录片《海洋的真相》里成为主题，由克匹特饰演。</li>
+<li><a href="/wiki/NVIDIA" class="mw-redirect" title="NVIDIA">NVIDIA</a>在2016年推出的<a href="/wiki/NVIDIA_GeForce_10%E7%B3%BB%E5%88%97" title="NVIDIA GeForce 10系列">NVIDIA GeForce 10系列</a>的架构使用帕斯卡命名。</li></ul>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=6" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Devlin, Keith, <i>The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern</i>, Basic Books; 1 edition (2008), <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780465009107" class="internal mw-magiclink-isbn">ISBN 978-0-465-00910-7</a>, p. 20.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/w/index.php?title=John_J._O%27Connor_(mathematician)&amp;action=edit&amp;redlink=1" class="new" title="John J. O&#39;Connor (mathematician)（页面不存在）">O'Connor, J.J.</a>; <a href="/w/index.php?title=Edmund_F._Robertson&amp;action=edit&amp;redlink=1" class="new" title="Edmund F. Robertson（页面不存在）">Robertson, E.F.</a> <a rel="nofollow" class="external text" href="http://www-history.mcs.st-andrews.ac.uk/Biographies/Pascal_Etienne.html">Étienne Pascal</a>. <a href="/w/index.php?title=University_of_St_Andrews&amp;action=edit&amp;redlink=1" class="new" title="University of St Andrews（页面不存在）">University of St. Andrews, Scotland</a>. August 2006 <span class="reference-accessdate"> &#91;<span class="nowrap">5 February</span> 2010&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20171108031737/http://www-history.mcs.st-andrews.ac.uk/Biographies/Pascal_Etienne.html">存档</a>于2017-11-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;rft.au=Robertson%2C+E.F.&amp;rft.aufirst=J.J.&amp;rft.aulast=O%27Connor&amp;rft.btitle=%C3%89tienne+Pascal&amp;rft.date=2006-08&amp;rft.genre=unknown&amp;rft.pub=University+of+St.+Andrews%2C+Scotland&amp;rft_id=http%3A%2F%2Fwww-history.mcs.st-andrews.ac.uk%2FBiographies%2FPascal_Etienne.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">^ O'Connor, J. J.; Robertson, E. F.. "The MacTutor History of Mathematics archive: Pierre de Fermat". <a rel="nofollow" class="external free" href="http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Fermat.html">http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Fermat.html</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20171208013313/http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Fermat.html">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=7" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E8%AF%AD%E5%BD%95" title="维基语录">维基语录</a>上的<b><a href="https://zh.wikiquote.org/wiki/Special:Search/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" class="extiw" title="q:Special:Search/布莱兹·帕斯卡">布莱兹·帕斯卡语录</a></b></td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.palgrave.com/page/detail/blaise-pascal-donald-adamson/?K=9780333550366%7C">Blaise Pascal: Mathematician, Physicist and Thinker about God</a>（<a rel="nofollow" class="external text" href="//web.archive.org/web/20150911121039/http://www.palgrave.com/page/detail/blaise-pascal-donald-adamson/?K=9780333550366%7C">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）, <a href="/wiki/%E5%94%90%E7%BA%B3%E5%BE%B7%C2%B7%E4%BA%9A%E5%BD%93%E9%80%8A" title="唐纳德·亚当逊">唐纳德·亚当逊</a> (1995)</li></ul>
+<h2><span id=".E5.8F.83.E8.A6.8B"></span><span class="mw-headline" id="參見">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;action=edit&amp;section=8" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E7%A5%9E%E7%AB%A5" title="神童">神童</a></li>
+<li><a href="/wiki/%E9%80%9A%E6%89%8D" class="mw-redirect" title="通才">通才</a></li></ul>
+<div style="clear: both; height: 1em"></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6" title="Template:宗教哲学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6" title="Template talk:宗教哲学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6" title="宗教哲学">宗教哲学</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;">宗教概念</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%BE%86%E4%B8%96" title="来世">来世</a></li>
+<li><a href="/wiki/%E6%B8%B8%E5%8F%99%E5%BC%97%E4%BC%A6%E5%9B%B0%E5%A2%83" title="游叙弗伦困境">尤西弗罗困境</a></li>
+<li><a href="/wiki/%E4%BF%A1%E4%BB%B0" title="信仰">信仰</a></li>
+<li><a href="/wiki/%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1" title="智能设计">智能设计论</a></li>
+<li><a href="/wiki/%E5%A5%87%E8%B7%A1" title="奇迹">神迹</a></li>
+<li><a href="/wiki/%E7%BD%AA%E6%83%A1%E5%95%8F%E9%A1%8C" title="罪恶问题">罪恶问题</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99" title="宗教">宗教信仰</a></li>
+<li><a href="/wiki/%E7%81%B5%E9%AD%82" title="灵魂">灵魂</a></li>
+<li><a href="/wiki/%E7%B2%BE%E7%A5%9E" title="精神">精神</a></li>
+<li><a href="/wiki/%E7%A5%9E%E4%B9%89%E8%AE%BA" title="神义论">神义论</a></li>
+<li><span class="ilh-all" data-orig-title="神學無用論" data-lang-code="en" data-lang-name="英语" data-foreign-title="Theological veto"><span class="ilh-page"><a href="/w/index.php?title=%E7%A5%9E%E5%AD%B8%E7%84%A1%E7%94%A8%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="神学无用论（页面不存在）">神学无用论</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Theological_veto" class="extiw" title="en:Theological veto"><span lang="en" dir="auto">Theological veto</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/%E7%A5%9E%E7%9A%84%E6%A6%82%E5%BF%B5" title="神的概念">神的概念</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even hlist" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="亚里士多德神学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Aristotelian theology"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7%E7%A5%9E%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="亚里士多德神学（页面不存在）">亚里士多德神学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Aristotelian_theology" class="extiw" title="en:Aristotelian theology"><span lang="en" dir="auto">Aristotelian theology</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%A2%B5" title="梵">梵</a></li>
+<li><a href="/wiki/%E5%B7%A8%E5%8C%A0%E9%80%A0%E7%89%A9%E4%B8%BB" title="巨匠造物主">巨匠造物主</a></li>
+<li><span class="ilh-all" data-orig-title="神圣至简" data-lang-code="en" data-lang-name="英语" data-foreign-title="Divine simplicity"><span class="ilh-page"><a href="/w/index.php?title=%E7%A5%9E%E5%9C%A3%E8%87%B3%E7%AE%80&amp;action=edit&amp;redlink=1" class="new" title="神圣至简（页面不存在）">神圣至简</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Divine_simplicity" class="extiw" title="en:Divine simplicity"><span lang="en" dir="auto">Divine simplicity</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%80%AB%E7%90%86%E5%88%A9%E5%B7%B1%E4%B8%BB%E7%BE%A9" title="伦理利己主义">伦理利己主义</a></li>
+<li><a href="/wiki/%E5%A4%AA%E4%B8%80" title="太一">太一</a></li>
+<li><a href="/wiki/%E8%81%96%E9%9D%88" title="圣灵">圣灵</a></li>
+<li><span class="ilh-all" data-orig-title="仇神論" data-lang-code="en" data-lang-name="英语" data-foreign-title="Misotheism"><span class="ilh-page"><a href="/w/index.php?title=%E4%BB%87%E7%A5%9E%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="仇神论（页面不存在）">仇神论</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Misotheism" class="extiw" title="en:Misotheism"><span lang="en" dir="auto">Misotheism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B3%9B%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AB%96" title="泛自然神论">泛自然神论</a></li>
+<li><a href="/wiki/%E4%BA%BA%E6%A0%BC%E7%A5%9E" title="人格神">人格神</a></li>
+<li><span class="ilh-all" data-orig-title="進程神學" data-lang-code="en" data-lang-name="英语" data-foreign-title="Process theology"><span class="ilh-page"><a href="/w/index.php?title=%E9%80%B2%E7%A8%8B%E7%A5%9E%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="进程神学（页面不存在）">进程神学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Process_theology" class="extiw" title="en:Process theology"><span lang="en" dir="auto">Process theology</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A5%9E_(%E4%B8%80%E7%A5%9E%E6%95%99)" title="神 (一神教)">至高存在</a></li>
+<li><span class="ilh-all" data-orig-title="不動的動者" data-lang-code="en" data-lang-name="英语" data-foreign-title="Unmoved mover"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%8D%E5%8B%95%E7%9A%84%E5%8B%95%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="不动的动者（页面不存在）">不动的动者</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Unmoved_mover" class="extiw" title="en:Unmoved mover"><span lang="en" dir="auto">Unmoved mover</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="width:4em;font-weight:normal; text-align:center;">各信仰中的神</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%9E#儒教、道教、華人民間信仰" title="神">儒教、道教、华人民间信仰</a></li>
+<li><span class="ilh-all" data-orig-title="亚伯拉罕宗教中的神" data-lang-code="en" data-lang-name="英语" data-foreign-title="God in Abrahamic religions"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99%E4%B8%AD%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="亚伯拉罕宗教中的神（页面不存在）">亚伯拉罕宗教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/God_in_Abrahamic_religions" class="extiw" title="en:God in Abrahamic religions"><span lang="en" dir="auto">God in Abrahamic religions</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="佛教的创世者" data-lang-code="en" data-lang-name="英语" data-foreign-title="Creator in Buddhism"><span class="ilh-page"><a href="/w/index.php?title=%E4%BD%9B%E6%95%99%E7%9A%84%E5%88%9B%E4%B8%96%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="佛教的创世者（页面不存在）">佛教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Creator_in_Buddhism" class="extiw" title="en:Creator in Buddhism"><span lang="en" dir="auto">Creator in Buddhism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99%E7%9A%84%E7%A5%9E" title="基督教的神">基督教</a></li>
+<li><span class="ilh-all" data-orig-title="印度教的神" data-lang-code="en" data-lang-name="英语" data-foreign-title="God in Hinduism"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%B0%E5%BA%A6%E6%95%99%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="印度教的神（页面不存在）">印度教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/God_in_Hinduism" class="extiw" title="en:God in Hinduism"><span lang="en" dir="auto">God in Hinduism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99%E7%9A%84%E7%A5%9E" title="伊斯兰教的神">伊斯兰教</a></li>
+<li><a href="/w/index.php?title=%E8%80%86%E9%82%A3%E6%95%99%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="耆那教的神（页面不存在）">耆那教</a></li>
+<li><span class="ilh-all" data-orig-title="犹太教的神" data-lang-code="en" data-lang-name="英语" data-foreign-title="God in Judaism"><span class="ilh-page"><a href="/w/index.php?title=%E7%8A%B9%E5%A4%AA%E6%95%99%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="犹太教的神（页面不存在）">犹太教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/God_in_Judaism" class="extiw" title="en:God in Judaism"><span lang="en" dir="auto">God in Judaism</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="摩门教的神" data-lang-code="en" data-lang-name="英语" data-foreign-title="God in Mormonism"><span class="ilh-page"><a href="/w/index.php?title=%E6%91%A9%E9%97%A8%E6%95%99%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="摩门教的神（页面不存在）">摩门教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/God_in_Mormonism" class="extiw" title="en:God in Mormonism"><span lang="en" dir="auto">God in Mormonism</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="锡克教的神" data-lang-code="en" data-lang-name="英语" data-foreign-title="God in Sikhism"><span class="ilh-page"><a href="/w/index.php?title=%E9%94%A1%E5%85%8B%E6%95%99%E7%9A%84%E7%A5%9E&amp;action=edit&amp;redlink=1" class="new" title="锡克教的神（页面不存在）">锡克教</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/God_in_Sikhism" class="extiw" title="en:God in Sikhism"><span lang="en" dir="auto">God in Sikhism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B7%B4%E5%93%88%E4%BC%8A%E4%BF%A1%E4%BB%B0%E7%9A%84%E7%A5%9E" title="巴哈伊信仰的神">巴哈伊信仰</a></li>
+<li><span class="ilh-all" data-orig-title="巫术对神性的看法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Wiccan views of divinity"><span class="ilh-page"><a href="/w/index.php?title=%E5%B7%AB%E6%9C%AF%E5%AF%B9%E7%A5%9E%E6%80%A7%E7%9A%84%E7%9C%8B%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="巫术对神性的看法（页面不存在）">巫术</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Wiccan_views_of_divinity" class="extiw" title="en:Wiccan views of divinity"><span lang="en" dir="auto">Wiccan views of divinity</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8%E6%80%A7" title="神的存在性">神的存在性</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><b>支持</b></div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%E7%BE%8E%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="美论证（页面不存在）">美论证</a></li>
+<li><a href="/w/index.php?title=%E5%9F%BA%E7%9D%A3%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="基督论证（页面不存在）">基督论证</a></li>
+<li><a href="/w/index.php?title=%E6%84%8F%E8%AF%86%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="意识论证（页面不存在）">意识论证</a></li>
+<li><a href="/w/index.php?title=%E5%AE%87%E5%AE%99%E5%AD%A6%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="宇宙学论证（页面不存在）">宇宙学论证</a></li>
+<li><a href="/w/index.php?title=%E7%A8%8B%E5%BA%A6%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="程度论证（页面不存在）">程度论证</a></li>
+<li><a href="/w/index.php?title=%E6%AC%B2%E6%9C%9B%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="欲望论证（页面不存在）">欲望论证</a></li>
+<li><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E7%BB%8F%E9%AA%8C%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="宗教经验论证（页面不存在）">宗教经验论证</a></li>
+<li><a href="/wiki/%E6%84%9B%E8%AB%96%E8%AD%89" title="爱论证">爱论证</a></li>
+<li><a href="/wiki/%E5%A5%87%E8%B9%9F%E8%AB%96%E8%AD%89" title="奇迹论证">奇迹论证</a></li>
+<li><a href="/w/index.php?title=%E7%BE%8E%E5%BE%B7%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="美德论证（页面不存在）">美德论证</a></li>
+<li><a href="/wiki/%E6%9C%AC%E4%BD%93%E8%AE%BA%E8%AF%81%E6%98%8E" title="本体论证明">本体论论证</a></li>
+<li><a href="/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E7%9A%84%E8%B3%AD%E6%B3%A8" title="帕斯卡的赌注">帕斯卡的赌注</a></li>
+<li><a href="/w/index.php?title=%E5%90%88%E7%90%86%E5%9F%BA%E7%A1%80%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="合理基础论证（页面不存在）">合理基础论证</a></li>
+<li><a href="/w/index.php?title=%E7%90%86%E6%99%BA%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="理智论证（页面不存在）">理智论证</a></li>
+<li><a href="/wiki/%E7%9B%AE%E7%9A%84%E8%AB%96%E8%AB%96%E8%AD%89" title="目的论论证">目的论论证</a></li>
+<li><a href="/w/index.php?title=%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89%E5%85%B3%E4%BA%8E%E7%A5%9E%E5%AD%98%E5%9C%A8%E7%9A%84%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="超验主义关于神存在的论证（页面不存在）">超验主义关于神存在的论证</a></li>
+<li><a href="/w/index.php?title=%E7%9B%AE%E5%87%BB%E8%80%85%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="目击者论证（页面不存在）">目击者论证</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;"><div style="padding:0em 0.75em;"><b>反对</b></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BB%88%E6%9E%81%E6%B3%A2%E9%9F%B3747%E7%AD%96%E7%95%A5" title="终极波音747策略">终极波音747策略</a></li>
+<li><a href="/wiki/%E6%97%A0%E7%A5%9E%E8%AE%BA%E8%80%85%E7%9A%84%E8%B5%8C%E6%B3%A8" title="无神论者的赌注">无神论者的赌注</a></li>
+<li><a href="/wiki/%E7%BD%AA%E6%83%A1%E5%95%8F%E9%A1%8C" title="罪恶问题">伊壁鸠鲁悖论</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E8%88%87%E7%A5%9E%E5%AD%B8" class="mw-redirect" title="自由意志与神学">自由意志悖论</a></li>
+<li><span class="ilh-all" data-orig-title="地狱问题" data-lang-code="en" data-lang-name="英语" data-foreign-title="Problem of Hell"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%B0%E7%8B%B1%E9%97%AE%E9%A2%98&amp;action=edit&amp;redlink=1" class="new" title="地狱问题（页面不存在）">地狱问题</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Problem_of_Hell" class="extiw" title="en:Problem of Hell"><span lang="en" dir="auto">Problem of Hell</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%8D%E4%B8%80%E8%87%B4%E5%90%AF%E7%A4%BA%E8%AE%BA%E8%AF%81" class="mw-redirect" title="不一致启示论证">不一致启示论证</a></li>
+<li><span class="ilh-all" data-orig-title="无信仰论证" data-lang-code="en" data-lang-name="英语" data-foreign-title="Argument from nonbelief"><span class="ilh-page"><a href="/w/index.php?title=%E6%97%A0%E4%BF%A1%E4%BB%B0%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="无信仰论证（页面不存在）">无信仰论证</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Argument_from_nonbelief" class="extiw" title="en:Argument from nonbelief"><span lang="en" dir="auto">Argument from nonbelief</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="神学語言非认知主义" data-lang-code="en" data-lang-name="英语" data-foreign-title="Theological noncognitivism"><span class="ilh-page"><a href="/w/index.php?title=%E7%A5%9E%E5%AD%A6%E8%AA%9E%E8%A8%80%E9%9D%9E%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="神学语言非认知主义（页面不存在）">神学语言非认知主义</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Theological_noncognitivism" class="extiw" title="en:Theological noncognitivism"><span lang="en" dir="auto">Theological noncognitivism</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%A5%A5%E5%8D%A1%E5%A7%86%E5%89%83%E5%88%80" title="奥卡姆剃刀">奥卡姆剃刀</a></li>
+<li><a href="/wiki/%E5%85%A8%E8%83%BD%E6%82%96%E8%AB%96" title="全能悖论">全能悖论</a></li>
+<li><span class="ilh-all" data-orig-title="肚脐假设" data-lang-code="en" data-lang-name="英语" data-foreign-title="Omphalos hypothesis"><span class="ilh-page"><a href="/w/index.php?title=%E8%82%9A%E8%84%90%E5%81%87%E8%AE%BE&amp;action=edit&amp;redlink=1" class="new" title="肚脐假设（页面不存在）">肚脐假设</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Omphalos_hypothesis" class="extiw" title="en:Omphalos hypothesis"><span lang="en" dir="auto">Omphalos hypothesis</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="坏设计论证" data-lang-code="en" data-lang-name="英语" data-foreign-title="Poor design"><span class="ilh-page"><a href="/w/index.php?title=%E5%9D%8F%E8%AE%BE%E8%AE%A1%E8%AE%BA%E8%AF%81&amp;action=edit&amp;redlink=1" class="new" title="坏设计论证（页面不存在）">坏设计论证</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Poor_design" class="extiw" title="en:Poor design"><span lang="en" dir="auto">Poor design</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%BE%85%E7%B4%A0%E7%9A%84%E8%8C%B6%E5%A3%BA" title="罗素的茶壶">罗素的茶壶</a></li>
+<li><span class="ilh-all" data-orig-title="无知者的命运" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fate of the unlearned"><span class="ilh-page"><a href="/w/index.php?title=%E6%97%A0%E7%9F%A5%E8%80%85%E7%9A%84%E5%91%BD%E8%BF%90&amp;action=edit&amp;redlink=1" class="new" title="无知者的命运（页面不存在）">无知者的命运</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fate_of_the_unlearned" class="extiw" title="en:Fate of the unlearned"><span lang="en" dir="auto">Fate of the unlearned</span></a></span>）</span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/%E7%A5%9E%E5%AD%B8" title="神学">宗教理论</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%81%93" title="道">道</a></li>
+<li><a href="/wiki/%E5%A4%A9%E4%BA%BA%E5%90%88%E4%B8%80" title="天人合一">天人合一</a></li>
+<li><a href="/wiki/%E6%97%A0%E5%AE%87%E5%AE%99%E8%AE%BA" title="无宇宙论">无宇宙论</a></li>
+<li><b><a href="/wiki/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA" title="不可知论">不可知论</a></b></li>
+<li><a href="/wiki/%E6%B3%9B%E9%9D%88%E8%AB%96" title="泛灵论">泛灵论</a></li>
+<li><a href="/wiki/%E5%8F%8D%E5%AE%97%E6%95%99" title="反宗教">反宗教主义</a></li>
+<li><b><a href="/wiki/%E6%97%A0%E7%A5%9E%E8%AE%BA" title="无神论">无神论</a></b></li>
+<li><a href="/wiki/%E5%89%B5%E9%80%A0%E8%AB%96" title="创造论">明理思想运动</a></li>
+<li><a href="/wiki/%E6%B3%95_(%E5%8D%B0%E5%BA%A6%E5%93%B2%E5%AD%B8)" title="法 (印度哲学)">法 (印度哲学)</a></li>
+<li><b><a href="/wiki/%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA" title="自然神论">自然神论</a></b></li>
+<li><a href="/wiki/%E5%9F%BA%E7%9D%A3%E5%BE%92%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA" title="基督徒自然神论">基督徒自然神论</a></li>
+<li><a href="/w/index.php?title=%E7%A5%9E%E5%9C%A3%E5%91%BD%E4%BB%A4%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="神圣命令论（页面不存在）">神圣命令论</a></li>
+<li><a href="/wiki/%E4%BA%8C%E5%85%83%E8%AB%96" title="二元论">二元论</a></li>
+<li><a href="/wiki/%E7%A7%98%E5%AF%86%E5%AE%97%E6%95%99" title="秘密宗教">秘教</a></li>
+<li><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E6%8E%92%E4%BB%96%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="宗教排他论（页面不存在）">宗教排他论</a></li>
+<li><a href="/wiki/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89" title="存在主义">存在主义</a> （<small><a href="/wiki/%E5%AD%98%E5%9C%A8%E4%B8%BB%E7%BE%A9%E7%A5%9E%E5%AD%B8" title="存在主义神学">基督教</a>、<a href="/w/index.php?title=%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="不可知论的存在主义（页面不存在）">不可知论</a>、<a href="/w/index.php?title=%E6%97%A0%E7%A5%9E%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="无神论的存在主义（页面不存在）">无神论</a></small>）</li>
+<li><a href="/wiki/%E5%A9%A6%E5%A5%B3%E7%A5%9E%E5%AD%B8" title="妇女神学">妇女神学</a></li>
+<li><a href="/wiki/%E8%AB%BE%E6%96%AF%E5%BA%95%E4%B8%BB%E7%BE%A9" title="诺斯底主义">诺斯底主义</a></li>
+<li><a href="/wiki/%E5%8D%95%E4%B8%80%E4%B8%BB%E7%A5%9E%E8%AE%BA" title="单一主神论">单一主神教</a></li>
+<li><a href="/wiki/%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89" title="人文主义">人文主义</a> （<small><a href="/wiki/%E5%AE%97%E6%95%99%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89" title="宗教人文主义">宗教</a>、<a href="/wiki/%E4%B8%96%E4%BF%97%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89" title="世俗人文主义">世俗</a>、<a href="/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89" title="基督教人文主义">基督教</a></small>）</li>
+<li><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E5%85%BC%E5%AE%B9%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="宗教兼容主义（页面不存在）">宗教兼容主义</a></li>
+<li><a href="/wiki/%E4%B8%80%E5%85%83%E8%AE%BA" title="一元论">一元论</a></li>
+<li><a href="/wiki/%E4%B8%80%E7%A5%9E%E8%AB%96" title="一神论">一神教</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%A7%98%E4%B8%BB%E7%BE%A9" title="神秘主义">神秘主义</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89" title="自然主义">自然主义</a> （<small><a href="/wiki/%E5%BD%A2%E8%80%8C%E4%B8%8A%E8%87%AA%E7%84%B6%E4%B8%BB%E7%BE%A9" title="形而上自然主义">形而上</a>、<a href="/w/index.php?title=%E5%AE%97%E6%95%99%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="宗教自然主义（页面不存在）">宗教</a>、<a href="/w/index.php?title=%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E7%9A%84%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="人文主义的自然主义（页面不存在）">人文主义</a></small>）</li>
+<li><a href="/wiki/%E6%96%B0%E7%BA%AA%E5%85%83%E8%BF%90%E5%8A%A8" title="新纪元运动">新纪元运动</a></li>
+<li><a href="/w/index.php?title=%E9%9D%9E%E4%BA%8C%E5%85%83%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="非二元论（页面不存在）">非二元论</a></li>
+<li><b><a href="/wiki/%E9%9D%9E%E6%9C%89%E7%A5%9E%E8%AE%BA" title="非有神论">非有神论</a></b></li>
+<li><a href="/wiki/%E6%B3%9B%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AB%96" title="泛自然神论">泛自然神论</a></li>
+<li><a href="/wiki/%E6%B3%9B%E7%A5%9E%E8%AE%BA" title="泛神论">泛神论</a></li>
+<li><a href="/wiki/%E5%A4%9A%E7%A5%9E%E8%AB%96" title="多神论">多神论</a></li>
+<li><a href="/w/index.php?title=%E8%BF%87%E7%A8%8B%E7%A5%9E%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="过程神学（页面不存在）">过程神学</a></li>
+<li><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E5%8E%9F%E6%95%99%E6%97%A8%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="宗教原教旨主义（页面不存在）">宗教原教旨主义</a></li>
+<li><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E5%94%AF%E5%BF%83%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="宗教唯心论（页面不存在）">宗教唯心论</a></li>
+<li><a href="/wiki/%E8%90%A8%E6%BB%A1%E6%95%99" title="萨满教">萨满教</a></li>
+<li><a href="/wiki/%E9%81%93%E6%95%99" title="道教">道教</a></li>
+<li><b><a href="/wiki/%E6%9C%89%E7%A5%9E%E8%AE%BA" title="有神论">有神论</a></b></li>
+<li><a href="/wiki/%E5%85%88%E9%A9%97%E8%88%87%E5%BE%8C%E9%A9%97" title="先验与后验">先验论</a></li>
+<li><a href="/wiki/%E5%A4%9A%E9%87%8D%E5%AE%97%E6%95%99%E8%BA%AB%E4%BB%BD%E8%AA%8D%E5%90%8C" title="多重宗教身份认同">多重宗教身份认同</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E5%A4%9A%E5%85%83%E4%B8%BB%E4%B9%89" title="宗教多元主义">宗教多元主义</a></li>
+<li><b><a href="/w/index.php?title=%E5%93%B2%E5%AD%A6%E7%90%86%E8%AE%BA%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="哲学理论列表（页面不存在）">更多...</a></b></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Category:%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6%E5%AE%B6" title="Category:宗教哲学家">宗教哲学家</a><br /><br /><small>（按活跃年代）</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;text-align:center;"><div style="padding:0em 0.75em;">古代<br />中世纪</div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%88%A9%E7%89%B9" title="赫拉克利特">赫拉克利特</a></li></ul>
+<ul><li><a href="/wiki/%E5%B8%8C%E6%B3%A2%E7%9A%84%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81" title="希波的奥古斯丁">奥古斯丁</a></li>
+<li><a href="/wiki/%E6%B3%A2%E7%88%B1%E4%BF%AE%E6%96%AF" title="波爱修斯">波爱修斯</a></li>
+<li><a href="/wiki/%E5%9D%8E%E7%89%B9%E4%BC%AF%E9%9B%B7%E7%9A%84%E5%AE%89%E7%91%9F%E8%8E%AB" title="坎特伯雷的安瑟莫">安瑟莫</a></li>
+<li><a href="/wiki/%E9%82%81%E8%92%99%E5%B0%BC%E5%BE%B7" title="迈蒙尼德">迈蒙尼德</a></li>
+<li><a href="/w/index.php?title=%E9%A9%AC%E5%B0%94%E6%AF%9B%E5%B8%96%E7%9A%84%E9%AB%98%E5%B0%BC%E7%BD%97&amp;action=edit&amp;redlink=1" class="new" title="马尔毛帖的高尼罗（页面不存在）">马尔毛帖的高尼罗</a></li>
+<li><a href="/wiki/%E4%BC%8A%E6%9C%AC%C2%B7%E9%AD%AF%E4%B8%96%E5%BE%B7" title="伊本·鲁世德">鲁世德</a>（阿威罗伊）</li>
+<li><a href="/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%98%BF%E5%A5%8E%E9%82%A3" title="托马斯·阿奎那">托马斯·阿奎那</a></li></ul>
+<ul><li><a href="/wiki/%E5%96%AC%E7%93%A6%E5%B0%BC%C2%B7%E7%9A%AE%E7%A7%91%C2%B7%E5%BE%B7%E6%8B%89%C2%B7%E7%B1%B3%E8%98%AD%E5%A4%9A%E6%8B%89" title="乔瓦尼·皮科·德拉·米兰多拉">米兰多拉</a></li>
+<li><a href="/wiki/%E5%BE%B7%E8%A5%BF%E5%BE%B7%E9%87%8C%E4%B9%8C%E6%96%AF%C2%B7%E4%BC%8A%E6%8B%89%E6%96%AF%E8%B0%9F" title="德西德里乌斯·伊拉斯谟">伊拉斯谟</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;text-align:center;"><div style="padding:0em 0.75em;">启蒙运动</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94" title="勒内·笛卡尔">笛卡儿</a></li>
+<li><a class="mw-selflink selflink">帕斯卡</a></li>
+<li><a href="/wiki/%E5%B7%B4%E9%AD%AF%E8%B5%AB%C2%B7%E6%96%AF%E8%B3%93%E8%AB%BE%E8%8E%8E" title="巴鲁赫·斯宾诺莎">斯宾诺莎</a></li>
+<li><a href="/w/index.php?title=%E5%A8%81%E5%BB%89%C2%B7%E6%B2%83%E5%8B%92%E6%96%AF%E9%A1%BF&amp;action=edit&amp;redlink=1" class="new" title="威廉·沃勒斯顿（页面不存在）">威廉·沃勒斯顿</a></li>
+<li><a href="/w/index.php?title=%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E4%B9%94%E4%BC%AF&amp;action=edit&amp;redlink=1" class="new" title="托马斯·乔伯（页面不存在）">托马斯·乔伯</a></li></ul>
+<ul><li><a href="/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E4%BC%91%E8%B0%9F" title="大卫·休谟">大卫·休谟</a></li>
+<li><a href="/wiki/%E4%BF%9D%E7%88%BE%C2%B7%E9%9C%8D%E7%88%BE%E5%B7%B4%E8%B5%AB" title="保尔·霍尔巴赫">霍尔巴赫</a></li>
+<li><a href="/wiki/%E4%BC%8A%E6%9B%BC%E5%8A%AA%E5%B0%94%C2%B7%E5%BA%B7%E5%BE%B7" title="伊曼努尔·康德">康德</a></li>
+<li><a href="/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%88%88%E7%89%B9%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E8%B5%AB%E5%B0%94%E5%BE%B7" title="约翰·戈特弗里德·赫尔德">赫尔德</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;text-align:center;"><div style="padding:0em 0.75em;">1800<br />1850<br />1880<br />1900</div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E6%96%BD%E8%90%8A%E7%88%BE%E9%A6%AC%E8%B5%AB" title="弗里德里希·施莱尔马赫">施莱尔马赫</a></li>
+<li><a href="/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E9%BB%91%E6%A0%BC%E5%B0%94" title="格奥尔格·威廉·弗里德里希·黑格尔">黑格尔</a></li></ul>
+<ul><li><a href="/wiki/%E5%A8%81%E5%BB%89%C2%B7%E6%83%A0%E5%A8%81%E7%88%BE" title="威廉·惠威尔">威廉·维赫维尔</a></li>
+<li><a href="/wiki/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E5%AE%89%E5%BE%B7%E5%88%97%E6%96%AF%C2%B7%E8%B4%B9%E5%B0%94%E5%B7%B4%E5%93%88" title="路德维希·安德列斯·费尔巴哈">费尔巴哈</a></li>
+<li><a href="/wiki/%E7%B4%A2%E5%80%AB%C2%B7%E5%A5%A7%E8%B2%9D%C2%B7%E5%85%8B%E7%88%BE%E5%87%B1%E9%83%AD%E7%88%BE" title="索伦·奥贝·克尔凯郭尔">克尔凯郭尔</a></li>
+<li><a href="/wiki/%E9%98%BF%E7%88%BE%E5%B8%83%E9%9B%B7%E8%B5%AB%E7%89%B9%C2%B7%E7%AB%8B%E6%95%95%E7%88%BE" title="阿尔布雷赫特·立敕尔">立敕尔</a></li></ul>
+<ul><li><a href="/wiki/%E6%81%A9%E6%96%AF%E7%89%B9%C2%B7%E6%B5%B7%E5%85%8B%E5%B0%94" title="恩斯特·海克尔">海克尔</a></li>
+<li><a href="/wiki/%E5%A8%81%E5%BB%89%C2%B7%E9%87%91%E9%A0%93%C2%B7%E5%85%8B%E5%88%A9%E7%A6%8F%E5%BE%B7" title="威廉·金顿·克利福德">克利福德</a></li>
+<li><a href="/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87" title="弗里德里希·尼采">尼采</a></li>
+<li><a href="/w/index.php?title=%E5%93%88%E6%A0%BC%E5%B0%94%E5%BE%B7%C2%B7%E9%9C%8D%E5%A4%AB%E4%B8%81&amp;action=edit&amp;redlink=1" class="new" title="哈格尔德·霍夫丁（页面不存在）">哈格尔德·霍夫丁</a></li>
+<li><a href="/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%A9%B9%E5%A7%86%E5%A3%AB" title="威廉·詹姆士">威廉·詹姆士</a></li></ul>
+<ul><li><a href="/w/index.php?title=%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E5%B0%94%C2%B7%E7%B4%A2%E7%BD%97%E6%B2%83%E5%A4%AB_(%E5%93%B2%E5%AD%A6%E5%AE%B6)&amp;action=edit&amp;redlink=1" class="new" title="弗拉基米尔·索罗沃夫 (哲学家)（页面不存在）">弗拉基米尔·索罗沃夫</a></li>
+<li><a href="/wiki/%E6%81%A9%E6%96%AF%E7%89%B9%C2%B7%E7%89%B9%E5%8B%92%E7%88%BE%E5%A5%87" title="恩斯特·特勒尔奇">恩斯特·特勒尔奇</a></li>
+<li><a href="/wiki/%E9%B2%81%E9%81%93%E5%A4%AB%C2%B7%E5%A5%A5%E6%89%98" title="鲁道夫·奥托">鲁道夫·奥托</a></li>
+<li><a href="/wiki/%E5%88%97%E5%A4%AB%C2%B7%E8%88%8D%E6%96%AF%E6%89%98%E5%A4%AB" title="列夫·舍斯托夫">列夫·舍斯托夫</a></li>
+<li><a href="/wiki/%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E5%B8%83%E5%B0%94%E5%8A%A0%E7%A7%91%E5%A4%AB" title="谢尔盖·布尔加科夫">布尔加科夫</a></li>
+<li><a href="/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7" title="西格蒙德·弗洛伊德">弗洛伊德</a></li>
+<li><a href="/wiki/%E6%81%A9%E6%96%AF%E7%89%B9%C2%B7%E5%8D%A1%E8%A5%BF%E5%B0%94" title="恩斯特·卡西尔">卡西尔</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;text-align:center;"><div style="padding:0em 0.75em;">1920<br />战后<br />1970<br />1990</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E6%A1%91%E5%A1%94%E4%BA%9A%E9%82%A3" title="乔治·桑塔亚那">乔治·桑塔亚那</a></li>
+<li><a href="/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0" title="伯特兰·罗素">罗素</a></li>
+<li><a href="/w/index.php?title=%E5%B8%95%E5%BC%97%E7%BD%97%C2%B7%E5%BC%97%E7%BD%97%E4%BC%A6%E6%96%AF%E5%9F%BA&amp;action=edit&amp;redlink=1" class="new" title="帕弗罗·弗罗伦斯基（页面不存在）">帕弗罗·弗罗伦斯基</a></li>
+<li><a href="/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E5%B8%83%E4%BC%AF" title="马丁·布伯">马丁·布伯</a></li>
+<li><a href="/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E7%94%B0%E7%AB%8B%E5%85%8B" title="保罗·田立克">保罗·田立克</a></li>
+<li><a href="/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E5%B7%B4%E7%89%B9" title="卡尔·巴特">卡尔·巴特</a></li>
+<li><a href="/wiki/%E8%89%BE%E7%B1%B3%E7%88%BE%C2%B7%E5%B8%83%E9%AD%AF%E5%85%A7%E7%88%BE" title="艾米尔·布鲁内尔">布鲁内尔</a></li>
+<li><a href="/wiki/%E9%9B%B7%E8%8C%B5%E9%9C%8D%E5%B0%94%E5%BE%B7%C2%B7%E5%B0%BC%E5%B8%83%E5%B0%94" title="雷茵霍尔德·尼布尔">雷茵霍尔德·尼布尔</a></li></ul>
+<ul><li><a href="/w/index.php?title=%E7%B1%B3%E5%B0%94%E6%81%B0%C2%B7%E4%BB%A5%E5%88%A9%E4%BA%9A%E5%BE%B7&amp;action=edit&amp;redlink=1" class="new" title="米尔恰·以利亚德（页面不存在）">米尔恰·以利亚德</a></li>
+<li><a href="/w/index.php?title=J._L._%E9%BA%A6%E5%87%AF&amp;action=edit&amp;redlink=1" class="new" title="J. L. 麦凯（页面不存在）">J. L. 麦凯</a></li>
+<li><a href="/w/index.php?title=%E5%BD%BC%E5%BE%97%C2%B7%E7%A7%AF%E5%A5%87&amp;action=edit&amp;redlink=1" class="new" title="彼得·积奇（页面不存在）">彼得·积奇</a></li>
+<li><a href="/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%C2%B7%E5%BC%97%E9%B2%81" class="mw-redirect" title="安东尼·弗鲁">安东尼·弗鲁</a></li>
+<li><a href="/w/index.php?title=%E5%A8%81%E5%BB%89%C2%B7%E9%98%BF%E5%B0%94%E6%96%AF%E9%A1%BF&amp;action=edit&amp;redlink=1" class="new" title="威廉·阿尔斯顿（页面不存在）">威廉·阿尔斯顿</a></li></ul>
+<ul><li><a href="/w/index.php?title=%E5%A8%81%E5%BB%89%C2%B7L%C2%B7%E7%BD%97&amp;action=edit&amp;redlink=1" class="new" title="威廉·L·罗（页面不存在）">威廉·L·罗</a></li>
+<li><a href="/wiki/%E9%98%BF%E5%B0%94%E6%96%87%C2%B7%E6%99%AE%E5%85%B0%E4%B8%81%E6%A0%BC" title="阿尔文·普兰丁格">阿尔文·普兰丁格</a></li>
+<li><a href="/wiki/%E7%90%86%E5%AF%9F%C2%B7%E6%96%AF%E6%BA%AB%E4%BC%AF%E6%81%A9" title="理察·斯温伯恩">斯温伯恩</a></li>
+<li><a href="/w/index.php?title=%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E6%91%A9%E5%B0%94%E6%97%A5%E4%BF%AE%C2%B7%E4%BA%9A%E5%BD%93%E6%96%AF&amp;action=edit&amp;redlink=1" class="new" title="罗伯特·摩尔日修·亚当斯（页面不存在）">罗伯特·摩尔日修·亚当斯</a></li></ul>
+<ul><li><a href="/wiki/%E4%B8%B9%E5%B0%BC%E7%88%BE%C2%B7%E4%B8%B9%E5%B0%BC%E7%89%B9" title="丹尼尔·丹尼特">丹尼尔·丹尼特</a></li>
+<li><a href="/w/index.php?title=%E5%A8%81%E5%BB%89%C2%B7%E8%8E%B1%E6%81%A9%C2%B7%E6%9F%AF%E8%8E%B1%E6%A0%BC&amp;action=edit&amp;redlink=1" class="new" title="威廉·莱恩·柯莱格（页面不存在）">威廉·莱恩·柯莱格</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;"><b>相关条目</b></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AE%97%E6%95%99#宗教的批判" title="宗教">宗教批判</a></li>
+<li><a href="/w/index.php?title=%E6%9F%A5%E7%BB%8F&amp;action=edit&amp;redlink=1" class="new" title="查经（页面不存在）">查经</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E5%8F%B2" title="宗教史">宗教史</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99" title="宗教">宗教</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E5%AD%B8" class="mw-redirect" title="宗教学">宗教学</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6" title="宗教哲学">宗教哲学</a></li>
+<li><a href="/wiki/%E7%A5%9E%E5%AD%B8" title="神学">神学</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E4%B8%8E%E7%A7%91%E5%AD%A6" title="宗教与科学">宗教与科学</a></li>
+<li><a href="/w/index.php?title=%E6%94%BF%E6%B2%BB%E4%B8%8E%E5%AE%97%E6%95%99&amp;action=edit&amp;redlink=1" class="new" title="政治与宗教（页面不存在）">政治与宗教</a></li>
+<li><a href="/w/index.php?title=%E7%90%86%E6%80%A7%E4%B8%8E%E4%BF%A1%E4%BB%B0&amp;action=edit&amp;redlink=1" class="new" title="理性与信仰（页面不存在）">理性与信仰</a></li>
+<li><b><a href="/w/index.php?title=%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95&amp;action=edit&amp;redlink=1" class="new" title="宗教哲学文章索引（页面不存在）">更多...</a></b></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Portal:%E5%93%B2%E5%AD%A6" title="Portal:哲学">主题门户</a>　<span style="white-space:nowrap; font-weight:bold;">&#160;·</span> 　<a href="/wiki/Category:%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%B8" title="Category:宗教哲学">分类目录</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q1290" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"> <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/29538862">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS" title="BIBSYS">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90653173">90653173</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="阿根廷国家图书馆">BNA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bn.gov.ar/F/?func=direct&amp;local_base=BNA10&amp;doc_number=000029499">000029499</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%99%BA%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="智利国家图书馆">BNC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.bncatalogo.cl/F?func=direct&amp;local_base=red10&amp;doc_number=000063045">000063045</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="西班牙国家图书馆">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1147855">XX1147855</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11918679x">cb11918679x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11918679x">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA00140994?l=en">DA00140994</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CONOR" title="CONOR">CONOR</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.cobiss.si/scripts/cobiss?command=DISPLAY&amp;base=CONOR&amp;rid=5951331">5951331</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%88%86%E9%9D%A2%E6%87%89%E7%94%A8%E4%B8%BB%E9%A1%8C%E8%A9%9E%E8%A1%A8" title="分面应用主题词表">FAST</a>: <span class="uid"><a rel="nofollow" class="external text" href="//experimental.worldcat.org/fast/40008">40008</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/118591843">118591843</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E8%AD%98%E5%88%A5%E7%A2%BC" title="国际标准名称识别码">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121258260">0000 0001 2125 8260</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007266472105171">987007266472105171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9A%A8%E6%A1%A3%E6%A1%88%E9%A6%86" title="加拿大国家图书馆暨档案馆">LAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.collectionscanada.gc.ca/canadiana-authorities/index/view?index_name=cdnAutNbr&amp;search_text=$1&amp;page=1&amp;cdnAutNbr=0040A8602">0040A8602</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79084279">n79084279</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8B%89%E6%89%98%E7%BB%B4%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" class="mw-redirect" title="拉托维亚国家图书馆">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000052265&amp;P_CON_LNG=ENG">000052265</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/4632a192-3a0c-4394-80b0-0163c09c5c82">4632a192-3a0c-4394-80b0-0163c09c5c82</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B8%E5%AD%B8%E8%AD%9C%E7%B3%BB%E8%A8%88%E7%95%AB" title="数学谱系计划">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=126406">126406</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00452212">00452212</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19990006387&amp;CON_LNG=ENG">jn19990006387</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%BE%B3%E6%B4%B2%E5%9C%8B%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8" title="澳洲国立图书馆">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35410983">35410983</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9B%BD%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%9B%BE%E4%B9%A6%E9%A6%86_(%E9%9F%A9%E5%9B%BD)" title="国立中央图书馆 (韩国)">NLK</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://lod.nl.go.kr/resource/KAC199621139">KAC199621139</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%B3%A2%E8%98%AD%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="波兰国家图书馆">NLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&amp;IM=04&amp;NU=01&amp;WI=a0000001180839">a0000001180839</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">NNL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nli.org.il/F/?func=find-b&amp;local_base=NNL10&amp;find_code=SYS&amp;con_lng=eng&amp;request=000103607">000103607</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%96%A9%E6%A0%BC%E5%8B%92%E5%B8%83%E5%9C%8B%E5%AE%B6%E5%92%8C%E5%A4%A7%E5%AD%B8%E5%9C%96%E6%9B%B8%E9%A4%A8" title="萨格勒布国家和大学图书馆">NSK</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://katalog.nsk.hr/F/?func=direct&amp;doc_number=000037250&amp;local_base=nsk10">000037250</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%8D%B7%E8%98%AD%E7%9A%87%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="荷兰皇家图书馆">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p068361890">068361890</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%81%94%E5%90%88%E7%9B%AE%E5%BD%95%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E6%89%80" title="意大利图书馆联合目录中央研究所">ICCU</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://opac.sbn.it/nome/CFIV010441">CFIV010441</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/220083">220083</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w69p382v">w69p382v</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%A4%A7%E5%AD%B8%E6%96%87%E6%AA%94%E7%B3%BB%E7%B5%B1" title="大学文档系统">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027059073">027059073</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E8%99%9A%E6%8B%9F%E5%9B%BD%E9%99%85%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="虚拟国际规范文档">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/29538862">29538862</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐p64th
+Cached time: 20240401233255
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.499 seconds
+Real time usage: 0.669 seconds
+Preprocessor visited node count: 5841/1000000
+Post‐expand include size: 163064/2097152 bytes
+Template argument size: 14525/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 51/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5692/5000000 bytes
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 5594174/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  451.564      1 -total
+ 35.54%  160.490      1 Template:Infobox_philosopher
+ 34.83%  157.296      1 Template:Infobox_person
+ 26.32%  118.837      2 Template:Navbox
+ 24.40%  110.198      1 Template:Infobox_person/core
+ 23.99%  108.314      2 Template:Infobox
+ 21.23%   95.873      1 Template:宗教哲学
+ 10.22%   46.152      1 Template:Refimprove
+ 10.00%   45.156      1 Template:Reflist
+  9.46%   42.728      1 Template:Wikidata_image
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:147605-0!userlang=zh-cn!zh-cn and timestamp 20240401233255 and revision id 79724032. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=布莱兹·帕斯卡&amp;oldid=79724032">https://zh.wikipedia.org/w/index.php?title=布莱兹·帕斯卡&amp;oldid=79724032</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:1623%E5%B9%B4%E5%87%BA%E7%94%9F" title="Category:1623年出生">1623年出生</a></li><li><a href="/wiki/Category:1662%E5%B9%B4%E9%80%9D%E4%B8%96" title="Category:1662年逝世">1662年逝世</a></li><li><a href="/wiki/Category:%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1" title="Category:布莱兹·帕斯卡">布莱兹·帕斯卡</a></li><li><a href="/wiki/Category:%E6%B3%95%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6" title="Category:法国数学家">法国数学家</a></li><li><a href="/wiki/Category:%E6%B3%95%E5%9C%8B%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6" title="Category:法國物理學家">法国物理学家</a></li><li><a href="/wiki/Category:17%E4%B8%96%E7%BA%AA%E6%B3%95%E5%9B%BD%E5%93%B2%E5%AD%A6%E5%AE%B6" title="Category:17世纪法国哲学家">17世纪法国哲学家</a></li><li><a href="/wiki/Category:%E6%AD%90%E6%B4%B2%E7%B4%99%E5%B9%A3%E4%B8%8A%E7%9A%84%E4%BA%BA%E7%89%A9" title="Category:歐洲紙幣上的人物">欧洲纸币上的人物</a></li><li><a href="/wiki/Category:%E6%97%A0%E7%A5%9E%E8%AE%BA%E6%89%B9%E8%AF%84%E8%80%85" title="Category:无神论批评者">无神论批评者</a></li><li><a href="/wiki/Category:%E5%85%8B%E8%8E%B1%E8%92%99%E8%B4%B9%E6%9C%97%E4%BA%BA" title="Category:克莱蒙费朗人">克莱蒙费朗人</a></li><li><a href="/wiki/Category:%E7%AE%B4%E8%A8%80%E4%BD%9C%E5%AE%B6" title="Category:箴言作家">箴言作家</a></li><li><a href="/wiki/Category:%E6%B3%95%E5%9B%BD%E5%A4%A9%E4%B8%BB%E6%95%99%E7%A5%9E%E5%AD%A6%E5%AE%B6" title="Category:法国天主教神学家">法国天主教神学家</a></li><li><a href="/wiki/Category:%E6%9D%A8%E6%A3%AE%E4%B8%BB%E4%B9%89%E8%80%85" title="Category:杨森主义者">杨森主义者</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2019%E5%B9%B412%E6%9C%88%E9%9C%80%E8%A1%A5%E5%85%85%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2019年12月需补充来源的条目">自2019年12月需补充来源的条目</a></li><li><a href="/wiki/Category:%E6%8B%92%E7%BB%9D%E5%BD%93%E9%80%89%E9%A6%96%E9%A1%B5%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90%E6%A0%8F%E7%9B%AE%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:拒绝当选首页新条目推荐栏目的条目">拒绝当选首页新条目推荐栏目的条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8%E5%8F%97%E5%BD%B1%E5%93%8D%E4%BA%8E%E5%8F%82%E6%95%B0%E7%9A%84%E4%BA%BA%E7%89%A9%E4%BF%A1%E6%81%AF%E6%A1%86" title="Category:使用受影响于参数的人物信息框">使用受影响于参数的人物信息框</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89hCards%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有hCards的条目">含有hCards的条目</a></li><li><a href="/wiki/Category:%E6%9C%AC%E5%9C%B0%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87%E4%B8%8E%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8D%E5%90%8C" title="Category:本地相关图片与维基数据不同">本地相关图片与维基数据不同</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E6%B3%95%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有法語的條目">含有法语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBIBSYS%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BIBSYS标识符的维基百科条目">包含BIBSYS标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNA标识符的维基百科条目">包含BNA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNC标识符的维基百科条目">包含BNC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNE%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNE标识符的维基百科条目">包含BNE标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABCINII%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含CINII标识符的维基百科条目">包含CINII标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABCONOR%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含CONOR标识符的维基百科条目">包含CONOR标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABFAST%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含FAST标识符的维基百科条目">包含FAST标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABISNI%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含ISNI标识符的维基百科条目">包含ISNI标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLAC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LAC标识符的维基百科条目">包含LAC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLNB%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LNB标识符的维基百科条目">包含LNB标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABMusicBrainz%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含MusicBrainz标识符的维基百科条目">包含MusicBrainz标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABMGP%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含MGP标识符的维基百科条目">包含MGP标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNLA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NLA标识符的维基百科条目">包含NLA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNLK%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NLK标识符的维基百科条目">包含NLK标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNLP%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NLP标识符的维基百科条目">包含NLP标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNNL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NNL标识符的维基百科条目">包含NNL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNSK%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NSK标识符的维基百科条目">包含NSK标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNTA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NTA标识符的维基百科条目">包含NTA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABSBN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含SBN标识符的维基百科条目">包含SBN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABSELIBR%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含SELIBR标识符的维基百科条目">包含SELIBR标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABSNAC-ID%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含SNAC-ID标识符的维基百科条目">包含SNAC-ID标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABSUDOC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含SUDOC标识符的维基百科条目">包含SUDOC标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABVIAF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含VIAF标识符的维基百科条目">包含VIAF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%AB29%E5%85%83%E7%B4%A0%E7%9A%84%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Category:包含29元素的规范控制">包含29元素的规范控制</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年11月12日 (星期日) 06:10。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-zzthh","wgBackendResponseTime":202,"wgPageParseReport":{"limitreport":{"cputime":"0.499","walltime":"0.669","ppvisitednodes":{"value":5841,"limit":1000000},"postexpandincludesize":{"value":163064,"limit":2097152},"templateargumentsize":{"value":14525,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":51,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5692,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  451.564      1 -total"," 35.54%  160.490      1 Template:Infobox_philosopher"," 34.83%  157.296      1 Template:Infobox_person"," 26.32%  118.837      2 Template:Navbox"," 24.40%  110.198      1 Template:Infobox_person/core"," 23.99%  108.314      2 Template:Infobox"," 21.23%   95.873      1 Template:宗教哲学"," 10.22%   46.152      1 Template:Refimprove"," 10.00%   45.156      1 Template:Reflist","  9.46%   42.728      1 Template:Wikidata_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":5594174,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-p64th","timestamp":"20240401233255","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5e03\u83b1\u5179\u00b7\u5e15\u65af\u5361","url":"https:\/\/zh.wikipedia.org\/wiki\/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1290","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1290","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-21T03:40:32Z","dateModified":"2023-11-12T06:10:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/98\/Blaise_Pascal_Versailles.JPG","headline":"\u6cd5\u570b\u795e\u5b78\u5bb6\u3001\u5b97\u6559\u54f2\u5b78\u5bb6\u3001\u6578\u5b78\u5bb6\u3001\u7269\u7406\u5b78\u5bb6\u3001\u5316\u5b78\u5bb6\uff081623\uff0d1662\uff09"}</script>
+</body>
+</html>

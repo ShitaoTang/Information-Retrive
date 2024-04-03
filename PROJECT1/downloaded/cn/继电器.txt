@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>继电器 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"11aba236-8a40-4452-ba42-cb611816d4f4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"继电器","wgTitle":"继电器","wgCurRevisionId":78882867,"wgRevisionId":78882867,"wgArticleId":280629,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2014年12月缺少可靠来源的条目","自2020年12月內容疑似拷貝後貼上的頁面","內容疑似拷貝後貼上的頁面","自2021年5月需要校對的頁面","含有多个问题的条目","含有英語的條目","包含BNF标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目",
+"包含NKC标识符的维基百科条目","繼電器","電子元件","机电一体化","电子工业","自動控制","電機工程","电子工程","1835年面世"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"继电器","wgRelevantArticleId":280629,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":
+"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q174053","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/24/Relais.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="924">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/24/Relais.JPG">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="616">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="493">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="继电器 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-继电器 rootpage-继电器 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%BB%A7%E7%94%B5%E5%99%A8" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%BB%A7%E7%94%B5%E5%99%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E7%BB%A7%E7%94%B5%E5%99%A8" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E7%BB%A7%E7%94%B5%E5%99%A8" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-继电器的种类"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#继电器的种类">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>继电器的种类</div>
+		</a>
+		
+			<button aria-controls="toc-继电器的种类-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关继电器的种类子章节</span>
+			</button>
+		
+		<ul id="toc-继电器的种类-sublist" class="vector-toc-list">
+			<li id="toc-时间继电器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#时间继电器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>时间继电器</div>
+			</a>
+			
+			<ul id="toc-时间继电器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-电磁继电器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#电磁继电器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>电磁继电器</div>
+			</a>
+			
+			<ul id="toc-电磁继电器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-热敏乾簧继电器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#热敏乾簧继电器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>热敏干簧继电器</div>
+			</a>
+			
+			<ul id="toc-热敏乾簧继电器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-固态继电器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#固态继电器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>固态继电器</div>
+			</a>
+			
+			<ul id="toc-固态继电器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-磁簧继电器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#磁簧继电器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5</span>磁簧继电器</div>
+			</a>
+			
+			<ul id="toc-磁簧继电器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-光繼電器"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#光繼電器">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6</span>光继电器</div>
+			</a>
+			
+			<ul id="toc-光繼電器-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-继电器主要产品技术参数"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#继电器主要产品技术参数">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>继电器主要产品技术参数</div>
+		</a>
+		
+			<button aria-controls="toc-继电器主要产品技术参数-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关继电器主要产品技术参数子章节</span>
+			</button>
+		
+		<ul id="toc-继电器主要产品技术参数-sublist" class="vector-toc-list">
+			<li id="toc-额定工作电压"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#额定工作电压">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>额定工作电压</div>
+			</a>
+			
+			<ul id="toc-额定工作电压-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-直流电阻"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#直流电阻">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>直流电阻</div>
+			</a>
+			
+			<ul id="toc-直流电阻-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-接触电阻"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#接触电阻">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>接触电阻</div>
+			</a>
+			
+			<ul id="toc-接触电阻-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-吸合电流或電壓"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#吸合电流或電壓">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>吸合电流或电压</div>
+			</a>
+			
+			<ul id="toc-吸合电流或電壓-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-释放电流或電壓"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#释放电流或電壓">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>释放电流或电压</div>
+			</a>
+			
+			<ul id="toc-释放电流或電壓-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-触点切换电压和电流"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#触点切换电压和电流">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>触点切换电压和电流</div>
+			</a>
+			
+			<ul id="toc-触点切换电压和电流-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-继电器测试"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#继电器测试">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>继电器测试</div>
+		</a>
+		
+			<button aria-controls="toc-继电器测试-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关继电器测试子章节</span>
+			</button>
+		
+		<ul id="toc-继电器测试-sublist" class="vector-toc-list">
+			<li id="toc-测触点电阻"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#测触点电阻">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>测触点电阻</div>
+			</a>
+			
+			<ul id="toc-测触点电阻-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-测线圈电阻"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#测线圈电阻">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>测线圈电阻</div>
+			</a>
+			
+			<ul id="toc-测线圈电阻-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-测量吸合电压和吸合电流"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#测量吸合电压和吸合电流">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>测量吸合电压和吸合电流</div>
+			</a>
+			
+			<ul id="toc-测量吸合电压和吸合电流-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-测量释放电压和释放电流"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#测量释放电压和释放电流">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>测量释放电压和释放电流</div>
+			</a>
+			
+			<ul id="toc-测量释放电压和释放电流-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-继电器的电符号和触点形式"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#继电器的电符号和触点形式">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>继电器的电符号和触点形式</div>
+		</a>
+		
+			<button aria-controls="toc-继电器的电符号和触点形式-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关继电器的电符号和触点形式子章节</span>
+			</button>
+		
+		<ul id="toc-继电器的电符号和触点形式-sublist" class="vector-toc-list">
+			<li id="toc-常見縮寫"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#常見縮寫">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>常见缩写</div>
+			</a>
+			
+			<ul id="toc-常見縮寫-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-開關触点型式"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#開關触点型式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>开关触点型式</div>
+			</a>
+			
+			<ul id="toc-開關触点型式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-继电器的选用"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#继电器的选用">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>继电器的选用</div>
+		</a>
+		
+			<button aria-controls="toc-继电器的选用-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关继电器的选用子章节</span>
+			</button>
+		
+		<ul id="toc-继电器的选用-sublist" class="vector-toc-list">
+			<li id="toc-先了解必要的条件"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#先了解必要的条件">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>先了解必要的条件</div>
+			</a>
+			
+			<ul id="toc-先了解必要的条件-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-型号和规格号"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#型号和规格号">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>型号和规格号</div>
+			</a>
+			
+			<ul id="toc-型号和规格号-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc--{注意}-器具的容积"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#-{注意}-器具的容积">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>注意器具的容积</div>
+			</a>
+			
+			<ul id="toc--{注意}-器具的容积-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-保护继电器"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#保护继电器">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>保护继电器</div>
+		</a>
+		
+		<ul id="toc-保护继电器-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参考文献</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">继电器</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。57种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-57" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">57种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Rel%C3%AA" title="Relê – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%AD%D9%84" title="مرحل – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Rele" title="Rele – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%8D%D0%BB%D0%B5" title="Рэле – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5" title="Реле – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BF%E0%A6%B2%E0%A7%87" title="রিলে – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Elektromagnetick%C3%A9_rel%C3%A9" title="Elektromagnetické relé – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Rel%C3%A6" title="Relæ – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Relais" title="Relais – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BD%CF%8C%CE%BC%CE%BF%CF%82" title="Ηλεκτρονόμος – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Relay" title="Relay – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Relajso" title="Relajso – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Relee" title="Relee – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Errele" title="Errele – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%84%D9%87" title="رله – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Rele" title="Rele – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Relais_%C3%A9lectrom%C3%A9canique" title="Relais électromécanique – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Athsheachad%C3%A1n" title="Athsheachadán – 爱尔兰语" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%A1%D7%A8" title="ממסר – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BF%E0%A4%B2%E0%A5%87" title="रिले – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Jelfog%C3%B3" title="Jelfogó – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A5%D5%AC%D5%A5" title="Ռելե – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Relai" title="Relai – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Relayo" title="Relayo – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Rel%C3%A8" title="Relè – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%B6%99%E9%9B%BB%E5%99%A8" title="継電器 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5" title="Реле – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EA%B3%84%EC%A0%84%EA%B8%B0" title="전자계전기 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5" title="Реле – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Commutamen" title="Commutamen – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 倫巴底文" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Rel%C4%97" title="Relė – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Relejs" title="Relejs – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D1%98" title="Релеј – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="अभिचालित्र – 马拉地语" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Geganti" title="Geganti – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Relais" title="Relais – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Przeka%C5%BAnik" title="Przekaźnik – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5" title="Реле – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Relej" title="Relej – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Relay" title="Relay – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Rel%C3%A9" title="Relé – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Rele" title="Rele – 斯洛文尼亚语" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D1%98" title="Релеј – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Rel%C3%A4" title="Relä – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%A3%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF" title="உணாத்தி – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C" title="รีเลย์ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/R%C3%B6le" title="Röle – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5" title="Реле – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Relay" title="Relay – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B9%BC%E9%9B%BB%E5%99%A8" title="繼電器 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q174053#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E7%BB%A7%E7%94%B5%E5%99%A8" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E7%BB%A7%E7%94%B5%E5%99%A8" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E7%BB%A7%E7%94%B5%E5%99%A8" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E7%BB%A7%E7%94%B5%E5%99%A8" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;oldid=78882867" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;id=78882867&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%25BB%25A7%25E7%2594%25B5%25E5%2599%25A8"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%25BB%25A7%25E7%2594%25B5%25E5%2599%25A8"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q174053" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Relay" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-8ed9371" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E7%BB%A7%E7%94%B5%E5%99%A8" title="Talk:继电器">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Onesource plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/50px-Tango-nosources.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/75px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/100px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目或其章节<b>极大或完全地依赖于某个<a href="/wiki/Wikipedia:CITE" class="mw-redirect" title="Wikipedia:CITE">单一的来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2014年12月4日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助补充多方面<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<span class="plainlinks"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit">改善这篇条目</a></span>。<br />致使用者：请搜索一下条目的标题（来源搜索：<span class="plainlinks"><a rel="nofollow" class="external text" href="//www.google.com/search?&amp;as_eq=wikipedia&amp;q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">"继电器"</a> &#8212; <a rel="nofollow" class="external text" href="//www.google.com/search?q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">网页</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=&amp;as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&amp;q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">新闻</a>、<a rel="nofollow" class="external text" href="//books.google.com/books?&amp;as_brr=0&amp;as_pub=-icon&amp;q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">书籍</a>、<a rel="nofollow" class="external text" href="//scholar.google.com/scholar?&amp;q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">学术</a>、<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=isch&amp;safe=off&amp;q=%22%E7%BB%A7%E7%94%B5%E5%99%A8%22">图像</a></span>），以检查网络上是否存在该主题的更多可靠来源（<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">判定指引</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Copypaste plainlinks metadata ambox ambox-speedy" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Copyright-problem_paste_2.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Copyright-problem_paste_2.svg/40px-Copyright-problem_paste_2.svg.png" decoding="async" width="40" height="42" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Copyright-problem_paste_2.svg/60px-Copyright-problem_paste_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Copyright-problem_paste_2.svg/80px-Copyright-problem_paste_2.svg.png 2x" data-file-width="113" data-file-height="119" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目的内容<b>疑似<a href="/wiki/Wikipedia:%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83" title="Wikipedia:侵犯著作权">复制粘贴</a>自某处，涉嫌违反维基百科的<a href="/wiki/Wikipedia:%E8%91%97%E4%BD%9C%E6%9D%83%E4%BF%A1%E6%81%AF" title="Wikipedia:著作权信息">著作权方针</a>。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2020年12月20日</span>)</i></small><span class="hide-when-compact"><br /><small>请协助移除任何非自由著作权的内容，可使用<span class="plainlinks"><a class="external text" href="https://tools.wmflabs.org/copyvios/?lang=zh&amp;project=wikipedia&amp;title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;oldid=&amp;action=search&amp;use_engine=1&amp;use_links=1&amp;turnitin=1">工具</a></span>检查是否侵权。请确定本处所指的来源并非属于任何<a href="/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%8B%B7%E8%B4%9D%E7%BD%91%E7%AB%99" title="Wikipedia:维基百科拷贝网站">维基百科拷贝网站</a>。<a href="/wiki/Talk:%E7%BB%A7%E7%94%B5%E5%99%A8" title="Talk:继电器">讨论页</a>或许有相关信息。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">编修</a>，以确保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字词">用词、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">标点</a>等使用恰当。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2021年5月28日</span>)</i></small><span class="hide-when-compact"><br /><small>请按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">校对指引</a>，帮助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit">编辑</a>这个条目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">帮助</a>、<a href="/wiki/Talk:%E7%BB%A7%E7%94%B5%E5%99%A8" title="Talk:继电器">讨论</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-8ed9371" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Electronics"></div></div></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Relais.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Relais.JPG/220px-Relais.JPG" decoding="async" width="220" height="169" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Relais.JPG/330px-Relais.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/2/24/Relais.JPG 2x" data-file-width="434" data-file-height="334" /></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Relais_Animation.gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Relais_Animation.gif/440px-Relais_Animation.gif" decoding="async" width="440" height="245" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/b/bb/Relais_Animation.gif 1.5x" data-file-width="610" data-file-height="339" /></a><figcaption>继电器工作原理的动画</figcaption></figure>
+<p><b>继电器</b>（Relay），也称<b>电驿</b>，是一种电子控制器件，它具有控制系统（又称输入回路）和被控制系统（又称输出回路），通常应用于<a href="/wiki/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6" class="mw-redirect" title="自动控制">自动控制</a>电路中，它实际上是用较小的电流去控制较大电流的一种“自动<a href="/wiki/%E9%96%8B%E9%97%9C" title="开关">开关</a>”。故在电路中起着自动调节、安全保护、转换电路等作用。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E7.BB.A7.E7.94.B5.E5.99.A8.E7.9A.84.E7.A7.8D.E7.B1.BB"></span><span class="mw-headline" id="继电器的种类">继电器的种类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=1" title="编辑章节：继电器的种类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Relay_look.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Relay_look.JPG/220px-Relay_look.JPG" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Relay_look.JPG/330px-Relay_look.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Relay_look.JPG/440px-Relay_look.JPG 2x" data-file-width="4160" data-file-height="3120" /></a><figcaption>一种电磁继电器的外观</figcaption></figure>
+<table class="wikitable" width="30%">
+
+<tbody><tr>
+<th width="15%">按输入信号的性质分
+</th>
+<th width="15%">按工作原理分
+</th></tr>
+<tr>
+<td>电压继电器</td>
+<td>电磁式继电器
+</td></tr>
+<tr>
+<td>电流继电器</td>
+<td>感应式继电器
+</td></tr>
+<tr>
+<td>时间继电器</td>
+<td>电动式继电器
+</td></tr>
+<tr>
+<td>温度继电器</td>
+<td>电子式继电器
+</td></tr>
+<tr>
+<td>速度继电器</td>
+<td>热继电器
+</td></tr>
+<tr>
+<td>压力继电器</td>
+<td>光继电器
+</td></tr>
+</tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Relay_principle_horizontal.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Relay_principle_horizontal.jpg/400px-Relay_principle_horizontal.jpg" decoding="async" width="400" height="179" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Relay_principle_horizontal.jpg/600px-Relay_principle_horizontal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Relay_principle_horizontal.jpg/800px-Relay_principle_horizontal.jpg 2x" data-file-width="2060" data-file-height="920" /></a><figcaption>继电器工作示意图左：放开，右：吸合</figcaption></figure>
+<h3><span id=".E6.97.B6.E9.97.B4.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="时间继电器">时间继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=2" title="编辑章节：时间继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=%E6%97%B6%E9%97%B4%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="时间继电器（页面不存在）">时间继电器</a>（Time delay relay）在接受到动作信号后不是立即动作，而是经过固定的时间以后才改变其输出状态的继电器。
+</p><p>时间继电器用来延迟接触操作<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>，有通电后延迟接触者和断电后延迟断开者（或两者兼有）的型号。
+</p><p>时间继电器按照动作的原理分为：
+</p>
+<ul><li>电磁式时间继电器；</li>
+<li>机械式时间继电器：包括钟表机构式时间继电器、电动机式时间继电器。</li>
+<li>阻尼式时间继电器：包括空气阻尼式时间继电器、水银阻尼式时间继电器。</li>
+<li>电热式时间继电器：包括金属片式时间继电器、热敏电阻式时间继电器。</li>
+<li>电子式时间继电器：包括RC充放电式时间继电器、数字式时间继电器和微机式时间继电器。</li></ul>
+<h3><span id=".E7.94.B5.E7.A3.81.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="电磁继电器">电磁继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=3" title="编辑章节：电磁继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>依据输入线圈的电流性质，分为直流继电器和交流继电器。直流继电器与交流继电器在控制方式上并无区别，但是在铁心结构上有区别。交流继电器，因电流产生交变磁场，在磁感应强度过零时，触点会断开，产生振动与噪音，因此在铁心上增加短路环，延迟铁心磁场变化，可以防止触点振动。
+</p>
+<h3><span id=".E7.83.AD.E6.95.8F.E4.B9.BE.E7.B0.A7.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="热敏乾簧继电器">热敏干簧继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=4" title="编辑章节：热敏干簧继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>热敏干簧继电器(Thermal reed relay)是一种利用热敏磁性材料检测和控制温度的新型热敏开关。它由感温磁环、恒磁环、<a href="/w/index.php?title=%E4%B9%BE%E7%B0%A7%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="干簧管（页面不存在）">干簧管</a>、导热安装片、塑料衬底及其他一些附件组成。热敏干簧继电器不用线圈励磁，而由恒磁环产生的磁力驱动开关动作。恒磁环能否向干簧管提供磁力是由感温磁环的温控特性决定的。
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Solid-state-relays.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Solid-state-relays.jpg/220px-Solid-state-relays.jpg" decoding="async" width="220" height="230" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Solid-state-relays.jpg/330px-Solid-state-relays.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Solid-state-relays.jpg/440px-Solid-state-relays.jpg 2x" data-file-width="915" data-file-height="958" /></a><figcaption>固态继电器（SSR）外观</figcaption></figure>
+<h3><span id=".E5.9B.BA.E6.80.81.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="固态继电器">固态继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=5" title="编辑章节：固态继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%E5%9B%BA%E6%85%8B%E7%B9%BC%E9%9B%BB%E5%99%A8" title="固态继电器">固态继电器</a>（solid state relay，SSR）是利用一颗<a href="/wiki/%E7%99%BC%E5%85%89%E4%BA%8C%E6%A5%B5%E9%AB%94" class="mw-redirect" title="发光二极管">发光二极管</a>（<a href="/wiki/LED" class="mw-redirect" title="LED">LED</a>）等发光器件与一颗<a href="/wiki/%E5%85%89%E9%9B%BB%E6%99%B6%E9%AB%94" class="mw-redirect" title="光晶体管">光晶体管</a>等光接收器件作成之<a href="/wiki/%E5%85%89%E8%80%A6%E5%90%88%E5%99%A8" class="mw-redirect" title="光耦合器">光耦合器</a>，触发<a href="/wiki/%E6%99%B6%E9%96%98%E7%AE%A1" title="晶闸管">可控硅</a>（SCR）或<a href="/w/index.php?title=%E9%9B%99%E5%90%91%E7%9F%BD%E6%8E%A7%E6%95%B4%E6%B5%81%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="双向可控硅（页面不存在）">双向可控硅</a>（TRIAC），因此可以接受低压（<a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="直流电">DC</a>或<a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">AC</a>）信号输入，而驱动高压之输出，具隔离输出入及控制高功率输出之效果。优点是开关速度快、工作频率高、使用寿命长、噪声低和工作可靠，用于防爆场所，也有许多的不利的地方，例如：当闭合的时候，高的电阻（发热），增加电噪音。当断开的时候，低的电阻，反向漏电流（通常 µA 范围）。可使用于取代常规电磁式继电器，广泛用于数字程控装置。
+</p><p>固态继电器按负载电源类型可分为<a href="/wiki/%E4%BA%A4%E6%B5%81" class="mw-disambig" title="交流">交流</a>型和<a href="/wiki/%E7%9B%B4%E6%B5%81" class="mw-redirect" title="直流">直流</a>型。按开关型式可分为常开型和常闭型。按隔离型式可分为混合型、变压器隔离型和光电隔离型，以光电隔离型为最多。
+</p>
+<h3><span id=".E7.A3.81.E7.B0.A7.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="磁簧继电器">磁簧继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=6" title="编辑章节：磁簧继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>磁簧继电器</b>(Reed relay)是以线圈产生磁场将磁簧管作动之继电器，为一种<a href="/wiki/%E7%B7%9A%E5%9C%88" class="mw-redirect" title="线圈">线圈</a><a href="/wiki/%E4%BC%A0%E6%84%9F%E5%99%A8" title="传感器">传感</a>装置。因此磁簧继电器之特征、小型尺寸、轻量、反应速度快、短跳动时间等特性。
+</p><p>当整块铁磁金属或者其他导磁物质与之靠近的时候，发生动作，开通或者闭合<a href="/wiki/%E7%94%B5%E8%B7%AF" title="电路">电路</a>。由<a href="/wiki/%E6%B0%B8%E4%B9%85%E7%A3%81%E9%90%B5" class="mw-redirect" title="永久磁铁">永久磁铁</a>和<a href="/w/index.php?title=%E5%B9%B2%E7%B0%A7%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="干簧管（页面不存在）">干簧管</a>组成。永久磁铁、干簧管固定在一个不导磁也不带有磁性的支架上。以永久磁铁的南北极的连线为轴线，这个轴线应该与干簧管的轴线重合或者基本重合。由远及近的调整永久磁铁与干簧管之间的距离，当干簧管刚好发生动作（对于常开的干簧管，变为闭合；对于常闭的干簧管，变为断开）时，将磁铁的位置固定下来。这时，当有整块导磁材料，例如铁板同时靠近磁铁和干簧管时，干簧管会再次发生动作，恢复到没有磁场作用时的状态；当该铁板离开时，干簧管即发生相反方向的动作。
+磁簧继电器结构坚固，<a href="/w/index.php?title=%E8%A7%A6%E7%82%B9&amp;action=edit&amp;redlink=1" class="new" title="触点（页面不存在）">触点</a>为密封状态，耐用性高，可以作为机械设备的位置限制开关，也可以用以探测铁制门、窗等是否在指定位置。
+</p>
+<h3><span id=".E5.85.89.E7.B9.BC.E9.9B.BB.E5.99.A8"></span><span class="mw-headline" id="光繼電器">光继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=7" title="编辑章节：光继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>光继电器</b>为<a href="/wiki/%E4%BA%A4%E6%B5%81%E9%9B%BB" title="交流电">AC</a>/<a href="/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB" title="直流电">DC</a>并用的半导体继电器，指发光器件和受光器件一体化的器件。输入侧和输出侧电气性绝缘，但信号可以通过光信号传输。
+</p><p>其特点为寿命为半永久性、微小电流驱动信号、高阻抗绝缘耐压、超小型、光传输、无接点等。 
+</p><p>主要应用于量测设备、通信设备、保全设备、医疗设备等。
+</p>
+<h2><span id=".E7.BB.A7.E7.94.B5.E5.99.A8.E4.B8.BB.E8.A6.81.E4.BA.A7.E5.93.81.E6.8A.80.E6.9C.AF.E5.8F.82.E6.95.B0"></span><span class="mw-headline" id="继电器主要产品技术参数">继电器主要产品技术参数</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=8" title="编辑章节：继电器主要产品技术参数"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E9.A2.9D.E5.AE.9A.E5.B7.A5.E4.BD.9C.E7.94.B5.E5.8E.8B"></span><span class="mw-headline" id="额定工作电压">额定工作电压</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=9" title="编辑章节：额定工作电压"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器正常工作时线圈所需要的电压。根据继电器的型号不同，一般使用直流电压，但交流继电器可以是交流<a href="/wiki/%E7%94%B5%E5%8E%8B" class="mw-redirect" title="电压">电压</a>。
+</p>
+<h3><span id=".E7.9B.B4.E6.B5.81.E7.94.B5.E9.98.BB"></span><span class="mw-headline" id="直流电阻">直流电阻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=10" title="编辑章节：直流电阻"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器中线圈的直流电阻，可以通过三用电表测量。
+</p>
+<h3><span id=".E6.8E.A5.E8.A7.A6.E7.94.B5.E9.98.BB"></span><span class="mw-headline" id="接触电阻">接触电阻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=11" title="编辑章节：接触电阻"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器中接点接触后的电阻值。此电阻値一般很小，不易通过万用表测量，宜使用低阻计配合四线测量方式来测量。
+对于许多继电器来说，接触电阻无穷大或者不稳定是最大的问题。
+</p>
+<h3><span id=".E5.90.B8.E5.90.88.E7.94.B5.E6.B5.81.E6.88.96.E9.9B.BB.E5.A3.93"></span><span class="mw-headline" id="吸合电流或電壓">吸合电流或电压</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=12" title="编辑章节：吸合电流或电压"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器能够产生吸合动作的最小电流或最小电压。在正常使用时，给定的电流必须略大于吸合电流，这样继电器才能稳定地工作。而对于线圈所加的工作电压，一般也不要超过额定工作电压的1.5倍，否则会产生较大的电流而把线圈烧毁。
+</p>
+<h3><span id=".E9.87.8A.E6.94.BE.E7.94.B5.E6.B5.81.E6.88.96.E9.9B.BB.E5.A3.93"></span><span class="mw-headline" id="释放电流或電壓">释放电流或电压</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=13" title="编辑章节：释放电流或电压"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器产生释放动作的最大电流或最大电压。当继电器吸合状态的电流减小到一定程度时，继电器就会恢复到未通电的释放状态。这时的电流远远小于吸合电流。
+</p>
+<h3><span id=".E8.A7.A6.E7.82.B9.E5.88.87.E6.8D.A2.E7.94.B5.E5.8E.8B.E5.92.8C.E7.94.B5.E6.B5.81"></span><span class="mw-headline" id="触点切换电压和电流">触点切换电压和电流</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=14" title="编辑章节：触点切换电压和电流"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>是指继电器接点允许承载的电压和电流。它决定了继电器能控制的电压和电流大小，使用时不能超过此值，否则很容易损坏继电器的触点。
+</p>
+<h2><span id=".E7.BB.A7.E7.94.B5.E5.99.A8.E6.B5.8B.E8.AF.95"></span><span class="mw-headline" id="继电器测试">继电器测试</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=15" title="编辑章节：继电器测试"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E6.B5.8B.E8.A7.A6.E7.82.B9.E7.94.B5.E9.98.BB"></span><span class="mw-headline" id="测触点电阻">测触点电阻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=16" title="编辑章节：测触点电阻"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>用<a href="/wiki/%E8%90%AC%E7%94%A8%E9%9B%BB%E8%A1%A8" class="mw-redirect" title="万用电表">万用电表</a>的电阻档，测量常闭触点与动点电阻，其阻值应为0；而常开触点与动点的阻值就为无穷大。由此可以区别出哪个是常闭触点，哪个是常开触点。
+</p>
+<h3><span id=".E6.B5.8B.E7.BA.BF.E5.9C.88.E7.94.B5.E9.98.BB"></span><span class="mw-headline" id="测线圈电阻">测线圈电阻</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=17" title="编辑章节：测线圈电阻"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>可用万能表R×10Ω档测量继电器线圈的阻值，从而判断该线圈是否存在着开路现象。
+</p>
+<h3><span id=".E6.B5.8B.E9.87.8F.E5.90.B8.E5.90.88.E7.94.B5.E5.8E.8B.E5.92.8C.E5.90.B8.E5.90.88.E7.94.B5.E6.B5.81"></span><span class="mw-headline" id="测量吸合电压和吸合电流">测量吸合电压和吸合电流</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=18" title="编辑章节：测量吸合电压和吸合电流"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>找来可调稳压电源和电流表，给继电器输入一组电压，且在供电回路中串入电流表进行监测。慢慢调高电源电压，听到继电器吸合声时，记下该吸合电压和吸合电流。为求准确，可以试多几次而求平均值。
+</p>
+<h3><span id=".E6.B5.8B.E9.87.8F.E9.87.8A.E6.94.BE.E7.94.B5.E5.8E.8B.E5.92.8C.E9.87.8A.E6.94.BE.E7.94.B5.E6.B5.81"></span><span class="mw-headline" id="测量释放电压和释放电流">测量释放电压和释放电流</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=19" title="编辑章节：测量释放电压和释放电流"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>也是像上述那样连接测试，当继电器发生吸合后，再逐渐降低供电电压，当听到继电器再次发生释放声音时，记下此时的电压和电流，亦可尝试多几次而取得平均的释放电压和释放电流。一般情况下，继电器的释放电压约在吸合电压的10~50％，如果释放电压太小（小于1/10的吸合电压），则不能正常使用了，这样会对电路的稳定性造成威胁，工作不可靠。
+</p>
+<h2><span id=".E7.BB.A7.E7.94.B5.E5.99.A8.E7.9A.84.E7.94.B5.E7.AC.A6.E5.8F.B7.E5.92.8C.E8.A7.A6.E7.82.B9.E5.BD.A2.E5.BC.8F"></span><span class="mw-headline" id="继电器的电符号和触点形式">继电器的电符号和触点形式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=20" title="编辑章节：继电器的电符号和触点形式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Relay_inside.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Relay_inside.JPG/400px-Relay_inside.JPG" decoding="async" width="400" height="182" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Relay_inside.JPG/600px-Relay_inside.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Relay_inside.JPG/800px-Relay_inside.JPG 2x" data-file-width="961" data-file-height="438" /></a><figcaption>典型继电器内部构造</figcaption></figure>
+<h3><span id=".E5.B8.B8.E8.A6.8B.E7.B8.AE.E5.AF.AB"></span><span class="mw-headline" id="常見縮寫">常见缩写</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=21" title="编辑章节：常见缩写"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>COM（Common）表示共接点。</li>
+<li>NO（Normally Open）表示常开接点（俗称A接点）。平常处于开路（断路），线圈通电后才成为闭路（与共接点COM接通）。</li>
+<li>NC（Normally Closed）表示常闭接点（俗称B接点）。平常处于闭路（与共接点COM接通），线圈通电后才成为开路（断路）。</li></ul>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Relay_symbol.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Relay_symbol.JPG/400px-Relay_symbol.JPG" decoding="async" width="400" height="274" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Relay_symbol.JPG/600px-Relay_symbol.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/5/54/Relay_symbol.JPG 2x" data-file-width="617" data-file-height="422" /></a><figcaption>继电器符号，A.B代表A接点与B接点，Ry则为线圈</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Relay-IEC.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Relay-IEC.svg/200px-Relay-IEC.svg.png" decoding="async" width="200" height="130" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Relay-IEC.svg/300px-Relay-IEC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Relay-IEC.svg/400px-Relay-IEC.svg.png 2x" data-file-width="200" data-file-height="130" /></a><figcaption>继电器的<a href="/wiki/IEC" class="mw-redirect" title="IEC">IEC</a>标准电路符号（单刀双掷型）</figcaption></figure>
+<h3><span id=".E9.96.8B.E9.97.9C.E8.A7.A6.E7.82.B9.E5.9E.8B.E5.BC.8F"></span><span class="mw-headline" id="開關触点型式">开关触点型式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=22" title="编辑章节：开关触点型式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>继电器线圈在电路中用一个长方框符号表示，如果继电器有两个线圈，就画两个并列的长方框。同时在长方框内或长方框旁标上继电器的文字符号“J”。继电器的触点有两种表示方法：一种是把它们直接画在长方框一侧，这种表示法较为直观。另一种是按照电路连接的需要，把各个触点分别画到各自的控制电路中，通常在同一继电器的触点与线圈旁分别标注上相同的文字符号，并将触点组编上号码，以示区别。继电器的触点有三种基本形式：<br />
+</p>
+<ul><li>动合型（H型、常开型、<b>A型接点</b>）线圈不通电时两触点是断开的，通电后，两个触点就闭合。以合字的拼音字头“H”表示。</li>
+<li>动断型（D型，常闭型、<b>B型接点</b>）线圈不通电时两触点是闭合的，通电后两个触点就断开。用断字的拼音字头“D”表示。</li>
+<li>转换型（Z型）这是触点组型。这种触点组共有三个触点，即中间是动触点，上下各一个静触点。线圈不通电时，动触点和其中一个静触点断开和另一个闭合，线圈通电后，动触点就移动，使原来断开的成闭合，原来闭合的成断开状态，达到转换的目的。这样的触点组称为转换触点。用“转”字的拼音字头“z”表示。</li></ul>
+<dl><dd>如是先断开再与另一接点发生接触（一般情形），此种方式称为<b>C型接点</b>（Form C contact）。</dd>
+<dd>如是先与另一接点发生接触，再断开原接点，此种方式称为<b>D型接点</b>。</dd></dl>
+<h2><span id=".E7.BB.A7.E7.94.B5.E5.99.A8.E7.9A.84.E9.80.89.E7.94.A8"></span><span class="mw-headline" id="继电器的选用">继电器的选用</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=23" title="编辑章节：继电器的选用"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E5.85.88.E4.BA.86.E8.A7.A3.E5.BF.85.E8.A6.81.E7.9A.84.E6.9D.A1.E4.BB.B6"></span><span class="mw-headline" id="先了解必要的条件">先了解必要的条件</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=24" title="编辑章节：先了解必要的条件"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>控制电路的电源电压，能提供的最大电流；</li>
+<li>被控制电路中的电压和电流；</li>
+<li>被控电路需要几组、什么形式的触点。</li></ul>
+<p>选用继电器时，一般控制电路的电源电压可作为选用的依据。控制电路应能给继电器提供足够的工作电流，否则继电器吸合是不稳定的。<br />
+</p>
+<h3><span id=".E5.9E.8B.E5.8F.B7.E5.92.8C.E8.A7.84.E6.A0.BC.E5.8F.B7"></span><span class="mw-headline" id="型号和规格号">型号和规格号</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=25" title="编辑章节：型号和规格号"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>查阅有关资料确定使用条件后，可查找相关资料，找出需要的继电器的型号和规格号。若手头已有继电器，可依据资料核对是否可以利用。最后考虑尺寸是否合适。<br />
+</p>
+<h3><span id="-.7B.E6.B3.A8.E6.84.8F.7D-.E5.99.A8.E5.85.B7.E7.9A.84.E5.AE.B9.E7.A7.AF"></span><span class="mw-headline" id="-{注意}-器具的容积">注意器具的容积</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=26" title="编辑章节：注意器具的容积"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>若是用于一般用电器，除考虑机箱容积外，小型继电器主要考虑电路板安装布局。对于小型电器，如玩具、遥控装置则应选用超小型继电器产品。
+</p>
+<h2><span id=".E4.BF.9D.E6.8A.A4.E7.BB.A7.E7.94.B5.E5.99.A8"></span><span class="mw-headline" id="保护继电器">保护继电器</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=27" title="编辑章节：保护继电器"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E4%BF%9D%E8%AD%B7%E9%9B%BB%E9%A9%9B" class="mw-redirect" title="保护继电器">保护继电器</a></div>
+<h2><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span><span class="mw-headline" id="参考文献">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=28" title="编辑章节：参考文献"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.diangon.com/wenku/dgjs/jidianqi/201401/00007574.html">时间继电器的工作原理</a>. 电工学习网.  <span class="reference-accessdate"> &#91;<span class="nowrap">2014-12-04</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150324080810/http://www.diangon.com/wenku/dgjs/jidianqi/201401/00007574.html">存档</a>于2015-03-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E7%BB%A7%E7%94%B5%E5%99%A8&amp;rft.btitle=%E6%97%B6%E9%97%B4%E7%BB%A7%E7%94%B5%E5%99%A8%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86&amp;rft.genre=unknown&amp;rft.pub=%E7%94%B5%E5%B7%A5%E5%AD%A6%E4%B9%A0%E7%BD%91&amp;rft_id=http%3A%2F%2Fwww.diangon.com%2Fwenku%2Fdgjs%2Fjidianqi%2F201401%2F00007574.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;action=edit&amp;section=29" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131029202928/http://www.jidianqi.cc/news/show-6.html">继电器原理</a></li></ul>
+<div style="clear: both; height: 1em"></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:Electronic_components" title="Template:Electronic components"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/w/index.php?title=Template_talk:Electronic_components&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Electronic components（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:Electronic_components&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E9%9B%BB%E5%AD%90%E5%85%83%E4%BB%B6" title="电子器件">电子器件</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%99%A8%E4%BB%B6" title="半导体器件">半导体器件</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1" title="晶体管">晶体管</a></li>
+<li><span class="ilh-all" data-orig-title="四極電晶體" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tetrode transistor"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%9B%E6%A5%B5%E9%9B%BB%E6%99%B6%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="四极晶体管（页面不存在）">四极晶体管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tetrode_transistor" class="extiw" title="en:Tetrode transistor"><span lang="en" dir="auto">Tetrode transistor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="五極電晶體" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pentode transistor"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%94%E6%A5%B5%E9%9B%BB%E6%99%B6%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="五极晶体管（页面不存在）">五极晶体管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pentode_transistor" class="extiw" title="en:Pentode transistor"><span lang="en" dir="auto">Pentode transistor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="電解存儲器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Memistor"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E8%A7%A3%E5%AD%98%E5%84%B2%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="电解存储器（页面不存在）">电解存储器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Memistor" class="extiw" title="en:Memistor"><span lang="en" dir="auto">Memistor</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%86%B6%E9%98%BB%E5%99%A8" title="忆阻器">忆阻器</a></li>
+<li><a href="/wiki/%E5%8F%8C%E6%9E%81%E6%80%A7%E6%99%B6%E4%BD%93%E7%AE%A1" title="双极性晶体管">双极性晶体管</a>（<span lang="en">BJT</span>）</li>
+<li><a href="/wiki/%E5%A4%9A%E9%96%98%E6%A5%B5%E9%9B%BB%E6%99%B6%E9%AB%94" title="多栅极晶体管">多栅极晶体管</a></li>
+<li><a href="/wiki/%E9%B0%AD%E5%BC%8F%E5%A0%B4%E6%95%88%E9%9B%BB%E6%99%B6%E9%AB%94" title="鳍式场效应管">鳍式场效应管</a></li>
+<li><a href="/wiki/%E4%BA%92%E8%A3%9C%E5%BC%8F%E9%87%91%E5%B1%AC%E6%B0%A7%E5%8C%96%E7%89%A9%E5%8D%8A%E5%B0%8E%E9%AB%94" title="互补式金属氧化物半导体">互补式金属氧化物半导体</a></li>
+<li><a href="/wiki/%E9%87%91%E5%B1%AC%E6%B0%A7%E5%8C%96%E7%89%A9%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A0%B4%E6%95%88%E9%9B%BB%E6%99%B6%E9%AB%94" title="金属氧化物半导体场效应管">金属氧化物半导体场效应管</a>（<span lang="en">MOSFET</span>）</li>
+<li><a href="/wiki/%E7%BB%93%E5%9E%8B%E5%9C%BA%E6%95%88%E5%BA%94%E7%AE%A1" title="结型场效应管">结型场效应管</a>（<span lang="en">JFET</span>）</li>
+<li><a href="/wiki/%E5%9C%BA%E6%95%88%E5%BA%94%E7%AE%A1" title="场效应管">场效应管</a>（<span lang="en">FET</span>）</li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E7%B7%9A%E8%B7%AF" title="量子线路">量子线路</a></li>
+<li><span class="ilh-all" data-orig-title="定電流二極體" data-lang-code="en" data-lang-name="英语" data-foreign-title="Constant-current diode"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%9A%E9%9B%BB%E6%B5%81%E4%BA%8C%E6%A5%B5%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="定电流二极管（页面不存在）">定电流二极管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Constant-current_diode" class="extiw" title="en:Constant-current diode"><span lang="en" dir="auto">Constant-current diode</span></a></span>）</span></span>（<span lang="en">CLD</span>、<span lang="en">CRD</span>）</li>
+<li><a href="/wiki/%E8%BE%BE%E7%81%B5%E9%A1%BF%E6%99%B6%E4%BD%93%E7%AE%A1" title="达灵顿晶体管">达灵顿晶体管</a></li>
+<li><span class="ilh-all" data-orig-title="觸發二極體" data-lang-code="en" data-lang-name="英语" data-foreign-title="DIAC"><span class="ilh-page"><a href="/w/index.php?title=%E8%A7%B8%E7%99%BC%E4%BA%8C%E6%A5%B5%E9%AB%94&amp;action=edit&amp;redlink=1" class="new" title="触发二极管（页面不存在）">触发二极管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/DIAC" class="extiw" title="en:DIAC"><span lang="en" dir="auto">DIAC</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%BA%8C%E6%A5%B5%E9%AB%94" title="二极管">二极管</a></li>
+<li><span class="ilh-all" data-orig-title="Heterostructure barrier varactor" data-lang-code="en" data-lang-name="英语" data-foreign-title="Heterostructure barrier varactor"><span class="ilh-page"><a href="/w/index.php?title=Heterostructure_barrier_varactor&amp;action=edit&amp;redlink=1" class="new" title="Heterostructure barrier varactor（页面不存在）">Heterostructure barrier varactor</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Heterostructure_barrier_varactor" class="extiw" title="en:Heterostructure barrier varactor"><span lang="en" dir="auto">Heterostructure barrier varactor</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%B5%95%E7%B7%A3%E6%9F%B5%E9%9B%99%E6%A5%B5%E6%99%B6%E9%AB%94%E7%AE%A1" title="绝缘栅双极晶体管">绝缘栅双极晶体管</a>（<span lang="en">IGBT</span>）</li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a>（<span lang="en">IC</span>）</li>
+<li><a href="/wiki/%E7%99%BC%E5%85%89%E4%BA%8C%E6%A5%B5%E7%AE%A1" title="发光二极管">发光二极管</a>（<span lang="en">LED</span>）</li>
+<li><a href="/wiki/%E5%85%89%E6%84%9F%E6%B8%AC%E5%99%A8" title="光传感器">光传感器</a></li>
+<li><a href="/wiki/%E5%85%89%E7%94%B5%E4%BA%8C%E6%9E%81%E7%AE%A1" title="光电二极管">光电二极管</a></li>
+<li><a href="/wiki/PIN%E5%9E%8B%E4%BA%8C%E6%9E%81%E7%AE%A1" title="PIN型二极管">PIN型二极管</a></li>
+<li><a href="/wiki/%E8%82%96%E7%89%B9%E5%9F%BA%E4%BA%8C%E6%9E%81%E7%AE%A1" title="肖特基二极管">肖特基二极管</a></li>
+<li><a href="/wiki/%E6%99%B6%E9%96%98%E7%AE%A1" title="晶闸管">可控硅</a>（<span lang="en">SCR</span>）</li>
+<li><a href="/wiki/%E6%99%B6%E9%96%98%E7%AE%A1" title="晶闸管">晶闸管</a></li>
+<li><a href="/wiki/%E9%9B%AA%E5%B4%A9%E4%BA%8C%E6%A5%B5%E7%AE%A1" title="雪崩二极管">雪崩二极管</a></li>
+<li><a href="/wiki/%E5%8F%8C%E5%90%91%E6%99%B6%E9%97%B8%E7%AE%A1" title="双向晶闸管">双向晶闸管</a></li>
+<li><a href="/wiki/%E5%96%AE%E6%8E%A5%E5%90%88%E9%9D%A2%E9%9B%BB%E6%99%B6%E9%AB%94" title="单接合面晶体管">单接合面晶体管</a>（<span lang="en">UJT</span>）</li>
+<li><a href="/wiki/%E8%AE%8A%E5%AE%B9%E4%BA%8C%E6%A5%B5%E9%AB%94" title="变容二极管">变容二极管</a></li>
+<li><a href="/wiki/%E9%BD%8A%E7%B4%8D%E4%BA%8C%E6%A5%B5%E9%AB%94" title="齐纳二极管">齐纳二极管</a></li></ul>
+</div></td><td class="navbox-image" rowspan="17" style="width:0%;padding:0px 0px 0px 2px"><div><figure class="mw-halign-right" typeof="mw:File"><a href="/wiki/File:IC_Carrier_Icon.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IC_Carrier_Icon.svg/120px-IC_Carrier_Icon.svg.png" decoding="async" width="120" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IC_Carrier_Icon.svg/180px-IC_Carrier_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IC_Carrier_Icon.svg/240px-IC_Carrier_Icon.svg.png 2x" data-file-width="48" data-file-height="48" /></a><figcaption></figcaption></figure></div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A8%B3%E5%8E%8B%E5%99%A8" title="稳压器">稳压器</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%B7%9A%E6%80%A7%E9%9B%BB%E5%A3%93%E8%AA%BF%E7%AF%80%E5%99%A8" title="线性电压调节器">线性电压调节器</a></li>
+<li><a href="/wiki/%E4%BD%8E%E5%A3%93%E5%B7%AE%E7%A9%A9%E5%A3%93%E5%99%A8" title="低压差稳压器">低压差稳压器</a></li>
+<li><a href="/wiki/%E9%96%8B%E9%97%9C%E6%A8%A1%E5%BC%8F%E9%9B%BB%E6%BA%90" title="开关模式电源">开关稳压器</a></li>
+<li><a href="/wiki/%E9%99%8D%E5%8E%8B%E5%8F%98%E6%8D%A2%E5%99%A8" title="降压变换器">降压变换器</a></li>
+<li><a href="/wiki/%E5%8D%87%E5%A3%93%E8%AE%8A%E6%8F%9B%E5%99%A8" title="升压变换器">升压变换器</a></li>
+<li><a href="/wiki/%E9%99%8D%E5%A3%93-%E5%8D%87%E5%A3%93%E8%AE%8A%E6%8F%9B%E5%99%A8" title="降压-升压变换器">降压-升压变换器</a></li>
+<li><a href="/wiki/Split-pi" title="Split-pi">Split-pi</a></li>
+<li><a href="/wiki/%C4%86uk%E5%8F%98%E6%8D%A2%E5%99%A8" title="Ćuk变换器">Ćuk变换器</a></li>
+<li><a href="/wiki/%E5%8D%95%E7%AB%AF%E5%88%9D%E7%BA%A7%E7%94%B5%E6%84%9F%E8%BD%AC%E6%8D%A2%E5%99%A8" title="单端初级电感转换器">SEPIC变换器</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%8D%B7%E6%B3%B5" title="电荷泵">电荷泵</a></li>
+<li><a href="/wiki/%E9%96%8B%E9%97%9C%E9%9B%BB%E5%AE%B9" title="开关电容">开关电容</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1" title="真空管">真空管</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="橡實管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Acorn tube"><span class="ilh-page"><a href="/w/index.php?title=%E6%A9%A1%E5%AF%A6%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="橡实管（页面不存在）">橡实管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Acorn_tube" class="extiw" title="en:Acorn tube"><span lang="en" dir="auto">Acorn tube</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="三極真空管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Audion"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%89%E6%A5%B5%E7%9C%9F%E7%A9%BA%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="三极真空管（页面不存在）">三极真空管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Audion" class="extiw" title="en:Audion"><span lang="en" dir="auto">Audion</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="束射四極管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Beam tetrode"><span class="ilh-page"><a href="/w/index.php?title=%E6%9D%9F%E5%B0%84%E5%9B%9B%E6%A5%B5%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="束射四极管（页面不存在）">束射四极管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Beam_tetrode" class="extiw" title="en:Beam tetrode"><span lang="en" dir="auto">Beam tetrode</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="熱線檢流計" data-lang-code="en" data-lang-name="英语" data-foreign-title="Hot wire barretter"><span class="ilh-page"><a href="/w/index.php?title=%E7%86%B1%E7%B7%9A%E6%AA%A2%E6%B5%81%E8%A8%88&amp;action=edit&amp;redlink=1" class="new" title="热线检流计（页面不存在）">热线检流计</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Hot_wire_barretter" class="extiw" title="en:Hot wire barretter"><span lang="en" dir="auto">Hot wire barretter</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="緊密管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Compactron"><span class="ilh-page"><a href="/w/index.php?title=%E7%B7%8A%E5%AF%86%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="紧密管（页面不存在）">紧密管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Compactron" class="extiw" title="en:Compactron"><span lang="en" dir="auto">Compactron</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1" title="真空管">真空二极管</a></li>
+<li><span class="ilh-all" data-orig-title="弗萊明管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Fleming valve"><span class="ilh-page"><a href="/w/index.php?title=%E5%BC%97%E8%90%8A%E6%98%8E%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="弗莱明管（页面不存在）">弗莱明管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Fleming_valve" class="extiw" title="en:Fleming valve"><span lang="en" dir="auto">Fleming valve</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="九極管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Nonode"><span class="ilh-page"><a href="/w/index.php?title=%E4%B9%9D%E6%A5%B5%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="九极管（页面不存在）">九极管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Nonode" class="extiw" title="en:Nonode"><span lang="en" dir="auto">Nonode</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="小型抗震管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Nuvistor"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%8F%E5%9E%8B%E6%8A%97%E9%9C%87%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="小型抗震管（页面不存在）">小型抗震管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Nuvistor" class="extiw" title="en:Nuvistor"><span lang="en" dir="auto">Nuvistor</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="五柵變頻管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pentagrid converter"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%94%E6%9F%B5%E8%AE%8A%E9%A0%BB%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="五栅变频管（页面不存在）">五栅变频管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pentagrid_converter" class="extiw" title="en:Pentagrid converter"><span lang="en" dir="auto">Pentagrid converter</span></a></span>）</span></span>（六极管、七极管、八极管）</li>
+<li><a href="/wiki/%E4%BA%94%E6%9E%81%E7%AE%A1" title="五极管">五极管</a></li>
+<li><a href="/wiki/%E5%85%89%E7%94%B5%E5%80%8D%E5%A2%9E%E7%AE%A1" title="光电倍增管">光电倍增管</a></li>
+<li><a href="/wiki/%E5%85%89%E7%94%B5%E7%AE%A1" title="光电管">光电管</a></li>
+<li><a href="/wiki/%E5%9B%9B%E6%9E%81%E7%AE%A1" title="四极管">四极管</a></li>
+<li><a href="/wiki/%E4%B8%89%E6%9E%81%E7%AE%A1_(%E7%9C%9F%E7%A9%BA%E7%AE%A1)" title="三极管 (真空管)">三极管</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="nowrap"><a href="/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1" title="真空管">真空管</a>（<a href="/wiki/%E5%BE%AE%E6%B3%A2" title="微波">RF</a>）</span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="後進波振盪器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Backward-wave oscillator"><span class="ilh-page"><a href="/w/index.php?title=%E5%BE%8C%E9%80%B2%E6%B3%A2%E6%8C%AF%E7%9B%AA%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="后进波振荡器（页面不存在）">后进波振荡器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Backward-wave_oscillator" class="extiw" title="en:Backward-wave oscillator"><span lang="en" dir="auto">Backward-wave oscillator</span></a></span>）</span></span>（BWO）</li>
+<li><a href="/wiki/%E5%A4%9A%E8%85%94%E7%A3%81%E6%8E%A7%E7%AE%A1" title="多腔磁控管">多腔磁控管</a></li>
+<li><span class="ilh-all" data-orig-title="交叉場放大器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Crossed-field amplifier"><span class="ilh-page"><a href="/w/index.php?title=%E4%BA%A4%E5%8F%89%E5%A0%B4%E6%94%BE%E5%A4%A7%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="交叉场放大器（页面不存在）">交叉场放大器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Crossed-field_amplifier" class="extiw" title="en:Crossed-field amplifier"><span lang="en" dir="auto">Crossed-field amplifier</span></a></span>）</span></span>（CFA）</li>
+<li><a href="/wiki/%E8%BF%B4%E6%97%8B%E7%AE%A1" title="回旋管">回旋管</a></li>
+<li><span class="ilh-all" data-orig-title="感應輸出管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Inductive output tube"><span class="ilh-page"><a href="/w/index.php?title=%E6%84%9F%E6%87%89%E8%BC%B8%E5%87%BA%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="感应输出管（页面不存在）">感应输出管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Inductive_output_tube" class="extiw" title="en:Inductive output tube"><span lang="en" dir="auto">Inductive output tube</span></a></span>）</span></span>（IOT）</li>
+<li><span class="ilh-all" data-orig-title="調速管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Klystron"><span class="ilh-page"><a href="/w/index.php?title=%E8%AA%BF%E9%80%9F%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="调速管（页面不存在）">调速管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Klystron" class="extiw" title="en:Klystron"><span lang="en" dir="auto">Klystron</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BF%80%E5%BE%AE%E6%B3%A2" title="激微波">激微波</a></li>
+<li><span class="ilh-all" data-orig-title="回復式調速管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sutton tube"><span class="ilh-page"><a href="/w/index.php?title=%E5%9B%9E%E5%BE%A9%E5%BC%8F%E8%AA%BF%E9%80%9F%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="回复式调速管（页面不存在）">回复式调速管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sutton_tube" class="extiw" title="en:Sutton tube"><span lang="en" dir="auto">Sutton tube</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%A1%8C%E6%B3%A2%E7%AE%A1" title="行波管">行波管</a>（TWT）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E9%98%B4%E6%9E%81%E5%B0%84%E7%BA%BF%E7%AE%A1" title="阴极射线管">阴极射线管</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="電子束偏轉管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Beam deflection tube"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E5%AD%90%E6%9D%9F%E5%81%8F%E8%BD%89%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="电子束偏转管（页面不存在）">电子束偏转管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Beam_deflection_tube" class="extiw" title="en:Beam deflection tube"><span lang="en" dir="auto">Beam deflection tube</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%98%B4%E6%9E%81%E5%B0%84%E7%BA%BF%E7%AE%A1" title="阴极射线管">显像管</a></li>
+<li><span class="ilh-all" data-orig-title="光電攝像管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Iconoscope"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%89%E9%9B%BB%E6%94%9D%E5%83%8F%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="光电摄像管（页面不存在）">光电摄像管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Iconoscope" class="extiw" title="en:Iconoscope"><span lang="en" dir="auto">Iconoscope</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%B9%BB%E7%9C%BC%E7%AE%A1" title="幻眼管">幻眼管</a></li>
+<li><span class="ilh-all" data-orig-title="單像管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Monoscope"><span class="ilh-page"><a href="/w/index.php?title=%E5%96%AE%E5%83%8F%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="单像管（页面不存在）">单像管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Monoscope" class="extiw" title="en:Monoscope"><span lang="en" dir="auto">Monoscope</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%80%89%E6%95%B0%E7%AE%A1" title="选数管">选数管</a></li>
+<li><span class="ilh-all" data-orig-title="儲存管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Storage tube"><span class="ilh-page"><a href="/w/index.php?title=%E5%84%B2%E5%AD%98%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="储存管（页面不存在）">储存管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Storage_tube" class="extiw" title="en:Storage tube"><span lang="en" dir="auto">Storage tube</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%95%B0%E7%A0%81%E7%AE%A1" title="数字管">多级电子计数管</a></li>
+<li><a href="/wiki/%E6%91%84%E5%83%8F%E7%AE%A1" title="摄像管">摄像管</a></li>
+<li><a href="/wiki/%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%E7%AE%A1" title="威廉姆斯管">威廉姆斯管</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="充氣管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Gas-filled tube"><span class="ilh-page"><a href="/w/index.php?title=%E5%85%85%E6%B0%A3%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="充气管（页面不存在）">充气管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Gas-filled_tube" class="extiw" title="en:Gas-filled tube"><span lang="en" dir="auto">Gas-filled tube</span></a></span>）</span></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%86%B7%E9%98%B4%E6%9E%81%E8%8D%A7%E5%85%89%E7%81%AF%E7%AE%A1" title="冷阴极荧光灯管">冷阴极荧光灯管</a></li>
+<li><span class="ilh-all" data-orig-title="Crossatron" data-lang-code="en" data-lang-name="英语" data-foreign-title="Crossatron"><span class="ilh-page"><a href="/w/index.php?title=Crossatron&amp;action=edit&amp;redlink=1" class="new" title="Crossatron（页面不存在）">Crossatron</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Crossatron" class="extiw" title="en:Crossatron"><span lang="en" dir="auto">Crossatron</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%86%B7%E9%98%B4%E6%9E%81%E8%AE%A1%E6%95%B0%E7%AE%A1" title="冷阴极计数管">冷阴极计数管</a></li>
+<li><a href="/wiki/%E5%BC%95%E7%87%83%E7%AE%A1" title="引燃管">引燃管</a></li>
+<li><span class="ilh-all" data-orig-title="弧光放電充氣管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Krytron"><span class="ilh-page"><a href="/w/index.php?title=%E5%BC%A7%E5%85%89%E6%94%BE%E9%9B%BB%E5%85%85%E6%B0%A3%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="弧光放电充气管（页面不存在）">弧光放电充气管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Krytron" class="extiw" title="en:Krytron"><span lang="en" dir="auto">Krytron</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B0%B4%E9%8A%80%E6%95%B4%E6%B5%81%E5%99%A8" title="水银整流器">汞弧阀</a></li>
+<li><a href="/wiki/%E6%B0%96%E7%81%AF" title="氖灯">氖灯</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%A0%81%E7%AE%A1" title="数字管">数字管</a></li>
+<li><span class="ilh-all" data-orig-title="閘流管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Thyratron"><span class="ilh-page"><a href="/w/index.php?title=%E9%96%98%E6%B5%81%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="闸流管（页面不存在）">闸流管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Thyratron" class="extiw" title="en:Thyratron"><span lang="en" dir="auto">Thyratron</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="觸發管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trigatron"><span class="ilh-page"><a href="/w/index.php?title=%E8%A7%B8%E7%99%BC%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="触发管（页面不存在）">触发管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trigatron" class="extiw" title="en:Trigatron"><span lang="en" dir="auto">Trigatron</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="調壓管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Voltage-regulator tube"><span class="ilh-page"><a href="/w/index.php?title=%E8%AA%BF%E5%A3%93%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="调压管（页面不存在）">调压管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Voltage-regulator_tube" class="extiw" title="en:Voltage-regulator tube"><span lang="en" dir="auto">Voltage-regulator tube</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">可变式器件</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB%E4%BD%8D%E5%99%A8" title="电位器">电位器</a>
+<ul><li><a href="/wiki/%E6%95%B8%E4%BD%8D%E9%9B%BB%E4%BD%8D%E5%99%A8" title="数字电位器">数字式</a></li></ul></li>
+<li><a href="/wiki/%E5%8F%AF%E5%8F%98%E7%94%B5%E5%AE%B9%E5%99%A8" title="可变电容器">可变电容器</a></li>
+<li><a href="/wiki/%E8%AE%8A%E5%AE%B9%E4%BA%8C%E6%A5%B5%E9%AB%94" title="变容二极管">变容二极管</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6" title="被动器件">被动器件</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>连接器
+<ul><li><span class="ilh-all" data-orig-title="音頻與視頻接口及端子" data-lang-code="en" data-lang-name="英语" data-foreign-title="Audio and video interfaces and connectors"><span class="ilh-page"><a href="/w/index.php?title=%E9%9F%B3%E9%A0%BB%E8%88%87%E8%A6%96%E9%A0%BB%E6%8E%A5%E5%8F%A3%E5%8F%8A%E7%AB%AF%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="音频与视频接口及端子（页面不存在）">音频与视频</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Audio_and_video_interfaces_and_connectors" class="extiw" title="en:Audio and video interfaces and connectors"><span lang="en" dir="auto">Audio and video interfaces and connectors</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%AE%B6%E7%94%A8%E4%BA%A4%E6%B5%81%E9%9B%BB%E6%BA%90%E6%8F%92%E9%A0%AD%E8%88%87%E6%8F%92%E5%BA%A7" title="家用交流电源插头与插座">电源</a></li>
+<li><a href="/wiki/%E5%B0%84%E9%A2%91%E8%BF%9E%E6%8E%A5%E5%99%A8" title="射频连接器">RF</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="電解檢測器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Electrolytic detector"><span class="ilh-page"><a href="/w/index.php?title=%E9%9B%BB%E8%A7%A3%E6%AA%A2%E6%B8%AC%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="电解检测器（页面不存在）">电解检测器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Electrolytic_detector" class="extiw" title="en:Electrolytic detector"><span lang="en" dir="auto">Electrolytic detector</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%90%B5%E6%B0%A7%E9%AB%94%E7%A3%81%E8%8A%AF" title="铁氧体磁芯">铁氧体磁芯</a></li>
+<li><a href="/wiki/%E4%BF%9D%E9%9A%AA%E7%B5%B2" title="保险丝">保险丝</a>
+<ul><li><a href="/wiki/PPTC" title="PPTC">可复式保险丝</a></li></ul></li>
+<li><a href="/wiki/%E9%9B%BB%E9%98%BB%E5%99%A8" title="电阻器">电阻器</a></li>
+<li><a href="/wiki/%E9%96%8B%E9%97%9C" title="开关">开关</a></li>
+<li><a href="/wiki/%E7%83%AD%E6%95%8F%E7%94%B5%E9%98%BB" title="热敏电阻">热敏电阻</a></li>
+<li><a href="/wiki/%E5%8F%98%E5%8E%8B%E5%99%A8" title="变压器">变压器</a></li>
+<li><a href="/wiki/%E5%A3%93%E6%95%8F%E9%9B%BB%E9%98%BB" title="压敏电阻">压敏电阻</a></li>
+<li><a href="/wiki/%E9%87%91%E5%B1%AC%E7%B7%9A" title="金属线">金属线</a>
+<ul><li><span class="ilh-all" data-orig-title="弗拉斯頓線" data-lang-code="en" data-lang-name="英语" data-foreign-title="Wollaston wire"><span class="ilh-page"><a href="/w/index.php?title=%E5%BC%97%E6%8B%89%E6%96%AF%E9%A0%93%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="弗拉斯顿线（页面不存在）">弗拉斯顿线</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Wollaston_wire" class="extiw" title="en:Wollaston wire"><span lang="en" dir="auto">Wollaston wire</span></a></span>）</span></span></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%94%B5%E6%8A%97" title="电抗">电抗</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E5%AE%B9%E5%99%A8" title="电容器">电容器</a></li>
+<li><span class="ilh-all" data-orig-title="陶瓷諧振器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ceramic resonator"><span class="ilh-page"><a href="/w/index.php?title=%E9%99%B6%E7%93%B7%E8%AB%A7%E6%8C%AF%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="陶瓷谐振器（页面不存在）">陶瓷谐振器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ceramic_resonator" class="extiw" title="en:Ceramic resonator"><span lang="en" dir="auto">Ceramic resonator</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%99%B6%E9%AB%94%E6%8C%AF%E7%9B%AA%E5%99%A8" class="mw-redirect" title="晶体振荡器">晶体振荡器</a></li>
+<li><a href="/wiki/%E7%94%B5%E6%84%9F%E5%85%83%E4%BB%B6" title="电感器件">电感器件</a></li>
+<li><span class="ilh-all" data-orig-title="變抗管" data-lang-code="en" data-lang-name="英语" data-foreign-title="Parametron"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%8A%E6%8A%97%E7%AE%A1&amp;action=edit&amp;redlink=1" class="new" title="变抗管（页面不存在）">变抗管</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Parametron" class="extiw" title="en:Parametron"><span lang="en" dir="auto">Parametron</span></a></span>）</span></span></li>
+<li><a class="mw-selflink selflink">继电器</a>
+<ul><li><span class="ilh-all" data-orig-title="舌簧繼電器" data-lang-code="en" data-lang-name="英语" data-foreign-title="reed relay"><span class="ilh-page"><a href="/w/index.php?title=%E8%88%8C%E7%B0%A7%E7%B9%BC%E9%9B%BB%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="舌簧继电器（页面不存在）">舌簧继电器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/reed_relay" class="extiw" title="en:reed relay"><span lang="en" dir="auto">reed relay</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%B0%B4%E9%8A%80%E9%96%8B%E9%97%9C" title="水银开关">水银开关</a></li></ul></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q174053" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11967349z">cb11967349z</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11967349z">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4049354-4">4049354-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007538295705171">987007538295705171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85041985">sh85041985</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9C%8B%E7%AB%8B%E5%9C%8B%E6%9C%83%E5%9C%96%E6%9B%B8%E9%A4%A8" title="国立国会图书馆">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00565306">00565306</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph526570&amp;CON_LNG=ENG">ph526570</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐mzsvf
+Cached time: 20240401183729
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.425 seconds
+Real time usage: 0.568 seconds
+Preprocessor visited node count: 5671/1000000
+Post‐expand include size: 162417/2097152 bytes
+Template argument size: 16278/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 46/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4345/5000000 bytes
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 5241446/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  408.908      1 -total
+ 48.57%  198.598      1 Template:Electronic_components
+ 48.01%  196.329      1 Template:Navbox
+ 20.00%   81.774      1 Template:多個問題
+ 17.30%   70.735     34 Template:Le
+ 15.87%   64.874     11 Template:Lang
+ 14.53%   59.434     11 Template:Category_handler
+ 13.93%   56.943      4 Template:Ambox
+ 10.72%   43.846      1 Template:Onesource
+  9.76%   39.929      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:280629-0!userlang=zh-cn!zh-cn and timestamp 20240401183729 and revision id 78882867. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=继电器&amp;oldid=78882867">https://zh.wikipedia.org/w/index.php?title=继电器&amp;oldid=78882867</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E7%B9%BC%E9%9B%BB%E5%99%A8" title="Category:繼電器">继电器</a></li><li><a href="/wiki/Category:%E9%9B%BB%E5%AD%90%E5%85%83%E4%BB%B6" title="Category:電子元件">电子元件</a></li><li><a href="/wiki/Category:%E6%9C%BA%E7%94%B5%E4%B8%80%E4%BD%93%E5%8C%96" title="Category:机电一体化">机电一体化</a></li><li><a href="/wiki/Category:%E7%94%B5%E5%AD%90%E5%B7%A5%E4%B8%9A" title="Category:电子工业">电子工业</a></li><li><a href="/wiki/Category:%E8%87%AA%E5%8B%95%E6%8E%A7%E5%88%B6" title="Category:自動控制">自动控制</a></li><li><a href="/wiki/Category:%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B" title="Category:電機工程">电机工程</a></li><li><a href="/wiki/Category:%E7%94%B5%E5%AD%90%E5%B7%A5%E7%A8%8B" title="Category:电子工程">电子工程</a></li><li><a href="/wiki/Category:1835%E5%B9%B4%E9%9D%A2%E4%B8%96" title="Category:1835年面世">1835年面世</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2014%E5%B9%B412%E6%9C%88%E7%BC%BA%E5%B0%91%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2014年12月缺少可靠来源的条目">自2014年12月缺少可靠来源的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2020%E5%B9%B412%E6%9C%88%E5%85%A7%E5%AE%B9%E7%96%91%E4%BC%BC%E6%8B%B7%E8%B2%9D%E5%BE%8C%E8%B2%BC%E4%B8%8A%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:自2020年12月內容疑似拷貝後貼上的頁面">自2020年12月内容疑似拷贝后贴上的页面</a></li><li><a href="/wiki/Category:%E5%85%A7%E5%AE%B9%E7%96%91%E4%BC%BC%E6%8B%B7%E8%B2%9D%E5%BE%8C%E8%B2%BC%E4%B8%8A%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:內容疑似拷貝後貼上的頁面">内容疑似拷贝后贴上的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2021%E5%B9%B45%E6%9C%88%E9%9C%80%E8%A6%81%E6%A0%A1%E5%B0%8D%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:自2021年5月需要校對的頁面">自2021年5月需要校对的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNDL%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NDL标识符的维基百科条目">包含NDL标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年9月11日 (星期一) 11:59。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E7%BB%A7%E7%94%B5%E5%99%A8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-7b8b7ccc4-64mxj","wgBackendResponseTime":205,"wgPageParseReport":{"limitreport":{"cputime":"0.425","walltime":"0.568","ppvisitednodes":{"value":5671,"limit":1000000},"postexpandincludesize":{"value":162417,"limit":2097152},"templateargumentsize":{"value":16278,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":46,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4345,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  408.908      1 -total"," 48.57%  198.598      1 Template:Electronic_components"," 48.01%  196.329      1 Template:Navbox"," 20.00%   81.774      1 Template:多個問題"," 17.30%   70.735     34 Template:Le"," 15.87%   64.874     11 Template:Lang"," 14.53%   59.434     11 Template:Category_handler"," 13.93%   56.943      4 Template:Ambox"," 10.72%   43.846      1 Template:Onesource","  9.76%   39.929      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":5241446,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-mzsvf","timestamp":"20240401183729","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u7ee7\u7535\u5668","url":"https:\/\/zh.wikipedia.org\/wiki\/%E7%BB%A7%E7%94%B5%E5%99%A8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q174053","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q174053","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-06T06:27:56Z","dateModified":"2023-09-11T11:59:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/Relais.JPG"}</script>
+</body>
+</html>

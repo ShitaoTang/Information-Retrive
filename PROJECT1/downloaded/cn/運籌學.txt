@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>运筹学 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"451ac4cf-933c-4f57-9e0e-bc756d6ac169","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"運籌學","wgTitle":"運籌學","wgCurRevisionId":79584416,"wgRevisionId":79584416,"wgArticleId":5200,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2018年11月需要校對的頁面","自2018年4月需要专业人士关注的页面","所有需要專家關注的頁面","其他需要專家關注的頁面","含有多个问题的条目","含有英語的條目","包含BNF标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NARA标识符的维基百科条目","包含NKC标识符的维基百科条目"
+,"CS1英语来源 (en)","運籌學","工業工程","商业数学优化","統計學應用領域","工程學科","数理与定量方法 (经济学)","数理经济学","決策"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"運籌學","wgRelevantArticleId":5200,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":
+"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q194292","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b5/Design_Management_in_brief.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="833">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Design_Management_in_brief.jpg/800px-Design_Management_in_brief.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="556">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Design_Management_in_brief.jpg/640px-Design_Management_in_brief.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="445">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="运筹学 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-運籌學 rootpage-運籌學 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%81%8B%E7%B1%8C%E5%AD%B8" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%81%8B%E7%B1%8C%E5%AD%B8" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%81%8B%E7%B1%8C%E5%AD%B8" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%81%8B%E7%B1%8C%E5%AD%B8" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-歷史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#歷史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>历史</div>
+		</a>
+		
+		<ul id="toc-歷史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-分支"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#分支">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>分支</div>
+		</a>
+		
+		<ul id="toc-分支-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相關學術機構"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關學術機構">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>相关学术机构</div>
+		</a>
+		
+			<button aria-controls="toc-相關學術機構-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关相关学术机构子章节</span>
+			</button>
+		
+		<ul id="toc-相關學術機構-sublist" class="vector-toc-list">
+			<li id="toc-臺灣"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#臺灣">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>台湾</div>
+			</a>
+			
+			<ul id="toc-臺灣-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-美國"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#美國">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>美国</div>
+			</a>
+			
+			<ul id="toc-美國-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-延伸阅读"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#延伸阅读">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>延伸阅读</div>
+		</a>
+		
+		<ul id="toc-延伸阅读-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr">运筹学</h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。48种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-48" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">48种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Operasionele_navorsing" title="Operasionele navorsing – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%AD%D9%88%D8%AB_%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA" title="بحوث العمليات – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Investigaci%C3%B3n_d%27operaciones" title="Investigación d&#039;operaciones – 阿斯图里亚斯语" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C6%8Fm%C9%99liyyat_ara%C5%9Fd%C4%B1rmas%C4%B1" title="Əməliyyat araşdırması – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8_%D0%B8%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Операционни изследвания – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A6%BF_%E0%A6%97%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A6%A3%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE" title="পরিক্রিয়াদি গবেষণাবিদ্যা – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Investigaci%C3%B3_operativa" title="Investigació operativa – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Opera%C4%8Dn%C3%AD_anal%C3%BDza" title="Operační analýza – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Operationsanalyse" title="Operationsanalyse – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Operations_Research" title="Operations Research – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%B7%CF%83%CE%B9%CE%B1%CE%BA%CE%AE_%CE%AD%CF%81%CE%B5%CF%85%CE%BD%CE%B1" title="Επιχειρησιακή έρευνα – 希腊语" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Operations_research" title="Operations research – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Investigaci%C3%B3n_de_operaciones" title="Investigación de operaciones – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Ikerkuntza_eragilea" title="Ikerkuntza eragilea – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D9%82%DB%8C%D9%82_%D8%AF%D8%B1_%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA" title="تحقیق در عملیات – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Operaatioanalyysi" title="Operaatioanalyysi – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Recherche_op%C3%A9rationnelle" title="Recherche opérationnelle – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Investigaci%C3%B3n_operativa" title="Investigación operativa – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-glk mw-list-item"><a href="https://glk.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA%CB%87_%D8%AA%D8%AD%D9%82%D9%8A%D9%82" title="عملياتˇ تحقيق – 吉拉基文" lang="glk" hreflang="glk" class="interlanguage-link-target"><span>گیلکی</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%A7%D7%A8_%D7%91%D7%99%D7%A6%D7%95%D7%A2%D7%99%D7%9D" title="חקר ביצועים – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="संक्रिया विज्ञान – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Oper%C3%A1ci%C3%B3kutat%C3%A1s" title="Operációkutatás – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D5%B8%D6%80%D5%AE%D5%B8%D5%B2%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%AB_%D5%B0%D5%A5%D5%BF%D5%A1%D5%A6%D5%B8%D5%BF%D5%B8%D6%82%D5%B4" title="Գործողությունների հետազոտում – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Riset_operasi" title="Riset operasi – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/A%C3%B0ger%C3%B0agreining" title="Aðgerðagreining – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ricerca_operativa" title="Ricerca operativa – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81" title="オペレーションズ・リサーチ – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%9A%A9%EA%B3%BC%ED%95%99" title="운용과학 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%93%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB%E0%B4%B8%E0%B5%8D_%E0%B4%97%E0%B4%B5%E0%B5%87%E0%B4%B7%E0%B4%A3%E0%B4%82" title="ഓപ്പറേഷൻസ് ഗവേഷണം – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Operationeel_onderzoek" title="Operationeel onderzoek – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Operasjonsanalyse" title="Operasjonsanalyse – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Operasjonsanalyse" title="Operasjonsanalyse – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Badania_operacyjne" title="Badania operacyjne – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Investiga%C3%A7%C3%A3o_operacional" title="Investigação operacional – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9" title="Исследование операций – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Operaciona_istra%C5%BEivanja" title="Operaciona istraživanja – 塞尔维亚-克罗地亚语" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Opera%C4%8Dn%C3%A1_anal%C3%BDza" title="Operačná analýza – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/K%C3%ABrkimet_operacionale" title="Kërkimet operacionale – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B8%D0%B2%D0%B0%D1%9A%D0%B0" title="Операциона истраживања – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Operationsanalys" title="Operationsanalys – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AE%A3%E0%AE%BF_%E0%AE%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="செய்பணி ஆய்வியல் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3" title="การวิจัยดำเนินการ – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Y%C3%B6neylem_ara%C5%9Ft%C4%B1rmas%C4%B1" title="Yöneylem araştırması – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9" title="Дослідження операцій – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/V%E1%BA%ADn_tr%C3%B9_h%E1%BB%8Dc" title="Vận trù học – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Pamiling_kasayoran_ha_operasyon" title="Pamiling kasayoran ha operasyon – 瓦瑞语" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%BF%90%E7%AD%B9%E5%AD%A6" title="运筹学 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="運籌學 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q194292#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E9%81%8B%E7%B1%8C%E5%AD%B8" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E9%81%8B%E7%B1%8C%E5%AD%B8" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E9%81%8B%E7%B1%8C%E5%AD%B8" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;oldid=79584416" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;id=79584416&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%2581%258B%25E7%25B1%258C%25E5%25AD%25B8"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%2581%258B%25E7%25B1%258C%25E5%25AD%25B8"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q194292" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Operations_research" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-2eae5f5a" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E9%81%8B%E7%B1%8C%E5%AD%B8" title="Talk:运筹学">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Copy_edit plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/48px-Ambox_spelling.svg.png" decoding="async" width="48" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/72px-Ambox_spelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ambox_spelling.svg/96px-Ambox_spelling.svg.png 2x" data-file-width="620" data-file-height="620" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>需要<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">编修</a>，以确保文法、<a href="/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AD%97%E8%A9%9E" class="mw-redirect" title="Wikipedia:避免使用的字词">用词、语气</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C" title="Wikipedia:格式手册">格式</a>、<a href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8C/%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7" title="Wikipedia:格式手册/标点符号">标点</a>等使用恰当。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年11月30日</span>)</i></small><span class="hide-when-compact"><br /><small>请按照<a href="/wiki/Wikipedia:%E5%A6%82%E4%BD%95%E5%AF%A9%E6%A0%B8%E6%A0%A1%E5%B0%8D" class="mw-redirect" title="Wikipedia:如何审核校对">校对指引</a>，帮助<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit">编辑</a>这个条目。（<a href="/wiki/Help:%E7%BC%96%E8%BE%91" class="mw-redirect" title="Help:编辑">帮助</a>、<a href="/wiki/Talk:%E9%81%8B%E7%B1%8C%E5%AD%B8" title="Talk:运筹学">讨论</a>）</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目需要<b>精通或熟悉相关主题的编者</b>参与及协助编辑。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2018年4月19日</span>)</i></small><span class="hide-when-compact"><br /><small>请<a href="/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84" title="Wikipedia:专家邀请工作小组">邀请</a>适合的人士<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit">改善本条目</a>。更多的细节与详情请参见<a href="/wiki/Talk:%E9%81%8B%E7%B1%8C%E5%AD%B8" title="Talk:运筹学">讨论页</a>。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<div id="noteTA-2eae5f5a" class="noteTA"><div class="noteTA-title" data-noteta-code="zh-hans:运筹学;zh-hk:運籌學;zh-tw:作業研究;"></div><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Math"></div><div data-noteta-group-source="module" data-noteta-group="Economics"></div></div><div class="noteTA-local"><div data-noteta-code="zh-hans:运筹学;zh-hk:運籌學;zh-tw:作業研究;"></div><div data-noteta-code="zh-tw:最佳化;zh-cn:优化;"></div></div></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Design_Management_in_brief.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Design_Management_in_brief.jpg/220px-Design_Management_in_brief.jpg" decoding="async" width="220" height="153" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Design_Management_in_brief.jpg/330px-Design_Management_in_brief.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Design_Management_in_brief.jpg/440px-Design_Management_in_brief.jpg 2x" data-file-width="825" data-file-height="573" /></a><figcaption>管理设计在生产生活中非常重要</figcaption></figure>
+<p><b>运筹学</b>（英语：<span lang="en">Operations Research</span>，又被称作<b>作业研究</b>），是一门<a href="/wiki/%E6%87%89%E7%94%A8%E6%95%B8%E5%AD%B8" class="mw-redirect" title="应用数学">应用数学</a>学科，利用<a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a>， <a href="/wiki/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B" title="数学模型">数学模型</a>和<a href="/wiki/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8" class="mw-redirect" title="资料科学">资料科学</a>等方法，去寻找复杂问题中的最佳或近似最佳的解答。运筹学经常用于解决现实生活中的复杂问题，特别是改善或<a href="/wiki/%E4%BC%98%E5%8C%96" class="mw-redirect" title="优化">优化</a>现有系统的效率。研究优化模型的规划论，研究排队（或服务）模型的<a href="/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA" class="mw-redirect" title="排队论">排队论</a>，及研究博弈模型的<a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AB%96" class="mw-redirect" title="博弈论">博弈论</a>是运筹学最早的三个重要分支，通常称为运筹学早期的三大支柱。随着学科的发展和<a href="/wiki/%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="电子计算机">计算机</a>的出现，现在分支更细，名义更多。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="歷史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=1" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>学界通常将运筹学（英语：<span lang="en">Operations research</span>）在<a href="/wiki/%E8%8B%B1%E5%9B%BD" title="英国">英国</a>称为 英语：<span lang="en">Operational research 或 OR/MS, management science</span>）的起源定为<a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98" title="第二次世界大战">第二次世界大战</a>期间，英美两国为有效地配置各项资源，因而召集科学家成立专门针对军事作业规划进行研究的团队。这些团队的研究成果帮助联军打赢了<a href="/wiki/%E4%B8%8D%E5%88%97%E9%A1%9B%E6%88%B0%E5%BD%B9" title="不列颠战役">不列颠空战</a>、<a href="/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E6%88%B0_(1939%E5%B9%B4%EF%BC%8D1945%E5%B9%B4)" class="mw-redirect" title="大西洋海战 (1939年－1945年)">北大西洋战争</a>、<a href="/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%B0%E7%88%AD" class="mw-redirect" title="太平洋战争">太平洋战争</a>。例如在不列颠空战中，英国军方指派<a href="/wiki/%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B%C2%B7%E5%B8%83%E8%90%8A%E5%85%8B%E7%89%B9" class="mw-redirect" title="帕特里克·布莱克特">帕特里克·布莱克特</a>（<a href="/wiki/%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96" title="诺贝尔物理学奖">1948年诺贝尔物理奖</a>得主）所成立的Blackett Circus，就探讨应如何部署与应用所拥有的<a href="/wiki/%E9%9B%B7%E9%81%94" class="mw-redirect" title="雷达">雷达系统</a>，才能更有效地侦测德军战机的攻击。
+</p><p>美国运筹学会创始人之一的<span class="ilh-all" data-orig-title="菲利普·M·摩士" data-lang-code="en" data-lang-name="英语" data-foreign-title="Philip M. Morse"><span class="ilh-page"><a href="/w/index.php?title=%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7M%C2%B7%E6%91%A9%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="菲利普·M·摩士（页面不存在）">菲利普·M·摩士</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Philip_M._Morse" class="extiw" title="en:Philip M. Morse"><span lang="en" dir="auto">Philip M. Morse</span></a></span>）</span></span>在1950年代初给运筹学做出了如下定义:“运筹学是为领导机构对其控制下的业务活动作决策时提供定量依据的科学方法”，它反映出运筹学初期的主要作用。
+</p><p>1947年<a href="/wiki/%E6%9F%A5%E7%88%BE%E6%96%AF%C2%B7%E5%9F%BA%E6%B3%B0%E7%88%BE" title="查尔斯·基泰尔">查尔斯·基泰尔</a>发表文章建议将战时以科学技术与方法协助进行军事与政策规划的成果转移到和平用途，并鼓励成立运筹学团队以协助政府部门与企业。这篇文章开始了“运筹学”一词，可惜这用词却误导了一些初学者，使他们误以为这领域的技术与方法只适用于操作性的事务（Operational tasks）。为避免造成误解，目前有许多学者尽量改以“管理科学”（Management Sciences）称呼这个学术领域。
+</p><p>“运筹”一词，本指运用<a href="/wiki/%E7%AE%97%E7%B1%8C" class="mw-redirect" title="算筹">算筹</a>，后引申为谋略之意，最早出自于<a href="/wiki/%E6%B1%89%E9%AB%98%E7%A5%96" class="mw-redirect" title="汉高祖">汉高祖</a><a href="/wiki/%E5%88%98%E9%82%A6" title="刘邦">刘邦</a>对<a href="/wiki/%E5%BC%A0%E8%89%AF" title="张良">张良</a>的评价：“运筹帷幄之中，决胜千里之外。”<a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="中华人民共和国">中国</a>在1956年曾用过“运用学”的名字，并于1957年由<a href="/wiki/%E8%AE%B8%E5%9B%BD%E5%BF%97" title="许国志">许国志</a>和<a href="/wiki/%E5%91%A8%E5%8D%8E%E7%AB%A0" title="周华章">周华章</a>正式定名为“运筹学”，于1980年成立<a href="/wiki/%E4%B8%AD%E5%9B%BD%E8%BF%90%E7%AD%B9%E5%AD%A6%E4%BC%9A" title="中国运筹学会">中国运筹学会</a>（ORSC），随后于1982年加入<a href="/w/index.php?title=%E5%9B%BD%E9%99%85%E8%BF%90%E7%AD%B9%E5%AD%A6%E8%81%94%E5%90%88%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="国际运筹学联合会（页面不存在）">国际运筹学联合会</a>（IFORS）。
+</p>
+<h2><span id=".E5.88.86.E6.94.AF"></span><span class="mw-headline" id="分支">分支</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=2" title="编辑章节：分支"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%95%B0%E5%AD%A6%E8%A7%84%E5%88%92" class="mw-redirect" title="数学规划">数学规划</a>
+<ul><li><a href="/wiki/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92" title="线性规划">线性规划</a></li>
+<li><a href="/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92" title="非线性规划">非线性规划</a></li>
+<li><a href="/wiki/%E6%95%B4%E6%95%B0%E8%A7%84%E5%88%92" title="整数规划">整数规划</a></li>
+<li><a href="/wiki/%E4%BA%8C%E6%AC%A1%E8%A7%84%E5%88%92" title="二次规划">二次规划</a></li>
+<li><a href="/wiki/%E5%8D%8A%E6%AD%A3%E5%AE%9A%E8%A7%84%E5%88%92" title="半正定规划">半正定规划</a></li>
+<li><a href="/w/index.php?title=%E7%9B%AE%E6%A0%87%E8%A7%84%E5%88%92&amp;action=edit&amp;redlink=1" class="new" title="目标规划（页面不存在）">目标规划</a></li>
+<li><a href="/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92" title="动态规划">动态规划</a></li>
+<li><a href="/w/index.php?title=%E5%8F%82%E6%95%B0%E8%A7%84%E5%88%92&amp;action=edit&amp;redlink=1" class="new" title="参数规划（页面不存在）">参数规划</a></li>
+<li><a href="/w/index.php?title=%E9%9A%8F%E6%9C%BA%E8%A7%84%E5%88%92&amp;action=edit&amp;redlink=1" class="new" title="随机规划（页面不存在）">随机规划</a></li>
+<li><a href="/wiki/%E7%BB%84%E5%90%88%E6%9C%80%E4%BC%98%E5%8C%96" class="mw-redirect" title="组合最优化">组合最优化</a></li></ul></li>
+<li><a href="/wiki/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B" title="金融工程">金融工程</a></li>
+<li><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a></li>
+<li><a href="/wiki/%E5%9B%BE%E8%AE%BA" title="图论">图论</a></li>
+<li><a href="/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA" class="mw-redirect" title="排队论">排队论</a></li>
+<li><a href="/w/index.php?title=%E5%AD%98%E8%B4%AE%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="存贮论（页面不存在）">存贮论</a></li>
+<li><a href="/wiki/%E5%AF%B9%E7%AD%96%E8%AE%BA" class="mw-redirect" title="对策论">对策论</a>（<a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA" title="博弈论">博弈论</a>）</li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E8%AE%BA" title="决策论">决策论</a></li>
+<li><a href="/w/index.php?title=%E6%90%9C%E7%B4%A2%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="搜索论（页面不存在）">搜索论</a></li>
+<li><a href="/w/index.php?title=%E7%BB%9F%E7%AD%B9%E8%AE%BA&amp;action=edit&amp;redlink=1" class="new" title="统筹论（页面不存在）">统筹论</a></li>
+<li><a href="/wiki/%E6%9C%80%E4%BC%98%E5%8C%96" title="最优化">最优化</a></li></ul>
+<h2><span id=".E7.9B.B8.E9.97.9C.E5.AD.B8.E8.A1.93.E6.A9.9F.E6.A7.8B"></span><span class="mw-headline" id="相關學術機構">相关学术机构</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=3" title="编辑章节：相关学术机构"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E8.87.BA.E7.81.A3"></span><span class="mw-headline" id="臺灣">台湾</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=4" title="编辑章节：台湾"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%E5%9C%8B%E7%AB%8B%E6%9D%B1%E8%8F%AF%E5%A4%A7%E5%AD%B8%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2" title="国立东华大学管理学院">国立东华大学管理学院</a> 运筹管理研究所 <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/%E5%9C%8B%E9%98%B2%E5%A4%A7%E5%AD%B8%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2" class="mw-redirect" title="国防大学管理学院">国防大学管理学院</a> 运筹管理学系 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+<h3><span id=".E7.BE.8E.E5.9C.8B"></span><span class="mw-headline" id="美國">美国</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=5" title="编辑章节：美国"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A0%93%E5%A4%A7%E5%AD%B8" class="mw-redirect" title="普林斯顿大学">普林斯顿大学</a>工学院 运筹学与财务工程学系 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/%E5%BA%B7%E4%B9%83%E7%88%BE%E5%A4%A7%E5%AD%B8" class="mw-redirect" title="康乃尔大学">康乃尔大学</a>工学院 运筹学与信息工程学系 <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%A4%A7%E5%AD%B8" class="mw-redirect" title="哥伦比亚大学">哥伦比亚大学</a>工学院 工业工程与运筹学系 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%B8%E6%9F%8F%E5%85%8B%E8%90%8A%E5%88%86%E6%A0%A1" title="加州大学柏克莱分校">加州大学柏克莱分校</a>工学院 工业工程与运筹学系 <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/%E8%90%8A%E6%96%AF%E5%A4%A7%E5%AD%B8" title="莱斯大学">莱斯大学</a>工学院 计算应用数学与运筹学系 <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span id=".E5.BB.B6.E4.BC.B8.E9.98.85.E8.AF.BB"></span><span class="mw-headline" id="延伸阅读">延伸阅读</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=6" title="编辑章节：延伸阅读"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>R. E. Bellman, <i>Dynamic Programming</i>, Princeton University Press, Princeton, 1957</li>
+<li>Abraham Charnes, William W. Cooper, <i>Management Models and Industrial Applications of Linear Programming</i>, Volumes I and II, New York, John Wiley &amp; Sons, 1961</li>
+<li>Abraham Charnes, William W. Cooper, A. Henderson, <i>An Introduction to Linear Programming</i>, New York, John Wiley &amp; Sons, 1953</li>
+<li>C. West Churchman, Russell L. Ackoff &amp; E. L. Arnoff, <i>Introduction to Operations Research</i>, New York: J. Wiley and Sons, 1957</li>
+<li>George B. Dantzig, <i>Linear Programming and Extensions</i>, Princeton, Princeton University Press, 1963</li>
+<li>Lester K. Ford, Jr., D. Ray Fulkerson, <i>Flows in Networks</i>, Princeton, Princeton University Press, 1962</li>
+<li>Jay W. Forrester, <i>Industrial Dynamics</i>, Cambridge, MIT Press, 1961</li>
+<li>L. V. Kantorovich, "Mathematical Methods of Organizing and Planning Production" <i>Management Science</i>, 4, 1960, 266–422</li>
+<li>Ralph Keeney, Howard Raiffa, <i>Decisions with Multiple Objectives: Preferences and Value Tradeoffs</i>, New York, John Wiley &amp; Sons, 1976</li>
+<li>H. W. Kuhn, "The Hungarian Method for the Assignment Problem," <i>Naval Research Logistics Quarterly</i>, 1–2, 1955, 83–97</li>
+<li>H. W. Kuhn, A. W. Tucker, "Nonlinear Programming," pp.&#160;481–492 in <i>Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability</i></li>
+<li>B. O. Koopman, <i>Search and Screening: General Principles and Historical Applications</i>, New York, Pergamon Press, 1980</li>
+<li>Tjalling C. Koopmans, editor, <i>Activity Analysis of Production and Allocation</i>, New York, John Wiley &amp; Sons, 1951</li>
+<li>Charles C. Holt, Franco Modigliani, John F. Muth, Herbert A. Simon, <i>Planning Production, Inventories, and Work Force</i>, Englewood Cliffs, NJ, Prentice-Hall, 1960</li>
+<li>Philip M. Morse, George E. Kimball, <i>Methods of Operations Research</i>, New York, MIT Press and John Wiley &amp; Sons, 1951</li>
+<li>Robert O. Schlaifer, Howard Raiffa, <i>Applied Statistical Decision Theory</i>, Cambridge, Division of Research, Harvard Business School, 1961</li>
+<li>Frederick S. Hillier &amp; Gerald J. Lieberman, <i>Introduction to Operations Research</i>, McGraw-Hill: Boston MA; 10th Edition, 2014</li>
+<li>Taha, Hamdy A., "Operations Research: An Introduction", Pearson, 10th Edition, 2016</li>
+<li>Robert J. Thierauf &amp; Richard A. Grosse, "Decision Making Through Operations Research", John Wiley &amp; Sons, INC, 1970</li>
+<li>Harvey M. Wagner, <i>Principles of Operations Research</i>, Englewood Cliffs, Prentice-Hall, 1969</li>
+<li>Saul I. Gass, Arjang A. Assad, <i>An Annotated Timeline of Operations Research:  An Informal History</i>. New York, Kluwer Academic Publishers, 2005.</li>
+<li>Saul I. Gass (Editor), Arjang A. Assad (Editor), <i>Profiles in Operations Research: Pioneers and Innovators</i>. Springer, 2011</li>
+<li>Maurice W. Kirby (Operational Research Society (Great Britain)). Operational Research in War and Peace: The British Experience from the 1930s to 1970, Imperial College Press, 2003. <style data-mw-deduplicate="TemplateStyles:r61200749">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-86094-366-7" title="Special:网络书源/1-86094-366-7">1-86094-366-7</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749"><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1-86094-366-9" title="Special:网络书源/978-1-86094-366-9">978-1-86094-366-9</a></li>
+<li>J. K. Lenstra, A. H. G. Rinnooy Kan, A. Schrijver (editors) <i>History of Mathematical Programming: A Collection of Personal Reminiscences</i>, North-Holland, 1991</li>
+<li>Charles W. McArthur, <i>Operations Analysis in the U.S. Army Eighth Air Force in World War II</i>, History of Mathematics, Vol. 4, Providence, American Mathematical Society, 1990</li>
+<li>C. H. Waddington, <i>O. R. in World War 2: Operational Research Against the U-boat</i>, London, Elek Science, 1973.</li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;action=edit&amp;section=7" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.informs.org/Build-Your-Career/Consider-an-Analytics-OR-Career">What is Operations Research?</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20170308225250/https://www.informs.org/Build-Your-Career/Consider-an-Analytics-OR-Career">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.ifors.org/">International Federation of Operational Research Societies</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20070702155417/http://www.ifors.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.informs.org/">The Institute for Operations Research and the Management Sciences (INFORMS)</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20111109033716/http://www.informs.org/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li>
+<li><a rel="nofollow" class="external text" href="http://www.orsc.org.cn/">中国运筹学会</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20181130051031/http://www.orsc.org.cn/">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<p><br />
+</p>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="Template:微观经济学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="Template talk:微观经济学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="微观经济学">微观经济学</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">基本概念</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A8%80%E7%BC%BA%E6%80%A7" title="稀缺性">稀缺性</a></li>
+<li><a href="/wiki/%E8%B2%A1%E8%B2%A8" title="财货">财货</a>
+<ul><li><a href="/wiki/%E8%B2%A1%E8%B2%A8" title="财货">经济物品</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%94%B1%E8%B2%A1" title="免费物品">免费物品</a></li>
+<li><a href="/wiki/%E7%A7%81%E6%9C%89%E8%B2%A1" title="私人物品">私人物品</a></li>
+<li><a href="/wiki/%E5%85%AC%E5%85%B1%E7%89%A9%E5%93%81" title="公共物品">公共物品</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="商品及服務" data-lang-code="en" data-lang-name="英语" data-foreign-title="Goods and services"><span class="ilh-page"><a href="/w/index.php?title=%E5%95%86%E5%93%81%E5%8F%8A%E6%9C%8D%E5%8B%99&amp;action=edit&amp;redlink=1" class="new" title="商品及服务（页面不存在）">商品及服务</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Goods_and_services" class="extiw" title="en:Goods and services"><span lang="en" dir="auto">Goods and services</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E5%95%86%E5%93%81" class="mw-redirect" title="商品">商品</a></li>
+<li><a href="/wiki/%E6%9C%8D%E5%8A%A1" title="服务">服务</a></li></ul></li>
+<li><a href="/wiki/%E7%B4%84%E6%9D%9F%E6%A5%B5%E5%A4%A7%E5%8C%96" title="约束最大化">约束最大化</a></li>
+<li><span class="ilh-all" data-orig-title="经济成本" data-lang-code="en" data-lang-name="英语" data-foreign-title="Economic cost"><span class="ilh-page"><a href="/wiki/%E7%B6%93%E6%BF%9F%E6%88%90%E6%9C%AC" title="经济成本">经济成本</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Economic_cost" class="extiw" title="en:Economic cost"><span lang="en" dir="auto">Economic cost</span></a></span>）</span></span>
+<ul><li><span class="ilh-all" data-orig-title="平均成本" data-lang-code="en" data-lang-name="英语" data-foreign-title="Average cost"><span class="ilh-page"><a href="/w/index.php?title=%E5%B9%B3%E5%9D%87%E6%88%90%E6%9C%AC&amp;action=edit&amp;redlink=1" class="new" title="平均成本（页面不存在）">平均成本</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Average_cost" class="extiw" title="en:Average cost"><span lang="en" dir="auto">Average cost</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%BE%B9%E9%99%85%E6%88%90%E6%9C%AC" title="边际成本">边际成本</a></li>
+<li><a href="/wiki/%E6%9C%BA%E4%BC%9A%E6%88%90%E6%9C%AC" title="机会成本">机会成本</a></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E6%88%90%E6%9C%AC" title="社会成本">社会成本</a></li>
+<li><a href="/wiki/%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC" title="沉没成本">沉没成本</a></li>
+<li><a href="/wiki/%E4%BA%A4%E6%98%93%E6%88%90%E6%9C%AC" title="交易成本">交易成本</a></li></ul></li>
+<li><a href="/wiki/%E5%88%A9%E6%81%AF" title="利息">利息</a></li>
+<li><a href="/wiki/%E8%B7%A8%E6%9C%9F%E9%81%B8%E6%93%87" title="跨期选择">跨期选择</a></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E8%88%87%E4%BE%9B%E7%B5%A6" title="需求与供给">需求与供给</a>
+<ul><li><a href="/wiki/%E4%BE%9B%E7%B5%A6%E6%9B%B2%E7%B7%9A" title="供给曲线">供给曲线</a></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E6%9B%B2%E7%B7%9A" class="mw-redirect" title="需求曲线">需求曲线</a></li></ul></li>
+<li><a href="/wiki/%E5%BC%B9%E6%80%A7_(%E7%BB%8F%E6%B5%8E%E5%AD%A6)" title="弹性 (经济学)">弹性</a></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E5%9D%87%E8%A1%A1" title="经济均衡">经济均衡</a></li>
+<li><a href="/wiki/%E4%B8%80%E8%88%AC%E5%9D%87%E8%A1%A1%E7%90%86%E8%AE%BA" title="一般均衡理论">一般均衡</a></li>
+<li><a href="/wiki/%E8%B6%85%E9%A1%8D%E9%9C%80%E6%B1%82" title="超额需求">超额需求</a></li>
+<li><a href="/wiki/%E8%B6%85%E9%A1%8D%E4%BE%9B%E7%B5%A6" title="超额供给">超额供给</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%B6%88%E8%B4%B9%E8%80%85%E7%90%86%E8%AE%BA" title="消费者理论">消费者理论</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%81%8F%E5%A5%BD" title="偏好">偏好</a></li>
+<li><a href="/wiki/%E6%95%88%E7%94%A8" title="效用">效用</a></li>
+<li><a href="/wiki/%E6%97%A0%E5%B7%AE%E5%BC%82%E6%9B%B2%E7%BA%BF" title="无差异曲线">无差异曲线</a></li>
+<li><a href="/wiki/%E9%A0%90%E7%AE%97%E7%B7%9A" title="预算线">预算线</a></li>
+<li><span class="ilh-all" data-orig-title="收入–消費曲線" data-lang-code="en" data-lang-name="英语" data-foreign-title="Income–consumption curve"><span class="ilh-page"><a href="/w/index.php?title=%E6%94%B6%E5%85%A5%E2%80%93%E6%B6%88%E8%B2%BB%E6%9B%B2%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="收入–消费曲线（页面不存在）">收入–消费曲线</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Income%E2%80%93consumption_curve" class="extiw" title="en:Income–consumption curve"><span lang="en" dir="auto">Income–consumption curve</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7" class="mw-redirect" title="不确定性">不确定性</a></li>
+<li><a href="/wiki/%E9%A3%8E%E9%99%A9%E5%8E%8C%E6%81%B6" title="风险厌恶">风险厌恶</a></li>
+<li><a href="/wiki/%E6%8D%9F%E5%A4%B1%E8%A7%84%E9%81%BF" title="损失规避">损失规避</a></li>
+<li><a href="/wiki/%E6%95%88%E7%94%A8" title="效用">效用</a>
+<ul><li><a href="/wiki/%E9%A2%84%E6%9C%9F%E6%95%88%E7%94%A8%E5%81%87%E8%AF%B4" title="预期效用假说">预期效用假说</a></li>
+<li><a href="/wiki/%E8%BE%B9%E9%99%85%E6%95%88%E7%94%A8" title="边际效用">边际效用</a></li></ul></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%BC%B9%E6%80%A7" title="需求的价格弹性">需求的价格弹性</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">企业理论</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%9F%E4%BA%A7%E8%A6%81%E7%B4%A0" title="生产要素">生产要素</a></li>
+<li><a href="/wiki/%E5%88%86%E5%B7%A5" title="分工">分工</a></li>
+<li><a href="/wiki/%E5%A0%B1%E9%85%AC%E9%81%9E%E6%B8%9B" title="回报递减">回报递减</a></li>
+<li><a href="/w/index.php?title=%E7%94%9F%E7%94%A2%E6%88%90%E6%9C%AC&amp;action=edit&amp;redlink=1" class="new" title="生产成本（页面不存在）">生产成本</a>
+<ul><li><a href="/wiki/%E5%9B%BA%E5%AE%9A%E6%88%90%E6%9C%AC" title="固定成本">固定成本</a></li>
+<li><a href="/wiki/%E8%AE%8A%E5%8B%95%E6%88%90%E6%9C%AC" title="变动成本">变动成本</a></li></ul></li>
+<li><a href="/wiki/%E5%88%A9%E6%BD%A4" title="利润">利润</a></li>
+<li><a href="/wiki/%E7%AD%89%E6%88%90%E6%9C%AC%E6%9B%B2%E7%B7%9A" title="等成本曲线">等成本曲线</a></li>
+<li><a href="/wiki/%E7%AD%89%E4%BA%A7%E9%87%8F%E6%9B%B2%E7%BA%BF" title="等产量曲线">等产量曲线</a></li>
+<li><a href="/wiki/%E5%88%A9%E6%B6%A6%E6%9C%80%E5%A4%A7%E5%8C%96" title="利润最大化">利润最大化</a></li>
+<li><a href="/wiki/%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E" title="规模经济">规模经济</a>与<a href="/wiki/%E8%A6%8F%E6%A8%A1%E4%B8%8D%E7%B6%93%E6%BF%9F" title="规模不经济">规模不经济</a></li>
+<li><span class="ilh-all" data-orig-title="範圍經濟" data-lang-code="en" data-lang-name="英语" data-foreign-title="Economies of scope"><span class="ilh-page"><a href="/w/index.php?title=%E7%AF%84%E5%9C%8D%E7%B6%93%E6%BF%9F&amp;action=edit&amp;redlink=1" class="new" title="范围经济（页面不存在）">范围经济</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Economies_of_scope" class="extiw" title="en:Economies of scope"><span lang="en" dir="auto">Economies of scope</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%81%9A%E9%9B%86%E7%B6%93%E6%BF%9F" title="聚集经济">集聚经济</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">市场分析</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B8%82%E5%9C%BA" title="市场">市场</a></li>
+<li><a href="/wiki/%E5%B8%82%E5%9C%BA%E5%BD%A2%E5%BC%8F" title="市场形式">市场形式</a>
+<ul><li><span class="ilh-all" data-orig-title="市场竞争" data-lang-code="en" data-lang-name="英语" data-foreign-title="Competition (economics)"><span class="ilh-page"><a href="/w/index.php?title=%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89&amp;action=edit&amp;redlink=1" class="new" title="市场竞争（页面不存在）">市场竞争</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Competition_(economics)" class="extiw" title="en:Competition (economics)"><span lang="en" dir="auto">Competition (economics)</span></a></span>）</span></span>
+<ul><li><a href="/wiki/%E5%9E%84%E6%96%AD%E6%80%A7%E7%AB%9E%E4%BA%89" title="垄断性竞争">垄断性竞争</a></li>
+<li><a href="/wiki/%E5%AE%8C%E5%85%A8%E7%AB%9E%E4%BA%89" title="完全竞争">完全竞争</a></li></ul></li>
+<li><a href="/wiki/%E5%8F%8C%E5%A4%B4%E5%9E%84%E6%96%AD" title="双头垄断">双头垄断</a></li>
+<li><a href="/wiki/%E7%8B%AC%E5%8D%A0" title="独占">垄断</a>
+<ul><li><a href="/wiki/%E5%8F%8C%E8%BE%B9%E5%AF%A1%E5%A4%B4%E5%9E%84%E6%96%AD" title="双边寡头垄断">双边寡头垄断</a></li></ul></li>
+<li><a href="/wiki/%E4%B9%B0%E6%96%B9%E5%9E%84%E6%96%AD" title="买方垄断">买方垄断</a></li>
+<li><a href="/wiki/%E5%AF%A1%E5%8D%A0" title="寡头垄断">寡头垄断</a></li>
+<li><a href="/wiki/%E4%B9%B0%E6%96%B9%E5%AF%A1%E5%A4%B4%E5%9E%84%E6%96%AD" title="买方寡头垄断">买方寡头垄断</a></li></ul></li>
+<li><a href="/wiki/%E5%B8%82%E5%9C%BA%E5%A4%B1%E7%81%B5" title="市场失灵">市场失灵</a></li>
+<li><a href="/wiki/%E4%BB%B7%E6%A0%BC" title="价格">价格</a></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E5%89%A9%E9%A4%98" title="经济剩余">经济剩余</a>
+<ul><li><a href="/wiki/%E7%B6%93%E6%BF%9F%E5%89%A9%E9%A4%98" title="经济剩余">消费者剩余</a></li>
+<li><a href="/wiki/%E7%B6%93%E6%BF%9F%E5%89%A9%E9%A4%98" title="经济剩余">生产者剩余</a></li></ul></li>
+<li><a href="/wiki/%E6%97%A0%E8%B0%93%E6%8D%9F%E5%A4%B1" title="无谓损失">无谓损失</a></li>
+<li><a href="/wiki/%E5%A4%96%E9%83%A8%E6%80%A7" title="外部性">外部性</a></li>
+<li><a href="/wiki/%E7%BB%8F%E6%B5%8E%E6%95%88%E7%8E%87" title="经济效率">经济效率</a></li>
+<li><span class="ilh-all" data-orig-title="經濟公平" data-lang-code="en" data-lang-name="英语" data-foreign-title="Equity (economics)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B6%93%E6%BF%9F%E5%85%AC%E5%B9%B3&amp;action=edit&amp;redlink=1" class="new" title="经济公平（页面不存在）">经济公平</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Equity_(economics)" class="extiw" title="en:Equity (economics)"><span lang="en" dir="auto">Equity (economics)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="社會抉擇" data-lang-code="en" data-lang-name="英语" data-foreign-title="Social choice"><span class="ilh-page"><a href="/w/index.php?title=%E7%A4%BE%E6%9C%83%E6%8A%89%E6%93%87&amp;action=edit&amp;redlink=1" class="new" title="社会抉择（页面不存在）">社会抉择</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Social_choice" class="extiw" title="en:Social choice"><span lang="en" dir="auto">Social choice</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">研究分支</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%A1%8C%E7%82%BA%E7%B6%93%E6%BF%9F%E5%AD%B8" title="行为经济学">行为经济学</a></li>
+<li><a href="/wiki/%E5%95%86%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="商业经济学">商业经济学</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E7%B6%93%E6%BF%9F%E5%AD%B8" title="计算经济学">计算经济学</a></li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E8%AE%BA" title="决策论">决策论</a></li>
+<li><a href="/wiki/%E6%87%89%E7%94%A8%E7%B6%93%E6%BF%9F%E5%AD%B8" title="应用经济学">应用经济学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="计量经济学">计量经济学</a></li>
+<li><a href="/wiki/%E5%B7%A5%E7%A8%8B%E7%B6%93%E6%BF%9F" title="工程经济">工程经济</a></li>
+<li><span class="ilh-all" data-orig-title="土木工程经济学" data-lang-code="en" data-lang-name="英语" data-foreign-title="Engineering economics (civil engineering)"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="土木工程经济学（页面不存在）">土木工程经济学</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Engineering_economics_(civil_engineering)" class="extiw" title="en:Engineering economics (civil engineering)"><span lang="en" dir="auto">Engineering economics (civil engineering)</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BC%94%E5%8C%96%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="演化经济学">演化经济学</a></li>
+<li><a href="/wiki/%E5%AE%9E%E9%AA%8C%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="实验经济学">实验经济学</a></li>
+<li><a href="/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA" title="博弈论">博弈论</a></li>
+<li><a href="/wiki/%E4%BA%A7%E4%B8%9A%E7%BB%84%E7%BB%87%E7%90%86%E8%AE%BA" title="产业组织理论">产业组织理论</a></li>
+<li><a href="/wiki/%E5%88%B6%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="制度经济学">制度经济学</a></li>
+<li><a href="/wiki/%E5%8B%9E%E5%8B%95%E7%B6%93%E6%BF%9F%E5%AD%B8" title="劳动经济学">劳动经济学</a></li>
+<li><a href="/wiki/%E6%B3%95%E5%BE%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="法律经济学">法律经济学</a></li>
+<li><a href="/wiki/%E4%BC%81%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="企业经济学">管理经济学</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%90%86%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="数理经济学">数理经济学</a></li>
+<li><span class="ilh-all" data-orig-title="微观基础" data-lang-code="en" data-lang-name="英语" data-foreign-title="Microfoundations"><span class="ilh-page"><a href="/wiki/%E5%BE%AE%E8%A7%80%E5%9F%BA%E7%A4%8E" title="微观基础">宏观经济学的微观基础</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Microfoundations" class="extiw" title="en:Microfoundations"><span lang="en" dir="auto">Microfoundations</span></a></span>）</span></span></li>
+<li><a class="mw-selflink selflink">运筹学</a></li>
+<li><a href="/wiki/%E6%9C%80%E4%BC%98%E5%8C%96" title="最优化">最优化</a></li>
+<li><a href="/wiki/%E7%A6%8F%E5%88%A9%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="福利经济学">福利经济学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="Category:微观经济学">分类</a></li>
+<li><a href="/wiki/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9B%B8%E5%85%B3%E4%B8%BB%E9%A2%98%E5%88%97%E8%A1%A8" title="微观经济学相关主题列表">相关主题列表</a></li>
+<li><a href="/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="经济学">经济学</a></li>
+<li><a href="/wiki/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="宏观经济学">宏观经济学</a></li>
+<li><a href="/wiki/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="政治经济学">政治经济学</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group nowrap"><a href="/wiki/Help:%E8%A7%84%E8%8C%83%E6%8E%A7%E5%88%B6" title="Help:规范控制">规范控制</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q194292" title="编辑维基数据链接"><img alt="编辑维基数据链接" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/%E6%B3%95%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="法国国家图书馆">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11941329g">cb11941329g</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11941329g">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4043586-6">4043586-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="以色列国家图书馆">J9U</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007548425405171">987007548425405171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8E%A7%E5%88%B6%E5%8F%B7" class="mw-redirect" title="美国国会图书馆控制号">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh85095020">sh85095020</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E5%92%8C%E8%AE%B0%E5%BD%95%E7%AE%A1%E7%90%86%E5%B1%80" title="国家档案和记录管理局">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10641204">10641204</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/%E6%8D%B7%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8" title="捷克共和国国家图书馆">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph115594&amp;CON_LNG=ENG">ph115594</a></span></span></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://gslm.ndhu.edu.tw/">首頁</a>. 国立东华大学 运筹管理研究所. 2023-05-29 <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230816083839/https://gslm.ndhu.edu.tw/">存档</a>于2023-08-16） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（繁体）网页">（中文（繁体））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=%E9%A6%96%E9%A0%81&amp;rft.date=2023-05-29&amp;rft.genre=unknown&amp;rft.jtitle=%E5%9C%8B%E7%AB%8B%E6%9D%B1%E8%8F%AF%E5%A4%A7%E5%AD%B8+%E9%81%8B%E7%B1%8C%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6%E6%89%80&amp;rft_id=https%3A%2F%2Fgslm.ndhu.edu.tw%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ndmc.ndu.edu.tw/unit/100008/">運籌系-運籌管理學系-國防大學管理學院</a>. www.ndmc.ndu.edu.tw.  <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230609115656/https://www.ndmc.ndu.edu.tw/unit/100008/">存档</a>于2023-06-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=%E9%81%8B%E7%B1%8C%E7%B3%BB-%E9%81%8B%E7%B1%8C%E7%AE%A1%E7%90%86%E5%AD%B8%E7%B3%BB-%E5%9C%8B%E9%98%B2%E5%A4%A7%E5%AD%B8%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2&amp;rft.genre=unknown&amp;rft.jtitle=www.ndmc.ndu.edu.tw&amp;rft_id=https%3A%2F%2Fwww.ndmc.ndu.edu.tw%2Funit%2F100008%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://orfe.princeton.edu/">Operations Research &amp; Financial Engineering</a>. orfe.princeton.edu.  <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20231006055228/https://orfe.princeton.edu/">存档</a>于2023-10-06）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=Operations+Research+%26+Financial+Engineering&amp;rft.genre=unknown&amp;rft.jtitle=orfe.princeton.edu&amp;rft_id=https%3A%2F%2Forfe.princeton.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.orie.cornell.edu/orie">Operations Research and Information Engineering | Operations Research and Information Engineering</a>. www.orie.cornell.edu.  <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230609081008/https://www.orie.cornell.edu/orie">存档</a>于2023-06-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=Operations+Research+and+Information+Engineering+%7C+Operations+Research+and+Information+Engineering&amp;rft.genre=unknown&amp;rft.jtitle=www.orie.cornell.edu&amp;rft_id=https%3A%2F%2Fwww.orie.cornell.edu%2Forie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ieor.columbia.edu/">Industrial Engineering and Operations Research Homepage</a>. Industrial Engineering and Operations Research. 2017-04-21 <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230627222655/https://www.ieor.columbia.edu/">存档</a>于2023-06-27） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=Industrial+Engineering+and+Operations+Research+Homepage&amp;rft.date=2017-04-21&amp;rft.genre=unknown&amp;rft.jtitle=Industrial+Engineering+and+Operations+Research&amp;rft_id=https%3A%2F%2Fwww.ieor.columbia.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ieor.berkeley.edu/">Department of Industrial Engineering &amp; Operations Research — UC Berkeley</a>. UC Berkeley IEOR Department - Industrial Engineering &amp; Operations Research.  <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230711131157/https://ieor.berkeley.edu/">存档</a>于2023-07-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=Department+of+Industrial+Engineering+%26+Operations+Research+%E2%80%94+UC+Berkeley&amp;rft.genre=unknown&amp;rft.jtitle=UC+Berkeley+IEOR+Department+-+Industrial+Engineering+%26+Operations+Research&amp;rft_id=https%3A%2F%2Fieor.berkeley.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ga.rice.edu/programs-study/departments-programs/engineering/operations-research/">Operations Research &lt; Rice University</a>. ga.rice.edu.  <span class="reference-accessdate"> &#91;<span class="nowrap">2023-06-09</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230609081010/https://ga.rice.edu/programs-study/departments-programs/engineering/operations-research/">存档</a>于2023-06-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;rft.atitle=Operations+Research+%3C+Rice+University&amp;rft.genre=unknown&amp;rft.jtitle=ga.rice.edu&amp;rft_id=https%3A%2F%2Fga.rice.edu%2Fprograms-study%2Fdepartments-programs%2Fengineering%2Foperations-research%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐787cc5875f‐mmh27
+Cached time: 20240402094651
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.521 seconds
+Real time usage: 0.759 seconds
+Preprocessor visited node count: 2559/1000000
+Post‐expand include size: 142042/2097152 bytes
+Template argument size: 7797/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 22/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7429/5000000 bytes
+Lua time usage: 0.279/10.000 seconds
+Lua memory usage: 16216227/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  623.786      1 -total
+ 26.72%  166.680      1 Template:多個問題
+ 18.42%  114.924      3 Template:Lang-en
+ 16.14%  100.703      1 Template:Copyedit
+ 16.01%   99.881      3 Template:Ambox
+ 12.35%   77.064      1 Template:微觀經濟學
+ 11.83%   73.794      1 Template:Navbox
+ 10.13%   63.190      7 Template:Cite_web
+  8.38%   52.268      1 Template:NoteTA
+  7.29%   45.503      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:5200-0!userlang=zh-cn!zh-cn and timestamp 20240402094651 and revision id 79584416. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=運籌學&amp;oldid=79584416">https://zh.wikipedia.org/w/index.php?title=運籌學&amp;oldid=79584416</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%81%8B%E7%B1%8C%E5%AD%B8" title="Category:運籌學">运筹学</a></li><li><a href="/wiki/Category:%E5%B7%A5%E6%A5%AD%E5%B7%A5%E7%A8%8B" title="Category:工業工程">工业工程</a></li><li><a href="/wiki/Category:%E5%95%86%E4%B8%9A%E6%95%B0%E5%AD%A6%E4%BC%98%E5%8C%96" title="Category:商业数学优化">商业数学优化</a></li><li><a href="/wiki/Category:%E7%B5%B1%E8%A8%88%E5%AD%B8%E6%87%89%E7%94%A8%E9%A0%98%E5%9F%9F" title="Category:統計學應用領域">统计学应用领域</a></li><li><a href="/wiki/Category:%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%A7%91" title="Category:工程學科">工程学科</a></li><li><a href="/wiki/Category:%E6%95%B0%E7%90%86%E4%B8%8E%E5%AE%9A%E9%87%8F%E6%96%B9%E6%B3%95_(%E7%BB%8F%E6%B5%8E%E5%AD%A6)" title="Category:数理与定量方法 (经济学)">数理与定量方法 (经济学)</a></li><li><a href="/wiki/Category:%E6%95%B0%E7%90%86%E7%BB%8F%E6%B5%8E%E5%AD%A6" title="Category:数理经济学">数理经济学</a></li><li><a href="/wiki/Category:%E6%B1%BA%E7%AD%96" title="Category:決策">决策</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B411%E6%9C%88%E9%9C%80%E8%A6%81%E6%A0%A1%E5%B0%8D%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:自2018年11月需要校對的頁面">自2018年11月需要校对的页面</a></li><li><a href="/wiki/Category:%E8%87%AA2018%E5%B9%B44%E6%9C%88%E9%9C%80%E8%A6%81%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:自2018年4月需要专业人士关注的页面">自2018年4月需要专业人士关注的页面</a></li><li><a href="/wiki/Category:%E6%89%80%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:所有需要專家關注的頁面">所有需要专家关注的页面</a></li><li><a href="/wiki/Category:%E5%85%B6%E4%BB%96%E9%9C%80%E8%A6%81%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2" title="Category:其他需要專家關注的頁面">其他需要专家关注的页面</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英语的条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABBNF%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含BNF标识符的维基百科条目">包含BNF标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABGND%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含GND标识符的维基百科条目">包含GND标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABJ9U%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含J9U标识符的维基百科条目">包含J9U标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABLCCN%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含LCCN标识符的维基百科条目">包含LCCN标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNARA%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NARA标识符的维基百科条目">包含NARA标识符的维基百科条目</a></li><li><a href="/wiki/Category:%E5%8C%85%E5%90%ABNKC%E6%A0%87%E8%AF%86%E7%AC%A6%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9D%A1%E7%9B%AE" title="Category:包含NKC标识符的维基百科条目">包含NKC标识符的维基百科条目</a></li><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2023年10月31日 (星期二) 21:53。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E9%81%8B%E7%B1%8C%E5%AD%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-cfpw6","wgBackendResponseTime":174,"wgPageParseReport":{"limitreport":{"cputime":"0.521","walltime":"0.759","ppvisitednodes":{"value":2559,"limit":1000000},"postexpandincludesize":{"value":142042,"limit":2097152},"templateargumentsize":{"value":7797,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7429,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  623.786      1 -total"," 26.72%  166.680      1 Template:多個問題"," 18.42%  114.924      3 Template:Lang-en"," 16.14%  100.703      1 Template:Copyedit"," 16.01%   99.881      3 Template:Ambox"," 12.35%   77.064      1 Template:微觀經濟學"," 11.83%   73.794      1 Template:Navbox"," 10.13%   63.190      7 Template:Cite_web","  8.38%   52.268      1 Template:NoteTA","  7.29%   45.503      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.279","limit":"10.000"},"limitreport-memusage":{"value":16216227,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-787cc5875f-mmh27","timestamp":"20240402094651","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u904b\u7c4c\u5b78","url":"https:\/\/zh.wikipedia.org\/wiki\/%E9%81%8B%E7%B1%8C%E5%AD%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q194292","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q194292","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-07T00:38:21Z","dateModified":"2023-10-31T21:53:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b5\/Design_Management_in_brief.jpg","headline":"\u5e38\u7528\u4e8e\u5bfb\u627e\u590d\u6742\u95ee\u9898\u4e2d\u7684\u6700\u4f73\u6216\u8fd1\u4f3c\u6700\u4f73\u7684\u89e3\u7b54\u3002"}</script>
+</body>
+</html>

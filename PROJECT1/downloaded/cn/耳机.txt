@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>耳机 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"2541816f-3de0-44b4-8632-2ffe4aa89833","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"耳機","wgTitle":"耳機","wgCurRevisionId":80971243,"wgRevisionId":80971243,"wgArticleId":182419,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2014年5月缺少来源的条目","自2012年9月带有不当合理使用内容的条目","含有多个问题的条目","维基共享资源分类链接使用了维基数据上的匹配项","耳機"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"耳機","wgRelevantArticleId":182419,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgRedirectedFrom":"耳机","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgInternalRedirectTargetUrl":"/wiki/%E8%80%B3%E6%A9%9F","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q186819","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink",
+"ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadphoneTypes.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/61/HeadphoneTypes.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="480">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="耳机 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%80%B3%E6%A9%9F">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-耳機 rootpage-耳機 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%80%B3%E6%A9%9F" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%80%B3%E6%A9%9F" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%80%B3%E6%A9%9F" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%80%B3%E6%A9%9F" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-分类"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#分类">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>分类</div>
+		</a>
+		
+			<button aria-controls="toc-分类-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关分类子章节</span>
+			</button>
+		
+		<ul id="toc-分类-sublist" class="vector-toc-list">
+			<li id="toc-以換能原理区分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以換能原理区分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>以换能原理区分</div>
+			</a>
+			
+			<ul id="toc-以換能原理区分-sublist" class="vector-toc-list">
+				<li id="toc-動圈式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#動圈式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.1</span>动圈式</div>
+			</a>
+			
+			<ul id="toc-動圈式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-動鐵式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#動鐵式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.2</span>动铁式</div>
+			</a>
+			
+			<ul id="toc-動鐵式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-壓電式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#壓電式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.3</span>压电式</div>
+			</a>
+			
+			<ul id="toc-壓電式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-氣動式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#氣動式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.4</span>气动式</div>
+			</a>
+			
+			<ul id="toc-氣動式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-靜電式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#靜電式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1.5</span>静电式</div>
+			</a>
+			
+			<ul id="toc-靜電式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-以开放程度区分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以开放程度区分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>以开放程度区分</div>
+			</a>
+			
+			<ul id="toc-以开放程度区分-sublist" class="vector-toc-list">
+				<li id="toc-开放式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#开放式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.1</span>开放式</div>
+			</a>
+			
+			<ul id="toc-开放式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-半开放式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#半开放式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.2</span>半开放式</div>
+			</a>
+			
+			<ul id="toc-半开放式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-封闭式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#封闭式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2.3</span>封闭式</div>
+			</a>
+			
+			<ul id="toc-封闭式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-以佩帶方式区分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以佩帶方式区分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>以佩带方式区分</div>
+			</a>
+			
+			<ul id="toc-以佩帶方式区分-sublist" class="vector-toc-list">
+				<li id="toc-耳罩式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#耳罩式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.1</span>耳罩式</div>
+			</a>
+			
+			<ul id="toc-耳罩式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-貼耳式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#貼耳式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.2</span>贴耳式</div>
+			</a>
+			
+			<ul id="toc-貼耳式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-平頭式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#平頭式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.3</span>平头式</div>
+			</a>
+			
+			<ul id="toc-平頭式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-入耳式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#入耳式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.4</span>入耳式</div>
+			</a>
+			
+			<ul id="toc-入耳式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-耳挂式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#耳挂式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.5</span>耳挂式</div>
+			</a>
+			
+			<ul id="toc-耳挂式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-繞耳式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#繞耳式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3.6</span>绕耳式</div>
+			</a>
+			
+			<ul id="toc-繞耳式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-以用途区分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以用途区分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>以用途区分</div>
+			</a>
+			
+			<ul id="toc-以用途区分-sublist" class="vector-toc-list">
+				<li id="toc-便攜耳罩式"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#便攜耳罩式">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4.1</span>便携耳罩式</div>
+			</a>
+			
+			<ul id="toc-便攜耳罩式-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-耳麥"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#耳麥">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4.2</span>耳麦</div>
+			</a>
+			
+			<ul id="toc-耳麥-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-以音源訊號傳輸方式区分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以音源訊號傳輸方式区分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5</span>以音源讯号传输方式区分</div>
+			</a>
+			
+			<ul id="toc-以音源訊號傳輸方式区分-sublist" class="vector-toc-list">
+				<li id="toc-有線傳輸"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#有線傳輸">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5.1</span>有线传输</div>
+			</a>
+			
+			<ul id="toc-有線傳輸-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-無線傳輸"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#無線傳輸">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5.2</span>无线传输</div>
+			</a>
+			
+			<ul id="toc-無線傳輸-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-以抗噪方式區分"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#以抗噪方式區分">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6</span>以抗噪方式区分</div>
+			</a>
+			
+			<ul id="toc-以抗噪方式區分-sublist" class="vector-toc-list">
+				<li id="toc-主動式抗噪"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#主動式抗噪">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6.1</span>主动式抗噪</div>
+			</a>
+			
+			<ul id="toc-主動式抗噪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-被動式抗噪"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#被動式抗噪">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6.2</span>被动式抗噪</div>
+			</a>
+			
+			<ul id="toc-被動式抗噪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-术语"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#术语">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>术语</div>
+		</a>
+		
+			<button aria-controls="toc-术语-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关术语子章节</span>
+			</button>
+		
+		<ul id="toc-术语-sublist" class="vector-toc-list">
+			<li id="toc-相关参数"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#相关参数">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>相关参数</div>
+			</a>
+			
+			<ul id="toc-相关参数-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-音质评价"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#音质评价">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>音质评价</div>
+			</a>
+			
+			<ul id="toc-音质评价-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-煲机"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#煲机">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>煲机</div>
+			</a>
+			
+			<ul id="toc-煲机-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-對人體的影響"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#對人體的影響">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>对人体的影响</div>
+		</a>
+		
+		<ul id="toc-對人體的影響-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-製造商"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#製造商">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>制造商</div>
+		</a>
+		
+		<ul id="toc-製造商-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">耳机</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。58种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-58" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">58种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA_%D8%B1%D8%A3%D8%B3" title="سماعات رأس – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Qulaql%C4%B1q" title="Qulaqlıq – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%83%D1%88%D0%BD%D1%96%D0%BA%D1%96" title="Навушнікі – 白俄罗斯语" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%83%D1%88%D0%BD%D1%96%D0%BA%D1%96" title="Навушнікі – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D1%88%D0%B0%D0%BB%D0%BA%D0%B8" title="Слушалки – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A7%87%E0%A6%A1%E0%A6%AB%E0%A7%8B%E0%A6%A8" title="হেডফোন – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Auricular" title="Auricular – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Sluch%C3%A1tka" title="Sluchátka – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hovedtelefoner" title="Hovedtelefoner – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kopfh%C3%B6rer" title="Kopfhörer – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Headphones" title="Headphones – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kapa%C5%ADskultiloj" title="Kapaŭskultiloj – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Auricular" title="Auricular – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/K%C3%B5rvaklapid" title="Kõrvaklapid – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Entzungailu" title="Entzungailu – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%AF%D9%81%D9%88%D9%86" title="هدفون – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kuuloke" title="Kuuloke – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Casque_audio" title="Casque audio – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%96%D7%A0%D7%99%D7%95%D7%AA" title="אוזניות – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%87%E0%A4%A1%E0%A4%AB%E0%A4%BC%E0%A5%8B%E0%A4%A8" title="हेडफ़ोन – 印地语" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Slu%C5%A1alica" title="Slušalica – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AF%D5%A1%D5%B6%D5%BB%D5%A1%D5%AF%D5%A1%D5%AC%D5%B6%D5%A5%D6%80" title="Ականջակալներ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Penyuara_telinga" title="Penyuara telinga – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Kap-askoltilo" title="Kap-askoltilo – 伊多语" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Auricolari" title="Auricolari – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3" title="ヘッドフォン – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D2%B1%D0%BB%D0%B0%D2%9B%D2%9B%D0%B0%D0%BF" title="Құлаққап – 哈萨克语" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%96%B4%ED%8F%B0" title="이어폰 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Berguhk" title="Berguhk – 库尔德语" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Auscultabulum" title="Auscultabulum – 拉丁语" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Kopfh%C3%B6rer" title="Kopfhörer – 卢森堡语" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Fon_kepala" title="Fon kepala – 马来语" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Hoofdtelefoon" title="Hoofdtelefoon – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Hovudtelefon" title="Hovudtelefon – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Hodetelefoner" title="Hodetelefoner – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B9%E0%A9%88%E0%A8%A1%E0%A8%AB%E0%A8%BC%E0%A9%8B%E0%A8%A8%E0%A8%B8" title="ਹੈਡਫ਼ੋਨਸ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/S%C5%82uchawki" title="Słuchawki – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Auscultadores" title="Auscultadores – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Uyarina" title="Uyarina – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/C%C4%83%C8%99ti_audio" title="Căști audio – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%B8" title="Наушники – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sat mw-list-item"><a href="https://sat.wikipedia.org/wiki/%E1%B1%A6%E1%B1%AE%E1%B1%B0%E1%B1%AF%E1%B1%B7%E1%B1%B3%E1%B1%B1" title="ᱦᱮᱰᱯᱷᱳᱱ – 桑塔利语" lang="sat" hreflang="sat" class="interlanguage-link-target"><span>ᱥᱟᱱᱛᱟᱲᱤ</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Headphones" title="Headphones – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Slu%C5%A1alice" title="Slušalice – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Panyora_ceuli" title="Panyora ceuli – 巽他语" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Kipazasauti_cha_sikio" title="Kipazasauti cha sikio – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A9%E0%AF%8D" title="காதொலிப்பான் – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B1%86%E0%B0%A1%E0%B1%8D%E2%80%8C%E0%B0%AB%E0%B1%8B%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="హెడ్‌ఫోన్స్ – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%B9%E0%B8%9F%E0%B8%B1%E0%B8%87" title="หูฟัง – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Kulakl%C4%B1k" title="Kulaklık – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B0%D0%BA%D1%87%D1%8B%D0%BD%D0%BD%D0%B0%D1%80" title="Колакчыннар – 鞑靼语" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%B8" title="Навушники – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%DB%81%DB%8C%DA%88_%D9%81%D9%88%D9%86%D8%B2" title="ہیڈ فونز – 乌尔都语" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/Kundlimed" title="Kundlimed – 维普森语" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Tai_nghe" title="Tai nghe – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F" title="耳機 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E8%80%B3%E6%A9%9F" title="耳機 – 文言文" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%80%B3%E7%AD%92" title="耳筒 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186819#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%80%B3%E6%A9%9F" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%80%B3%E6%A9%9F" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%80%B3%E6%A9%9F" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%80%B3%E6%A9%9F" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%80%B3%E6%A9%9F" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%80%B3%E6%A9%9F" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%80%B3%E6%A9%9F" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%80%B3%E6%A9%9F" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%80%B3%E6%A9%9F" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%80%B3%E6%A9%9F" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%80%B3%E6%A9%9F" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%80%B3%E6%A9%9F"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%80%B3%E6%A9%9F"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%80%B3%E6%A9%9F" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%80%B3%E6%A9%9F" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;oldid=80971243" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%80%B3%E6%A9%9F&amp;id=80971243&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2580%25B3%25E6%25A9%259F"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2580%25B3%25E6%25A9%259F"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186819" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%80%B3%E6%A9%9F&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Headphones" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"><span class="mw-redirectedfrom">（重定向自<a href="/w/index.php?title=%E8%80%B3%E6%9C%BA&amp;redirect=no" class="mw-redirect" title="耳机">耳机</a>）</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><table class="box-问题条目 plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></span></span></div></td><td class="mbox-text"><span class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>本条目存在以下问题</b>，请协助<b><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit">改善本条目</a></b>或在<b><a href="/wiki/Talk:%E8%80%B3%E6%A9%9F" title="Talk:耳机">讨论页</a></b>针对议题发表看法。
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Tango-nosources.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png" decoding="async" width="45" height="45" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/68px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/90px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>没有列出任何<a href="/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90" title="Wikipedia:列明来源">参考或来源</a></b>。<span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2014年5月25日</span>)</i></small><span class="hide-when-compact"><br /><small>维基百科所有的内容都应该<a href="/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AD%89" title="Wikipedia:可供查证">可供查证</a>。请协助补充<a href="/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90" title="Wikipedia:可靠来源">可靠来源</a>以<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit">改善这篇条目</a>。无法查证的内容可能会因为异议提出而被移除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<table class="box-Non-free plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Copyright-problem.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Copyright-problem.svg/50px-Copyright-problem.svg.png" decoding="async" width="50" height="54" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Copyright-problem.svg/75px-Copyright-problem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Copyright-problem.svg/100px-Copyright-problem.svg.png 2x" data-file-width="111" data-file-height="120" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b>或许过多或不当使用<a href="/wiki/Wikipedia:%E8%91%97%E4%BD%9C%E6%9D%83%E4%BF%A1%E6%81%AF" title="Wikipedia:著作权信息">受版权保护</a>的文字、图像及多媒体文件。</b><span class="hide-when-compact"></span> <small class="date-container"><i>(<span class="date">2012年9月6日</span>)</i></small><span class="hide-when-compact"><br /><small>请细阅有关合理使用媒体文件的<a href="/wiki/Wikipedia:%E9%9D%9E%E8%87%AA%E7%94%B1%E5%86%85%E5%AE%B9%E4%BD%BF%E7%94%A8%E5%87%86%E5%88%99" title="Wikipedia:非自由内容使用准则">方针</a>和<a href="/wiki/Wikipedia:%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8" title="Wikipedia:合理使用">指引</a>，并协助改正<a href="/wiki/Wikipedia:%E4%B8%8D%E8%A6%81%E5%8C%85%E5%90%AB%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%96%99%E7%9A%84%E5%89%AF%E6%9C%AC" title="Wikipedia:不要包含原始资料的副本">违规内容</a>，然后移除此消息框。<a href="/wiki/Talk:%E8%80%B3%E6%A9%9F" title="Talk:耳机">条目讨论页</a>可能有更多信息。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+</div></div><span class="hide-when-compact"></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:HeadphoneTypes.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HeadphoneTypes.jpg/220px-HeadphoneTypes.jpg" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HeadphoneTypes.jpg/330px-HeadphoneTypes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HeadphoneTypes.jpg/440px-HeadphoneTypes.jpg 2x" data-file-width="640" data-file-height="480" /></a><figcaption>耳机</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg/220px-Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg" decoding="async" width="220" height="181" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg/330px-Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg/440px-Admiralty_Tim_Mei_Avenue_CGO_Legco_Car_Park_Square_%E8%97%8D%E5%8F%AF%E7%9B%88_3M%E2%84%A2_Peltor%E2%84%A2_Optime%E2%84%A2_95_Over-the-Head_Folding_Ear_Muffs_May_2013_HK.jpg 2x" data-file-width="788" data-file-height="650" /></a><figcaption><a href="/wiki/3M" class="mw-redirect" title="3M">3M</a>隔音耳机</figcaption></figure>
+<p><b>耳机</b>（Headphone）是一对转换单元，它接受来自媒体播放器或接收器所发出的<a href="/wiki/%E9%9B%BB%E8%A8%8A%E8%99%9F" class="mw-redirect" title="电讯号">电讯号</a>，利用贴近<a href="/wiki/%E8%80%B3%E6%9C%B5" class="mw-redirect" title="耳朵">耳朵</a>的<a href="/wiki/%E6%8F%9A%E8%81%B2%E5%99%A8" title="扬声器">扬声器</a>将其转化成可以听到的<a href="/wiki/%E9%9F%B3%E6%B3%A2" class="mw-redirect" title="音波">音波</a>。耳机一般是与媒体播放器可分离的，利用一个<a href="/wiki/%E6%8F%92%E9%A0%AD" class="mw-redirect" title="插头">插头</a>连接。好处是在不影响旁人的情况下，可独自聆听音响；亦可隔开周围环境的声响，对在录音室、<a href="/wiki/DJ" class="mw-redirect" title="DJ">DJ</a>、旅途、运动等在噪吵环境下使用的人很有帮助（封闭式耳机）。
+</p><p>耳机原是给<a href="/wiki/%E9%9B%BB%E8%A9%B1" class="mw-redirect" title="电话">电话</a>和<a href="/wiki/%E7%84%A1%E7%B7%9A%E9%9B%BB" class="mw-redirect" title="无线电">无线电</a>上使用的，但随着便携式电子装置的盛行与人们对于视听娱乐的改变，耳机多用于<a href="/wiki/%E6%89%8B%E6%A9%9F" class="mw-redirect" title="手机">手机</a>、<a href="/wiki/%E9%9A%A8%E8%BA%AB%E8%81%BD" title="随身听">随身听</a>、<a href="/wiki/%E6%94%B6%E9%9F%B3%E6%A9%9F" class="mw-redirect" title="收音机">收音机</a>、便携式<a href="/wiki/%E9%9B%BB%E7%8E%A9" class="mw-redirect" title="电玩">电玩</a>和<a href="/wiki/%E6%95%B8%E4%BD%8D%E9%9F%B3%E8%A8%8A%E6%92%AD%E6%94%BE%E5%99%A8" title="数位音讯播放器">数位音讯播放器</a>等，亦同时见用于<a href="/wiki/%E9%9B%BB%E8%85%A6" class="mw-redirect" title="电脑">电脑</a>和<a href="/wiki/Hi-fi" class="mw-redirect" title="Hi-fi">Hi-fi</a>音响之中。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E5.88.86.E7.B1.BB"></span><span class="mw-headline" id="分类">分类</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=1" title="编辑章节：分类"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.BB.A5.E6.8F.9B.E8.83.BD.E5.8E.9F.E7.90.86.E5.8C.BA.E5.88.86"></span><span class="mw-headline" id="以換能原理区分">以换能原理区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=2" title="编辑章节：以换能原理区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>换能原理（Transducer），是依照耳机中使用换能器的声音驱动方式，可分作动圈式（Dynamic）和静电式（Electrostatic）、压电式、动铁式、气动式、电磁式等。
+</p>
+<h4><span id=".E5.8B.95.E5.9C.88.E5.BC.8F"></span><span class="mw-headline" id="動圈式">动圈式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=3" title="编辑章节：动圈式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>动圈耳机，又称电动式耳机。目前绝大多数平价的耳道式耳机都属此类，原理类似于电动式扬声器，处于永磁场中的缠绕的圆柱体状线圈与振膜相连，线圈在信号电流驱动下带动振膜发声。动圈耳机与一般扬声器很大的不同在于振膜的区别，音箱扬声器的振膜边缘一般固定在弹性介质（折环和定心支片）上（例如在大口径低音单元上），振膜一般是平整的圆锥形，由弹性介质提供振动系统的<a href="/wiki/%E5%8A%9B%E9%A1%BA" title="力顺">力顺</a>；而在动圈式耳机中，振膜边缘直接固定在驱动单元的框架上，振膜具有褶皱，振动系统的力顺完全由振膜本身材质的伸展和收缩以及褶皱的变形来提供的，所以说动圈式耳机驱动单元振膜的材质选择和形状设计对单元最终的发声品质影响非常大，同时也是非常娇弱的。动圈式驱动单元的技术现在已经非常成熟，技术不会有大的变化，目前的改进主要是开发更高磁密度的永磁体，更理想的振膜材料以及设计。同时技术的成熟也使其相应的成本较低，更具竞争力，市场普及度很高。通常而言驱动单元的直径越大，耳机的性能越出色，在消费级耳机中驱动单元最大直径为106mm(Audeze LCD4)，一般为旗舰级头戴式耳机。目前动圈耳机最优秀的频率响应为SONY  MDR-Z1R耳机，频率响应在4Hz-120kHz（120000Hz），一般耳机的频率响应在20Hz-20kHz（20000Hz，也就是人类<a href="/wiki/%E8%81%BD%E8%A6%BA" class="mw-redirect" title="听觉">听觉</a>以内最广的频率）。
+</p>
+<h4><span id=".E5.8B.95.E9.90.B5.E5.BC.8F"></span><span class="mw-headline" id="動鐵式">动铁式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=4" title="编辑章节：动铁式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>又称平衡电枢式。利用了电磁铁产生交变磁场，振动部分是一个铁片悬浮在电磁铁前方，信号经过电磁铁的时候会使电磁铁磁场变化，从而使铁片带动振膜振动发声。
+其优点是失真小、灵敏度高、体积小，缺点是成本高，常用于高端耳机。更高级的动铁式耳塞采用双平衡电枢驱动器，能带来录音室般品质的声音。
+</p>
+<h4><span id=".E5.A3.93.E9.9B.BB.E5.BC.8F"></span><span class="mw-headline" id="壓電式">压电式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=5" title="编辑章节：压电式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>利用压电陶瓷的压电效应发声。优点：效率高、频率高。缺点：失真大、驱动电压高、低频响应差，抗冲击力差。此类耳机多用于电报收发使用，现基本淘汰。少数耳机采用压电陶瓷作为高音发声单元。
+</p>
+<h4><span id=".E6.B0.A3.E5.8B.95.E5.BC.8F"></span><span class="mw-headline" id="氣動式">气动式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=6" title="编辑章节：气动式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>采用气泵和气阀控制气流，直接控制气压和流量，使得空气发生振动。有时候气阀改用大功率扬声器来代替。飞机上常用这样的耳机，此耳机实际上只是个导气管。优点是无电驱动，无限制并联、效率高。缺点是失真大、频响窄，有噪音。
+</p>
+<h4><span id=".E9.9D.9C.E9.9B.BB.E5.BC.8F"></span><span class="mw-headline" id="靜電式">静电式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=7" title="编辑章节：静电式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<h3><span id=".E4.BB.A5.E5.BC.80.E6.94.BE.E7.A8.8B.E5.BA.A6.E5.8C.BA.E5.88.86"></span><span class="mw-headline" id="以开放程度区分">以开放程度区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=8" title="编辑章节：以开放程度区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>耳罩式耳机的一种区分方式，共分为开放式、半开放式和封闭式（密闭式）。
+</p>
+<h4><span id=".E5.BC.80.E6.94.BE.E5.BC.8F"></span><span class="mw-headline" id="开放式">开放式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=9" title="编辑章节：开放式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Hd600_klein.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hd600_klein.jpg/220px-Hd600_klein.jpg" decoding="async" width="220" height="146" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hd600_klein.jpg/330px-Hd600_klein.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hd600_klein.jpg/440px-Hd600_klein.jpg 2x" data-file-width="505" data-file-height="336" /></a><figcaption>开放式耳机</figcaption></figure>
+<p>开放式的耳机的特点就是通过采用柔软的海绵状的微孔发泡塑料作为透声耳垫。佩带舒适、没有与外界的隔绝感，它的缺点就是低频损失较大。一般听感自然，佩带舒适，常见于家用欣赏的HIFI耳机。其声音可以泄露、反之同样也可以听到外界的声音，耳机对耳朵的压迫较小。例子有：
+</p>
+<ul><li>Sennheiser HD650</li>
+<li>AKG K701</li>
+<li>Audio Technica AD2000X</li>
+<li>Shure SRH1840<div style="clear: both; height: 1em"></div></li></ul>
+<h4><span id=".E5.8D.8A.E5.BC.80.E6.94.BE.E5.BC.8F"></span><span class="mw-headline" id="半开放式">半开放式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=10" title="编辑章节：半开放式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>半开放式没有严格的规定，优缺点皆介于封闭式和开放式两种耳机之间，根据需要而做出相应的调整。例子有：
+</p>
+<ul><li>Beyerdynamic Tesla T1</li></ul>
+<h4><span id=".E5.B0.81.E9.97.AD.E5.BC.8F"></span><span class="mw-headline" id="封闭式">封闭式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=11" title="编辑章节：封闭式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>封闭式耳机一般具有完全遮蔽整个耳廓的耳罩，整个发声单元（连耳绵）能完全将耳廓（pinna）盖住，对耳朵压迫较大以防止声音出入，声音正确定位清晰，专业监听领域中多见此类，缺点是高频损失较大。例子有：
+</p>
+<ul><li>AKG K240</li>
+<li>Shure SRH1540</li>
+<li>Sennheiser HD569</li></ul>
+<h3><span id=".E4.BB.A5.E4.BD.A9.E5.B8.B6.E6.96.B9.E5.BC.8F.E5.8C.BA.E5.88.86"></span><span class="mw-headline" id="以佩帶方式区分">以佩带方式区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=12" title="编辑章节：以佩带方式区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E8.80.B3.E7.BD.A9.E5.BC.8F"></span><span class="mw-headline" id="耳罩式">耳罩式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=13" title="编辑章节：耳罩式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg/220px-Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg/330px-Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg/440px-Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones.jpg 2x" data-file-width="4267" data-file-height="3200" /></a><figcaption>头戴式耳机</figcaption></figure>
+<p>耳罩式（Circumaural），体积较大，多用室内，如录音室环境之内或家用。例子：
+</p>
+<ul><li>DENON AH-D7000</li>
+<li>AKG K701</li>
+<li>Beyerdynamic DT-990</li>
+<li>Sennhiser HD800</li>
+<li>SONY MDR-1A</li>
+<li>JBL Tune 770NC</li></ul>
+<div style="clear: both; height: 1em"></div>
+<h4><span id=".E8.B2.BC.E8.80.B3.E5.BC.8F"></span><span class="mw-headline" id="貼耳式">贴耳式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=14" title="编辑章节：贴耳式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Headpones.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Headpones.jpg/220px-Headpones.jpg" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Headpones.jpg/330px-Headpones.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Headpones.jpg/440px-Headpones.jpg 2x" data-file-width="2560" data-file-height="1920" /></a><figcaption>贴耳式耳机</figcaption></figure>
+<p>贴耳式（Supra-aural），类似耳罩，但较小型，发声单元紧压着耳廓，多见于便携式设计，例子：
+</p>
+<ul><li>Audio-Tehcnica ATH-EW9</li>
+<li>DENON AH-NCW500</li>
+<li>AKG K412P</li>
+<li>Sennheiser PX-200</li>
+<li>JBL Tune 670NC</li></ul>
+<div style="clear: both; height: 1em"></div>
+<h4><span id=".E5.B9.B3.E9.A0.AD.E5.BC.8F"></span><span class="mw-headline" id="平頭式">平头式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=15" title="编辑章节：平头式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Earphones_BW_2011-12-10_15-49-08.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/220px-Earphones_BW_2011-12-10_15-49-08.JPG" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/330px-Earphones_BW_2011-12-10_15-49-08.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Earphones_BW_2011-12-10_15-49-08.JPG/440px-Earphones_BW_2011-12-10_15-49-08.JPG 2x" data-file-width="3872" data-file-height="2592" /></a><figcaption>平头式耳机</figcaption></figure><p>
+平头式耳机（Earbuds），又称耳塞式，将发音单元塞在耳孔之外，由于细小、轻巧、制作简单且造价廉宜，主要用于<a href="/wiki/%E6%89%8B%E6%9C%BA" class="mw-redirect" title="手机">手机</a>、<a href="/wiki/%E6%94%B6%E9%9F%B3%E6%9C%BA" title="收音机">收音机</a>等移动便携设备，近年已成便携式音源的主流配备。可是对外境的隔音能力有限，而且音场和分析力不足。典型的森海塞尔-MX360即为此类。</p><div style="clear: both; height: 1em"></div>
+<h4><span id=".E5.85.A5.E8.80.B3.E5.BC.8F"></span><span class="mw-headline" id="入耳式">入耳式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=16" title="编辑章节：入耳式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:In-ears-earphones.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/In-ears-earphones.png/220px-In-ears-earphones.png" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/In-ears-earphones.png/330px-In-ears-earphones.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/In-ears-earphones.png/440px-In-ears-earphones.png 2x" data-file-width="637" data-file-height="426" /></a><figcaption>耳道式耳机</figcaption></figure>
+<p>入耳式耳机（Canalphones），耳机外表和轻巧像耳塞，发音单位伸入耳道之内，比耳塞更接近耳鼓。有极佳的隔音能力（可达32<a href="/wiki/%E5%88%86%E8%B2%9D" title="分贝">分贝</a>）。原为供应舞台表演者使用，后来发展给一般音响爱好者，而无须配合耳道形状使用。部分中高价位的入耳式耳塞还附送多种不同大小与材质的耳承，因此能够更加贴合不同形状的耳道，让使用者佩戴时更舒适。例子有：
+</p>
+<ul><li>AKG K3003</li>
+<li>DENON AH-C710</li>
+<li>Audio-Technica ATH-CK100PRO</li>
+<li>Sony XBA-N3AP</li>
+<li>Shure SE846</li>
+<li>Final audio E5000</li>
+<li>Westone W80</li>
+<li>Ultimate Ears Triple-Fi 10 Pro</li>
+<li>Beats By Dr. Dre urBeats3</li>
+<li>JBL T110</li></ul>
+<div style="clear: both; height: 1em"></div>
+<h4><span id=".E8.80.B3.E6.8C.82.E5.BC.8F"></span><span class="mw-headline" id="耳挂式">耳挂式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=17" title="编辑章节：耳挂式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Panasonic_RP-HS71.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Panasonic_RP-HS71.JPG/220px-Panasonic_RP-HS71.JPG" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Panasonic_RP-HS71.JPG/330px-Panasonic_RP-HS71.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Panasonic_RP-HS71.JPG/440px-Panasonic_RP-HS71.JPG 2x" data-file-width="2048" data-file-height="1536" /></a><figcaption>耳挂式耳机</figcaption></figure><p>
+耳挂式（Clip），又称耳夹式，耳机是夹在外耳挂着的。也有将音源线收纳在外壳内的型号，这与耳塞式相比拥有更大的发音单元面积而获得的便于携带的紧凑性。但是由于是夹挂在外耳，所以密闭性较差，容易造成漏音。也有人长时间使用造成外耳疼痛。另外，拥有柔和的颜色和镀金的特征，重视时尚的产品很多。</p><div style="clear: both; height: 1em"></div>
+<h4><span id=".E7.B9.9E.E8.80.B3.E5.BC.8F"></span><span class="mw-headline" id="繞耳式">绕耳式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=18" title="编辑章节：绕耳式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>绕耳式耳机大多属于入耳式耳机，但与一般耳机的不同之处在于必须透过绕耳的方式配戴。例子有：
+</p>
+<ul><li>Shure SE846</li>
+<li>UE18PRO</li>
+<li>Audio Technica LS400</li>
+<li>Sony xba Z5</li>
+<li>Westone B50</li>
+<li>Vsonic VSD2Si</li></ul>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Black_USeries2.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Black_USeries2.jpg/220px-Black_USeries2.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Black_USeries2.jpg/330px-Black_USeries2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Black_USeries2.jpg/440px-Black_USeries2.jpg 2x" data-file-width="5760" data-file-height="3840" /></a><figcaption>绕耳式耳机</figcaption></figure>
+<div style="clear: both; height: 1em"></div>
+<h3><span id=".E4.BB.A5.E7.94.A8.E9.80.94.E5.8C.BA.E5.88.86"></span><span class="mw-headline" id="以用途区分">以用途区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=19" title="编辑章节：以用途区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>主要分为Hi-Fi、俱乐部（Club）、旅行（Travel）、运动（Sport）、家用（Home）、便携（Portable）、监听（Monitor）、混音（Mix）、人头唱片（Binaural　Recording）。
+</p>
+<h4><span id=".E4.BE.BF.E6.94.9C.E8.80.B3.E7.BD.A9.E5.BC.8F"></span><span class="mw-headline" id="便攜耳罩式">便携耳罩式</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=20" title="编辑章节：便携耳罩式"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:AKG_K450_001.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/AKG_K450_001.JPG/220px-AKG_K450_001.JPG" decoding="async" width="220" height="293" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/AKG_K450_001.JPG/330px-AKG_K450_001.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/AKG_K450_001.JPG/440px-AKG_K450_001.JPG 2x" data-file-width="3024" data-file-height="4032" /></a><figcaption>便携耳罩式耳机</figcaption></figure>
+<p>便携耳罩式，又称小耳罩，比普通的耳罩式耳机小，通常可折叠便于收纳。例子有：
+</p>
+<ul><li>AKG K420</li>
+<li>Sennheiser PX100</li>
+<li>SONY MDR-ZX110AP</li></ul>
+<div style="clear: both; height: 1em"></div>
+<h4><span id=".E8.80.B3.E9.BA.A5"></span><span class="mw-headline" id="耳麥">耳麦</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=21" title="编辑章节：耳麦"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Sprechgarn.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sprechgarn.jpg/220px-Sprechgarn.jpg" decoding="async" width="220" height="229" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sprechgarn.jpg/330px-Sprechgarn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sprechgarn.jpg/440px-Sprechgarn.jpg 2x" data-file-width="480" data-file-height="500" /></a><figcaption>双听筒有线耳麦</figcaption></figure>
+<p><a href="/wiki/%E8%80%B3%E9%BA%A6" title="耳麦">耳麦</a>指的是附有<a href="/wiki/%E9%BA%A5%E5%85%8B%E9%A2%A8" class="mw-redirect" title="麦克风">麦克风</a>的耳机。
+</p>
+<h3><span id=".E4.BB.A5.E9.9F.B3.E6.BA.90.E8.A8.8A.E8.99.9F.E5.82.B3.E8.BC.B8.E6.96.B9.E5.BC.8F.E5.8C.BA.E5.88.86"></span><span class="mw-headline" id="以音源訊號傳輸方式区分">以音源讯号传输方式区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=22" title="编辑章节：以音源讯号传输方式区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>主要分有线和无线两种。有线是指耳机和音源经由一条或以上连接。这种连接现在多不是固定的。耳机多附有1/8吋（或1/4吋）的插头使用。无线耳机则与音源之间没有直接的连系，音源只要接上适合的发射器，透过<a href="/wiki/%E7%84%A1%E7%B7%9A%E9%9B%BB%E6%B3%A2" class="mw-redirect" title="无线电波">无线电波</a>（如流行的<a href="/wiki/%E8%97%8D%E7%89%99" title="蓝牙">蓝牙</a>制式）或<a href="/wiki/%E7%B4%85%E5%A4%96%E7%B7%9A" class="mw-redirect" title="红外线">红外线</a>将音响传至耳机中。目前较先进的无线耳机采用了带aptX技术的蓝牙4.1传输，可通过蓝牙提供高级、CD般品质的音频.
+</p>
+<h4><span id=".E6.9C.89.E7.B7.9A.E5.82.B3.E8.BC.B8"></span><span class="mw-headline" id="有線傳輸">有线传输</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=23" title="编辑章节：有线传输"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/RCA%E7%AB%AF%E5%AD%90" title="RCA端子">RCA</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/XLR%E7%AB%AF%E5%AD%90" title="XLR端子">4pin XLR</a></li>
+<li><a href="/wiki/TRS%E7%AB%AF%E5%AD%90" title="TRS端子">TRS</a></li></ul>
+<h4><span id=".E7.84.A1.E7.B7.9A.E5.82.B3.E8.BC.B8"></span><span class="mw-headline" id="無線傳輸">无线传输</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=24" title="编辑章节：无线传输"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/%E7%B4%85%E5%A4%96%E7%B7%9A" class="mw-redirect" title="红外线">红外线</a></li>
+<li><a href="/wiki/%E8%97%8D%E7%89%99" title="蓝牙">蓝牙</a></li>
+<li><a href="/wiki/WiFi" class="mw-redirect" title="WiFi">WiFi</a></li></ul>
+<h3><span id=".E4.BB.A5.E6.8A.97.E5.99.AA.E6.96.B9.E5.BC.8F.E5.8D.80.E5.88.86"></span><span class="mw-headline" id="以抗噪方式區分">以抗噪方式区分</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=25" title="编辑章节：以抗噪方式区分"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".E4.B8.BB.E5.8B.95.E5.BC.8F.E6.8A.97.E5.99.AA"></span><span class="mw-headline" id="主動式抗噪">主动式抗噪</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=26" title="编辑章节：主动式抗噪"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E6%8A%97%E5%99%AA%E8%80%B3%E6%A9%9F" title="抗噪耳机">抗噪耳机</a></div>
+<p>主动式降噪耳机一般通过一个以上的麦克风来接收外界的噪音，然后通过耳机内部的电子电路产生与噪音音波相位相反的讯号，以此来消除外界噪音。目前最新的主动式降噪耳机带有无线、降噪、可折叠等功能，高级降噪耳机还带有AAC解码、aptX的蓝牙4.1技术、LDAC无损技术，可提供CD般的高音质回放，内置充电电池能够提供长达10小时的聆听享受。
+</p>
+<h4><span id=".E8.A2.AB.E5.8B.95.E5.BC.8F.E6.8A.97.E5.99.AA"></span><span class="mw-headline" id="被動式抗噪">被动式抗噪</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=27" title="编辑章节：被动式抗噪"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>主要为隔绝外界噪音。
+</p>
+<h2><span id=".E6.9C.AF.E8.AF.AD"></span><span class="mw-headline" id="术语">术语</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=28" title="编辑章节：术语"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E7.9B.B8.E5.85.B3.E5.8F.82.E6.95.B0"></span><span class="mw-headline" id="相关参数">相关参数</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=29" title="编辑章节：相关参数"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt><a href="/wiki/%E9%98%BB%E6%8A%97" title="阻抗">阻抗</a>（Impedance）</dt>
+<dd>注意与电阻含义的区别，在直流电（DC）的世界中，物体对电流阻碍的作用叫做电阻，但是在交流电（AC）的领域中则除了电阻会阻碍电流以外，电容及电感也会阻碍电流的流动，这种作用就称之为电抗，而我们日常所说的阻抗是电阻与电抗在向量上的和。耳机阻抗是耳机交流阻抗的简称，不同阻抗的耳机主要用于不同的场合，在台式机或功放、VCD、DVD、电视等机器上，通常会使用高阻抗耳机，有些专业耳机阻抗甚至会在200欧姆以上，这是为了与专业机上的耳机插口匹配。而对于各种便携式随身听，例如CD、MD和MP3，一般使用低阻抗耳机，这些低阻抗耳机一般比较容易驱动。但也有部分专业级耳机阻抗较低，更易于驱动。</dd></dl>
+<dl><dt>灵敏度（Sensitivity）</dt>
+<dd>指向耳机输入1毫瓦的功率时耳机所能发出的声压级（声压的单位是分贝，声压越大音量越大），所以一般灵敏度越高、阻抗越小，耳机越容易出声、越容易驱动。耳机的灵敏度就是指在同样响度的情况下，音源需要输入的功率的大小，也就是说在用户听起来声音一样的情况下，耳机的灵敏度越高，音源所需要输入的功率就越小。这对于随身听等便携装置来说，灵敏度越高，耳机就越容易驱动。</dd></dl>
+<dl><dt>频率响应（Frequency Response）</dt>
+<dd>频响范围是指耳机能够放送出的频带的宽度，国际电工委员会IEC581-10标准中高保真耳机的频响范围不能小于50Hz到12500Hz，优秀耳机的频响宽度可达5Hz-45000Hz，而人耳的听觉范围仅在20Hz-20000Hz。值得注意的是界定频响宽度的标准是不同的，例如以低于平均输出幅度的1/2为标准或低于1/4为标准，这显然是不一样的。一般的生产商是以输出幅度降低1/2为标准测出频响宽度，这就是说以-3dB为标准，但是由于所采用的测试标准不同，有些产品是以-10dB为标准测量的。这是实际上是等于低于正常值1/16下为标准测量的。因此频响宽度大大展宽。用户在选购时应注意不同品牌的耳机的频响宽度可能有不同的测试标准。</dd></dl>
+<dl><dt>谐波失真</dt>
+<dd>谐波失真就是一种波形失真，在耳机指标中有标示，失真越小，音质也就越好。</dd></dl>
+<h3><span id=".E9.9F.B3.E8.B4.A8.E8.AF.84.E4.BB.B7"></span><span class="mw-headline" id="音质评价">音质评价</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=30" title="编辑章节：音质评价"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>音域</dt>
+<dd>乐器或人声所能达到最高音与最低音之间的范围。</dd>
+<dt>音色</dt>
+<dd>又称音品，声音的基本属性之一，比如二胡、琵琶就是不同的音色。</dd>
+<dt>音染</dt>
+<dd>音乐自然中性的对立面，即声音染上了节目本身没有的一些特性，例如对着一个罐子讲话得到的那种声音就是典型的音染。音染表明重放的信号中多出了（或者是减少了）某些成分，这显然是一种失真。</dd>
+<dt>音响</dt>
+<dd>就是音的高、中、低频段的量感分布，把20Hz-20kHz的带宽加以细分，把高、中、低每段再细分三小段，也就是变成“较低的中频、中频、较高的中频”分法。这种分法就像十二平均律一般，相当规律化。</dd>
+<dt>失真</dt>
+<dd>设备的输出不能完全复现其输入，产生了波形的畸变或者信号成分的增减。</dd>
+<dt>动态</dt>
+<dd>允许记录最大信息与最小信息的比值。</dd>
+<dt>瞬态响应</dt>
+<dd>器材对音乐中突发信号的跟随能力。瞬态响应好的器材应当是信号一来就立即响应，信号一停就嘎然而止，决不拖泥带水。（典型乐器：钢琴）。</dd>
+<dt>信噪比</dt>
+<dd>又称为讯噪比，信号的有用成分与杂音的强弱对比，常常用分贝数表示。设备的信噪比越高表明它产生的杂音越少。</dd>
+<dt>空气感</dt>
+<dd>用于表示高音的开阔，或是声场中在乐器之间有空间间隔的声学术语。此时，高频响应可延伸到15kHz-20kHz。反义词有“灰暗（dull）”和“厚重（thick）”。</dd>
+<dt>低频延伸</dt>
+<dd>指音响器材所能重放的最低频率。系用于测定在重放低音时音响系统或音箱所能下潜到什么程度的尺度。比方说，小型超低音音箱的低频延伸可以到40Hz，而大型超低音音箱则下潜到16Hz。</dd>
+<dt>明亮</dt>
+<dd>指突出4kHz-8kHz的高频段，此时谐波相对强于基波。明亮本身并没什么问题，现场演奏的音乐会皆有明亮的声音，问题是明亮得掌握好分寸，过于明亮（甚至啸叫）便让人讨厌。</dd></dl>
+<h3><span id=".E7.85.B2.E6.9C.BA"></span><span class="mw-headline" id="煲机">煲机</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=31" title="编辑章节：煲机"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E7%85%B2%E6%A9%9F" class="mw-redirect" title="煲机">煲机</a></div>
+<p>很多耳机玩家，都会做煲机程序，以使耳机的音质改善和稳定。有人认为煲机是一种快速使耳机老化稳定的措施。实际上耳机振膜的材料多为长期稳定的高分子材料，不太可能在短期的煲机里面产生物理变形和变性。一些媒体组织了盲听试验证实不管是从业人员还是普通民众都未能在双盲试验中分辨经过长时间煲机的耳机。所以煲机的作用更多的可能是心理暗示，谓之安慰剂效应。有人揭示宣扬煲机的作用更多的情况是经销商的误导行为， 其目的是规避消费者的退货，300小时恰好等于14天的常见退货期限。
+</p>
+<h2><span id=".E5.B0.8D.E4.BA.BA.E9.AB.94.E7.9A.84.E5.BD.B1.E9.9F.BF"></span><span class="mw-headline" id="對人體的影響">对人体的影响</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=32" title="编辑章节：对人体的影响"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>由于耳机比一般外来噪音更贴近内耳组织；用者都得采取必要的保护措施。研究表明，令人愉悦的音乐造成的听力损害较轻，但长期接触高分贝的声音，不管是音乐还是噪音，都会造成听力损伤。噪音能引发的感觉神经听力损伤发生在内耳，当高能量声波震荡耳蜗内的液体时，会过度刺激并引起细胞死亡。听力损害是日积月累形成的，如果长期接触噪音，尽管每次时间很短，也会造成听力下降。
+</p><p>美国医疗协会杂志项于1998年公布的一调查结果的实验显示，在长期处于高噪音水准之下，对听力有负面的影响。
+</p><p>若在街道上使用耳机时，除了因要调高音量，而造成听觉损害外，专注于听音乐，很容易令使用者对外围的声音失去警觉性，增加了发生危险的机会。
+</p>
+<h2><span id=".E8.A3.BD.E9.80.A0.E5.95.86"></span><span class="mw-headline" id="製造商">制造商</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=33" title="编辑章节：制造商"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E8%80%B3%E6%A9%9F%E8%A3%BD%E9%80%A0%E5%95%86%E5%88%97%E8%A1%A8" title="耳机制造商列表">耳机制造商列表</a></div>
+<style data-mw-deduplicate="TemplateStyles:r79074265">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col" style="column-count:3;width:80%; column-width:auto;column-width:auto;">
+<ul><li><a href="/w/index.php?title=%E9%98%BF%E6%80%9D%E7%BF%A0&amp;action=edit&amp;redlink=1" class="new" title="阿思翠（页面不存在）">Astrotec</a></li>
+<li><a href="/wiki/AIWA" class="mw-redirect" title="AIWA">AIWA</a></li>
+<li><a href="/wiki/%E7%88%B1%E7%A7%91%E6%8A%80" class="mw-redirect" title="爱科技">AKG Acoustics</a></li>
+<li><a href="/wiki/Alessandro" class="mw-redirect mw-disambig" title="Alessandro">Alessandro</a></li>
+<li><a href="/w/index.php?title=ALTEAM&amp;action=edit&amp;redlink=1" class="new" title="ALTEAM（页面不存在）">ALTEAM</a></li>
+<li><a href="/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8" title="苹果公司">Apple</a></li>
+<li><a href="/wiki/%E9%90%B5%E4%B8%89%E8%A7%92" class="mw-redirect" title="铁三角">Audio-Technica</a></li>
+<li><a href="/wiki/%E9%93%82%E5%82%B2" title="铂傲">B&amp;O</a></li>
+<li><a href="/wiki/%E6%8B%9C%E4%BA%9A%E5%8A%A8%E5%8A%9B" class="mw-redirect" title="拜亚动力">Beyerdynamic</a></li>
+<li><a href="/wiki/Beats_by_Dr._Dre" class="mw-redirect" title="Beats by Dr. Dre">Beats by Dr. Dre</a></li>
+<li><a href="/wiki/%E8%B3%93%E6%9E%9C" class="mw-redirect mw-disambig" title="宾果">宾果</a></li>
+<li><a href="/wiki/%E8%88%B6%E4%BB%95%E9%9F%B3%E9%9F%BF" class="mw-redirect" title="舶仕音响">BOSE</a></li>
+<li><a href="/wiki/%E5%88%9B%E6%96%B0%E7%A7%91%E6%8A%80" title="创新科技">创新科技</a>（Creative）</li>
+<li><a href="/w/index.php?title=Campfire_Audio&amp;action=edit&amp;redlink=1" class="new" title="Campfire Audio（页面不存在）">Campfire Audio</a></li>
+<li><span class="ilh-all" data-orig-title="DENON" data-lang-code="ja" data-lang-name="日语" data-foreign-title="デノン"><span class="ilh-page"><a href="/w/index.php?title=DENON&amp;action=edit&amp;redlink=1" class="new" title="DENON（页面不存在）">DENON</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">日语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8E%E3%83%B3" class="extiw" title="ja:デノン"><span lang="ja" dir="auto">デノン</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%BC%AB%E6%AD%A5%E8%80%85" title="漫步者">Edifier</a></li>
+<li>Etymotic Research</li>
+<li><a href="/w/index.php?title=Enzatec&amp;action=edit&amp;redlink=1" class="new" title="Enzatec（页面不存在）">Enzatec</a></li>
+<li><a href="/wiki/Final_(%E5%85%AC%E5%8F%B8)" title="Final (公司)">Final</a></li>
+<li><a href="/w/index.php?title=Future_Sonics_Incorporated&amp;action=edit&amp;redlink=1" class="new" title="Future Sonics Incorporated（页面不存在）">Future Sonics Incorporated</a></li>
+<li>Fonestuff</li>
+<li><span class="ilh-all" data-orig-title="GN Netcom / JABRA" data-lang-code="en" data-lang-name="英语" data-foreign-title="Jabra"><span class="ilh-page"><a href="/w/index.php?title=GN_Netcom_/_JABRA&amp;action=edit&amp;redlink=1" class="new" title="GN Netcom / JABRA（页面不存在）">GN Netcom / JABRA</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Jabra" class="extiw" title="en:Jabra"><span lang="en" dir="auto">Jabra</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Goldring" data-lang-code="en" data-lang-name="英语" data-foreign-title="Goldring"><span class="ilh-page"><a href="/w/index.php?title=Goldring&amp;action=edit&amp;redlink=1" class="new" title="Goldring（页面不存在）">Goldring</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Goldring" class="extiw" title="en:Goldring"><span lang="en" dir="auto">Goldring</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%AD%8C%E5%BE%B7_(%E5%85%AC%E5%8F%B8)" title="歌德 (公司)">Grado Labs</a></li>
+<li><a href="/wiki/Harman_Kardon" class="mw-redirect" title="Harman Kardon">Harman Kardon</a></li>
+<li><a href="/wiki/HiFiMan" title="HiFiMan">HiFiMan</a></li>
+<li><a href="/w/index.php?title=IN2UIT&amp;action=edit&amp;redlink=1" class="new" title="IN2UIT（页面不存在）">IN2UIT</a></li>
+<li><a href="/w/index.php?title=Jays&amp;action=edit&amp;redlink=1" class="new" title="Jays（页面不存在）">Jays</a></li>
+<li><a href="/wiki/JBL" title="JBL">JBL</a></li>
+<li><a href="/wiki/JVC" title="JVC">JVC</a></li>
+<li><span class="ilh-all" data-orig-title="Koss Corporation" data-lang-code="en" data-lang-name="英语" data-foreign-title="Koss Corporation"><span class="ilh-page"><a href="/w/index.php?title=Koss_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Koss Corporation（页面不存在）">Koss Corporation</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Koss_Corporation" class="extiw" title="en:Koss Corporation"><span lang="en" dir="auto">Koss Corporation</span></a></span>）</span></span></li>
+<li><a href="/w/index.php?title=Knowledge_Zenith&amp;action=edit&amp;redlink=1" class="new" title="Knowledge Zenith（页面不存在）">KZ</a></li>
+<li>MB QUART</li>
+<li><a href="/wiki/MAS" class="mw-disambig" title="MAS">MAS</a></li>
+<li>玛雅</li>
+<li><a href="/wiki/Nakamichi" title="Nakamichi">Nakamichi</a></li>
+<li><span class="ilh-all" data-orig-title="Plantronics" data-lang-code="en" data-lang-name="英语" data-foreign-title="Plantronics"><span class="ilh-page"><a href="/w/index.php?title=Plantronics&amp;action=edit&amp;redlink=1" class="new" title="Plantronics（页面不存在）">Plantronics</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Plantronics" class="extiw" title="en:Plantronics"><span lang="en" dir="auto">Plantronics</span></a></span>）</span></span></li>
+<li><a href="/wiki/Philips" class="mw-redirect" title="Philips">Philips</a></li>
+<li><a href="/wiki/Panasonic" class="mw-redirect" title="Panasonic">Panasonic</a></li>
+<li><a href="/wiki/Pioneer" class="mw-redirect" title="Pioneer">Pioneer</a></li>
+<li><a href="/wiki/Sennheiser" class="mw-redirect" title="Sennheiser">Sennheiser</a></li>
+<li><a href="/wiki/Shure" class="mw-redirect" title="Shure">Shure</a></li>
+<li><span class="ilh-all" data-orig-title="skullcandy" data-lang-code="en" data-lang-name="英语" data-foreign-title="skullcandy"><span class="ilh-page"><a href="/w/index.php?title=Skullcandy&amp;action=edit&amp;redlink=1" class="new" title="Skullcandy（页面不存在）">skullcandy</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/skullcandy" class="extiw" title="en:skullcandy"><span lang="en" dir="auto">skullcandy</span></a></span>）</span></span></li>
+<li><a href="/wiki/SONY" class="mw-redirect" title="SONY">SONY</a></li>
+<li><a href="/w/index.php?title=Spearx&amp;action=edit&amp;redlink=1" class="new" title="Spearx（页面不存在）">Spearx</a></li>
+<li><a href="/w/index.php?title=Superlux&amp;action=edit&amp;redlink=1" class="new" title="Superlux（页面不存在）">Superlux</a></li>
+<li>STAX</li>
+<li><a href="/w/index.php?title=Spider&amp;action=edit&amp;redlink=1" class="new" title="Spider（页面不存在）">Spider</a></li>
+<li><a href="/wiki/Technics" title="Technics">Technics</a></li>
+<li><a href="/w/index.php?title=POWERMAN&amp;action=edit&amp;redlink=1" class="new" title="POWERMAN（页面不存在）">POWERMAN</a></li>
+<li><a href="/wiki/ULTIMATE_EARS" class="mw-redirect" title="ULTIMATE EARS">Ultimate Ears</a></li>
+<li><a href="/wiki/%E5%BE%B7%E5%9B%BD%E6%9E%81%E8%87%B4%E8%80%B3%E6%9C%BA" title="德国极致耳机">德国极致耳机</a></li>
+<li><span class="ilh-all" data-orig-title="V-MODA" data-lang-code="en" data-lang-name="英语" data-foreign-title="V-MODA"><span class="ilh-page"><a href="/w/index.php?title=V-MODA&amp;action=edit&amp;redlink=1" class="new" title="V-MODA（页面不存在）">V-MODA</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/V-MODA" class="extiw" title="en:V-MODA"><span lang="en" dir="auto">V-MODA</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="Westone" data-lang-code="en" data-lang-name="英语" data-foreign-title="Westone"><span class="ilh-page"><a href="/w/index.php?title=Westone&amp;action=edit&amp;redlink=1" class="new" title="Westone（页面不存在）">Westone</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Westone" class="extiw" title="en:Westone"><span lang="en" dir="auto">Westone</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="ELECOM" data-lang-code="ja" data-lang-name="日语" data-foreign-title="ELECOM"><span class="ilh-page"><a href="/w/index.php?title=ELECOM&amp;action=edit&amp;redlink=1" class="new" title="ELECOM（页面不存在）">ELECOM</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">日语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://ja.wikipedia.org/wiki/ELECOM" class="extiw" title="ja:ELECOM"><span lang="ja" dir="auto">ELECOM</span></a></span>）</span></span></li>
+<li><a href="/w/index.php?title=Bright&amp;action=edit&amp;redlink=1" class="new" title="Bright（页面不存在）">Bright</a></li>
+<li><a href="/w/index.php?title=Chord&amp;action=edit&amp;redlink=1" class="new" title="Chord（页面不存在）">Chord</a></li>
+<li><a href="/w/index.php?title=%E9%BA%A6%E5%8D%9Amicrolab&amp;action=edit&amp;redlink=1" class="new" title="麦博microlab（页面不存在）">麦博microlab</a></li>
+<li><a href="/w/index.php?title=GERMAN_MAESTRO&amp;action=edit&amp;redlink=1" class="new" title="GERMAN MAESTRO（页面不存在）">GERMAN MAESTRO</a></li>
+<li><a href="/w/index.php?title=%E9%9F%B3%E8%8C%B6%E6%A5%BD_OCHARAKU&amp;action=edit&amp;redlink=1" class="new" title="音茶楽 OCHARAKU（页面不存在）">音茶楽 OCHARAKU</a></li></ul></div>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=34" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E9%AA%A8%E4%BC%A0%E5%AF%BC" title="骨传导">骨传导</a></li>
+<li><a href="/wiki/%E9%9F%B3%E5%93%8D" class="mw-redirect" title="音响">音响</a></li>
+<li><a href="/wiki/%E6%8F%9A%E8%81%B2%E5%99%A8" title="扬声器">扬声器</a></li>
+<li><a href="/wiki/%E4%BE%BF%E6%90%BA%E5%BC%8F%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E5%99%A8" class="mw-redirect" title="便携式媒体播放器">便携式媒体播放器</a></li>
+<li><a href="/wiki/%E8%80%B3%E6%A9%9F%E6%94%BE%E5%A4%A7%E5%99%A8" title="耳机放大器">耳机放大器</a></li>
+<li><a href="/wiki/%E8%80%B3%E6%A9%9F%E8%A3%BD%E9%80%A0%E5%95%86%E5%88%97%E8%A1%A8" title="耳机制造商列表">耳机制造商列表</a></li>
+<li><a href="/w/index.php?title=%E8%81%BD%E8%A6%BA%E4%BF%9D%E8%AD%B7%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="听觉保护器（页面不存在）">听觉保护器</a></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span><span class="mw-headline" id="外部链接">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;action=edit&amp;section=35" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Headphones" class="extiw" title="commons:Category:Headphones"><span style="font-weight:bold;">耳机分类</span></a></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐46z6t
+Cached time: 20240402064921
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.256 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1555/1000000
+Post‐expand include size: 52977/2097152 bytes
+Template argument size: 29472/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 681/5000000 bytes
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2036646/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  224.979      1 -total
+ 43.95%   98.887      1 Template:多個問題
+ 30.83%   69.368      3 Template:Ambox
+ 26.80%   60.299      1 Template:Commonscat
+ 25.56%   57.514      1 Template:Sister_project
+ 24.66%   55.486      1 Template:Side_box
+ 23.27%   52.352      1 Template:Unreferenced
+ 22.27%   50.109      1 Template:Columns-list
+  8.28%   18.631      2 Template:Link-ja
+  7.45%   16.759      7 Template:Link-en
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:182419-0!userlang=zh-cn!zh-cn and timestamp 20240402064921 and revision id 80971243. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=耳機&amp;oldid=80971243">https://zh.wikipedia.org/w/index.php?title=耳機&amp;oldid=80971243</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E8%80%B3%E6%A9%9F" title="Category:耳機">耳机</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2014%E5%B9%B45%E6%9C%88%E7%BC%BA%E5%B0%91%E6%9D%A5%E6%BA%90%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2014年5月缺少来源的条目">自2014年5月缺少来源的条目</a></li><li><a href="/wiki/Category:%E8%87%AA2012%E5%B9%B49%E6%9C%88%E5%B8%A6%E6%9C%89%E4%B8%8D%E5%BD%93%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E5%86%85%E5%AE%B9%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2012年9月带有不当合理使用内容的条目">自2012年9月带有不当合理使用内容的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%A4%9A%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:含有多个问题的条目">含有多个问题的条目</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年2月13日 (星期二) 07:24。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%80%B3%E6%A9%9F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2412","wgBackendResponseTime":173,"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.366","ppvisitednodes":{"value":1555,"limit":1000000},"postexpandincludesize":{"value":52977,"limit":2097152},"templateargumentsize":{"value":29472,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":681,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  224.979      1 -total"," 43.95%   98.887      1 Template:多個問題"," 30.83%   69.368      3 Template:Ambox"," 26.80%   60.299      1 Template:Commonscat"," 25.56%   57.514      1 Template:Sister_project"," 24.66%   55.486      1 Template:Side_box"," 23.27%   52.352      1 Template:Unreferenced"," 22.27%   50.109      1 Template:Columns-list","  8.28%   18.631      2 Template:Link-ja","  7.45%   16.759      7 Template:Link-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":2036646,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-46z6t","timestamp":"20240402064921","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8033\u6a5f","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%80%B3%E6%A9%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186819","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186819","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-10T05:07:19Z","dateModified":"2024-02-13T07:24:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/61\/HeadphoneTypes.jpg"}</script>
+</body>
+</html>

@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>修饰照片 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"77579ce7-b3cd-4c5c-8e42-ecc69a6abbc9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"修飾照片","wgTitle":"修飾照片","wgCurRevisionId":80413127,"wgRevisionId":80413127,"wgArticleId":5666450,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["自2019年3月带有失效链接的条目","条目有永久失效的外部链接","CS1英语来源 (en)","粗劣翻译","维基共享资源分类链接使用了维基数据上的匹配项","使用ISBN魔术链接的页面","數位藝術"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"修飾照片","wgRelevantArticleId":5666450,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q141130","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI",
+"ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/1200px-Blue_Glass_Ashtray.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1095">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/800px-Blue_Glass_Ashtray.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="730">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/640px-Blue_Glass_Ashtray.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="584">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="修饰照片 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-修飾照片 rootpage-修飾照片 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-歷史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#歷史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>历史</div>
+		</a>
+		
+			<button aria-controls="toc-歷史-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关历史子章节</span>
+			</button>
+		
+		<ul id="toc-歷史-sublist" class="vector-toc-list">
+			<li id="toc-早期修飾手法"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#早期修飾手法">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>早期修饰手法</div>
+			</a>
+			
+			<ul id="toc-早期修飾手法-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-政治與道德問題"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#政治與道德問題">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>政治与道德问题</div>
+		</a>
+		
+			<button aria-controls="toc-政治與道德問題-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关政治与道德问题子章节</span>
+			</button>
+		
+		<ul id="toc-政治與道德問題-sublist" class="vector-toc-list">
+			<li id="toc-用於新聞工作"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#用於新聞工作">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>用于新闻工作</div>
+			</a>
+			
+			<ul id="toc-用於新聞工作-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-用於魅力攝影"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#用於魅力攝影">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>用于魅力摄影</div>
+			</a>
+			
+			<ul id="toc-用於魅力攝影-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-反對修飾照片的名人"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#反對修飾照片的名人">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>反对修饰照片的名人</div>
+			</a>
+			
+			<ul id="toc-反對修飾照片的名人-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-反對修飾照片的組織"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#反對修飾照片的組織">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>反对修饰照片的组织</div>
+			</a>
+			
+			<ul id="toc-反對修飾照片的組織-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-反對照片過度修飾的政府"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#反對照片過度修飾的政府">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>反对照片过度修饰的政府</div>
+			</a>
+			
+			<ul id="toc-反對照片過度修飾的政府-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-對媒體修飾照片的支持"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#對媒體修飾照片的支持">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>对媒体修饰照片的支持</div>
+			</a>
+			
+			<ul id="toc-對媒體修飾照片的支持-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-對修飾照片的研究"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#對修飾照片的研究">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.7</span>对修饰照片的研究</div>
+			</a>
+			
+			<ul id="toc-對修飾照片的研究-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-社會與文化影響"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#社會與文化影響">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.8</span>社会与文化影响</div>
+			</a>
+			
+			<ul id="toc-社會與文化影響-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-修飾數位照片"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#修飾數位照片">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>修饰数字照片</div>
+		</a>
+		
+		<ul id="toc-修飾數位照片-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-P圖"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#P圖">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>P图</div>
+		</a>
+		
+		<ul id="toc-P圖-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-畫廊"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#畫廊">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>画廊</div>
+		</a>
+		
+		<ul id="toc-畫廊-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-相關條目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#相關條目">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>相关条目</div>
+		</a>
+		
+		<ul id="toc-相關條目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考來源"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考來源">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>参考来源</div>
+		</a>
+		
+		<ul id="toc-參考來源-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-延伸閱讀"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#延伸閱讀">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>延伸阅读</div>
+		</a>
+		
+		<ul id="toc-延伸閱讀-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部連結"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部連結">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>外部链接</div>
+		</a>
+		
+		<ul id="toc-外部連結-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">修饰照片</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。23种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-23" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">23种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D8%A7%D8%B9%D8%A8_%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1" title="تلاعب بالصور – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Retoc_fotogr%C3%A0fic" title="Retoc fotogràfic – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Fotomanipulace" title="Fotomanipulace – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Billedmanipulation" title="Billedmanipulation – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Fotomanipulation" title="Fotomanipulation – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Photograph_manipulation" title="Photograph manipulation – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Manipulaci%C3%B3n_fotogr%C3%A1fica" title="Manipulación fotográfica – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Fotot%C3%B6%C3%B6tlus" title="Fototöötlus – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AA%D9%88%D8%B4" title="رتوش – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kuvamanipulaatio" title="Kuvamanipulaatio – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Retouche_d%27image" title="Retouche d&#039;image – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Manipulaci%C3%B3n_fotogr%C3%A1fica" title="Manipulación fotográfica – 加利西亚语" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%91%D7%95%D7%93_%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%9E%D7%92%D7%9E%D7%AA%D7%99" title="עיבוד תמונה מגמתי – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Retus%C3%A1l%C3%A1s" title="Retusálás – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Manipulasi_foto" title="Manipulasi foto – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E7%9C%9F%E7%B7%A8%E9%9B%86" title="写真編集 – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EC%A7%84_%EC%A1%B0%EC%9E%91" title="사진 조작 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Beeldmanipulatie" title="Beeldmanipulatie – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Fotomanipulasjon" title="Fotomanipulasjon – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Tratamento_de_imagem" title="Tratamento de imagem – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B4%D0%B0_%D0%B4%D0%B8%D0%B3%D0%B8%D1%82%D0%B0%D0%BB%D0%BD%D0%B5_%D1%81%D0%BB%D0%B8%D0%BA%D0%B5" title="Обрада дигиталне слике – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Bildmanipulering" title="Bildmanipulering – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Foto_manip%C3%BClasyon" title="Foto manipülasyon – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q141130#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;oldid=80413127" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;id=80413127&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BF%25AE%25E9%25A3%25BE%25E7%2585%25A7%25E7%2589%2587"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BF%25AE%25E9%25A3%25BE%25E7%2585%25A7%25E7%2589%2587"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q141130" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Photo_manipulation" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-noteTA-f3e2a619" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><div id="noteTA-f3e2a619" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="IT"></div></div></div>
+<table class="box-Rough_translation plainlinks metadata ambox ambox-style ambox-rough_translation" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/File:Translation_to_zh_arrow.svg" class="mw-file-description" title="翻译标记"><img alt="翻译标记" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png" decoding="async" width="50" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/75px-Translation_to_zh_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/100px-Translation_to_zh_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></a></span></div></td><td class="mbox-text"><span class="mbox-text-span">此条目<b><a href="/wiki/Wikipedia:%E7%BF%BB%E8%AD%AF%E6%8C%87%E5%BC%95" title="Wikipedia:翻译指引">翻译</a>质量不佳。</b><span class="hide-when-compact"></span><span class="hide-when-compact"><br /><small>翻译者可能不熟悉中文或原文语言，也可能使用了<a href="/wiki/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91" title="机器翻译">机器翻译</a>。请<a class="external text" href="https://zh.wikipedia.org/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit">协助翻译</a>本条目或重新编写，并注意避免<a href="/wiki/Wikipedia:TNESE" class="mw-redirect" title="Wikipedia:TNESE">翻译腔</a>的问题。<b>明显拙劣</b>的翻译请改挂<code>{{<a href="/wiki/Template:D" class="mw-redirect" title="Template:D">d</a>&#124;<a href="/wiki/Wikipedia:CSD#G13" class="mw-redirect" title="Wikipedia:CSD">G13</a>}}</code>提交删除。</small></span><span class="hide-when-compact"></span></span></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r70089473/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:408px;max-width:408px"><div class="trow"><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:Blue_Glass_Ashtray.jpg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/200px-Blue_Glass_Ashtray.jpg" decoding="async" width="200" height="182" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/300px-Blue_Glass_Ashtray.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blue_Glass_Ashtray.jpg/400px-Blue_Glass_Ashtray.jpg 2x" data-file-width="1436" data-file-height="1310" /></a></span></div></div><div class="tsingle" style="width:202px;max-width:202px"><div class="thumbimage"><span typeof="mw:File"><a href="/wiki/File:Red_Glass_Ashtray.jpg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Red_Glass_Ashtray.jpg/200px-Red_Glass_Ashtray.jpg" decoding="async" width="200" height="182" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Red_Glass_Ashtray.jpg/300px-Red_Glass_Ashtray.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Red_Glass_Ashtray.jpg/400px-Red_Glass_Ashtray.jpg 2x" data-file-width="1436" data-file-height="1310" /></a></span></div></div></div><div class="trow" style="display:flex"><div class="thumbcaption">透过图片编辑软件，可以将玻璃烟灰缸的颜色从蓝色调整成红色，也可以调整成其他颜色。</div></div></div></div>
+<p><b>修饰照片</b>，俗称<b>修图</b>，是指使用各种方式和技术<a href="/wiki/%E5%9B%BE%E5%83%8F%E7%BC%96%E8%BE%91" class="mw-redirect" title="图像编辑">修改照片</a>以达到预期的目的。依据动机和应用方式不同，一些修饰照片的作品被认为是巧妙的艺术品，而一些则有不道德的用途，例如用于<a href="/wiki/%E6%94%BF%E6%B2%BB%E5%AE%A3%E5%82%B3" class="mw-redirect" title="政治宣传">政治宣传</a>、或使商品看起来更好。被视为艺术品的经修饰照片是因为它涉及创作独特的图像，而在某些情况下，这是影像艺术家的个性签名形式。例如美国摄影师<a href="/wiki/%E5%AE%89%E5%A1%9E%E5%B0%94%C2%B7%E4%BA%9A%E5%BD%93%E6%96%AF" title="安塞尔·亚当斯">安塞尔·亚当斯</a>使用暗房曝光技术，如<span class="ilh-all" data-orig-title="閃避和燃燒" data-lang-code="en" data-lang-name="英语" data-foreign-title="Dodging and burning"><span class="ilh-page"><a href="/w/index.php?title=%E9%96%83%E9%81%BF%E5%92%8C%E7%87%83%E7%87%92&amp;action=edit&amp;redlink=1" class="new" title="闪避和燃烧（页面不存在）">闪避和燃烧</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Dodging_and_burning" class="extiw" title="en:Dodging and burning"><span lang="en" dir="auto">Dodging and burning</span></a></span>）</span></span>来修饰照片使其变暗或变亮<sup id="cite_ref-Dziamba_1-0" class="reference"><a href="#cite_note-Dziamba-1">&#91;1&#93;</a></sup><sup id="cite_ref-PBS_2-0" class="reference"><a href="#cite_note-PBS-2">&#91;2&#93;</a></sup>。其它修饰照片的手法包括使用墨水、油漆、<a href="/w/index.php?title=%E9%9B%99%E9%87%8D%E6%9B%9D%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="双重曝光（页面不存在）">双重曝光</a>、拼接照片或底片、应用软件修改数字图像等。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="歷史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=1" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Ulysses_S._Grant_at_City_Point.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ulysses_S._Grant_at_City_Point.jpg/220px-Ulysses_S._Grant_at_City_Point.jpg" decoding="async" width="220" height="160" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ulysses_S._Grant_at_City_Point.jpg/330px-Ulysses_S._Grant_at_City_Point.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ulysses_S._Grant_at_City_Point.jpg/440px-Ulysses_S._Grant_at_City_Point.jpg 2x" data-file-width="5139" data-file-height="3743" /></a><figcaption>这张图是由三张在不同地点拍摄的照片所组成。</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg/220px-Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg" decoding="async" width="220" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg/330px-Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg/440px-Episode_after_Battle_of_Zonnebeke_1918_Hurley.jpg 2x" data-file-width="2730" data-file-height="1864" /></a><figcaption>这张关于<a href="/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0" class="mw-redirect" title="第一次世界大战">第一次世界大战</a>的照片是由多张照片组合而成的。</figcaption></figure>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r70089473/mw-parser-output/.tmulti">
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Bundesarchiv_Bild_146-1978-086-03,_Joseph_Goebbels_mit_Familie.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg/220px-Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg" decoding="async" width="220" height="164" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg/330px-Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg/440px-Bundesarchiv_Bild_146-1978-086-03%2C_Joseph_Goebbels_mit_Familie.jpg 2x" data-file-width="798" data-file-height="595" /></a><figcaption><a href="/wiki/%E7%B4%84%E7%91%9F%E5%A4%AB%C2%B7%E6%88%88%E5%9F%B9%E7%88%BE" title="约瑟夫·戈培尔">戈培尔</a>一家的全家福照片，后方穿军服的<span class="ilh-all" data-orig-title="哈羅德·匡特" data-lang-code="en" data-lang-name="英语" data-foreign-title="Harald Quandt"><span class="ilh-page"><a href="/wiki/%E5%93%88%E7%BD%97%E5%BE%B7%C2%B7%E5%8C%A1%E7%89%B9" title="哈罗德·匡特">哈罗德</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Harald_Quandt" class="extiw" title="en:Harald Quandt"><span lang="en" dir="auto">Harald Quandt</span></a></span>）</span></span>是合成进去的。</figcaption></figure>
+<h3><span id=".E6.97.A9.E6.9C.9F.E4.BF.AE.E9.A3.BE.E6.89.8B.E6.B3.95"></span><span class="mw-headline" id="早期修飾手法">早期修饰手法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=2" title="编辑章节：早期修饰手法"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>一件照片修饰的早期案例发生在1860年代的美国，当时的<a href="/wiki/%E4%BA%9E%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E6%9E%97%E8%82%AF" class="mw-redirect" title="亚伯拉罕·林肯">亚伯拉罕·林肯</a>肖像是使用美国第七任副总统<a href="/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E8%80%83%E5%AE%8F" class="mw-redirect" title="约翰·考宏">约翰·考宏</a>的身体和林肯的头所组成，林肯的头则取自摄影师<a href="/wiki/%E9%A9%AC%E4%BF%AE%C2%B7%E5%B8%83%E9%9B%B7%E8%BF%AA" title="马修·布雷迪">马修·布雷迪</a>的作品，而该原始照片亦被用于旧版的<a href="/wiki/5%E7%BE%8E%E5%85%83%E7%BA%B8%E5%B8%81" title="5美元纸币">5美元纸币</a>。<sup id="cite_ref-Farid_3-0" class="reference"><a href="#cite_note-Farid-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span id=".E6.94.BF.E6.B2.BB.E8.88.87.E9.81.93.E5.BE.B7.E5.95.8F.E9.A1.8C"></span><span class="mw-headline" id="政治與道德問題">政治与道德问题</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=3" title="编辑章节：政治与道德问题"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>修饰照片已经被用于欺骗观众、说服观众、强化叙事和自我表现<sup id="cite_ref-Rotman_4-0" class="reference"><a href="#cite_note-Rotman-4">&#91;4&#93;</a></sup>。有时甚至只是一些细微变化都能让观众对判断或解释照片产生很深远的影响，而当观众发现自己所看的照片动过手脚后，其重要度会更为显著。早在美国<a href="/wiki/%E5%8D%97%E5%8C%97%E6%88%B0%E7%88%AD" class="mw-redirect" title="南北战争">南北战争</a>期间，照片就已经不是一种出版品，而是雕塑品了。<sup id="cite_ref-Palmquist_5-0" class="reference"><a href="#cite_note-Palmquist-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%BB%B4%E8%90%A8%E9%87%8C%E5%A5%A5%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E6%96%AF%E5%A4%A7%E6%9E%97" class="mw-redirect" title="约瑟夫·维萨里奥诺维奇·斯大林">约瑟夫·斯大林</a>曾利用修饰照片进行政治宣传<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>。1920年5月5日，他的前任领导人<a href="/wiki/%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E5%B0%94%C2%B7%E4%BC%8A%E9%87%8C%E5%A5%87%C2%B7%E5%88%97%E5%AE%81" class="mw-redirect" title="弗拉基米尔·伊里奇·列宁">列宁</a>为苏联军队发表演说，斯大林和<a href="/wiki/%E5%88%97%E5%A4%AB%C2%B7%E8%BE%BE%E7%BB%B4%E5%A4%9A%E7%BB%B4%E5%A5%87%C2%B7%E6%89%98%E6%B4%9B%E8%8C%A8%E5%9F%BA" class="mw-redirect" title="列夫·达维多维奇·托洛茨基">列夫·托洛斯基</a>皆出席该次活动，有照片为证<sup id="cite_ref-Ammann_7-0" class="reference"><a href="#cite_note-Ammann-7">&#91;7&#93;</a></sup>而原本出现在该张照片里的还有<a href="/wiki/%E5%85%A7%E5%8B%99%E4%BA%BA%E6%B0%91%E5%A7%94%E5%93%A1%E9%83%A8" title="内务人民委员部">内务人民委员部</a>部长<a href="/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E4%BC%8A%E4%B8%87%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E5%8F%B6%E8%8B%A5%E5%A4%AB" class="mw-redirect" title="尼古拉·伊万诺维奇·叶若夫">尼古拉·叶若夫</a>，在他于1940年被<a href="/wiki/%E5%A4%A7%E6%B8%85%E6%B4%97" title="大清洗">处决</a>后，照片中的他亦被抹去，是次事件成为一个广为人知的将照片修饰用于<a href="/wiki/%E8%A8%98%E9%8C%84%E6%8A%B9%E7%85%9E" title="记录抹煞">记录抹煞</a>的案例<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>（更多资料可见<span class="ilh-all" data-orig-title="蘇聯圖像審查" data-lang-code="en" data-lang-name="英语" data-foreign-title="Censorship of images in the Soviet Union"><span class="ilh-page"><a href="/w/index.php?title=%E8%98%87%E8%81%AF%E5%9C%96%E5%83%8F%E5%AF%A9%E6%9F%A5&amp;action=edit&amp;redlink=1" class="new" title="苏联图像审查（页面不存在）">苏联图像审查</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union" class="extiw" title="en:Censorship of images in the Soviet Union"><span lang="en" dir="auto">Censorship of images in the Soviet Union</span></a></span>）</span></span>）。试图透过修饰照片来获取新闻价值的先驱之一是<span class="ilh-all" data-orig-title="博納爾‧麥克法登" data-lang-code="en" data-lang-name="英语" data-foreign-title="Bernarr Macfadden"><span class="ilh-page"><a href="/w/index.php?title=%E5%8D%9A%E7%B4%8D%E7%88%BE%E2%80%A7%E9%BA%A5%E5%85%8B%E6%B3%95%E7%99%BB&amp;action=edit&amp;redlink=1" class="new" title="博纳尔‧麦克法登（页面不存在）">博纳尔‧麦克法登</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Bernarr_Macfadden" class="extiw" title="en:Bernarr Macfadden"><span lang="en" dir="auto">Bernarr Macfadden</span></a></span>）</span></span>，1924年，他以<span class="ilh-all" data-orig-title="拼貼法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Composograph"><span class="ilh-page"><a href="/w/index.php?title=%E6%8B%BC%E8%B2%BC%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="拼贴法（页面不存在）">拼贴法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Composograph" class="extiw" title="en:Composograph"><span lang="en" dir="auto">Composograph</span></a></span>）</span></span>将经修改过的照片进行拼贴，此乃照片修饰的早期技法。<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>2007年10月，中国陕西省一名村民宣称自己拍摄到濒危的野生<a href="/wiki/%E8%8F%AF%E5%8D%97%E8%99%8E" class="mw-redirect" title="华南虎">华南虎</a>的照片，但照片公布后引发许多质疑<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>，尽管陕西省林业厅相关官员一度坚称照片为真，但经过多方专家鉴定后，<a href="/wiki/%E9%99%9D%E8%A5%BF%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C" class="mw-redirect" title="陕西省人民政府">陕西省人民政府</a>于2008年6月召开记者会，宣布该照片里的老虎出自一幅<a href="/wiki/%E5%B9%B4%E7%94%BB" title="年画">年画</a>。
+</p><p>2012年，一张摄有中华民国国旗<a href="/wiki/%E9%87%A3%E9%AD%9A%E8%87%BA%E5%88%97%E5%B6%BC%E4%B8%BB%E6%AC%8A%E5%95%8F%E9%A1%8C" title="钓鱼台列屿主权问题">登上钓鱼台</a>的照片遭中国媒体《厦门商报》涂改成<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E6%97%97" class="mw-redirect" title="中华人民共和国国旗">中华人民共和国国旗</a>，此举引发包括中华民国和中国的网友不满，批评《厦门商报》缺乏媒体道德。此外，中国多家媒体也都以各种方式掩饰了中华民国国旗登上钓鱼台的事实。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>一些伦理理论已被应用于照片操作。奥德‧奥利瓦（Aude Oliva）在图像处理伦理学专题小组期间提出的看法是，照片在修改前后的差异必须要明确，才能将该修饰视为照片操作<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>。卡森‧雷诺在《图像行为理论》一书中以<a href="/wiki/%E8%A8%80%E8%AA%9E%E8%A1%8C%E7%82%BA%E7%90%86%E8%AB%96" title="言语行为理论">言语行为理论</a>探讨对照片编辑和操作的行为<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>。而威廉‧米切尔（William Mitchell）在《如何对照片动手脚》（How to Do Things with Pictures）一书里探究了操作照片的悠久历史，并对照片修饰提出批判性的论述<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>。
+</p>
+<h3><span id=".E7.94.A8.E6.96.BC.E6.96.B0.E8.81.9E.E5.B7.A5.E4.BD.9C"></span><span class="mw-headline" id="用於新聞工作">用于新闻工作</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=4" title="编辑章节：用于新闻工作"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>以下是一些将修饰照片用于新闻工作并引发议论的案例：1982年，一张摄入两座埃及金字塔的照片在经调整后，照片里的金字塔比实际上的金字塔靠得更近了一点，这么做是为了让它能摆进《<a href="/wiki/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86_(%E6%9D%82%E5%BF%97)" title="国家地理 (杂志)">国家地理</a>》杂志的封面<sup id="cite_ref-NYT_17-0" class="reference"><a href="#cite_note-NYT-17">&#91;17&#93;</a></sup>。这项做法引起伪造图片是否得当的争论<sup id="cite_ref-BRONXDOC_18-0" class="reference"><a href="#cite_note-BRONXDOC-18">&#91;18&#93;</a></sup>该杂志的可信度也受到质疑。事件发生后不久，《国家地理》杂志摄影导演Tom Kennedy出面坦承使用技术来修饰照片以博得众人关注是错误的行为，并承诺不会再犯。<sup id="cite_ref-BRONXDOC_18-1" class="reference"><a href="#cite_note-BRONXDOC-18">&#91;18&#93;</a></sup>
+</p><p>2005年，美国作家<a href="/wiki/%E7%91%AA%E8%8E%8E%C2%B7%E5%8F%B2%E9%83%BD%E8%8F%AF" title="玛莎·史都华">玛莎·史都华</a>出狱之后，《<a href="/wiki/%E6%96%B0%E8%81%9E%E9%80%B1%E5%88%8A" class="mw-redirect" title="新闻周刊">新闻周刊</a>》拍了一张史都华的照片，将她的脸移花接木至另一个较瘦的女体上，掩饰了史都华在狱中攀升的体重<sup id="cite_ref-NYT2005_19-0" class="reference"><a href="#cite_note-NYT2005-19">&#91;19&#93;</a></sup>。《新闻周刊》副总编辑Lynn Staley在接受采访时表示“我们接受到的委托是展现出玛莎的目标，而那不见得是她现在的形象”，Staley还说明该期周刊的第三页里明白地写着封面上的照片是合成之作。<sup id="cite_ref-NYT2005_19-1" class="reference"><a href="#cite_note-NYT2005-19">&#91;19&#93;</a></sup>
+</p><p>随着图像处理软件的普及，越来越多人了解到“眼见不一定为凭”，照片是可以动手脚的<sup id="cite_ref-IntlNYT2004_20-0" class="reference"><a href="#cite_note-IntlNYT2004-20">&#91;20&#93;</a></sup>。修饰照片的动机可以是单纯取乐、增进美感或改善主体的形象<sup id="cite_ref-Photo_21-0" class="reference"><a href="#cite_note-Photo-21">&#91;21&#93;</a></sup>。不过并非所有的修饰之举都是无害的，如在<a href="/wiki/2004%E5%B9%B4%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89" class="mw-redirect" title="2004年美国总统选举">2004年美国总统选举</a>的<span class="ilh-all" data-orig-title="凱瑞芳達競選照片爭議" data-lang-code="en" data-lang-name="英语" data-foreign-title="Kerry Fonda 2004 election photo controversy"><span class="ilh-page"><a href="/w/index.php?title=%E5%87%B1%E7%91%9E%E8%8A%B3%E9%81%94%E7%AB%B6%E9%81%B8%E7%85%A7%E7%89%87%E7%88%AD%E8%AD%B0&amp;action=edit&amp;redlink=1" class="new" title="凯瑞芳达竞选照片争议（页面不存在）">凯瑞芳达竞选照片争议</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Kerry_Fonda_2004_election_photo_controversy" class="extiw" title="en:Kerry Fonda 2004 election photo controversy"><span lang="en" dir="auto">Kerry Fonda 2004 election photo controversy</span></a></span>）</span></span>中，总统候选人<a href="/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%87%B1%E7%91%9E" class="mw-redirect" title="约翰·凯瑞">约翰·凯瑞</a>阵营发布一张凯瑞与<a href="/wiki/%E7%8F%8D%C2%B7%E8%8A%B3%E9%81%94" title="珍·芳达">珍·芳达</a>出席1971年一场反越战集会的合照，企图影响公众决策，但后来证实该照片是由两张在不同时间点拍下的照片所剪辑而成<sup id="cite_ref-IntlNYT2004_20-1" class="reference"><a href="#cite_note-IntlNYT2004-20">&#91;20&#93;</a></sup>。除此之外，有越来越多规章相应而生。例如美国的<span class="ilh-all" data-orig-title="國家新聞攝影協會" data-lang-code="en" data-lang-name="英语" data-foreign-title="National Press Photographers Association"><span class="ilh-page"><a href="/w/index.php?title=%E5%9C%8B%E5%AE%B6%E6%96%B0%E8%81%9E%E6%94%9D%E5%BD%B1%E5%8D%94%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="国家新闻摄影协会（页面不存在）">国家新闻摄影协会</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/National_Press_Photographers_Association" class="extiw" title="en:National Press Photographers Association"><span lang="en" dir="auto">National Press Photographers Association</span></a></span>）</span></span>（NPPA）制定《道德准则》用以规范图像的准确性，要求摄影师不要企图透过操弄图像来误导阅听者或新闻主体<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>。在作品曾被提名至普利策奖的摄影师<span class="ilh-all" data-orig-title="艾倫·迪特利希" data-lang-code="en" data-lang-name="英语" data-foreign-title="Allan Detrich"><span class="ilh-page"><a href="/w/index.php?title=%E8%89%BE%E5%80%AB%C2%B7%E8%BF%AA%E7%89%B9%E5%88%A9%E5%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="艾伦·迪特利希（页面不存在）">艾伦·迪特利希</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Allan_Detrich" class="extiw" title="en:Allan Detrich"><span lang="en" dir="auto">Allan Detrich</span></a></span>）</span></span>遭披露会为自己的照片动手脚后便辞职的例子可以说明NPPA对此不会宽容以对，倘若经由修饰的照片已被公开发表过，则更会严正以待。<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span id=".E7.94.A8.E6.96.BC.E9.AD.85.E5.8A.9B.E6.94.9D.E5.BD.B1"></span><span class="mw-headline" id="用於魅力攝影">用于魅力摄影</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=5" title="编辑章节：用于魅力摄影"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>魅力摄影是一门大幅度地运用照片修饰技术的学问，这项工作会拍摄委托者的照片，并将照片调整成对方心中所理想的模样。可以调整的范围包罗万象，例如肤色、发色、牙齿颜色、身材、去除斑点和伤疤、服装等<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>，这门技术通常会使用专业的照片编辑软件。许多人依靠这种方式来体现理想的自我<sup id="cite_ref-photo_25-0" class="reference"><a href="#cite_note-photo-25">&#91;25&#93;</a></sup>，不过这也常被指责为煽动人们追寻不切实际的自我形象。
+</p>
+<h3><span id=".E5.8F.8D.E5.B0.8D.E4.BF.AE.E9.A3.BE.E7.85.A7.E7.89.87.E7.9A.84.E5.90.8D.E4.BA.BA"></span><span class="mw-headline" id="反對修飾照片的名人">反对修饰照片的名人</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=6" title="编辑章节：反对修饰照片的名人"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>修饰照片已经引发一般观众和名人的反感，而<a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%8C%BB%E5%AD%A6%E4%BC%9A" title="美国医学会">美国医学会</a>对此也公开发表论述：“广告里充斥着仅能透过照片编辑软件才能形塑的身材，（我们）必须阻止青少年和儿童受到那些广告感染”<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>，包括绮拉·奈特莉、布莱德・彼特、安迪·洛迪克和洁西卡·辛普森在内的许多名人都支持美国医学会。
+</p><p>为了支持这项声明，<a href="/wiki/%E5%B8%83%E8%90%8A%E5%BE%B7%C2%B7%E5%BD%BC%E7%89%B9" class="mw-redirect" title="布莱德·彼特">布莱德·彼特</a>请摄影师<a href="/wiki/%E6%9F%A5%E5%85%8B%C2%B7%E5%85%8B%E6%B4%9B%E6%96%AF" title="查克·克洛斯">查克·克洛斯</a>为自己拍摄了一系列的照片，这些照片的共通点是强调了布莱德・彼特在皮肤上的缺陷，布莱德・彼特以这种方式反对那些使用修图软件试图隐藏自己缺点的人。另外、凯特·温斯蕾也曾经因为《<a href="/wiki/GQ" title="GQ">GQ</a>》杂志刊登了自己的照片、却因为修图使之不自然后，于媒体上公开反对对照片进行操作。<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>2010年4月，美国歌手<a href="/wiki/%E5%B8%83%E8%98%AD%E5%A6%AE%C2%B7%E6%96%AF%E7%9A%AE%E7%88%BE%E6%96%AF" title="布兰妮·斯皮尔斯">布兰妮·斯皮尔斯</a>发布了她自己的“修图前后对比照片”<sup id="cite_ref-photo_25-1" class="reference"><a href="#cite_note-photo-25">&#91;25&#93;</a></sup>，这项举动的动机是“强调女性必须完美示人的压力”。<sup id="cite_ref-photo_25-2" class="reference"><a href="#cite_note-photo-25">&#91;25&#93;</a></sup>
+</p><p>此外，《<a href="/wiki/%E6%99%BA%E7%94%9F%E6%B4%BB" class="mw-redirect" title="智生活">智生活</a>》2012年3-4月号的封面上也曾刊登过未经数字修饰的<a href="/wiki/%E5%87%B1%E7%89%B9%C2%B7%E5%B8%83%E8%98%AD%E7%90%AA" class="mw-redirect" title="凯特·布兰琪">凯特·布兰琪</a>的照片。<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h3><span id=".E5.8F.8D.E5.B0.8D.E4.BF.AE.E9.A3.BE.E7.85.A7.E7.89.87.E7.9A.84.E7.B5.84.E7.B9.94"></span><span class="mw-headline" id="反對修飾照片的組織">反对修饰照片的组织</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=7" title="编辑章节：反对修饰照片的组织"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>包括<a href="/wiki/%E5%A4%9A%E8%8A%AC" title="多芬">多芬</a>和<span class="ilh-all" data-orig-title="美國之鷹服飾" data-lang-code="en" data-lang-name="英语" data-foreign-title="American Eagle Outfitters"><span class="ilh-page"><a href="/w/index.php?title=%E7%BE%8E%E5%9C%8B%E4%B9%8B%E9%B7%B9%E6%9C%8D%E9%A3%BE&amp;action=edit&amp;redlink=1" class="new" title="美国之鹰服饰（页面不存在）">美国之鹰服饰</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/American_Eagle_Outfitters" class="extiw" title="en:American Eagle Outfitters"><span lang="en" dir="auto">American Eagle Outfitters</span></a></span>）</span></span>在内的企业已经主动公开反对在广告产品时进行照片修饰，多芬创立了多芬自尊基金会（Dove Self-Esteem Fund）并推动多芬真美人运动（ Dove Campaign for Real Beauty），以此协助年轻女性建立自信心，并试图在媒体中强调所谓真正的美以及未经修饰的照片<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>。而美国之鹰服饰则推行了#AerieREAL活动，并出品了一款以此为名的内衣<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>。它还以“真正的你无比性感”（The real you is sexy.）为广告词，并宣称自己广告里的模特儿是没有经过任何修饰的。<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p><p><a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%8C%BB%E5%AD%A6%E4%BC%9A" title="美国医学会">美国医学会</a>采取反对照片修饰的立场，麦克安尼（McAneny ）医生声明，将透过修饰而不合常理的模特儿呈现给儿童和青少年，会让他们对身体产生不切实际的期望，他还说，我们不应再把模特儿修饰成那些仅能透过照片修饰技术才能呈现的模样。对此、美国医学会采取的政策是在与广告商合作时签订契约，限制广告商使用photoshop的程度以达到上述的目标。<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h3><span id=".E5.8F.8D.E5.B0.8D.E7.85.A7.E7.89.87.E9.81.8E.E5.BA.A6.E4.BF.AE.E9.A3.BE.E7.9A.84.E6.94.BF.E5.BA.9C"></span><span class="mw-headline" id="反對照片過度修飾的政府">反对照片过度修饰的政府</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=8" title="编辑章节：反对照片过度修饰的政府"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>部分国家的政府试图禁止某些修饰过度的广告，并对广告商施压。例如英国<span class="ilh-all" data-orig-title="廣告標準局 (英國)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Advertising Standards Authority (United Kingdom)"><span class="ilh-page"><a href="/w/index.php?title=%E5%BB%A3%E5%91%8A%E6%A8%99%E6%BA%96%E5%B1%80_(%E8%8B%B1%E5%9C%8B)&amp;action=edit&amp;redlink=1" class="new" title="广告标准局 (英国)（页面不存在）">广告标准局</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Advertising_Standards_Authority_(United_Kingdom)" class="extiw" title="en:Advertising Standards Authority (United Kingdom)"><span lang="en" dir="auto">Advertising Standards Authority (United Kingdom)</span></a></span>）</span></span>曾下令禁止<a href="/wiki/%E8%98%AD%E8%94%BB" class="mw-redirect" title="兰蔻">兰蔻</a>一则关于<a href="/wiki/%E8%8C%B1%E8%8E%89%E4%BA%9E%C2%B7%E7%BE%85%E5%8B%83%E8%8C%B2" class="mw-redirect" title="茱莉亚·罗勃兹">茱莉亚·罗勃兹</a>的广告，理由是照片中那毫无瑕疵的皮肤实在太不真实<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>；美国杂志《<span class="ilh-all" data-orig-title="封面女郎 (期刊)" data-lang-code="en" data-lang-name="英语" data-foreign-title="CoverGirl"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%81%E9%9D%A2%E5%A5%B3%E9%83%8E_(%E6%9C%9F%E5%88%8A)&amp;action=edit&amp;redlink=1" class="new" title="封面女郎 (期刊)（页面不存在）">封面女郎 (期刊)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/CoverGirl" class="extiw" title="en:CoverGirl"><span lang="en" dir="auto">CoverGirl</span></a></span>）</span></span>》也曾因为推出被认为夸大不实的广告而遭政府禁止。<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<h3><span id=".E5.B0.8D.E5.AA.92.E9.AB.94.E4.BF.AE.E9.A3.BE.E7.85.A7.E7.89.87.E7.9A.84.E6.94.AF.E6.8C.81"></span><span class="mw-headline" id="對媒體修飾照片的支持">对媒体修饰照片的支持</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=9" title="编辑章节：对媒体修饰照片的支持"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>某些杂志社的编辑不会将修饰照片并用于杂志封面视为一件问题。《<a href="/wiki/%E7%BE%8E%E9%BA%97%E4%BD%B3%E4%BA%BA" title="美丽佳人">美丽佳人</a>》杂志编辑在接受采访时表示读者们不是白痴，他们也很清楚模特儿照什么时候被动过手脚。另外，某些支持照片修饰的人认为修饰照片并不是问题，问题在于读者那深不见底的欲望，他们渴望着能拥有像自己喜欢的杂志封面上的名人一样的身体。<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p>
+<h3><span id=".E5.B0.8D.E4.BF.AE.E9.A3.BE.E7.85.A7.E7.89.87.E7.9A.84.E7.A0.94.E7.A9.B6"></span><span class="mw-headline" id="對修飾照片的研究">对修饰照片的研究</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=10" title="编辑章节：对修饰照片的研究"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>照片修饰对社会大众的影响已经被视为研究对象。英国时尚品牌<span class="ilh-all" data-orig-title="新風貌" data-lang-code="en" data-lang-name="英语" data-foreign-title="New Look (company)"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%B0%E9%A2%A8%E8%B2%8C&amp;action=edit&amp;redlink=1" class="new" title="新风貌（页面不存在）">新风貌</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/New_Look_(company)" class="extiw" title="en:New Look (company)"><span lang="en" dir="auto">New Look (company)</span></a></span>）</span></span>进行的调查显示，90%的受访者希望可以在媒体里看到更多样化的身材。该调查还探讨受众如何看待经修饰过的图片，15%的读者认为封面上的图像准确反映了现实中的主体。另外、调查也发现有33%的女性正朝着不可能的身材而努力<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>。<a href="/wiki/%E5%A4%9A%E8%8A%AC" title="多芬">多芬</a>也进行了一项研究经修饰的照片如何影响女性自尊心的调查，研究发现80%的受访女性在看到媒体上的名人照片时会感到不安，而71%的受访女性认为自己的外观比不上那些封面上光彩夺目的模特儿。<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h3><span id=".E7.A4.BE.E6.9C.83.E8.88.87.E6.96.87.E5.8C.96.E5.BD.B1.E9.9F.BF"></span><span class="mw-headline" id="社會與文化影響">社会与文化影响</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=11" title="编辑章节：社会与文化影响"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>修饰照片的概念普及之后所引发的关注之一，就是能否将虚构不实的图片公诸于世，在<a href="/wiki/%E8%8B%8F%E7%8F%8A%C2%B7%E6%A1%91%E5%A1%94%E6%A0%BC" title="苏珊·桑塔格">苏珊·桑塔克</a>在其著作《<span class="ilh-all" data-orig-title="論攝影" data-lang-code="en" data-lang-name="英语" data-foreign-title="On Photography"><span class="ilh-page"><a href="/w/index.php?title=%E8%AB%96%E6%94%9D%E5%BD%B1&amp;action=edit&amp;redlink=1" class="new" title="论摄影（页面不存在）">论摄影</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/On_Photography" class="extiw" title="en:On Photography"><span lang="en" dir="auto">On Photography</span></a></span>）</span></span>》里探讨摄影的客观性和缺乏之处，并得出结论：“世上的照片都经过大小不一的削减、毁坏、裁切、修剪、润饰、伪造和欺骗”<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>。根据《<a href="/wiki/%E5%93%88%E8%8A%AC%E7%99%BB%E9%83%B5%E5%A0%B1" class="mw-redirect" title="哈芬登邮报">哈芬登邮报</a>》报导，“许多人认为修图属于美容业，就像化妆师、灯光师和造型师所做的一样，修图师透过贩卖改变过后的形象给顾客”。<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p><p>2021年七月，挪威通过一项新法，规定在网络社群上具影响力的用户在发布经过修饰的照片时，必须标注该照片修饰了哪些部分。<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p>
+<h2><span id=".E4.BF.AE.E9.A3.BE.E6.95.B8.E4.BD.8D.E7.85.A7.E7.89.87"></span><span class="mw-headline" id="修飾數位照片">修饰数字照片</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=12" title="编辑章节：修饰数字照片"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>当照片透过数字相机拍摄并发送至电脑后，便可以透过数字编辑来调整照片内容，而透过底片或胶卷拍摄的照片也可以经由<a href="/wiki/%E5%BD%B1%E5%83%8F%E6%8E%83%E6%8F%8F%E5%99%A8" title="影像扫描仪">影像扫描仪</a>数字化，进而进行数字编辑。随着电脑、数字相机和各种图像处理软件日新月异，照片修饰这一用语的范围所涵盖的范围也更广泛了。图片编辑软件的功能包括加强或削弱图片的彩度、对比、白平衡、渐层、杂点，将图片任意变形，绘制任意的颜色，将多张不同的照片组成同一张等，透过这些编辑所产生的图像甚至可能会与原本的图片完全不同。
+</p>
+<h2><span id="P.E5.9C.96"></span><span class="mw-headline" id="P圖">P图</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=13" title="编辑章节：P图"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>随着图片编辑软件<a href="/wiki/Adobe_Photoshop" title="Adobe Photoshop">Adobe Photoshop</a>的普及，开始出现一个新名词“P图”（photoshopped），该术语通常是指任何经过数字编辑的照片，即使不是以Photoshop编辑的图片也包括在内<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>。而商标所有者<a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe Systems</a>认为由于软件受欢迎而将“photoshopped”和“photoshopping”这些英文词汇做为名词、动词或术语并加以滥用是对其商标的侵权行为<sup id="cite_ref-AS-PR_44-0" class="reference"><a href="#cite_note-AS-PR-44">&#91;44&#93;</a></sup>，虽然Adobe试图阻止公司的<a href="/wiki/%E9%80%9A%E7%94%A8%E5%95%86%E6%A8%99" title="通用商标">商标通用化</a><sup id="cite_ref-io9_45-0" class="reference"><a href="#cite_note-io9-45">&#91;45&#93;</a></sup><sup id="cite_ref-BIPLJ_46-0" class="reference"><a href="#cite_note-BIPLJ-46">&#91;46&#93;</a></sup>，但这无济于事，“photoshop”、“photoshopped”、“photoshopping”等术语在涉及以数字方式修饰照片的一般文章和学术文章里已经被广泛地使用了。<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</p>
+<h2><span id=".E7.95.AB.E5.BB.8A"></span><span class="mw-headline" id="畫廊">画廊</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=14" title="编辑章节：画廊"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 230px;"><span typeof="mw:File"><a href="/wiki/File:Barack_Obama_-_Caricature_(2).jpg" class="mw-file-description" title="经过扭曲变形的巴拉克·奥巴马照片。"><img alt="经过扭曲变形的巴拉克·奥巴马照片。" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barack_Obama_-_Caricature_%282%29.jpg/143px-Barack_Obama_-_Caricature_%282%29.jpg" decoding="async" width="143" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barack_Obama_-_Caricature_%282%29.jpg/214px-Barack_Obama_-_Caricature_%282%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barack_Obama_-_Caricature_%282%29.jpg/286px-Barack_Obama_-_Caricature_%282%29.jpg 2x" data-file-width="840" data-file-height="1176" /></a></span></div>
+			<div class="gallerytext">经过扭曲变形的<a href="/wiki/%E5%B7%B4%E6%8B%89%E5%85%8B%C2%B7%E6%AD%90%E5%B7%B4%E9%A6%AC" class="mw-redirect" title="巴拉克·奥巴马">巴拉克·奥巴马</a>照片。</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 230px;"><span typeof="mw:File"><a href="/wiki/File:Cat_priest.png" class="mw-file-description" title="将猫的头合成在牧师的脖子上。"><img alt="将猫的头合成在牧师的脖子上。" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cat_priest.png/200px-Cat_priest.png" decoding="async" width="200" height="160" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cat_priest.png/300px-Cat_priest.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cat_priest.png/400px-Cat_priest.png 2x" data-file-width="1500" data-file-height="1199" /></a></span></div>
+			<div class="gallerytext">将猫的头合成在牧师的脖子上。</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 230px;"><span typeof="mw:File"><a href="/wiki/File:TIERRA2.jpg" class="mw-file-description" title="将荷包蛋与地球结合。"><img alt="将荷包蛋与地球结合。" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TIERRA2.jpg/200px-TIERRA2.jpg" decoding="async" width="200" height="126" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TIERRA2.jpg/300px-TIERRA2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TIERRA2.jpg/400px-TIERRA2.jpg 2x" data-file-width="477" data-file-height="300" /></a></span></div>
+			<div class="gallerytext">将<a href="/wiki/%E8%8D%B7%E5%8C%85%E8%9B%8B" class="mw-redirect" title="荷包蛋">荷包蛋</a>与地球结合。</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 230px;"><span typeof="mw:File"><a href="/wiki/File:The_real_me_by_Achraf_Baznani.jpg" class="mw-file-description" title="一张用修饰照片手法创作的艺术品。"><img alt="一张用修饰照片手法创作的艺术品。" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_real_me_by_Achraf_Baznani.jpg/200px-The_real_me_by_Achraf_Baznani.jpg" decoding="async" width="200" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_real_me_by_Achraf_Baznani.jpg/300px-The_real_me_by_Achraf_Baznani.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_real_me_by_Achraf_Baznani.jpg/400px-The_real_me_by_Achraf_Baznani.jpg 2x" data-file-width="700" data-file-height="700" /></a></span></div>
+			<div class="gallerytext">一张用修饰照片手法创作的艺术品。</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 230px;"><span typeof="mw:File"><a href="/wiki/File:Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg" class="mw-file-description" title="《宝丽莱》，摄影者为奥古斯托·德·卢卡"><img alt="《宝丽莱》，摄影者为奥古斯托·德·卢卡" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg/195px-Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg" decoding="async" width="195" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg/293px-Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg/390px-Irio_De_Paula_-_ritratto_polaroid_sx_70_di_Augusto_De_Luca.jpg 2x" data-file-width="709" data-file-height="727" /></a></span></div>
+			<div class="gallerytext">《<a href="/wiki/%E5%AF%B6%E9%BA%97%E8%90%8A" class="mw-redirect" title="宝丽莱">宝丽莱</a>》，摄影者为<a href="/wiki/%E5%A5%A7%E5%8F%A4%E6%96%AF%E6%89%98%C2%B7%E5%BE%B7%C2%B7%E7%9B%A7%E5%8D%A1" title="奥古斯托·德·卢卡">奥古斯托·德·卢卡</a></div>
+		</li>
+</ul>
+<h2><span id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE"></span><span class="mw-headline" id="相關條目">相关条目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=15" title="编辑章节：相关条目"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E8%8A%B1%E4%BB%99%E5%AD%90_(%E6%94%9D%E5%BD%B1%E4%BD%9C%E5%93%81)" title="花仙子 (摄影作品)">花仙子 (摄影作品)</a></li>
+<li><a href="/wiki/%E5%8D%8E%E5%8D%97%E8%99%8E%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6" title="华南虎照片事件">华南虎照片事件</a></li>
+<li><a href="/wiki/%E6%95%B0%E4%BD%8D%E8%89%BA%E6%9C%AF" class="mw-redirect" title="数位艺术">数字艺术</a></li>
+<li><a href="/wiki/%E7%A7%91%E5%AD%B8%E4%B8%8D%E7%AB%AF%E8%A1%8C%E7%82%BA" title="科学不端行为">科学不端行为</a></li>
+<li><a href="/wiki/%E6%9D%A5%E6%BA%90%E6%89%B9%E5%88%A4" class="mw-redirect" title="来源批判">来源批判</a></li>
+<li><a href="/wiki/%E8%A8%98%E9%8C%84%E6%8A%B9%E7%85%9E" title="记录抹煞">记录抹煞</a></li></ul>
+<h2><span id=".E5.8F.83.E8.80.83.E4.BE.86.E6.BA.90"></span><span class="mw-headline" id="參考來源">参考来源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=16" title="编辑章节：参考来源"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Dziamba-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dziamba_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jack Dziamba. <a rel="nofollow" class="external text" href="https://whitherthebook.wordpress.com/2013/02/27/ansel-adams-and-photography-before-photoshop/">Ansel Adams, and Photography Before Photoshop</a>. February 27, 2013 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201214162301/https://whitherthebook.wordpress.com/2013/02/27/ansel-adams-and-photography-before-photoshop/">存档</a>于2020-12-14）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Jack+Dziamba&amp;rft.btitle=Ansel+Adams%2C+and+Photography+Before+Photoshop&amp;rft.date=2013-02-27&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwhitherthebook.wordpress.com%2F2013%2F02%2F27%2Fansel-adams-and-photography-before-photoshop%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-PBS-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-PBS_2-0">^</a></b></span> <span class="reference-text"><cite class="citation interview">Mia Fineman. <a rel="nofollow" class="external text" href="http://www.pbs.org/newshour/art/slide-show-what-did-we-do-before-photoshop/">Artbeat</a>. PBS Newshour.  访谈 with Tom Legro (South Florida: WPBT2). November 29, 2012 <span class="reference-accessdate"> &#91;<span class="nowrap">January 30,</span> 2016&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170929210917/http://www.pbs.org/newshour/art/slide-show-what-did-we-do-before-photoshop/">存档</a>于2017-09-29）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Artbeat&amp;rft.au=Mia+Fineman&amp;rft.date=2012-11-29&amp;rft.genre=article&amp;rft.jtitle=PBS+Newshour&amp;rft_id=http%3A%2F%2Fwww.pbs.org%2Fnewshour%2Fart%2Fslide-show-what-did-we-do-before-photoshop%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Farid-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Farid_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Farid, Hany. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150908155915/http://www.cc.gatech.edu/~beki/cs4001/history.pdf">Photo Tampering Throughout History</a> <span style="font-size:85%;">(PDF)</span>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.cc.gatech.edu/~beki/cs4001/history.pdf/">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2015-09-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Hany&amp;rft.aulast=Farid&amp;rft.btitle=Photo+Tampering+Throughout+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cc.gatech.edu%2F~beki%2Fcs4001%2Fhistory.pdf%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Rotman-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rotman_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rotman, Brian. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=qQE0OLSIXsEC&amp;pg=PA96&amp;lpg=PA96&amp;dq=photograph+has+an+inherent+verisimilitude&amp;source=bl&amp;ots=jK-70MnrPz&amp;sig=UBZKrOzqpvyLfuqnQLbRO2u4Gew&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi3oqSs5sXKAhXEupQKHRoBD2YQ6AEINzAF#v=onepage&amp;q=photograph%20has%20an%20inherent%20verisimilitude&amp;f=false">Becoming Beside Ourselves: The Alphabet, Ghosts, and Distributed Human Being</a>. Duke University Press. 2008: 96–97. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0822341833" title="Special:网络书源/978-0822341833"><span title="国际标准书号">ISBN</span>&#160;978-0822341833</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Rotman%2C+Brian&amp;rft.btitle=Becoming+Beside+Ourselves%3A+The+Alphabet%2C+Ghosts%2C+and+Distributed+Human+Being&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0822341833&amp;rft.pages=96-97&amp;rft.pub=Duke+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqQE0OLSIXsEC%26pg%3DPA96%26lpg%3DPA96%26dq%3Dphotograph%2Bhas%2Ban%2Binherent%2Bverisimilitude%26source%3Dbl%26ots%3DjK-70MnrPz%26sig%3DUBZKrOzqpvyLfuqnQLbRO2u4Gew%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwi3oqSs5sXKAhXEupQKHRoBD2YQ6AEINzAF%23v%3Donepage%26q%3Dphotograph%2520has%2520an%2520inherent%2520verisimilitude%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Palmquist-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Palmquist_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Peter E. Palmquist, Thomas R. Kailbourn. Pioneer Photographers from the Mississippi to the Continental Divide: A Biographical Dictionary, 1839-1865. Stanford University Press. 2005: 55. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0804740579" title="Special:网络书源/978-0804740579"><span title="国际标准书号">ISBN</span>&#160;978-0804740579</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Peter+E.+Palmquist%2C+Thomas+R.+Kailbourn&amp;rft.btitle=Pioneer+Photographers+from+the+Mississippi+to+the+Continental+Divide%3A+A+Biographical+Dictionary%2C+1839-1865&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-0804740579&amp;rft.pages=55&amp;rft.pub=Stanford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">King, D. <a rel="nofollow" class="external text" href="https://archive.org/details/commissarvanishe0000king">The Commissar Vanishes: the falsification of photographs and art in Stalin's Russia</a>. New York: Metropolitan Books. 1997. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-8050-5294-1" title="Special:网络书源/0-8050-5294-1"><span title="国际标准书号">ISBN</span>&#160;0-8050-5294-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=D.&amp;rft.aulast=King&amp;rft.btitle=The+Commissar+Vanishes%3A+the+falsification+of+photographs+and+art+in+Stalin%27s+Russia&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-8050-5294-1&amp;rft.place=New+York&amp;rft.pub=Metropolitan+Books&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcommissarvanishe0000king&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Ammann-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ammann_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Daniel Ammann. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=0iT5MZqDd5gC&amp;pg=PA228&amp;lpg=PA228&amp;dq=Stalin+had+Trotsky+retouched&amp;source=bl&amp;ots=R7OvH4WMPu&amp;sig=-FF0xqbBolNWp_sxes4PBKdD03Y&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiLgZT768XKAhVBzGMKHbAIDJYQ6AEIUzAK#v=onepage&amp;q=Stalin%20had%20Trotsky%20retouched&amp;f=false">The King of Oil: The Secret Lives of Marc Rich By Daniel Ammann</a>. Macmillan. 2009: 228 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1429986854" title="Special:网络书源/978-1429986854"><span title="国际标准书号">ISBN</span>&#160;978-1429986854</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190513051917/https://books.google.com/books?id=0iT5MZqDd5gC&amp;pg=PA228&amp;lpg=PA228&amp;dq=Stalin+had+Trotsky+retouched&amp;source=bl&amp;ots=R7OvH4WMPu&amp;sig=-FF0xqbBolNWp_sxes4PBKdD03Y&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiLgZT768XKAhVBzGMKHbAIDJYQ6AEIUzAK#v=onepage&amp;q=Stalin%20had%20Trotsky%20retouched&amp;f=false">存档</a>于2019-05-13）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Daniel+Ammann&amp;rft.btitle=The+King+of+Oil%3A+The+Secret+Lives+of+Marc+Rich+By+Daniel+Ammann&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-1429986854&amp;rft.pages=228&amp;rft.pub=Macmillan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0iT5MZqDd5gC%26pg%3DPA228%26lpg%3DPA228%26dq%3DStalin%2Bhad%2BTrotsky%2Bretouched%26source%3Dbl%26ots%3DR7OvH4WMPu%26sig%3D-FF0xqbBolNWp_sxes4PBKdD03Y%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwiLgZT768XKAhVBzGMKHbAIDJYQ6AEIUzAK%23v%3Donepage%26q%3DStalin%2520had%2520Trotsky%2520retouched%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">The Newseum. <a rel="nofollow" class="external text" href="http://www.newseum.org/berlinwall/commissar_vanishes/vanishes.htm"><span style="padding-left:0.2em;">"</span>The Commissar Vanishes" in The Vanishing Commissar</a>. Sep 1, 1999 <span class="reference-accessdate"> &#91;<span class="nowrap">September 30,</span> 2012&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080611034558/http://www.newseum.org/berlinwall/commissar_vanishes/vanishes.htm">存档</a>于2008-06-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=The+Newseum&amp;rft.btitle=%22The+Commissar+Vanishes%22+in+The+Vanishing+Commissar&amp;rft.date=1999-09-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newseum.org%2Fberlinwall%2Fcommissar_vanishes%2Fvanishes.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,812095,00.html">The Press: Pastepot Wonder</a>. <a href="/wiki/%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C" title="时代杂志">时代杂志</a>. Feb 27, 1950 <span class="reference-accessdate"> &#91;<span class="nowrap">24 March</span> 2011&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130624134101/http://www.time.com/time/magazine/article/0,9171,812095,00.html">存档</a>于2013-06-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=The+Press%3A+Pastepot+Wonder&amp;rft.date=1950-02-27&amp;rft.genre=article&amp;rft.jtitle=%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C812095%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xys-reader.org/blogs/yush/?p=6664">伪华南虎照片现原形</a>.  <span class="reference-accessdate"> &#91;2008年5月13日&#93;</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=%E4%BC%AA%E5%8D%8E%E5%8D%97%E8%99%8E%E7%85%A7%E7%89%87%E7%8E%B0%E5%8E%9F%E5%BD%A2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.xys-reader.org%2Fblogs%2Fyush%2F%3Fp%3D6664&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="自2019年3月失效">永久失效链接</span></a>&#93;</span></sup></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080324233214/http://xys.org/xys/ebooks/others/science/dajia8/tiger29.txt">看我，看我，再看我也不吃你！——照片背景证明那只华南虎是假的</a>.  <span class="reference-accessdate"> &#91;2008年5月13日&#93;</span>. （<a rel="nofollow" class="external text" href="http://xys.org/xys/ebooks/others/science/dajia8/tiger29.txt">原始内容</a>存档于2008年3月24日）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=%E7%9C%8B%E6%88%91%EF%BC%8C%E7%9C%8B%E6%88%91%EF%BC%8C%E5%86%8D%E7%9C%8B%E6%88%91%E4%B9%9F%E4%B8%8D%E5%90%83%E4%BD%A0%EF%BC%81%E2%80%94%E2%80%94%E7%85%A7%E7%89%87%E8%83%8C%E6%99%AF%E8%AF%81%E6%98%8E%E9%82%A3%E5%8F%AA%E5%8D%8E%E5%8D%97%E8%99%8E%E6%98%AF%E5%81%87%E7%9A%84&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fxys.org%2Fxys%2Febooks%2Fothers%2Fscience%2Fdajia8%2Ftiger29.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tudou.com/programs/view/Ofvngfl4rPM/">陕西华南虎是纸老虎</a>.  <span class="reference-accessdate"> &#91;2008年5月13日&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20071218195305/http://www.tudou.com/programs/view/Ofvngfl4rPM/">存档</a>于2007年12月18日）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=%E9%99%95%E8%A5%BF%E5%8D%8E%E5%8D%97%E8%99%8E%E6%98%AF%E7%BA%B8%E8%80%81%E8%99%8E&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tudou.com%2Fprograms%2Fview%2FOfvngfl4rPM%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.appledaily.com.tw/appledaily/article/headline/20120817/34446014/">無恥 陸媒做掉我國旗</a>. 苹果日报. 2012-08-17 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-05-11</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20121127174911/http://www.appledaily.com.tw/appledaily/article/headline/20120817/34446014">存档</a>于2012-11-27） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（台湾）网页">（中文（台湾））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=%E7%84%A1%E6%81%A5+%E9%99%B8%E5%AA%92%E5%81%9A%E6%8E%89%E6%88%91%E5%9C%8B%E6%97%97&amp;rft.date=2012-08-17&amp;rft.genre=unknown&amp;rft.pub=%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1&amp;rft_id=http%3A%2F%2Fwww.appledaily.com.tw%2Fappledaily%2Farticle%2Fheadline%2F20120817%2F34446014%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation conference">Carlson, Kathryn; DeLevie, Brian; Oliva, Aude. <a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=1179176">Ethics in image manipulation</a>. ACM SIGGRAPH 2006. International Conference on Computer Graphics and Interactive Techniques. <a href="/wiki/Association_for_Computing_Machinery" class="mw-redirect" title="Association for Computing Machinery">ACM</a>. 2006. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-59593-364-6" title="Special:网络书源/1-59593-364-6"><span title="国际标准书号">ISBN</span>&#160;1-59593-364-6</a>. <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1145%2F1179171.1179176"><span title="数字对象识别号">doi:10.1145/1179171.1179176</span></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=DeLevie%2C+Brian&amp;rft.au=Oliva%2C+Aude&amp;rft.aufirst=Kathryn&amp;rft.aulast=Carlson&amp;rft.btitle=ACM+SIGGRAPH+2006&amp;rft.date=2006&amp;rft.genre=conference&amp;rft.isbn=1-59593-364-6&amp;rft.pub=ACM&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D1179176&amp;rft_id=info%3Adoi%2F10.1145%2F1179171.1179176&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation conference">Reynolds, C. J. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080528064429/http://www.k2.t.u-tokyo.ac.jp/members/carson/papers/reynolds_cepe2007.pdf">Image Act Theory</a> <span style="font-size:85%;">(PDF)</span>. Seventh International Conference of Computer Ethics. July 12–14, 2007 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.k2.t.u-tokyo.ac.jp/members/carson/papers/reynolds_cepe2007.pdf">原始内容</a> <span style="font-size:85%;">(<a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a>)</span>存档于2008-05-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=C.+J.&amp;rft.aulast=Reynolds&amp;rft.btitle=Image+Act+Theory&amp;rft.date=2007-07-12%2F2007-07-14&amp;rft.genre=conference&amp;rft_id=http%3A%2F%2Fwww.k2.t.u-tokyo.ac.jp%2Fmembers%2Fcarson%2Fpapers%2Freynolds_cepe2007.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Mitchell, William J. <a rel="nofollow" class="external text" href="http://www.stanford.edu/class/history34q/readings/Mitchell/MitchellHow.html">How to Do Things with Pictures</a>. The Reconfigured Eye: Visual Truth in the Post-Photographic Era. MIT Press. 1994 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140318031208/http://www.stanford.edu/class/history34q/readings/Mitchell/MitchellHow.html">存档</a>于2014-03-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=How+to+Do+Things+with+Pictures&amp;rft.aufirst=William+J.&amp;rft.aulast=Mitchell&amp;rft.btitle=The+Reconfigured+Eye%3A+Visual+Truth+in+the+Post-Photographic+Era&amp;rft.date=1994&amp;rft.genre=bookitem&amp;rft.pub=MIT+Press&amp;rft_id=http%3A%2F%2Fwww.stanford.edu%2Fclass%2Fhistory34q%2Freadings%2FMitchell%2FMitchellHow.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-NYT-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Fred Ritchin. <a rel="nofollow" class="external text" href="https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html?pagewanted=4">Photography's New Bag Of Tricks</a>. The New York Times Company. November 4, 1984 <span class="reference-accessdate"> &#91;<span class="nowrap">January 6,</span> 2016&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200828204653/https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html?pagewanted=4">存档</a>于2020-08-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Fred+Ritchin&amp;rft.btitle=Photography%27s+New+Bag+Of+Tricks&amp;rft.date=1984-11-04&amp;rft.genre=unknown&amp;rft.pub=The+New+York+Times+Company&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1984%2F11%2F04%2Fmagazine%2Fphotography-s-new-bag-of-tricks.html%3Fpagewanted%3D4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-BRONXDOC-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRONXDOC_18-0"><sup><b>18.0</b></sup></a> <a href="#cite_ref-BRONXDOC_18-1"><sup><b>18.1</b></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alteredimagesbdc.org/national-geographic/">National Geographic — Altered Images</a>. Bronx Documentary Center.  <span class="reference-accessdate"> &#91;<span class="nowrap">January 6,</span> 2016&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201122154141/http://www.alteredimagesbdc.org/national-geographic/">存档</a>于2020-11-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=National+Geographic+%E2%80%94+Altered+Images&amp;rft.genre=unknown&amp;rft.pub=Bronx+Documentary+Center&amp;rft_id=http%3A%2F%2Fwww.alteredimagesbdc.org%2Fnational-geographic%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-NYT2005-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT2005_19-0"><sup><b>19.0</b></sup></a> <a href="#cite_ref-NYT2005_19-1"><sup><b>19.1</b></sup></a></span> <span class="reference-text"><cite class="citation web">Jonathan D. Glater. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2005/03/03/business/media/martha-stewart-gets-new-body-in-newsweek.html?_r=0">Martha Stewart Gets New Body In Newsweek</a>. New York Times. March 3, 2005 <span class="reference-accessdate"> &#91;<span class="nowrap">January 6,</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201119064922/https://www.nytimes.com/2005/03/03/business/media/martha-stewart-gets-new-body-in-newsweek.html?_r=0">存档</a>于2020-11-19）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Jonathan+D.+Glater&amp;rft.btitle=Martha+Stewart+Gets+New+Body+In+Newsweek&amp;rft.date=2005-03-03&amp;rft.genre=unknown&amp;rft.pub=New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2005%2F03%2F03%2Fbusiness%2Fmedia%2Fmartha-stewart-gets-new-body-in-newsweek.html%3F_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-IntlNYT2004-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-IntlNYT2004_20-0"><sup><b>20.0</b></sup></a> <a href="#cite_ref-IntlNYT2004_20-1"><sup><b>20.1</b></sup></a></span> <span class="reference-text"><cite class="citation web">Katie Hefner. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2004/03/11/technology/the-camera-never-lies-but-the-software-can.html">The Camera Never Lies, But The Software Can</a>. The New York Times Company. March 11, 2004 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201118124126/https://www.nytimes.com/2004/03/11/technology/the-camera-never-lies-but-the-software-can.html">存档</a>于2020-11-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Katie+Hefner&amp;rft.btitle=The+Camera+Never+Lies%2C+But+The+Software+Can&amp;rft.date=2004-03-11&amp;rft.genre=unknown&amp;rft.pub=The+New+York+Times+Company&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2004%2F03%2F11%2Ftechnology%2Fthe-camera-never-lies-but-the-software-can.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Photo-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Photo_21-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kitchin, Rob. 6. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZHez2BXgIeQC&amp;pg=PA120">Code/Space: Software and Everyday Life</a>. The MIT Press. 2011: 120. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-262-04248-7" title="Special:网络书源/0-262-04248-7"><span title="国际标准书号">ISBN</span>&#160;0-262-04248-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=6&amp;rft.aufirst=Rob&amp;rft.aulast=Kitchin&amp;rft.btitle=Code%2FSpace%3A+Software+and+Everyday+Life&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft.isbn=0-262-04248-7&amp;rft.pages=120&amp;rft.pub=The+MIT+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZHez2BXgIeQC%26pg%3DPA120&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://nppa.org/code_of_ethics">NPPA Code of Ethics</a>. <a href="/w/index.php?title=National_Press_Photographers_Association&amp;action=edit&amp;redlink=1" class="new" title="National Press Photographers Association（页面不存在）">National Press Photographers Association</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170908003845/https://nppa.org/code_of_ethics">存档</a>于2017-09-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=NPPA+Code+of+Ethics&amp;rft.genre=unknown&amp;rft.pub=National+Press+Photographers+Association&amp;rft_id=https%3A%2F%2Fnppa.org%2Fcode_of_ethics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Lang, Daryl. <a rel="nofollow" class="external text" href="http://www.pdnonline.com/pdn/article_display.jsp?vnu_content_id=1003571795">Blade Editor: Detrich Submitted 79 Altered Photos This Year</a>. <a href="/w/index.php?title=Photo_District_News&amp;action=edit&amp;redlink=1" class="new" title="Photo District News（页面不存在）">Photo District News</a>. April 15, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Blade+Editor%3A+Detrich+Submitted+79+Altered+Photos+This+Year&amp;rft.aufirst=Daryl&amp;rft.aulast=Lang&amp;rft.date=2007-04-15&amp;rft.genre=article&amp;rft.jtitle=Photo+District+News&amp;rft_id=http%3A%2F%2Fwww.pdnonline.com%2Fpdn%2Farticle_display.jsp%3Fvnu_content_id%3D1003571795&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Metzmacher, Dirk. "Smashing Magazine." Smashing Magazine. N.p., n.d. Web. April 16, 2014.</span>
+</li>
+<li id="cite_note-photo-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-photo_25-0"><sup><b>25.0</b></sup></a> <a href="#cite_ref-photo_25-1"><sup><b>25.1</b></sup></a> <a href="#cite_ref-photo_25-2"><sup><b>25.2</b></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-1265676/Britney-Spears-releases-airbrushed-images-digitally-altered-versions.html">Britney Spears bravely agrees to release un-airbrushed images of herself next to the digitally-altered versions</a>. Daily Mail. April 13, 2010 <span class="reference-accessdate"> &#91;<span class="nowrap">March 23,</span> 2012&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201210125942/https://www.dailymail.co.uk/tvshowbiz/article-1265676/Britney-Spears-releases-airbrushed-images-digitally-altered-versions.html">存档</a>于2020-12-10）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Britney+Spears+bravely+agrees+to+release+un-airbrushed+images+of+herself+next+to+the+digitally-altered+versions&amp;rft.date=2010-04-13&amp;rft.genre=article&amp;rft.jtitle=Daily+Mail&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-1265676%2FBritney-Spears-releases-airbrushed-images-digitally-altered-versions.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nydailynews.com/life-style/fashion/ama-takes-stand-photoshop-medical-association-altering-contributes-unrealistic-expectations-article-1.126921#ixzz1QUW2THCf">Photoshop contributes to unrealistic expectations of appropriate body image: AMA</a>. NY Daily News.  <span class="reference-accessdate"> &#91;<span class="nowrap">2016-04-25</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200924113341/https://www.nydailynews.com/life-style/fashion/ama-takes-stand-photoshop-medical-association-altering-contributes-unrealistic-expectations-article-1.126921#ixzz1QUW2THCf">存档</a>于2020-09-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Photoshop+contributes+to+unrealistic+expectations+of+appropriate+body+image%3A+AMA&amp;rft.genre=unknown&amp;rft.jtitle=NY+Daily+News&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Flife-style%2Ffashion%2Fama-takes-stand-photoshop-medical-association-altering-contributes-unrealistic-expectations-article-1.126921%23ixzz1QUW2THCf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://info.umkc.edu/womenc/2012/06/29/keep-it-real-challenge-photoshops-impact-on-body-image/">Keep It Real Challenge: Photoshop's Impact on Body Image</a>. info.umkc.edu. 29 June 2012 <span class="reference-accessdate"> &#91;<span class="nowrap">19 April</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201028175531/https://info.umkc.edu/womenc/2012/06/29/keep-it-real-challenge-photoshops-impact-on-body-image/">存档</a>于2020-10-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Keep+It+Real+Challenge%3A+Photoshop%27s+Impact+on+Body+Image&amp;rft.date=2012-06-29&amp;rft.genre=unknown&amp;rft.jtitle=info.umkc.edu&amp;rft_id=http%3A%2F%2Finfo.umkc.edu%2Fwomenc%2F2012%2F06%2F29%2Fkeep-it-real-challenge-photoshops-impact-on-body-image%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Roberts, Soraya. <a rel="nofollow" class="external text" href="http://ca.omg.yahoo.com/blogs/the-juice-celeb-news/cate-blanchett-goes-without-digital-enhancement-cover-intelligent-154517034.html">Cate Blanchett goes without digital enhancement on the cover of Intelligent Life</a>. The Juice.  <span class="reference-accessdate"> &#91;<span class="nowrap">March 22,</span> 2012&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120325021940/http://ca.omg.yahoo.com/blogs/the-juice-celeb-news/cate-blanchett-goes-without-digital-enhancement-cover-intelligent-154517034.html">存档</a>于2012-03-25）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Soraya&amp;rft.aulast=Roberts&amp;rft.btitle=Cate+Blanchett+goes+without+digital+enhancement+on+the+cover+of+Intelligent+Life&amp;rft.genre=unknown&amp;rft.pub=The+Juice&amp;rft_id=http%3A%2F%2Fca.omg.yahoo.com%2Fblogs%2Fthe-juice-celeb-news%2Fcate-blanchett-goes-without-digital-enhancement-cover-intelligent-154517034.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://selfesteem.dove.us/Articles/Video/Evolution_video_how_images_of_beauty_are_manipulated_by_the_media.aspx">The Evolution Video – Dove Self Esteem Project</a>. selfesteem.dove.us. 2 June 2013 <span class="reference-accessdate"> &#91;<span class="nowrap">1 May</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170909052844/http://selfesteem.dove.us/Articles/Video/Evolution_video_how_images_of_beauty_are_manipulated_by_the_media.aspx">存档</a>于2017-09-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=The+Evolution+Video+%E2%80%93+Dove+Self+Esteem+Project&amp;rft.date=2013-06-02&amp;rft.genre=unknown&amp;rft.jtitle=selfesteem.dove.us&amp;rft_id=http%3A%2F%2Fselfesteem.dove.us%2FArticles%2FVideo%2FEvolution_video_how_images_of_beauty_are_manipulated_by_the_media.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170129204635/https://www.ae.com/featured-aeriereal/aerie/s-cat/6890055">Aerie for American Eagle</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">1 May</span> 2015&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.ae.com/featured-aeriereal/aerie/s-cat/6890055">原始内容</a>存档于2017-01-29）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=Aerie+for+American+Eagle&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ae.com%2Ffeatured-aeriereal%2Faerie%2Fs-cat%2F6890055&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news">Krupnick, Ellie. <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2014/01/17/aerie-unretouched-ads-photos_n_4618139.html">Aerie's Unretouched Ads 'Challenge Supermodel Standards' For Young Women</a>. The Huffington Post. 17 January 2014 <span class="reference-accessdate"> &#91;<span class="nowrap">1 May</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180915021157/https://www.huffingtonpost.com/2014/01/17/aerie-unretouched-ads-photos_n_4618139.html">存档</a>于2018-09-15）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Aerie%27s+Unretouched+Ads+%27Challenge+Supermodel+Standards%27+For+Young+Women&amp;rft.aufirst=Ellie&amp;rft.aulast=Krupnick&amp;rft.date=2014-01-17&amp;rft.genre=article&amp;rft.jtitle=The+Huffington+Post&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2014%2F01%2F17%2Faerie-unretouched-ads-photos_n_4618139.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ama-assn.org/ama/pub/news/news/a11-new-policies.page">AMA Adopts New Policies at Annual Meeting</a>. ama-assn.org. 21 June 2011 <span class="reference-accessdate"> &#91;<span class="nowrap">19 April</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013084151/http://www.ama-assn.org/ama/pub/news/news/a11-new-policies.page">存档</a>于2016-10-13）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=AMA+Adopts+New+Policies+at+Annual+Meeting&amp;rft.date=2011-06-21&amp;rft.genre=unknown&amp;rft.jtitle=ama-assn.org&amp;rft_id=http%3A%2F%2Fwww.ama-assn.org%2Fama%2Fpub%2Fnews%2Fnews%2Fa11-new-policies.page&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Zhang, Michael. <a rel="nofollow" class="external text" href="http://www.petapixel.com/2011/07/27/julia-roberts-makeup-ads-banned-in-uk-for-too-much-photoshop/">Julia Roberts Makeup Ads Banned in UK for Too Much Photoshop</a>. PetaPixel.  <span class="reference-accessdate"> &#91;<span class="nowrap">July 27,</span> 2011&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201111220657/https://petapixel.com/2011/07/27/julia-roberts-makeup-ads-banned-in-uk-for-too-much-photoshop/">存档</a>于2020-11-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Michael&amp;rft.aulast=Zhang&amp;rft.btitle=Julia+Roberts+Makeup+Ads+Banned+in+UK+for+Too+Much+Photoshop&amp;rft.genre=unknown&amp;rft.pub=PetaPixel&amp;rft_id=http%3A%2F%2Fwww.petapixel.com%2F2011%2F07%2F27%2Fjulia-roberts-makeup-ads-banned-in-uk-for-too-much-photoshop%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Anthony, Sebastian. <a rel="nofollow" class="external text" href="http://www.extremetech.com/extreme/109375-us-bans-photoshop-use-in-cosmetics-ads">US watchdog bans photoshopping in cosmetics ads</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">December 16,</span> 2011&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201111213830/http://www.extremetech.com/extreme/109375-us-bans-photoshop-use-in-cosmetics-ads">存档</a>于2020-11-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Sebastian&amp;rft.aulast=Anthony&amp;rft.btitle=US+watchdog+bans+photoshopping+in+cosmetics+ads&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.extremetech.com%2Fextreme%2F109375-us-bans-photoshop-use-in-cosmetics-ads&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nymag.com/thecut/2010/08/photoshop_retouching.html">In Defense of Photoshop: Why Retouching Isn't As Evil As Everyone Thinks</a>. The Cut. 29 August 2010 <span class="reference-accessdate"> &#91;<span class="nowrap">19 April</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170522054605/http://nymag.com/thecut/2010/08/photoshop_retouching.html">存档</a>于2017-05-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=In+Defense+of+Photoshop%3A+Why+Retouching+Isn%27t+As+Evil+As+Everyone+Thinks&amp;rft.date=2010-08-29&amp;rft.genre=unknown&amp;rft.jtitle=The+Cut&amp;rft_id=http%3A%2F%2Fnymag.com%2Fthecut%2F2010%2F08%2Fphotoshop_retouching.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prweb.com/releases/2013/11/prweb11361783.htm">Women Need Further Educating Into Extent of Digital Manipulation of Mo</a>. prweb.com. 26 November 2013 <span class="reference-accessdate"> &#91;<span class="nowrap">19 April</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190906042531/http://www.prweb.com/releases/2013/11/prweb11361783.htm">存档</a>于2019-09-06）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Women+Need+Further+Educating+Into+Extent+of+Digital+Manipulation+of+Mo&amp;rft.date=2013-11-26&amp;rft.genre=unknown&amp;rft.jtitle=prweb.com&amp;rft_id=http%3A%2F%2Fwww.prweb.com%2Freleases%2F2013%2F11%2Fprweb11361783.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/femail/article-2048375/Self-Esteem-Act-US-parents-push-anti-Photoshop-laws-advertising.html">The Self Esteem Act: Parents Push for Anti-Photoshop Law in U.S. to Protect Teens from Unrealistic Body Image Ideals</a>. Associated Newspapers (Daily Mail Online). 12 October 2011 <span class="reference-accessdate"> &#91;<span class="nowrap">19 April</span> 2015&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20201114001809/https://www.dailymail.co.uk/femail/article-2048375/Self-Esteem-Act-US-parents-push-anti-Photoshop-laws-advertising.html">存档</a>于2020-11-14）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=The+Self+Esteem+Act%3A+Parents+Push+for+Anti-Photoshop+Law+in+U.S.+to+Protect+Teens+from+Unrealistic+Body+Image+Ideals&amp;rft.date=2011-10-12&amp;rft.genre=article&amp;rft.jtitle=Associated+Newspapers&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ffemail%2Farticle-2048375%2FSelf-Esteem-Act-US-parents-push-anti-Photoshop-laws-advertising.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Susan_Sontag" class="mw-redirect" title="Susan Sontag">Sontag, Susan</a>. <a href="/w/index.php?title=On_Photography&amp;action=edit&amp;redlink=1" class="new" title="On Photography（页面不存在）">On Photography</a>. 1977: <a rel="nofollow" class="external text" href="https://archive.org/details/onphotography00sont/page/4">4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Susan&amp;rft.aulast=Sontag&amp;rft.btitle=On+Photography&amp;rft.date=1977&amp;rft.genre=book&amp;rft.pages=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web">L. Boutwell, Allison. <a rel="nofollow" class="external text" href="http://allisonlboutwell.wordpress.com/2012/02/05/photoshopapositiveandnegativeinnovation/">Photoshop: A Positive and Negative Innovation</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150726093843/https://allisonlboutwell.wordpress.com/2012/02/05/photoshopapositiveandnegativeinnovation/">存档</a>于2015-07-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Allison&amp;rft.aulast=L.+Boutwell&amp;rft.btitle=Photoshop%3A+A+Positive+and+Negative+Innovation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fallisonlboutwell.wordpress.com%2F2012%2F02%2F05%2Fphotoshopapositiveandnegativeinnovation%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210803070937/https://www.bbc.com/news/newsbeat-57721080">Influencers react to Norway photo edit law: 'Welcome honesty' or a 'shortcut'?</a>. BBC. 2021-07-06 <span class="reference-accessdate"> &#91;<span class="nowrap">2021-07-08</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.bbc.com/news/newsbeat-57721080">原始内容</a>存档于2021-08-03） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Influencers+react+to+Norway+photo+edit+law%3A+%27Welcome+honesty%27+or+a+%27shortcut%27%3F&amp;rft.date=2021-07-06&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fnewsbeat-57721080&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation book">Rodriguez, Edward. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=K9RF1eCK3ccC&amp;pg=PT127">Computer Graphic Artist</a>. Netlibrary. 2008: 163 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/81-89940-42-2" title="Special:网络书源/81-89940-42-2"><span title="国际标准书号">ISBN</span>&#160;81-89940-42-2</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140329034725/http://books.google.com/books?id=K9RF1eCK3ccC&amp;pg=PT127">存档</a>于2014-03-29）. <q>The term photoshopping is a neologism, meaning "editing an image", regardless of the program used.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Edward&amp;rft.aulast=Rodriguez&amp;rft.btitle=Computer+Graphic+Artist&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=81-89940-42-2&amp;rft.pages=163&amp;rft.pub=Netlibrary&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DK9RF1eCK3ccC%26pg%3DPT127&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation book">Geelan, David. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gIl5hit-RywC&amp;pg=PA146&amp;dq=photoshopping+intitle:Undead+intitle:Theories+intitle:Constructivism">Undead Theories: Constructivism, Eclecticism And Research in Education</a>. Sense Publisher. 2006: 146 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/90-77874-31-3" title="Special:网络书源/90-77874-31-3"><span title="国际标准书号">ISBN</span>&#160;90-77874-31-3</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200819111016/https://books.google.com/books?id=gIl5hit-RywC&amp;pg=PA146&amp;dq=photoshopping+intitle:Undead+intitle:Theories+intitle:Constructivism">存档</a>于2020-08-19）. <q>And with digital photography, there is also the possibility of photoshopping – digitally editing the representation to make it more aesthetically pleasing, or to change decisions about framing.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=David&amp;rft.aulast=Geelan&amp;rft.btitle=Undead+Theories%3A+Constructivism%2C+Eclecticism+And+Research+in+Education&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=90-77874-31-3&amp;rft.pages=146&amp;rft.pub=Sense+Publisher&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgIl5hit-RywC%26pg%3DPA146%26dq%3Dphotoshopping%2Bintitle%3AUndead%2Bintitle%3ATheories%2Bintitle%3AConstructivism&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation book">Laurence M. Deutsch. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=8QqrCPzDnxAC&amp;pg=PA382&amp;dq=photoshopping+shopping">Medical Records for Attorneys</a>. ALI-ABA. 2001 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780831808174" title="Special:网络书源/9780831808174"><span title="国际标准书号">ISBN</span>&#160;9780831808174</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200924170811/https://books.google.com/books?id=8QqrCPzDnxAC&amp;pg=PA382&amp;dq=photoshopping+shopping">存档</a>于2020-09-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Laurence+M.+Deutsch&amp;rft.btitle=Medical+Records+for+Attorneys&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=9780831808174&amp;rft.pub=ALI-ABA&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8QqrCPzDnxAC%26pg%3DPA382%26dq%3Dphotoshopping%2Bshopping&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-AS-PR-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-AS-PR_44-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.adobe.com/aboutadobe/pressroom/pressmaterials/pdfs/photoshop_guidelines_pr.pdf">Use Of The Photoshop Trademark</a> <span style="font-size:85%;">(PDF)</span> (新闻稿). Adobe Systems Incorporated.  <span class="reference-accessdate"> &#91;<span class="nowrap">February 2,</span> 2016&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190620093859/https://www.adobe.com/aboutadobe/pressroom/pressmaterials/pdfs/photoshop_guidelines_pr.pdf">存档</a> <span style="font-size:85%;">(PDF)</span>于2019-06-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.btitle=Use+Of+The+Photoshop+Trademark&amp;rft.genre=unknown&amp;rft.pub=Adobe+Systems+Incorporated&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Faboutadobe%2Fpressroom%2Fpressmaterials%2Fpdfs%2Fphotoshop_guidelines_pr.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-io9-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-io9_45-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Katharine Trendacosta. <a rel="nofollow" class="external text" href="https://io9.gizmodo.com/here-is-adobes-attempt-to-stop-people-from-using-the-te-1726724005">Here Is Adobe's Attempt to Stop People From Using the Term "Photoshop" All Willy-Nilly</a>. Gawker Media. August 26, 2015 <span class="reference-accessdate"> &#91;<span class="nowrap">February 2,</span> 2016&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200806061040/https://io9.gizmodo.com/here-is-adobes-attempt-to-stop-people-from-using-the-te-1726724005">存档</a>于2020-08-06）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.au=Katharine+Trendacosta&amp;rft.btitle=Here+Is+Adobe%27s+Attempt+to+Stop+People+From+Using+the+Term+%22Photoshop%22+All+Willy-Nilly&amp;rft.date=2015-08-26&amp;rft.genre=unknown&amp;rft.pub=Gawker+Media&amp;rft_id=http%3A%2F%2Fio9.gizmodo.com%2Fhere-is-adobes-attempt-to-stop-people-from-using-the-te-1726724005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-BIPLJ-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-BIPLJ_46-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">John Dwight Ingram. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170202001336/http://wings.buffalo.edu/law/biplj/biplj223.pdf">The Genericide of Trademarks</a> <span style="font-size:85%;">(PDF)</span>. Buffalo Intellectual Property Law Journal (State University of New York). 2004, <b>2</b> (2) <span class="reference-accessdate"> &#91;<span class="nowrap">February 2,</span> 2016&#93;</span>. （<a rel="nofollow" class="external text" href="http://wings.buffalo.edu/law/biplj/biplj223.pdf">原始内容</a> <span style="font-size:85%;">(PDF)</span>存档于2017-02-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=The+Genericide+of+Trademarks&amp;rft.au=John+Dwight+Ingram&amp;rft.date=2004&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Buffalo+Intellectual+Property+Law+Journal&amp;rft.volume=2&amp;rft_id=http%3A%2F%2Fwings.buffalo.edu%2Flaw%2Fbiplj%2Fbiplj223.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web">Blatner, David. <a rel="nofollow" class="external text" href="http://www.macworld.com/2000/08/bc/28photoshop/">Photoshop: It's Not Just a Program Anymore</a>. <a href="/wiki/Macworld" title="Macworld">Macworld</a>. August 1, 2000 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20050315125811/http://www.macworld.com/2000/08/bc/28photoshop/">存档</a>于2005-03-15）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Photoshop%3A+It%27s+Not+Just+a+Program+Anymore&amp;rft.aufirst=David&amp;rft.aulast=Blatner&amp;rft.date=2000-08-01&amp;rft.genre=unknown&amp;rft.jtitle=Macworld&amp;rft_id=http%3A%2F%2Fwww.macworld.com%2F2000%2F08%2Fbc%2F28photoshop%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://safari.adobepress.com/0321336585/ch02">Photoshop Essentials</a>. Graphic Design Portfolio-Builder: Adobe Photoshop and Adobe Illustrator Projects. Peachpit Press. August 15, 2005 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-04-30</span>&#93;</span>. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-321-33658-3" title="Special:网络书源/978-0-321-33658-3"><span title="国际标准书号">ISBN</span>&#160;978-0-321-33658-3</a>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080323084333/http://safari.adobepress.com/0321336585/ch02">存档</a>于2008-03-23）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.atitle=Photoshop+Essentials&amp;rft.btitle=Graphic+Design+Portfolio-Builder%3A+Adobe+Photoshop+and+Adobe+Illustrator+Projects&amp;rft.date=2005-08-15&amp;rft.genre=bookitem&amp;rft.isbn=978-0-321-33658-3&amp;rft.pub=Peachpit+Press&amp;rft_id=http%3A%2F%2Fsafari.adobepress.com%2F0321336585%2Fch02&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".E5.BB.B6.E4.BC.B8.E9.96.B1.E8.AE.80"></span><span class="mw-headline" id="延伸閱讀">延伸阅读</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=17" title="编辑章节：延伸阅读"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Ades, Dawn. <a rel="nofollow" class="external text" href="https://archive.org/details/photomontage0000ades">Photomontage</a>. London, UK: Thames &amp; Hudson. 1986. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-500-20208-7" title="Special:网络书源/0-500-20208-7"><span title="国际标准书号">ISBN</span>&#160;0-500-20208-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;rft.aufirst=Dawn&amp;rft.aulast=Ades&amp;rft.btitle=Photomontage&amp;rft.date=1986&amp;rft.genre=book&amp;rft.isbn=0-500-20208-7&amp;rft.place=London%2C+UK&amp;rft.pub=Thames+%26+Hudson&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fphotomontage0000ades&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Achraf_Baznani" class="mw-redirect" title="Achraf Baznani">Achraf Baznani</a>, <i>History of Surrealism</i>. Edilivre, France 2018, <small><a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9782414215102" class="internal mw-magiclink-isbn">ISBN 978-2-414-21510-2</a></small></li></ul>
+<h2><span id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90"></span><span class="mw-headline" id="外部連結">外部链接</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;action=edit&amp;section=18" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png" decoding="async" width="40" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/80px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></span></span></td>
+<td class="mbox-text plainlist">查看<a href="/wiki/%E7%BB%B4%E5%9F%BA%E8%AF%8D%E5%85%B8" title="维基词典">维基词典</a>中的词条“<b><a href="https://zh.wiktionary.org/wiki/photoshop" class="extiw" title="wikt:photoshop">photoshop</a></b>”。</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9;font-size:small;">
+<tbody><tr>
+<td class="mbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></td>
+<td class="mbox-text plainlist"><a href="/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90" title="维基共享资源">维基共享资源</a>上的相关多媒体资源：<a href="https://commons.wikimedia.org/wiki/Category:Photo_manipulation" class="extiw" title="commons:Category:Photo manipulation"><span style="font-weight:bold;">修饰照片</span></a></td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100804022639/http://www.cs.dartmouth.edu/farid/research/digitaltampering/">Digital Tampering in the Media, Politics and Law</a> – a collection of digitally manipulated photos of political interest</li>
+<li><a rel="nofollow" class="external text" href="http://www.museumofhoaxes.com/hoax/photo_database">Hoax Photo Gallery</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20140713021418/http://www.museumofhoaxes.com/hoax/photo_database">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） – more manipulated photos</li>
+<li><a rel="nofollow" class="external text" href="http://pyramids.at/library/image%20manipulation.php">Erased figures in Kagemni's tomb</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20200806103316/http://pyramids.at/library/image%20manipulation.php">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>） — discusses political image manipulation with an example from Ancient Egypt</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐75659f4dd‐mlz2q
+Cached time: 20240331013047
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.897 seconds
+Real time usage: 1.041 seconds
+Preprocessor visited node count: 3680/1000000
+Post‐expand include size: 314867/2097152 bytes
+Template argument size: 2104/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 72025/5000000 bytes
+Lua time usage: 0.418/10.000 seconds
+Lua memory usage: 6084049/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  737.375      1 -total
+ 51.77%  381.713      1 Template:Reflist
+ 23.35%  172.198     25 Template:Cite_web
+ 11.61%   85.617      1 Template:NoteTA
+  9.32%   68.710     12 Template:Cite_book
+  8.85%   65.290      2 Template:Sister_project
+  8.78%   64.708      1 Template:翻譯品質不佳
+  8.50%   62.662      2 Template:Side_box
+  8.06%   59.439      1 Template:Ambox
+  7.98%   58.818      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:5666450-0!userlang=zh-cn!zh-cn and timestamp 20240331013047 and revision id 80413127. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=修飾照片&amp;oldid=80413127">https://zh.wikipedia.org/w/index.php?title=修飾照片&amp;oldid=80413127</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E6%95%B8%E4%BD%8D%E8%97%9D%E8%A1%93" title="Category:數位藝術">数位艺术</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E8%87%AA2019%E5%B9%B43%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2019年3月带有失效链接的条目">自2019年3月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E6%9D%A1%E7%9B%AE%E6%9C%89%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%95%88%E7%9A%84%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5" title="Category:条目有永久失效的外部链接">条目有永久失效的外部链接</a></li><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li><li><a href="/wiki/Category:%E7%B2%97%E5%8A%A3%E7%BF%BB%E8%AF%91" title="Category:粗劣翻译">粗劣翻译</a></li><li><a href="/wiki/Category:%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90%E5%88%86%E7%B1%BB%E9%93%BE%E6%8E%A5%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BB%B4%E5%9F%BA%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9A%84%E5%8C%B9%E9%85%8D%E9%A1%B9" title="Category:维基共享资源分类链接使用了维基数据上的匹配项">维基共享资源分类链接使用了维基数据上的匹配项</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年1月8日 (星期一) 08:06。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68b5764d7d-lkgrc","wgBackendResponseTime":197,"wgPageParseReport":{"limitreport":{"cputime":"0.897","walltime":"1.041","ppvisitednodes":{"value":3680,"limit":1000000},"postexpandincludesize":{"value":314867,"limit":2097152},"templateargumentsize":{"value":2104,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":72025,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  737.375      1 -total"," 51.77%  381.713      1 Template:Reflist"," 23.35%  172.198     25 Template:Cite_web"," 11.61%   85.617      1 Template:NoteTA","  9.32%   68.710     12 Template:Cite_book","  8.85%   65.290      2 Template:Sister_project","  8.78%   64.708      1 Template:翻譯品質不佳","  8.50%   62.662      2 Template:Side_box","  8.06%   59.439      1 Template:Ambox","  7.98%   58.818      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.418","limit":"10.000"},"limitreport-memusage":{"value":6084049,"limit":52428800}},"cachereport":{"origin":"mw-api-int.eqiad.main-75659f4dd-mlz2q","timestamp":"20240331013047","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u4fee\u98fe\u7167\u7247","url":"https:\/\/zh.wikipedia.org\/wiki\/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q141130","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q141130","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-04-30T07:30:54Z","dateModified":"2024-01-08T08:06:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/Blue_Glass_Ashtray.jpg","headline":"\u5c0d\u7167\u7247\u9032\u884c\u7de8\u8f2f\u7684\u52d5\u4f5c"}</script>
+</body>
+</html>

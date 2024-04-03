@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>聊天机器人 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"4b2690de-7cb8-4e69-858a-f24feb825dd6","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"聊天機器人","wgTitle":"聊天機器人","wgCurRevisionId":81213338,"wgRevisionId":81213338,"wgArticleId":5374398,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有哈佛参考文献格式系列模板链接指向错误的页面","引文格式1错误：日期","自2024年3月带有失效链接的条目","引文格式1维护：未识别语文类型","CS1英语来源 (en)","即時通訊","聊天机器人","交互式叙事","語言模型","大型语言模型","人工智能","人工智能应用","基于转换器的生成式预训练模型"],"wgPageViewLanguage":"zh-cn","wgPageContentLanguage":"zh-cn",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"聊天機器人","wgRelevantArticleId":5374398,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"中文（中国大陆）","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q870780","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands",
+"fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0",
+"ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="聊天机器人 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-聊天機器人 rootpage-聊天機器人 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh-hans.svg" style="width: 6.5625em; height: 1.4375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh-hans.svg" width="102" height="14" style="width: 6.375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="搜索维基百科[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="外观">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="建议你登录，尽管并非必须。[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-背景"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#背景">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>背景</div>
+		</a>
+		
+		<ul id="toc-背景-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-歷史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#歷史">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>历史</div>
+		</a>
+		
+		<ul id="toc-歷史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-使用於對話系統"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#使用於對話系統">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>使用于对话系统</div>
+		</a>
+		
+			<button aria-controls="toc-使用於對話系統-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>开关使用于对话系统子章节</span>
+			</button>
+		
+		<ul id="toc-使用於對話系統-sublist" class="vector-toc-list">
+			<li id="toc-通訊平台"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#通訊平台">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>通讯平台</div>
+			</a>
+			
+			<ul id="toc-通訊平台-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-教育"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#教育">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>教育</div>
+			</a>
+			
+			<ul id="toc-教育-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-聊天机器人列表"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#聊天机器人列表">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>聊天机器人列表</div>
+		</a>
+		
+		<ul id="toc-聊天机器人列表-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参见"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参见">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>参见</div>
+		</a>
+		
+		<ul id="toc-参见-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-參考資料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#參考資料">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>参考资料</div>
+		</a>
+		
+		<ul id="toc-參考資料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading" lang="zh-Hans-CN" dir="ltr"><span class="mw-page-title-main">聊天机器人</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。64种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-64" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">64种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Kletsbot" title="Kletsbot – 南非荷兰语" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%AA_%D8%AF%D8%B1%D8%AF%D8%B4%D8%A9" title="بوت دردشة – 阿拉伯语" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C3%87atbot" title="Çatbot – 阿塞拜疆语" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Chatbot" title="Chatbot – 巴伐利亞文" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B0%D1%82%D0%B1%D0%BE%D1%82" title="Чатбот – 保加利亚语" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%9A%E0%A5%88%E0%A4%9F%E0%A4%AC%E0%A5%89%E0%A4%9F" title="चैटबॉट – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AC%E0%A6%9F" title="চ্যাটবট – 孟加拉语" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/%C4%8Cet-bot" title="Čet-bot – 波斯尼亚语" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Bot_de_conversa" title="Bot de conversa – 加泰罗尼亚语" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%DA%86%D8%A7%D8%AA%D8%A8%DB%86%D8%AA" title="چاتبۆت – 中库尔德语" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Chatbot" title="Chatbot – 捷克语" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Chatbot" title="Chatbot – 丹麦语" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Chatbot" title="Chatbot – 德语" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Chatbot" title="Chatbot – 英语" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Babilroboto" title="Babilroboto – 世界语" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Bot_conversacional" title="Bot conversacional – 西班牙语" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Juturobot" title="Juturobot – 爱沙尼亚语" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Txatbot" title="Txatbot – 巴斯克语" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AA_%D9%85%DA%A9%D8%A7%D9%84%D9%85%D9%87" title="بات مکالمه – 波斯语" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Keskustelubotti" title="Keskustelubotti – 芬兰语" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Chatbot" title="Chatbot – 法语" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A6%27%D7%90%D7%98%D7%91%D7%95%D7%98" title="צ&#039;אטבוט – 希伯来语" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Chatbot" title="Chatbot – 克罗地亚语" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Chatbot" title="Chatbot – 匈牙利语" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%89%D5%A1%D5%BF%D5%A2%D5%B8%D5%BF" title="Չատբոտ – 亚美尼亚语" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Bot_percakapan" title="Bot percakapan – 印度尼西亚语" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Spjallmenni" title="Spjallmenni – 冰岛语" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Chat_bot" title="Chat bot – 意大利语" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88" title="チャットボット – 日语" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%9A%E0%B2%BE%E0%B2%9F%E0%B3%8D%E2%80%8C%E0%B2%AC%E0%B2%BE%E0%B2%9F%E0%B3%8D" title="ಚಾಟ್‌ಬಾಟ್ – 卡纳达语" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B1%97%EB%B4%87" title="챗봇 – 韩语" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A7%D0%B0%D1%82_%D0%B1%D0%BE%D1%82" title="Чат бот – 柯尔克孜语" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Pokalbi%C5%B3_robotas" title="Pokalbių robotas – 立陶宛语" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Sarunbots" title="Sarunbots – 拉脱维亚语" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B5%D0%BB%D0%B5%D0%BD_%D1%81%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%B8%D0%BA" title="Виртуелен соговорник – 马其顿语" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%AC%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D" title="ചാറ്റ്ബോട്ട് – 马拉雅拉姆语" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Chatbot" title="Chatbot – 荷兰语" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Samtalerobot" title="Samtalerobot – 挪威尼诺斯克语" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Chatbot" title="Chatbot – 书面挪威语" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9A%E0%A9%88%E0%A8%9F%E0%A8%AC%E0%A9%8B%E0%A8%9F" title="ਚੈਟਬੋਟ – 旁遮普语" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pap mw-list-item"><a href="https://pap.wikipedia.org/wiki/Chatbot" title="Chatbot – 帕皮阿门托语" lang="pap" hreflang="pap" class="interlanguage-link-target"><span>Papiamentu</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Chatbot" title="Chatbot – 波兰语" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Chatterbot" title="Chatterbot – 葡萄牙语" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Rimanakuy_punqu" title="Rimanakuy punqu – 克丘亚语" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Chatbot" title="Chatbot – 罗马尼亚语" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA" title="Виртуальный собеседник – 俄语" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Bot_pi_ciaccirari" title="Bot pi ciaccirari – 西西里语" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Chatterbot" title="Chatterbot – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Konverza%C4%8Dn%C3%BD_robot" title="Konverzačný robot – 斯洛伐克语" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Chatboti" title="Chatboti – 阿尔巴尼亚语" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82-%D0%B1%D0%BE%D1%82" title="Чет-бот – 塞尔维亚语" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Textrobot" title="Textrobot – 瑞典语" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Chatbot" title="Chatbot – 斯瓦希里语" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B0%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AE%BF_(%E0%AE%AE%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D)" title="அரட்டை இயலி (மென்பொருள்) – 泰米尔语" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%9A%E0%B0%BE%E0%B0%9F%E0%B1%8D%E2%80%8C%E0%B0%AC%E0%B0%BE%E0%B0%9F%E0%B1%8D" title="చాట్‌బాట్ – 泰卢固语" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2" title="จักรกลสนทนา – 泰语" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sohbet_botu" title="Sohbet botu – 土耳其语" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-ug mw-list-item"><a href="https://ug.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%D8%A7%DA%AD%DA%86%D9%89" title="پاراڭچى – 维吾尔语" lang="ug" hreflang="ug" class="interlanguage-link-target"><span>ئۇيغۇرچە / Uyghurche</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%82-%D0%B1%D0%BE%D1%82" title="Чат-бот – 乌克兰语" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Chatbot" title="Chatbot – 越南语" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA" title="聊天机器人 – 吴语" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Khai-k%C3%A1ng_ke-kh%C3%AC-l%C3%A2ng" title="Khai-káng ke-khì-lâng – 闽南语" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%82%BE%E5%81%88%E6%A9%9F%E6%A2%B0%E4%BA%BA" title="傾偈機械人 – 粤语" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zu mw-list-item"><a href="https://zu.wikipedia.org/wiki/Isiqavithi" title="Isiqavithi – 祖鲁语" lang="zu" hreflang="zu" class="interlanguage-link-target"><span>IsiZulu</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q870780#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="浏览条目正文[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" rel="discussion" title="关于此页面的讨论[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown "   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">大陆简体</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="ca-variants-zh mw-list-item"><a href="/zh/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=history" title="本页面的早前版本。[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"   lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项"  lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA" rel="nofollow" title="页面链出所有页面的更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;oldid=81213338" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;id=81213338&amp;wpFormIdentifier=titleform" title="关于如何引用本页的信息"><span>引用本页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2581%258A%25E5%25A4%25A9%25E6%25A9%259F%25E5%2599%25A8%25E4%25BA%25BA"><span>获取短URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E8%2581%258A%25E5%25A4%25A9%25E6%25A9%259F%25E5%2599%25A8%25E4%25BA%25BA"><span>下载二维码</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q870780" title="链接到连接的数据仓库项目[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"   lang="zh-Hans-CN" dir="ltr">
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chatbots" hreflang="en"><span>维基共享资源</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="外观">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub" lang="zh-Hans-CN" dir="ltr"><div id="mw-content-subtitle" lang="zh-Hans-CN" dir="ltr"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh-Hans-CN" dir="ltr"><p><b>聊天机器人</b>（ChatBot）是由对话或文字进行交谈的计算机程序<sup id="cite_ref-target_1-0" class="reference"><a href="#cite_note-target-1">&#91;1&#93;</a></sup>，能够模拟人类对话并通过<a href="/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95" title="图灵测试">图灵测试</a>，也可具备实用性，如客户服务或资讯获取。
+</p><p>有些聊天机器人会搭载<a href="/wiki/%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86" class="mw-redirect" title="自然语言处理">自然语言处理</a>系统，但大多简单的系统只会撷取输入的关键字，再从<a href="/wiki/%E8%AA%9E%E6%96%99%E5%BA%AB" class="mw-redirect" title="语料库">语料库</a>中找寻最合适的应答句。目前，聊天机器人是<a href="/wiki/%E8%99%9B%E6%93%AC%E5%8A%A9%E7%90%86" title="虚拟助理">虚拟助理</a>的一部分，可以与许多组织的应用程序、网站和通讯平台连接<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。非助理应用程序包括娱乐目的的聊天室，研究和特定产品促销，<a href="/wiki/%E7%A4%BE%E4%BA%A4%E6%A9%9F%E5%99%A8%E4%BA%BA" title="社交机器人">社交机器人</a>等。
+</p><p>由于<a href="/wiki/OpenAI" title="OpenAI">OpenAI</a>的<a href="/wiki/ChatGPT" title="ChatGPT">ChatGPT</a>（使用 <a href="/wiki/GPT-3" title="GPT-3">GPT-3</a> 或 <a href="/wiki/GPT-4" title="GPT-4">GPT-4</a>)2022年12月的发布和流行，该领域获得了广泛关注。 不久，<a href="/wiki/%E5%BE%AE%E8%BD%AF" title="微软">微软</a>推出<a href="/wiki/Microsoft_Bing#集成OpenAI语言模型" title="Microsoft Bing"> Bing chat </a>（使用 OpenAI 的 GPT-4）， <a href="/wiki/%E8%B0%B7%E6%AD%8C" class="mw-redirect" title="谷歌">谷歌</a>推出<a href="/wiki/Bard_(%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)" class="mw-redirect" title="Bard (聊天机器人)">Bard </a>。随后，许多公司和机构相继推出了<a href="/wiki/%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B" title="大型语言模型">大语言模型</a>和聊天机器人。
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id=".E8.83.8C.E6.99.AF"></span><span class="mw-headline" id="背景">背景</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=1" title="编辑章节：背景"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2><p>
+1950年，<a href="/wiki/%E5%9B%BE%E7%81%B5" class="mw-redirect" title="图灵">图灵</a>完成论文《计算机器和智能》（Computing Machinery and Intelligence）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>，提问“机器会思考吗？”（Can Machines Think?），并且提出现在所谓的<a href="/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95" title="图灵测试">图灵测试</a>作为判定机器是否具有智能的标准。这个标准建立于计算机程序虚拟真人与裁判进行即时对话，裁判仅根据对话的内容，无法确认谈话的对象是程式还是真人。图灵测试的知名，激发了对于<a href="/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%BB%B4%E6%A3%AE%E9%B2%8D%E5%A7%86" title="约瑟夫·维森鲍姆">约瑟夫·维森鲍姆</a>在1966年发表的程式ELIZA的兴趣，这个程式似乎能让使用者误以为谈话的对象是一位真人。不过维森鲍姆本人并未声称ELIZA具有真正的智慧，在他论文的序论视其为揭穿真面目的手段：</p><blockquote><p>在<a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a>中…机器的行为被设计得很奇妙，时常连经验最丰富的观测者也会惊艳得目瞪口呆。不过一旦某个程式露出了真面目，当其内部的运作方法被解释后，它的魔力就消灭了；被揭露了背后只不过是一堆程序…观察者便自忖：“这我也能写得出来”。并将把这个神秘的程式从“智能”分类中，移到了古董架子上…这篇论文的目的只是想引起即将被“解释”的程式被重新评价。很少程式会需要更多次。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></p></blockquote><p><a href="/wiki/ELIZA" title="ELIZA">ELIZA</a>的关键方法（从此被聊天机器人的设计者所仿效）涉及认出输入里的提示字词，并且找出相关的、预先设定的回答，在显然有意义的方式下，让谈话继续下去（例如，输入里有“母亲”，回答是“多说一点你的家庭”）。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>一种能够理解的假象因而生成，即使处理的过程仅止于肤浅。ELIZA 显示这种假象的制造，令人惊异地容易。因为人类的裁判，乐于从谈话的内容里找出代表“智能”的解读。
+</p><p>使用者界面的设计者终于体会到人类乐于把电脑的输出解读成真正的对话——即使这种输出是基于相当简单的形式配对——可以善加利用。多数人宁可使用类似人类的程式，导致聊天机器人风格的技巧，在需要获得用户资讯的互动系统，发挥有效的作用，只要这种资讯相对简单明确，并且属于可以预测的类型。例如线上客服系统可以有效地利用聊天机器人技巧，认定客户需要帮助的区域，有可能提供比正式搜寻或菜单系统更“友善”的界面。
+</p><p>“聊天机器人”（ChatBot）这个<a href="/wiki/%E6%9C%AF%E8%AF%AD" title="术语">术语</a>最早于1994年时，由麦可·洛伦·莫尔丁（Michael Loren Mauldin，开发了第一个<a href="/w/index.php?title=Verbot&amp;action=edit&amp;redlink=1" class="new" title="Verbot（页面不存在）">Verbot</a>“Julia”）在<a href="/wiki/%E8%AB%87%E8%A9%B1%E7%AF%80%E7%9B%AE" title="谈话节目">谈话节目</a>中提及。
+</p>
+<h2><span id=".E6.AD.B7.E5.8F.B2"></span><span class="mw-headline" id="歷史">历史</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=2" title="编辑章节：历史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>早期经典的聊天机器人有1966年的“ELIZA”与1972年的“PARRY”<sup id="cite_ref-Güzeldere_7-0" class="reference"><a href="#cite_note-Güzeldere-7">&#91;7&#93;</a></sup><sup id="cite_ref-comphis_8-0" class="reference"><a href="#cite_note-comphis-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>。近期值得注意的则包括 A.L.I.C.E.，Jabberwacky，以及 D.U.D.E。虽然 ELIZA 和 PARRY 仅仅用于模拟笔谈，现在许多聊天机器人纳入游戏及网络搜寻的功能。1984年，《警察的胡子造了一半》（Policeman's Beard is Half Constructed）出版，据称作者是聊天机器人“瑞克特”（Racter）。 
+</p><p>相关的<a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a>领域是<a href="/wiki/%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86" class="mw-redirect" title="自然语言处理">自然语言处理</a>。通常“弱人工智能”（Weak AI） 领域使用专门的软件或编程语言以完成特定的功能。例如 A.L.I.C.E.使用一种叫做 AIML 的<a href="/wiki/%E6%A8%99%E8%A8%98%E5%BC%8F%E8%AA%9E%E8%A8%80" class="mw-redirect" title="标记式语言">标记式语言</a>，适用于谈话代理的功能，并且已被各类开发人员采用，他们的产品叫做爱丽丝机器人（Alicebots）。不过
+A.L.I.C.E.仍是纯粹运用类型配对的技巧，缺乏思考能力， 跟1966年的ELIZA并无不同。“强人工智能”（strong AI） 则不同, 必须有智慧和逻辑推理的能力。 
+</p><p>Jabberwacky 基于与使用者的即时互动，习得新的对答和语境，而不是驱动于静态的数据库。一些较新的聊天机器人也融合了即时学习与<a href="/wiki/%E8%BF%9B%E5%8C%96%E7%AE%97%E6%B3%95" title="进化算法">进化算法</a>，根据每次聊天的经验，改善沟通的能力，一个著名的例子是“凯尔”（Kyle） ——2009年里奥迪斯（Leodis） 人工智能奖得主。不过，至今通用型的谈话人工智能仍不存在，有些软件开发人员专注于实用方面：<a href="/wiki/%E8%B3%87%E8%A8%8A%E6%AA%A2%E7%B4%A2" class="mw-redirect" title="资讯检索">资讯检索</a>。
+</p><p>“聊天机器人”竞赛聚焦于<a href="/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95" title="图灵测试">图灵测试</a>或者更特定的目标。其中的两个年赛为“罗布能奖”（The Loebner Prize） 和“话匣子挑战赛”（The Chatterbox Challenge）。
+</p><p>2022年11月30日（UTC+0），<a href="/wiki/OpenAI" title="OpenAI">OpenAI</a>发布了一个名为<a href="/wiki/ChatGPT" title="ChatGPT">ChatGPT</a>的自然语言生成式模型，它以对话方式进行交互。在推广的期间中，所有人可以免费注册，并在登入后后免费使用ChatGPT实现与AI机器人对话<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>。
+</p>
+<h2><span id=".E4.BD.BF.E7.94.A8.E6.96.BC.E5.B0.8D.E8.A9.B1.E7.B3.BB.E7.B5.B1"></span><span class="mw-headline" id="使用於對話系統">使用于对话系统</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=3" title="编辑章节：使用于对话系统"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>聊天机器人通常整合于<span class="ilh-all" data-orig-title="對話系統" data-lang-code="en" data-lang-name="英语" data-foreign-title="dialog system"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%8D%E8%A9%B1%E7%B3%BB%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="对话系统（页面不存在）">对话系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/dialog_system" class="extiw" title="en:dialog system"><span lang="en" dir="auto">dialog system</span></a></span>）</span></span>，例如<a href="/wiki/%E8%99%9B%E6%93%AC%E5%8A%A9%E7%90%86" title="虚拟助理">虚拟助理</a> ，使其能够在其主要的专家系统的范畴之外进行闲聊等等。
+</p>
+<h3><span id=".E9.80.9A.E8.A8.8A.E5.B9.B3.E5.8F.B0"></span><span class="mw-headline" id="通訊平台">通讯平台</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=4" title="编辑章节：通讯平台"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>目前聊天机器人广泛运用于<a href="/wiki/%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A" title="即时通讯">即时通讯</a>平台，例如<a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Facebook Messenger</a>、<a href="/wiki/%E5%BE%AE%E4%BF%A1" title="微信">微信</a>、<a href="/wiki/LINE_(%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F)" class="mw-redirect" title="LINE (应用程序)">LINE</a>和<a href="/wiki/Kik" title="Kik">Kik</a>等，以娱乐、零售行销、以及客服为目的<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>。此外，部分平台也提供易于整合的<a href="/wiki/%E7%BD%91%E7%BB%9C%E9%92%A9%E5%AD%90" title="网络钩子">Webhook</a>，使得第三方开发商易于可通用于不同通讯平台之聊天机器人<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>。这些机器人可以是客服人员或群组聊天的成员。
+</p><p>有些即时通讯的机器人可以连接外部数据库，提供使用者新闻，气象，导航，电影放映时间，股价等资讯<sup id="cite_ref-chatbotsorg_15-0" class="reference"><a href="#cite_note-chatbotsorg-15">&#91;15&#93;</a></sup>。如达美乐、必胜客、迪士尼、Nerdify、雅玛多、乐高、Vogue、亚尼克、全食超市等都已推出各自的聊天机器人，以便与终端消费者增进交流，推销公司的产品与服务，并且让消费者订货更加方便<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>。2016年，观光业的一些旅行社和航空公司透过 Messenger 推出了聊天机器人的服务，墨西哥航空利用人工智能售票、回答问题，<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>墨航和荷兰皇家航空并且提供航班资讯，处理乘客报到，发出行动登机证，推荐旅馆、餐厅、目的地行程。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>中国的旅行社在此之前已用 Wechat 提供这些服务。
+</p><p>在<a href="/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E6%83%85" class="mw-redirect" title="2019冠状病毒病疫情">2019冠状病毒病疫情</a>期间，美国教育科技公司<a href="/w/index.php?title=K12_Insight&amp;action=edit&amp;redlink=1" class="new" title="K12 Insight（页面不存在）">K12 Insight</a>推出Let's Talk!助理，家长和学生可以透过软件随时查询或提出和学校活动或管理相关的问题，例如口罩政策、用餐时间等<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>。夏普公司的其产品人形机器人Robohon也在疫情时期销量激增<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>。中国<a href="/wiki/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6" title="天津大学">天津大学</a>新媒体与传播学院成功研发“疫情辟谣助手”，帮助读者辨识新闻内容<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>。台湾<a href="/wiki/%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E7%96%BE%E7%97%85%E7%AE%A1%E5%88%B6%E7%BD%B2" title="卫生福利部疾病管制署">卫生福利部疾病管制署</a>于通讯软件<a href="/wiki/LINE" title="LINE">LINE</a>的聊天机器人上，提供即时确诊数及相关新闻，以帮助民众了解疫情的消息<sup id="cite_ref-疾管署推出LINE@聊天機器人_流感疫苗問答即時搞定_24-0" class="reference"><a href="#cite_note-疾管署推出LINE@聊天機器人_流感疫苗問答即時搞定-24">&#91;24&#93;</a></sup>。
+</p>
+<h3><span id=".E6.95.99.E8.82.B2"></span><span class="mw-headline" id="教育">教育</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=5" title="编辑章节：教育"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>部分聊天机器人专门用于解决学生的疑问，加强学习的效率。如Nerdify开发的Nerdy Bot<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>，该软件利用<a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Facebook Messenger</a>即时回答学生作业相关的问题，以便加速学习。加大尔湾分校图书馆的聊天机器人“ANTswers”于2014年开始试用，被外界认为非常成功<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>。
+</p><p><br />
+</p>
+<h2><span id=".E8.81.8A.E5.A4.A9.E6.9C.BA.E5.99.A8.E4.BA.BA.E5.88.97.E8.A1.A8"></span><span class="mw-headline" id="聊天机器人列表">聊天机器人列表</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=6" title="编辑章节：聊天机器人列表"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">主条目：<a href="/wiki/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8" title="聊天机器人列表">聊天机器人列表</a></div>
+<h2><span id=".E5.8F.82.E8.A7.81"></span><span class="mw-headline" id="参见">参见</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=7" title="编辑章节：参见"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r79074265">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col" style="column-count:3; column-width:auto;">
+<ul><li><a href="/wiki/%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7" title="生成式人工智能">生成式人工智能</a></li>
+<li><a href="/wiki/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B" class="mw-redirect" title="大语言模型">大语言模型</a></li>
+<li><a href="/wiki/GPT-3" title="GPT-3"> GPT-3 (OpenAI 对话语言模型) </a></li>
+<li><a href="/wiki/GPT-4" title="GPT-4"> GPT-4 (OpenAI 对话语言模型)</a></li>
+<li><a href="/wiki/LLaMA" title="LLaMA">LLaMA(Meta 对话语言模型)</a></li>
+<li><a href="/wiki/%E5%B0%8D%E8%A9%B1%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B" title="对话编程语言模型">LaMDA(Google 对话语言模型)</a></li>
+<li><span class="ilh-all" data-orig-title="BLOOM (對話語言模型)" data-lang-code="en" data-lang-name="英语" data-foreign-title="BLOOM (對話語言模型)"><span class="ilh-page"><a href="/w/index.php?title=BLOOM_(%E5%B0%8D%E8%A9%B1%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B)&amp;action=edit&amp;redlink=1" class="new" title="BLOOM (对话语言模型)（页面不存在）">BLOOM (对话语言模型)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/BLOOM_(%E5%B0%8D%E8%A9%B1%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B)" class="extiw" title="en:BLOOM (對話語言模型)"><span lang="en" dir="auto">BLOOM (對話語言模型)</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="ElevenLabs(AI 语音合成)" data-lang-code="en" data-lang-name="英语" data-foreign-title="ElevenLabs"><span class="ilh-page"><a href="/w/index.php?title=ElevenLabs(AI_%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)&amp;action=edit&amp;redlink=1" class="new" title="ElevenLabs(AI 语音合成)（页面不存在）">ElevenLabs(AI 语音合成)</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/ElevenLabs" class="extiw" title="en:ElevenLabs"><span lang="en" dir="auto">ElevenLabs</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E5%9F%BA%E4%BA%8E%E8%BD%AC%E6%8D%A2%E5%99%A8%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B" title="基于转换器的生成式预训练模型">GPT</a></li>
+<li><a href="/wiki/GitHub_Copilot" title="GitHub Copilot">GitHub Copilot</a></li>
+<li><a href="/wiki/OpenAI_Codex" title="OpenAI Codex">OpenAI Codex</a></li>
+<li><a href="/wiki/XAI" title="XAI">xAI</a></li>
+<li><a href="/wiki/%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7" title="通用人工智能">通用人工智能</a></li>
+<li><a href="/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95" title="图灵测试">图灵测试</a></li></ul>
+</div>
+<h2><span id=".E5.8F.83.E8.80.83.E8.B3.87.E6.96.99"></span><span class="mw-headline" id="參考資料">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;action=edit&amp;section=8" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-target-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-target_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101102170613/http://searchdomino.techtarget.com/sDefinition/0,,sid4_gci935566,00.html">What is a chatbot?</a>. techtarget,com.  <span class="reference-accessdate"> &#91;<span class="nowrap">30 January</span> 2017&#93;</span>. （<a rel="nofollow" class="external text" href="http://searchdomino.techtarget.com/sDefinition/0,,sid4_gci935566,00.html">原始内容</a>存档于2010-11-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=What+is+a+chatbot%3F&amp;rft.genre=unknown&amp;rft.jtitle=techtarget%2Ccom&amp;rft_id=http%3A%2F%2Fsearchdomino.techtarget.com%2FsDefinition%2F0%2C%2Csid4_gci935566%2C00.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210308212351/https://gizmodo.com/google-assistant-is-a-mega-chatbot-that-wants-to-be-abs-1777351140">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-07-08</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://gizmodo.com/google-assistant-is-a-mega-chatbot-that-wants-to-be-abs-1777351140">原始内容</a>存档于2021-03-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgizmodo.com%2Fgoogle-assistant-is-a-mega-chatbot-that-wants-to-be-abs-1777351140&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210308083627/https://venturebeat.com/2016/12/21/8-top-chatbots-of-2016/">存档副本</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-07-08</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://venturebeat.com/2016/12/21/8-top-chatbots-of-2016/">原始内容</a>存档于2021-03-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=%E5%AD%98%E6%A1%A3%E5%89%AF%E6%9C%AC&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2016%2F12%2F21%2F8-top-chatbots-of-2016%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">（<a href="#CITEREFTuring1950">Turing 1950</a>）</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">（<a href="#CITEREFWeizenbaum1966">Weizenbaum 1966</a>，p.36）</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">（<a href="#CITEREFWeizenbaum1966">Weizenbaum 1966</a>，pp.44–5）</span>
+</li>
+<li id="cite_note-Güzeldere-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Güzeldere_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGüzeldereFranchi1995">GüzeldereFranchi 1995</a><span class="error harv-error" style="display: none; font-size:100%"> harvnb error: no target: CITEREFGüzeldereFranchi1995 (<a href="/wiki/Category:Harv_and_Sfn_template_errors" title="Category:Harv and Sfn template errors">help</a>)</span></span>
+</li>
+<li id="cite_note-comphis-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-comphis_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFComputer_History_Museum2006">Computer History Museum 2006</a><span class="error harv-error" style="display: none; font-size:100%"> harvnb error: no target: CITEREFComputer_History_Museum2006 (<a href="/wiki/Category:Harv_and_Sfn_template_errors" title="Category:Harv and Sfn template errors">help</a>)</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#CITEREFSondheim1997">Sondheim 1997</a><span class="error harv-error" style="display: none; font-size:100%"> harvnb error: no target: CITEREFSondheim1997 (<a href="/wiki/Category:Harv_and_Sfn_template_errors" title="Category:Harv and Sfn template errors">help</a>)</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFNetwork_Working_Group1973">Network Working Group 1973</a><span class="error harv-error" style="display: none; font-size:100%"> harvnb error: no target: CITEREFNetwork_Working_Group1973 (<a href="/wiki/Category:Harv_and_Sfn_template_errors" title="Category:Harv and Sfn template errors">help</a>)</span>—Transcript of a session between Parry and Eliza. (This is <i>not</i> the dialogue from the ICCC, which took place October 24–26, 1972, whereas this session is from September 18, 1972.)</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://techmoon.xyz/chatgpt/">ChatGPT - 免費註冊即可與線上機器人聊天對話，帶你了解什麼是 ChatGPT AI 機器人以及該如何快速註冊教學 - TechMoon 科技月球</a>. 2022-12-11 <span class="reference-accessdate"> &#91;<span class="nowrap">2022-12-12</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20221212005359/https://techmoon.xyz/chatgpt/">存档</a>于2022-12-12） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到中文（台湾）网页">（中文（台湾））</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=ChatGPT+-+%E5%85%8D%E8%B2%BB%E8%A8%BB%E5%86%8A%E5%8D%B3%E5%8F%AF%E8%88%87%E7%B7%9A%E4%B8%8A%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%B0%8D%E8%A9%B1%EF%BC%8C%E5%B8%B6%E4%BD%A0%E4%BA%86%E8%A7%A3%E4%BB%80%E9%BA%BC%E6%98%AF+ChatGPT+AI+%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%BB%A5%E5%8F%8A%E8%A9%B2%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E8%A8%BB%E5%86%8A%E6%95%99%E5%AD%B8+-+TechMoon+%E7%A7%91%E6%8A%80%E6%9C%88%E7%90%83&amp;rft.date=2022-12-11&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ftechmoon.xyz%2Fchatgpt%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">黄永轩，微果酱团队著. <a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9787545452150">公众号思维</a>. 广州：广东经济出版社. 2017.01: <a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9787545452150/page/34">34</a>-38. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-7-5454-5215-0" title="Special:网络书源/978-7-5454-5215-0"><span title="国际标准书号">ISBN</span>&#160;978-7-5454-5215-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.au=%E9%BB%84%E6%B0%B8%E8%BD%A9%EF%BC%8C%E5%BE%AE%E6%9E%9C%E9%85%B1%E5%9B%A2%E9%98%9F%E8%91%97&amp;rft.btitle=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%80%9D%E7%BB%B4&amp;rft.genre=book&amp;rft.isbn=978-7-5454-5215-0&amp;rft.pages=34-38&amp;rft.pub=%E5%B9%BF%E5%B7%9E%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E5%87%BA%E7%89%88%E7%A4%BE&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fisbn_9787545452150&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">请检查<code style="color:inherit; border:inherit; padding:inherit;">&#124;date=</code>中的日期值 (<a href="/wiki/Help:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF#bad_date" title="Help:引文格式1错误">帮助</a>)</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200222030633/http://www.5233.space/2016/09/ai.html">製作Facebook或Line聊天機器人</a>. 5233.space.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-09-19</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.5233.space/2016/09/ai.html">原始内容</a>存档于2020-02-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=%E8%A3%BD%E4%BD%9CFacebook%E6%88%96Line%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.genre=unknown&amp;rft.jtitle=5233.space&amp;rft_id=http%3A%2F%2Fwww.5233.space%2F2016%2F09%2Fai.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20201109030514/https://nichehunt.com/chatbots-an-evolving-trend-in-brand-marketing/">AI Chatbots: An Evolving Trend in Brand Marketing</a>. NicheHunt. 16 July 2017 <span class="reference-accessdate"> &#91;<span class="nowrap">18 July</span> 2017&#93;</span>. （<a rel="nofollow" class="external text" href="https://nichehunt.com/chatbots-an-evolving-trend-in-brand-marketing/">原始内容</a>存档于2020-11-09）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=AI+Chatbots%3A+An+Evolving+Trend+in+Brand+Marketing&amp;rft.date=2017-07-16&amp;rft.genre=unknown&amp;rft.jtitle=NicheHunt&amp;rft_id=https%3A%2F%2Fnichehunt.com%2Fchatbots-an-evolving-trend-in-brand-marketing%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-chatbotsorg-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-chatbotsorg_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210421185114/https://chatbots.org/">Chatbots.org - Virtual assistants, virtual agents, chat bots, conversational agents, chatterbots, chatbot, chatbots: examples, companies, news,directory</a>. chatbots.org.  <span class="reference-accessdate"> &#91;<span class="nowrap">30 January</span> 2017&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.chatbots.org">原始内容</a>存档于2021-04-21）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Chatbots.org+-+Virtual+assistants%2C+virtual+agents%2C+chat+bots%2C+conversational+agents%2C+chatterbots%2C+chatbot%2C+chatbots%3A+examples%2C+companies%2C+news%2Cdirectory&amp;rft.genre=unknown&amp;rft.jtitle=chatbots.org&amp;rft_id=http%3A%2F%2Fwww.chatbots.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210308104038/https://venturebeat.com/2016/07/24/better-believe-the-bot-boom-is-blowing-up-big-for-b2b-b2c-businesses-vb-live/">Better believe the bot boom is blowing up big for B2B, B2C businesses</a>. VentureBeat.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-08-15</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://venturebeat.com/2016/07/24/better-believe-the-bot-boom-is-blowing-up-big-for-b2b-b2c-businesses-vb-live/">原始内容</a>存档于2021-03-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Better+believe+the+bot+boom+is+blowing+up+big+for+B2B%2C+B2C+businesses&amp;rft.genre=unknown&amp;rft.jtitle=VentureBeat&amp;rft_id=http%3A%2F%2Fventurebeat.com%2F2016%2F07%2F24%2Fbetter-believe-the-bot-boom-is-blowing-up-big-for-b2b-b2c-businesses-vb-live%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://chatbotnewsdaily.com/chatbots-take-education-to-the-next-level-23bc02cdbccf">Chatbots Take Education To the Next Level – Chatbot News Daily</a>. Chatbot News Daily. 2016-09-29 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-06-23</span>&#93;</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Chatbots+Take+Education+To+the+Next+Level+%E2%80%93+Chatbot+News+Daily&amp;rft.date=2016-09-29&amp;rft.genre=article&amp;rft.jtitle=Chatbot+News+Daily&amp;rft_id=https%3A%2F%2Fchatbotnewsdaily.com%2Fchatbots-take-education-to-the-next-level-23bc02cdbccf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<a href="/wiki/Wikipedia:%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5" title="Wikipedia:失效链接"><span title="">失效链接</span></a>&#93;</span></sup></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181001164920/https://www.tnooz.com/article/thomson-and-aeromexico-virtual-assistants/"><span style="padding-left:0.2em;">"</span>Thomson and Aeromexico latest to join the chatbot army", <i>Tnooz</i>, November 2016</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-08-15</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.tnooz.com/article/thomson-and-aeromexico-virtual-assistants/">原始内容</a>存档于2018-10-01）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=%22Thomson+and+Aeromexico+latest+to+join+the+chatbot+army%22%2C+Tnooz%2C+November+2016&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.tnooz.com%2Farticle%2Fthomson-and-aeromexico-virtual-assistants%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161212221512/https://aeromexico.com/en/contact-us/facebook-messenger-chatbot/">Aeromexico</a>. aeromexico.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-08-15</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://aeromexico.com/en/contact-us/facebook-messenger-chatbot">原始内容</a>存档于2016-12-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Aeromexico&amp;rft.genre=unknown&amp;rft.jtitle=aeromexico.com&amp;rft_id=http%3A%2F%2Faeromexico.com%2Fen%2Fcontact-us%2Ffacebook-messenger-chatbot&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210318060222/https://www.theverge.com/2016/3/30/11331168/klm-facebook-messenger-boarding-pass-chat-integration"><span style="padding-left:0.2em;">"</span>Facebook Messenger can now be your boarding pass on KLM flights", <i>The Verge</i></a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-08-15</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.theverge.com/2016/3/30/11331168/klm-facebook-messenger-boarding-pass-chat-integration">原始内容</a>存档于2021-03-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=%22Facebook+Messenger+can+now+be+your+boarding+pass+on+KLM+flights%22%2C+The+Verge&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theverge.com%2F2016%2F3%2F30%2F11331168%2Fklm-facebook-messenger-boarding-pass-chat-integration&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210613212341/https://mini.eastday.com/a/201105103100943.html">教育科技公司推出AI聊天机器人</a>. mini.eastday.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-18</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://mini.eastday.com/a/201105103100943.html">原始内容</a>存档于2021-06-13） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到zh-cmn-Hans-CN网页">（zh-cmn-Hans-CN）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=%E6%95%99%E8%82%B2%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BAAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA&amp;rft.genre=unknown&amp;rft.jtitle=mini.eastday.com&amp;rft_id=https%3A%2F%2Fmini.eastday.com%2Fa%2F201105103100943.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33"> 引文格式1维护：未识别语文类型 (<a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E7%BB%B4%E6%8A%A4%EF%BC%9A%E6%9C%AA%E8%AF%86%E5%88%AB%E8%AF%AD%E6%96%87%E7%B1%BB%E5%9E%8B" title="Category:引文格式1维护：未识别语文类型">link</a>)</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20220524100946/http://www.cankaoxiaoxi.com/science/20210302/2436179_2.shtml">疫情期备受追捧！日本“陪伴机器人”暖人心</a>. 参考消息.  <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-18</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.cankaoxiaoxi.com/science/20210302/2436179_2.shtml">原始内容</a>存档于2022-05-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=%E7%96%AB%E6%83%85%E6%9C%9F%E5%A4%87%E5%8F%97%E8%BF%BD%E6%8D%A7%EF%BC%81%E6%97%A5%E6%9C%AC%E2%80%9C%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E6%9A%96%E4%BA%BA%E5%BF%83&amp;rft.genre=unknown&amp;rft.jtitle=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF&amp;rft_id=http%3A%2F%2Fwww.cankaoxiaoxi.com%2Fscience%2F20210302%2F2436179_2.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210815015308/http://news.youth.cn/jsxw/202002/t20200205_12186323.htm">聊天机器人成疫情辟谣小能手_新闻频道_中国青年网</a>. news.youth.cn.  <span class="reference-accessdate"> &#91;<span class="nowrap">2021-03-18</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://news.youth.cn/jsxw/202002/t20200205_12186323.htm">原始内容</a>存档于2021-08-15）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%90%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%E5%B0%8F%E8%83%BD%E6%89%8B_%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93_%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E7%BD%91&amp;rft.genre=unknown&amp;rft.jtitle=news.youth.cn&amp;rft_id=http%3A%2F%2Fnews.youth.cn%2Fjsxw%2F202002%2Ft20200205_12186323.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-疾管署推出LINE@聊天機器人_流感疫苗問答即時搞定-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-疾管署推出LINE@聊天機器人_流感疫苗問答即時搞定_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200630213144/https://www.mohw.gov.tw/cp-16-37646-1.html">疾管署推出LINE@聊天機器人　流感疫苗問答即時搞定</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-02-24</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.mohw.gov.tw/cp-16-37646-1.html">原始内容</a>存档于2020-06-30）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.btitle=%E7%96%BE%E7%AE%A1%E7%BD%B2%E6%8E%A8%E5%87%BALINE%40%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E3%80%80%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97%E5%95%8F%E7%AD%94%E5%8D%B3%E6%99%82%E6%90%9E%E5%AE%9A&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.mohw.gov.tw%2Fcp-16-37646-1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210119073728/https://venturebeat.com/2017/05/19/nerdify-announces-the-launch-of-nerdy-bot/">Nerdify Announces the Launch of Nerdy Bot</a>. VentureBeat. 2017-05-19 <span class="reference-accessdate"> &#91;<span class="nowrap">2017-06-23</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://venturebeat.com/2017/05/19/nerdify-announces-the-launch-of-nerdy-bot/">原始内容</a>存档于2021-01-19）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Nerdify+Announces+the+Launch+of+Nerdy+Bot&amp;rft.date=2017-05-19&amp;rft.genre=unknown&amp;rft.jtitle=VentureBeat&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2017%2F05%2F19%2Fnerdify-announces-the-launch-of-nerdy-bot%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210227015355/https://article.wn.com/view/2017/04/12/Nerdify_Bot_Changes_Messengers_Role_in_Education/">Nerdify Bot Changes Messengers’ Role in Education</a>. article.wn.com.  <span class="reference-accessdate"> &#91;<span class="nowrap">2017-06-23</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://article.wn.com/view/2017/04/12/Nerdify_Bot_Changes_Messengers_Role_in_Education/">原始内容</a>存档于2021-02-27） <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到英语网页">（英语）</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=Nerdify+Bot+Changes+Messengers%E2%80%99+Role+in+Education&amp;rft.genre=unknown&amp;rft.jtitle=article.wn.com&amp;rft_id=https%3A%2F%2Farticle.wn.com%2Fview%2F2017%2F04%2F12%2FNerdify_Bot_Changes_Messengers_Role_in_Education%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Kane, D.A. The Role of Chatbots in Teaching and Learning. Rice, Scott; Gregor, M.N.  (编). E-Learning and the Academic Library: Essays on Innovative Initiatives. McFarland &amp; Co. 2016: 131–147. <a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1-476-62441-9" title="Special:网络书源/978-1-476-62441-9"><span title="国际标准书号">ISBN</span>&#160;978-1-476-62441-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;rft.atitle=The+Role+of+Chatbots+in+Teaching+and+Learning&amp;rft.aufirst=D.A.&amp;rft.aulast=Kane&amp;rft.btitle=E-Learning+and+the+Academic+Library%3A+Essays+on+Innovative+Initiatives&amp;rft.date=2016&amp;rft.genre=bookitem&amp;rft.isbn=978-1-476-62441-9&amp;rft.pages=131-147&amp;rft.pub=McFarland+%26+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r78597503">.mw-parser-output .hlist ul,.mw-parser-output .hlist ol{padding-left:0}.mw-parser-output .hlist li,.mw-parser-output .hlist dd,.mw-parser-output .hlist dt{margin:0;display:inline}.mw-parser-output .hlist dt:after,.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{white-space:normal}.mw-parser-output .hlist dt:after{content:" :"}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)" ";white-space:nowrap}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)" "}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li:after{content:"，"}.mw-parser-output .sslist li:after{content:"；"}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r79430951">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template:计算机科学"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="Template talk:计算机科学"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="计算机科学">计算机科学</a>的主要领域</div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>注：该模板大致遵循<a href="/wiki/ACM_%E7%94%B5%E8%84%91%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F" title="ACM 电脑分类系统">ACM 电脑分类系统</a>。</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" title="计算机硬件">计算机硬件</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E6%9D%BF" class="mw-redirect" title="印刷电路板">印刷电路板</a></li>
+<li><a href="/wiki/%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87" title="外部设备">外部设备</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="集成电路">集成电路</a></li>
+<li><a href="/wiki/%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" title="超大规模集成电路">超大规模集成电路</a></li>
+<li><a href="/wiki/%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97" title="绿色计算">绿色计算</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96" title="电子设计自动化">电子设计自动化</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84" title="系统架构">系统架构</a>组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84" title="计算机系统结构">电脑系统架构</a></li>
+<li><a href="/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F" title="嵌入式系统">嵌入式系统</a></li>
+<li><a href="/wiki/%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97" title="实时计算">实时计算</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C" title="计算机网络">网络</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="网络传输协议">网络传输协议</a></li>
+<li><a href="/wiki/%E8%B7%AF%E7%94%B1" title="路由">路由</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91" title="网络拓扑">网络拓扑</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1" class="mw-redirect" title="网络服务">网络服务</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">软件组织</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%B4%E8%AD%AF%E5%99%A8" title="直译器">直译器</a></li>
+<li><a href="/wiki/%E4%B8%AD%E9%97%B4%E4%BB%B6" title="中间件">中间件</a></li>
+<li><a href="/wiki/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8" title="虚拟机器">虚拟机器</a></li>
+<li><a href="/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="操作系统">操作系统</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F" title="软件质量">软件质量</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E7%90%86%E8%AB%96" title="编程语言理论">软件符号</a>和<a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" title="软件开发工具">工具</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B" title="编程范型">编程范型</a></li>
+<li><a href="/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80" title="编程语言">编程语言</a></li>
+<li><a href="/wiki/%E7%B7%A8%E8%AD%AF%E5%99%A8" title="编译器">编译器</a></li>
+<li><a href="/wiki/%E9%A2%86%E5%9F%9F%E7%89%B9%E5%AE%9A%E8%AF%AD%E8%A8%80" title="领域特定语言">领域特定语言</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E6%A1%86%E6%9E%B6" title="软件框架">软件框架</a></li>
+<li><a href="/wiki/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83" title="集成开发环境">集成开发环境</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86" title="软件配置管理">软件配置管理</a></li>
+<li><a href="/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB" title="函式库">函式库</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91" title="软件开发">软件开发</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B" title="软件开发过程">软件开发过程</a></li>
+<li><a href="/wiki/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90" title="需求分析">需求分析</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1" title="软件设计">软件设计</a></li>
+<li><a href="/wiki/%E8%BD%AF%E4%BB%B6%E9%83%A8%E7%BD%B2" title="软件部署">软件部署</a></li>
+<li><a href="/wiki/%E8%BB%9F%E9%AB%94%E7%B6%AD%E8%AD%B7" title="软件维护">软件维护</a></li>
+<li><a href="/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6" title="开源软件">开源模式</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA" title="计算理论">计算理论</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%9C%BA" class="mw-redirect" title="自动机">自动机</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7" title="可计算性">可计算性理论</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%9C%E6%80%A7%E7%90%86%E8%AB%96" title="计算复杂性理论">计算复杂性理论</a></li>
+<li><a href="/wiki/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA" title="量子计算机">量子计算</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值计算方法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%BB%E8%BE%91" title="计算机逻辑">计算机逻辑</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89%E5%AD%A6" title="形式语义学">形式语义学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E7%AE%97%E6%B3%95" title="算法">算法</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90" title="算法分析">算法分析</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1" title="算法设计">算法设计</a></li>
+<li><a href="/wiki/%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87" title="算法效率">算法效率</a></li>
+<li><a href="/wiki/%E9%9A%8F%E6%9C%BA%E5%8C%96%E7%AE%97%E6%B3%95" title="随机化算法">随机化算法</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95" title="计算几何">计算几何</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">计算数学</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6" title="离散数学">离散数学</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E4%B8%8E%E8%AE%A1%E7%AE%97%E7%A7%91%E5%AD%A6" title="信息与计算科学">信息与计算科学</a></li>
+<li><a href="/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6" title="统计学">统计学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6" title="数学软件">数学软件</a></li>
+<li><a href="/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91" title="数理逻辑">数理逻辑</a></li>
+<li><a href="/wiki/%E9%9B%86%E5%90%88%E8%AE%BA" title="集合论">集合论</a></li>
+<li><a href="/wiki/%E6%95%B0%E8%AE%BA" title="数论">数论</a></li>
+<li><a href="/wiki/%E5%9B%BE%E8%AE%BA" title="图论">图论</a></li>
+<li><a href="/wiki/%E7%B1%BB%E5%9E%8B%E8%AE%BA" title="类型论">类型论</a></li>
+<li><a href="/wiki/%E8%8C%83%E7%95%B4%E8%AE%BA" title="范畴论">范畴论</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E8%AE%BA" title="信息论">信息论</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90" title="数值分析">数值分析</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90" title="数学分析">数学分析</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="信息系统">信息系统</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F" title="数据库管理系统">数据库管理系统</a></li>
+<li><a href="/wiki/%E9%9B%BB%E8%85%A6%E6%95%B8%E6%93%9A%E5%AD%98%E8%B2%AF%E5%99%A8" title="电脑数据存贮器">电脑数据</a></li>
+<li><span class="ilh-all" data-orig-title="企业信息系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Enterprise information system"><span class="ilh-page"><a href="/w/index.php?title=%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="企业信息系统（页面不存在）">企业信息系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Enterprise_information_system" class="extiw" title="en:Enterprise information system"><span lang="en" dir="auto">Enterprise information system</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E7%A4%BE%E4%BC%9A%E6%80%A7%E8%BD%AF%E4%BB%B6" title="社会性软件">社会性软件</a></li>
+<li><a href="/wiki/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F" title="地理信息系统">地理信息系统</a></li>
+<li><a href="/wiki/%E5%86%B3%E7%AD%96%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F" title="决策支持系统">决策支持系统</a></li>
+<li><a href="/wiki/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6" title="过程控制">过程控制</a></li>
+<li><a href="/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98" title="数据挖掘">数据挖掘</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E5%9C%96%E6%9B%B8%E9%A4%A8" title="数位图书馆">数位图书馆</a></li>
+<li><a href="/wiki/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0" title="系统平台">系统平台</a></li>
+<li><a href="/wiki/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7" title="数位行销">数位行销</a></li>
+<li><a href="/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91" title="万维网">万维网</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E6%AA%A2%E7%B4%A2" title="信息检索">信息检索</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8" title="计算机安全">安全</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6" title="密码学">密码学</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95" title="形式化方法">形式化方法</a></li>
+<li><a href="/wiki/%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F" title="入侵检测系统">入侵检测系统</a></li>
+<li><a href="/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" title="网络安全">网络安全</a></li>
+<li><a href="/wiki/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8" title="信息安全">信息安全</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92" title="人机交互">人机交互</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%8A%9F%E8%83%BD" title="计算机辅助功能">计算机辅助功能</a></li>
+<li><a href="/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2" title="用户界面">用户界面</a></li>
+<li><a href="/wiki/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%A1%E7%AE%97%E6%9C%BA" class="mw-redirect" title="可穿戴计算机">可穿戴计算机</a></li>
+<li><a href="/wiki/%E6%99%AE%E9%80%82%E8%AE%A1%E7%AE%97" title="普适计算">普适计算</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a class="mw-selflink selflink">聊天机器人</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E5%B9%B6%E5%8F%91%E6%80%A7" title="并发性">并发性</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B9%B6%E5%8F%91%E8%AE%A1%E7%AE%97" title="并发计算">并发计算</a></li>
+<li><a href="/wiki/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97" title="并行计算">并行计算</a></li>
+<li><a href="/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97" title="分布式计算">分布式计算</a></li>
+<li><a href="/wiki/%E5%A4%9A%E7%BA%BF%E7%A8%8B" title="多线程">多线程</a></li>
+<li><a href="/wiki/%E5%A4%9A%E5%85%83%E8%99%95%E7%90%86" title="多元处理">多元处理</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="人工智能">人工智能</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%87%AA%E5%8A%A8%E6%8E%A8%E7%90%86" title="自动推理">自动推理</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E8%AF%AD%E8%A8%80%E5%AD%A6" title="计算语言学">计算语言学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89" title="计算机视觉">计算机视觉</a></li>
+<li><a href="/wiki/%E8%BF%9B%E5%8C%96%E8%AE%A1%E7%AE%97" title="进化计算">进化计算</a></li>
+<li><a href="/wiki/%E4%B8%93%E5%AE%B6%E7%B3%BB%E7%BB%9F" title="专家系统">专家系统</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="自然语言处理">自然语言处理</a></li>
+<li><a href="/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6" title="机器人学">机器人学</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0" title="机器学习">机器学习</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0" title="监督学习">监督式学习</a></li>
+<li><a href="/wiki/%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%AD%B8%E7%BF%92" title="无监督学习">无监督学习</a></li>
+<li><a href="/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0" title="强化学习">强化学习</a></li>
+<li><a href="/wiki/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89" title="交叉验证">交叉验证</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6" title="计算机图形学">计算机图形学</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8A%A8%E7%94%BB" title="计算机动画">计算机动画</a></li>
+<li><a href="/wiki/%E5%8F%AF%E8%A7%86%E5%8C%96" title="可视化">可视化</a></li>
+<li><a href="/wiki/%E6%B8%B2%E6%9F%93" title="渲染">渲染</a></li>
+<li><a href="/wiki/%E4%BF%AE%E9%A3%BE%E7%85%A7%E7%89%87" title="修饰照片">修饰照片</a></li>
+<li><a href="/wiki/%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8" title="图形处理器">图形处理器</a></li>
+<li><a href="/wiki/%E6%B7%B7%E5%90%88%E7%8E%B0%E5%AE%9E" title="混合现实">混合现实</a></li>
+<li><a href="/wiki/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E" title="虚拟现实">虚拟现实</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86" title="图像处理">图像处理</a></li>
+<li><a href="/wiki/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9" title="图像压缩">图像压缩</a></li>
+<li><a href="/wiki/%E5%AE%9E%E4%BD%93%E9%80%A0%E5%9E%8B" title="实体造型">实体造型</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">应用计算</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1" title="电子商务">电子商务</a></li>
+<li><a href="/wiki/%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BD%AF%E4%BB%B6" title="企业级软件">企业级软件</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E6%95%B0%E5%AD%A6" class="mw-redirect" title="计算数学">计算数学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6" title="计算物理学">计算物理学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E5%8C%96%E5%AD%A6" title="计算化学">计算化学</a></li>
+<li><a href="/wiki/%E8%AE%A1%E7%AE%97%E7%94%9F%E7%89%A9%E5%AD%A6" title="计算生物学">计算生物学</a></li>
+<li><a href="/wiki/%E8%A8%88%E7%AE%97%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8" title="计算社会科学">计算社会科学</a></li>
+<li><a href="/wiki/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6" title="医学信息学">医学信息学</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AD%97%E8%89%BA%E6%9C%AF" title="数字艺术">数字艺术</a></li>
+<li><a href="/wiki/%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88" title="电子出版">电子出版</a></li>
+<li><a href="/wiki/%E7%B6%B2%E7%B5%A1%E6%88%B0" title="网络战">网络战</a></li>
+<li><a href="/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F" title="电子游戏">电子游戏</a></li>
+<li><a href="/wiki/%E6%96%87%E5%AD%97%E5%A4%84%E7%90%86%E5%99%A8" title="文字处理器">文字处理器</a></li>
+<li><a href="/wiki/%E9%81%8B%E7%B1%8C%E5%AD%B8" title="运筹学">运筹学</a></li>
+<li><a href="/wiki/%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF%E5%AD%A6" title="教育技术学">教育技术学</a></li>
+<li><a href="/wiki/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6" title="生物信息学">生物信息学</a></li>
+<li><a href="/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6" title="认知科学">认知科学</a></li>
+<li><span class="ilh-all" data-orig-title="文件管理系统" data-lang-code="en" data-lang-name="英语" data-foreign-title="Document management system"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="文件管理系统（页面不存在）">文件管理系统</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Document_management_system" class="extiw" title="en:Document management system"><span lang="en" dir="auto">Document management system</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><span typeof="mw:File"><span title="分类"><img alt="分类" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="Category:计算机科学">分类</a></b></li>
+<li><span typeof="mw:File"><span title="主题"><img alt="主题" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/23px-Symbol_portal_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Symbol_portal_class.svg/31px-Symbol_portal_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Portal:%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80" title="Portal:资讯科技">主题</a></b></li>
+<li><span typeof="mw:File"><span title="专题"><img alt="专题" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span><b><a href="/wiki/WikiProject:%E7%94%B5%E8%84%91%E5%92%8C%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF" title="WikiProject:电脑和信息技术">专题</a></b></li>
+<li><span typeof="mw:File"><span title="共享资源页面"><img alt="共享资源页面" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">维基共享</a></b></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r78597503"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r79430951"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv--&#123;zh-hans:查看;zh-hant:檢視;&#125;-"><a href="/wiki/Template:%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="Template:自然语言处理"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-讨论"><a href="/wiki/Template_talk:%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="Template talk:自然语言处理"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-编辑"><a class="external text" href="https://zh.wikipedia.org/w/index.php?title=Template:%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" title="自然语言处理">自然语言处理</a></div></th></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">一般术语</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AF%AD%E6%96%99%E5%BA%93" title="语料库">语料库</a></li>
+<li><a href="/wiki/%E5%8F%A3%E8%AF%AD%E8%AF%AD%E6%96%99%E5%BA%93" title="口语语料库">口语语料库</a></li>
+<li><a href="/wiki/%E5%81%9C%E7%94%A8%E8%AF%8D" title="停用词">停用词</a></li>
+<li><a href="/wiki/%E8%AF%8D%E8%A2%8B%E6%A8%A1%E5%9E%8B" title="词袋模型">词袋</a></li>
+<li><span class="ilh-all" data-orig-title="完全人工智慧" data-lang-code="en" data-lang-name="英语" data-foreign-title="AI-complete"><span class="ilh-page"><a href="/w/index.php?title=%E5%AE%8C%E5%85%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7&amp;action=edit&amp;redlink=1" class="new" title="完全人工智能（页面不存在）">完全人工智能</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/AI-complete" class="extiw" title="en:AI-complete"><span lang="en" dir="auto">AI-complete</span></a></span>）</span></span></li>
+<li><a href="/wiki/N%E5%85%83%E8%AF%AD%E6%B3%95" title="N元语法">n元语法</a>（<a href="/wiki/%E5%8F%8C%E5%AD%97%E6%AF%8D%E7%BB%84" title="双字母组">双字母组</a>、<span class="ilh-all" data-orig-title="三元语法" data-lang-code="en" data-lang-name="英语" data-foreign-title="Trigrams"><span class="ilh-page"><a href="/w/index.php?title=%E4%B8%89%E5%85%83%E8%AF%AD%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="三元语法（页面不存在）">三元语法</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Trigrams" class="extiw" title="en:Trigrams"><span lang="en" dir="auto">Trigrams</span></a></span>）</span></span>）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98" title="文本挖掘">文本挖掘</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%96%87%E6%9C%AC%E5%88%86%E5%89%B2" title="文本分割">文本分割</a></li>
+<li><span class="ilh-all" data-orig-title="词性标注" data-lang-code="en" data-lang-name="英语" data-foreign-title="Part-of-speech tagging"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8&amp;action=edit&amp;redlink=1" class="new" title="词性标注（页面不存在）">词性标注</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Part-of-speech_tagging" class="extiw" title="en:Part-of-speech tagging"><span lang="en" dir="auto">Part-of-speech tagging</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="浅层句法分析" data-lang-code="en" data-lang-name="英语" data-foreign-title="Shallow parsing"><span class="ilh-page"><a href="/w/index.php?title=%E6%B5%85%E5%B1%82%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90&amp;action=edit&amp;redlink=1" class="new" title="浅层句法分析（页面不存在）">拆句处理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Shallow_parsing" class="extiw" title="en:Shallow parsing"><span lang="en" dir="auto">Shallow parsing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="复合词处理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Compound term processing"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%8D%E5%90%88%E8%AF%8D%E5%A4%84%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="复合词处理（页面不存在）">复合词处理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Compound_term_processing" class="extiw" title="en:Compound term processing"><span lang="en" dir="auto">Compound term processing</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="搭配提取" data-lang-code="en" data-lang-name="英语" data-foreign-title="Collocation extraction"><span class="ilh-page"><a href="/w/index.php?title=%E6%90%AD%E9%85%8D%E6%8F%90%E5%8F%96&amp;action=edit&amp;redlink=1" class="new" title="搭配提取（页面不存在）">搭配提取</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Collocation_extraction" class="extiw" title="en:Collocation extraction"><span lang="en" dir="auto">Collocation extraction</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AF%8D%E5%B9%B2%E6%8F%90%E5%8F%96" title="词干提取">词干提取</a></li>
+<li><a href="/wiki/%E8%A9%9E%E5%BD%A2%E9%82%84%E5%8E%9F" title="词形还原">词形还原</a></li>
+<li><a href="/wiki/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB" title="命名实体识别">命名实体识别</a></li>
+<li><a href="/wiki/%E6%8C%87%E4%BB%A3" title="指代">指代</a></li>
+<li><a href="/wiki/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90" title="文本情感分析">文本情感分析</a></li>
+<li><span class="ilh-all" data-orig-title="概念挖掘" data-lang-code="en" data-lang-name="英语" data-foreign-title="Concept mining"><span class="ilh-page"><a href="/w/index.php?title=%E6%A6%82%E5%BF%B5%E6%8C%96%E6%8E%98&amp;action=edit&amp;redlink=1" class="new" title="概念挖掘（页面不存在）">概念挖掘</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Concept_mining" class="extiw" title="en:Concept mining"><span lang="en" dir="auto">Concept mining</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90" title="语法分析">语法分析</a></li>
+<li><a href="/wiki/%E8%AF%8D%E4%B9%89%E6%B6%88%E6%AD%A7" title="词义消歧">词义消歧</a></li>
+<li><span class="ilh-all" data-orig-title="术语提取" data-lang-code="en" data-lang-name="英语" data-foreign-title="Terminology extraction"><span class="ilh-page"><a href="/w/index.php?title=%E6%9C%AF%E8%AF%AD%E6%8F%90%E5%8F%96&amp;action=edit&amp;redlink=1" class="new" title="术语提取（页面不存在）">术语提取</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Terminology_extraction" class="extiw" title="en:Terminology extraction"><span lang="en" dir="auto">Terminology extraction</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="真实大小写处理" data-lang-code="en" data-lang-name="英语" data-foreign-title="Truecasing"><span class="ilh-page"><a href="/w/index.php?title=%E7%9C%9F%E5%AE%9E%E5%A4%A7%E5%B0%8F%E5%86%99%E5%A4%84%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="真实大小写处理（页面不存在）">真实大小写处理</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Truecasing" class="extiw" title="en:Truecasing"><span lang="en" dir="auto">Truecasing</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="自动摘要" data-lang-code="en" data-lang-name="英语" data-foreign-title="Automatic summarization"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E5%8A%A8%E6%91%98%E8%A6%81&amp;action=edit&amp;redlink=1" class="new" title="自动摘要（页面不存在）">自动摘要</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Automatic_summarization" class="extiw" title="en:Automatic summarization"><span lang="en" dir="auto">Automatic summarization</span></a></span>）</span></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="多文档摘要" data-lang-code="en" data-lang-name="英语" data-foreign-title="Multi-document summarization"><span class="ilh-page"><a href="/w/index.php?title=%E5%A4%9A%E6%96%87%E6%A1%A3%E6%91%98%E8%A6%81&amp;action=edit&amp;redlink=1" class="new" title="多文档摘要（页面不存在）">多文档摘要</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Multi-document_summarization" class="extiw" title="en:Multi-document summarization"><span lang="en" dir="auto">Multi-document summarization</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="句子抽取" data-lang-code="en" data-lang-name="英语" data-foreign-title="Sentence extraction"><span class="ilh-page"><a href="/w/index.php?title=%E5%8F%A5%E5%AD%90%E6%8A%BD%E5%8F%96&amp;action=edit&amp;redlink=1" class="new" title="句子抽取（页面不存在）">句子抽取</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Sentence_extraction" class="extiw" title="en:Sentence extraction"><span lang="en" dir="auto">Sentence extraction</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="文本简化" data-lang-code="en" data-lang-name="英语" data-foreign-title="Text simplification"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E6%9C%AC%E7%AE%80%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="文本简化（页面不存在）">文本简化</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Text_simplification" class="extiw" title="en:Text simplification"><span lang="en" dir="auto">Text simplification</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group">分散式语意模型</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E6%BD%9C%E5%9C%A8%E8%AF%AD%E4%B9%89%E5%AD%A6" title="潜在语义学">潜在语义学</a></li>
+<li><a href="/wiki/Seq2Seq%E6%A8%A1%E5%9E%8B" title="Seq2Seq模型">Seq2Seq模型</a></li>
+<li><a href="/wiki/Word2vec" title="Word2vec">Word2vec</a></li>
+<li><a href="/wiki/%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B" title="语言模型">语言模型</a>
+<ul><li><a href="/wiki/%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B" title="大型语言模型">大型语言模型</a>
+<ul><li><a href="/wiki/%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B" title="基础模型">基础模型</a></li>
+<li><a href="/wiki/LLaMA" title="LLaMA">LLaMA</a></li>
+<li><a href="/wiki/ChatGPT" title="ChatGPT">ChatGPT</a></li>
+<li><a href="/wiki/GPT-4" title="GPT-4">GPT-4</a></li>
+<li><a href="/wiki/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80" title="文心一言">文心一言</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91" title="机器翻译">机器翻译</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E7%BF%BB%E8%AD%AF" title="电脑辅助翻译">电脑辅助翻译</a></li>
+<li><span class="ilh-all" data-orig-title="基于实例的机器翻译" data-lang-code="en" data-lang-name="英语" data-foreign-title="Example-based machine translation"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%BA%E4%BA%8E%E5%AE%9E%E4%BE%8B%E7%9A%84%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91&amp;action=edit&amp;redlink=1" class="new" title="基于实例的机器翻译（页面不存在）">基于实例</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Example-based_machine_translation" class="extiw" title="en:Example-based machine translation"><span lang="en" dir="auto">Example-based machine translation</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="基于规则的机器翻译" data-lang-code="en" data-lang-name="英语" data-foreign-title="Rule-based machine translation"><span class="ilh-page"><a href="/w/index.php?title=%E5%9F%BA%E4%BA%8E%E8%A7%84%E5%88%99%E7%9A%84%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91&amp;action=edit&amp;redlink=1" class="new" title="基于规则的机器翻译（页面不存在）">基于规则</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Rule-based_machine_translation" class="extiw" title="en:Rule-based machine translation"><span lang="en" dir="auto">Rule-based machine translation</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E8%87%AA%E5%8B%95%E8%B3%87%E6%96%99%E6%94%B6%E9%9B%86" title="自动资料收集">自动识别<br />与数据采集</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB" title="语音识别">语音识别</a></li>
+<li><a href="/wiki/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90" title="语音合成">语音合成</a></li>
+<li><a href="/wiki/%E5%85%89%E5%AD%A6%E5%AD%97%E7%AC%A6%E8%AF%86%E5%88%AB" title="光学字符识别">光学字符识别</a></li>
+<li><a href="/wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%94%9F%E6%88%90" title="自然语言生成">自然语言生成</a></li>
+<li><a href="/wiki/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B" title="提示工程">提示工程</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><a href="/wiki/%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B" title="主题模型">主题模型</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="弹珠分布" data-lang-code="en" data-lang-name="英语" data-foreign-title="Pachinko allocation"><span class="ilh-page"><a href="/w/index.php?title=%E5%BC%B9%E7%8F%A0%E5%88%86%E5%B8%83&amp;action=edit&amp;redlink=1" class="new" title="弹珠分布（页面不存在）">弹珠分布</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Pachinko_allocation" class="extiw" title="en:Pachinko allocation"><span lang="en" dir="auto">Pachinko allocation</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E9%9A%90%E5%90%AB%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7%E5%88%86%E5%B8%83" title="隐含狄利克雷分布">隐含狄利克雷分布</a></li>
+<li><a href="/wiki/%E6%BD%9C%E5%9C%A8%E8%AF%AD%E4%B9%89%E7%B4%A2%E5%BC%95" title="潜在语义索引">潜在语义索引</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="计算机辅助审查" data-lang-code="en" data-lang-name="英语" data-foreign-title="Computer-assisted reviewing"><span class="ilh-page"><a href="/w/index.php?title=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%AE%A1%E6%9F%A5&amp;action=edit&amp;redlink=1" class="new" title="计算机辅助审查（页面不存在）">计算机辅助<br />审查</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Computer-assisted_reviewing" class="extiw" title="en:Computer-assisted reviewing"><span lang="en" dir="auto">Computer-assisted reviewing</span></a></span>）</span></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="自动作文评分" data-lang-code="en" data-lang-name="英语" data-foreign-title="Automated essay scoring"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E5%8A%A8%E4%BD%9C%E6%96%87%E8%AF%84%E5%88%86&amp;action=edit&amp;redlink=1" class="new" title="自动作文评分（页面不存在）">自动作文评分</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Automated_essay_scoring" class="extiw" title="en:Automated essay scoring"><span lang="en" dir="auto">Automated essay scoring</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="语料库检索工具" data-lang-code="en" data-lang-name="英语" data-foreign-title="Concordancer"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%AD%E6%96%99%E5%BA%93%E6%A3%80%E7%B4%A2%E5%B7%A5%E5%85%B7&amp;action=edit&amp;redlink=1" class="new" title="语料库检索工具（页面不存在）">语料库检索工具</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Concordancer" class="extiw" title="en:Concordancer"><span lang="en" dir="auto">Concordancer</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="文法检查器" data-lang-code="en" data-lang-name="英语" data-foreign-title="Grammar checker"><span class="ilh-page"><a href="/w/index.php?title=%E6%96%87%E6%B3%95%E6%A3%80%E6%9F%A5%E5%99%A8&amp;action=edit&amp;redlink=1" class="new" title="文法检查器（页面不存在）">文法检查器</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Grammar_checker" class="extiw" title="en:Grammar checker"><span lang="en" dir="auto">Grammar checker</span></a></span>）</span></span></li>
+<li><span class="ilh-all" data-orig-title="预测文本" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predictive text"><span class="ilh-page"><a href="/w/index.php?title=%E9%A2%84%E6%B5%8B%E6%96%87%E6%9C%AC&amp;action=edit&amp;redlink=1" class="new" title="预测文本（页面不存在）">预测文本</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predictive_text" class="extiw" title="en:Predictive text"><span lang="en" dir="auto">Predictive text</span></a></span>）</span></span></li>
+<li><a href="/wiki/%E6%8B%BC%E5%AF%AB%E6%AA%A2%E6%9F%A5" title="拼写检查">拼写检查</a></li>
+<li><span class="ilh-all" data-orig-title="语法猜测" data-lang-code="en" data-lang-name="英语" data-foreign-title="Syntax guessing"><span class="ilh-page"><a href="/w/index.php?title=%E8%AF%AD%E6%B3%95%E7%8C%9C%E6%B5%8B&amp;action=edit&amp;redlink=1" class="new" title="语法猜测（页面不存在）">语法猜测</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Syntax_guessing" class="extiw" title="en:Syntax guessing"><span lang="en" dir="auto">Syntax guessing</span></a></span>）</span></span></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="3"></td></tr><tr><th scope="row" class="navbox-group"><span class="ilh-all" data-orig-title="自然语言用户界面" data-lang-code="en" data-lang-name="英语" data-foreign-title="Natural language user interface"><span class="ilh-page"><a href="/w/index.php?title=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="自然语言用户界面（页面不存在）">自然语言<br />用户界面</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Natural_language_user_interface" class="extiw" title="en:Natural language user interface"><span lang="en" dir="auto">Natural language user interface</span></a></span>）</span></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E8%99%9B%E6%93%AC%E5%8A%A9%E7%90%86" title="虚拟助理">自动在线助手</a></li>
+<li><a class="mw-selflink selflink">聊天机器人</a></li>
+<li><a href="/wiki/%E6%96%87%E5%AD%97%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F" title="文字冒险游戏">文字冒险游戏</a></li>
+<li><a href="/wiki/%E5%95%8F%E7%AD%94%E7%B3%BB%E7%B5%B1" title="问答系统">问答系统</a></li></ul>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.eqiad.main‐64787b9db9‐gcxrq
+Cached time: 20240327120151
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.942 seconds
+Real time usage: 1.076 seconds
+Preprocessor visited node count: 2957/1000000
+Post‐expand include size: 146127/2097152 bytes
+Template argument size: 2099/2097152 bytes
+Highest expansion depth: 30/100
+Expensive parser function count: 28/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 36081/5000000 bytes
+Lua time usage: 0.434/10.000 seconds
+Lua memory usage: 4816235/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  765.541      1 -total
+ 57.55%  440.554      1 Template:Reflist
+ 27.90%  213.591      2 Template:Navbox
+ 26.61%  203.676     17 Template:Cite_web
+ 14.54%  111.307      1 Template:Computer_Science
+ 14.35%  109.841      1 Template:自然语言处理
+ 13.45%  102.973     25 Template:Le
+  7.98%   61.077      1 Template:Dead_link
+  7.46%   57.074      4 Template:Harvnb
+  7.18%   54.996      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:5374398-0!userlang=zh-cn!zh-cn and timestamp 20240327120151 and revision id 81213338. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="" lang="zh-Hans-CN" dir="ltr">取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=聊天機器人&amp;oldid=81213338">https://zh.wikipedia.org/w/index.php?title=聊天機器人&amp;oldid=81213338</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A" title="Category:即時通訊">即时通讯</a></li><li><a href="/wiki/Category:%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA" title="Category:聊天机器人">聊天机器人</a></li><li><a href="/wiki/Category:%E4%BA%A4%E4%BA%92%E5%BC%8F%E5%8F%99%E4%BA%8B" title="Category:交互式叙事">交互式叙事</a></li><li><a href="/wiki/Category:%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B" title="Category:語言模型">语言模型</a></li><li><a href="/wiki/Category:%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B" title="Category:大型语言模型">大型语言模型</a></li><li><a href="/wiki/Category:%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" title="Category:人工智能">人工智能</a></li><li><a href="/wiki/Category:%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8" title="Category:人工智能应用">人工智能应用</a></li><li><a href="/wiki/Category:%E5%9F%BA%E4%BA%8E%E8%BD%AC%E6%8D%A2%E5%99%A8%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B" title="Category:基于转换器的生成式预训练模型">基于转换器的生成式预训练模型</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E5%93%88%E4%BD%9B%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%BC%E5%BC%8F%E7%B3%BB%E5%88%97%E6%A8%A1%E6%9D%BF%E9%93%BE%E6%8E%A5%E6%8C%87%E5%90%91%E9%94%99%E8%AF%AF%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:含有哈佛参考文献格式系列模板链接指向错误的页面">含有哈佛参考文献格式系列模板链接指向错误的页面</a></li><li><a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E9%94%99%E8%AF%AF%EF%BC%9A%E6%97%A5%E6%9C%9F" title="Category:引文格式1错误：日期">引文格式1错误：日期</a></li><li><a href="/wiki/Category:%E8%87%AA2024%E5%B9%B43%E6%9C%88%E5%B8%A6%E6%9C%89%E5%A4%B1%E6%95%88%E9%93%BE%E6%8E%A5%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:自2024年3月带有失效链接的条目">自2024年3月带有失效链接的条目</a></li><li><a href="/wiki/Category:%E5%BC%95%E6%96%87%E6%A0%BC%E5%BC%8F1%E7%BB%B4%E6%8A%A4%EF%BC%9A%E6%9C%AA%E8%AF%86%E5%88%AB%E8%AF%AD%E6%96%87%E7%B1%BB%E5%9E%8B" title="Category:引文格式1维护：未识别语文类型">引文格式1维护：未识别语文类型</a></li><li><a href="/wiki/Category:CS1%E8%8B%B1%E8%AF%AD%E6%9D%A5%E6%BA%90_(en)" title="Category:CS1英语来源 (en)">CS1英语来源 (en)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年2月17日 (星期六) 14:08。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" title="Wikipedia:CC-BY-SA-4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国内税收法501(c)(3)登记的<a href="//donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>开关有限宽度模式</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2274","wgBackendResponseTime":192,"wgPageParseReport":{"limitreport":{"cputime":"0.942","walltime":"1.076","ppvisitednodes":{"value":2957,"limit":1000000},"postexpandincludesize":{"value":146127,"limit":2097152},"templateargumentsize":{"value":2099,"limit":2097152},"expansiondepth":{"value":30,"limit":100},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":36081,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  765.541      1 -total"," 57.55%  440.554      1 Template:Reflist"," 27.90%  213.591      2 Template:Navbox"," 26.61%  203.676     17 Template:Cite_web"," 14.54%  111.307      1 Template:Computer_Science"," 14.35%  109.841      1 Template:自然语言处理"," 13.45%  102.973     25 Template:Le","  7.98%   61.077      1 Template:Dead_link","  7.46%   57.074      4 Template:Harvnb","  7.18%   54.996      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.434","limit":"10.000"},"limitreport-memusage":{"value":4816235,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFKane2016\"] = 1,\n    [\"CITEREF黄永轩，微果酱团队著2017\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Cite book\"] = 2,\n    [\"Cite news\"] = 1,\n    [\"Cite web\"] = 17,\n    [\"Computer Science\"] = 1,\n    [\"Dead link\"] = 1,\n    [\"Div col\"] = 1,\n    [\"Div col end\"] = 1,\n    [\"Harv\"] = 3,\n    [\"Harvnb\"] = 4,\n    [\"Link-en\"] = 3,\n    [\"Main\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"自然语言处理\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw-api-int.eqiad.main-64787b9db9-gcxrq","timestamp":"20240327120151","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u804a\u5929\u6a5f\u5668\u4eba","url":"https:\/\/zh.wikipedia.org\/wiki\/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q870780","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q870780","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-06-28T10:17:53Z","dateModified":"2024-02-17T14:08:21Z","headline":"\u7d93\u7531\u5c0d\u8a71\u6216\u6587\u5b57\u9032\u884c\u4ea4\u8ac7\u7684\u96fb\u8166\u7a0b\u5f0f"}</script>
+</body>
+</html>
