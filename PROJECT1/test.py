@@ -96,12 +96,23 @@
 # except smtplib.SMTPException:
 #     print("Error: 无法发送邮件")
 
-import requests
+# import requests
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "Accept-Language": "zh-CN,zh;q=0.9"
-}
-res = requests.get("https://zh.wikipedia.org/wiki/操作系统", headers = headers)
+# headers = {
+#     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+#     "Accept-Language": "zh-CN,zh;q=0.9"
+# }
+# res = requests.get("https://zh.wikipedia.org/wiki/操作系统", headers = headers)
 
-print(res.text)
+# print(res.text)
+
+
+import os
+from hanlp_restful import HanLPClient
+
+with open("res/cn/1.txt", 'r', encoding = "utf-8") as f:
+    text = f.read()
+
+HanLP = HanLPClient('https://www.hanlp.com/hanlp/v21/redirect', auth = '660ebfd6eaf668ab781bd519', language = 'zh')
+text = HanLP(text, tasks = 'tok/coarse').pretty_print()
+print(text)
