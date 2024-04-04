@@ -10,6 +10,7 @@ def get_character_cn(src_text):
 
 def get_character_en(src_text):
     dest_text = re.sub(r"[^A-Za-z]+", ' ', src_text)
+    dest_text = dest_text.lower()
     return dest_text
 
 def get_characterized_file(src_file, dest_file, get_character):
