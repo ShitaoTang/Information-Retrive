@@ -4,6 +4,9 @@ run:
 crawl:
 	python -W ignore crawl.py
 
+test:
+	python test.py
+
 #clean:
 #	rm -rf downloaded
 
