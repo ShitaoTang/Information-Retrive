@@ -1,11 +1,17 @@
 import os
 import re
 import zhconv
+import pynlpir
+
+pynlpir.open()
 
 def get_character_cn(src_text):
     dest_text = re.sub(r"[^\u4e00-\u9fa5]+", '', src_text)
     # convert zh-tw/zh-hk/zh-hant to zh-cn
     dest_text = zhconv.convert(dest_text, "zh-cn")
+    # using pynlpir to segment chinese text
+    segments = pynlpir.segment(dest_text, pos_tagging = False)
+    dest_text = ' '.join(segments)
     return dest_text
 
 def get_character_en(src_text):
