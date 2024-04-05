@@ -1,0 +1,1 @@
+ network working group dave walden request for comments bbn nic september categories b c updates rfc obsoletes none clarification the second statement before statement in the fortran program on page of rfc should read n dcw jm this rfc was put into machine readable form for entry into the online rfc archives by bbn corp under the direction of alex mckenzie page 
