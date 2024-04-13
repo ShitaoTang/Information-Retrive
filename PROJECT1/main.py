@@ -1,123 +1,98 @@
 import os
 import re
 import zhconv
+import pynlpir
+import threading
 from nltk.tokenize import word_tokenize
-from nltk.tag import pos_tag
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import SnowballStemmer
 
-# 初始化词形还原器
-lemmatizer = WordNetLemmatizer()
+# initialize the NLPIR segmenter
+pynlpir.open()
 
-# import pynlpir
+# initialize the poter_stemmer 
+poter_stemmer = SnowballStemmer(language='english')
 
-# pynlpir.open()
 
-def get_character_cn(src_text):
-    dest_text = re.sub(r"[^\u4e00-\u9fa5]+", '', src_text)
-    # convert zh-tw/zh-hk/zh-hant to zh-cn
-    dest_text = zhconv.convert(dest_text, "zh-cn")
-    # using pynlpir to segment chinese text
-    segments = pynlpir.segment(dest_text, pos_tagging = False)
-    dest_text = ' '.join(segments)
-    return dest_text
-
-def get_character_en(src_text):
-    dest_text = re.sub(r"[^A-Za-z]+", ' ', src_text)
-    dest_text = dest_text.lower()
-    return dest_text
-
-def get_characterized_file(src_file, dest_file, get_character):
-    with open(src_file, 'r', encoding = "utf-8") as f:
-        dest_text = get_character(f.read())
-    with open(dest_file, 'w', encoding = "utf-8") as f:
-        f.write(dest_text)
-
-dict_get_character = {
-    "en": get_character_en,
-    "cn": get_character_cn
-}
-
-def characterize(src_dir, dest_dir, type):
-    os.makedirs(dest_dir, exist_ok = True)
+def process_cn(src_dir, dest_dir):
     
-    files = os.listdir(src_dir)
-    index = 1
-    for file in files:
-        src_file = os.path.join(src_dir, file)
-        dest_file = os.path.join(dest_dir, f"{index}.txt")
-        # using dictionary to call function instead of "if...else..."
-        get_characterized_file(src_file, dest_file, dict_get_character[type])
-        index += 1
-
-
-# # cn
-# src_dir_cn = "downloaded/cn"
-# dest_dir_cn = "res/cn"
-# characterize(src_dir_cn, dest_dir_cn, "cn")
-
-# #en
-# src_dir_en = "downloaded/en"
-# dest_dir_en = "res/en"
-# characterize(src_dir_en, dest_dir_en, "en")
-
-#delete stop-words
-def delete(src_file, stopwords_list):
-    with open(src_file, 'r', encoding = "utf-8") as f:
-        src_text = f.read()
-    words = src_text.split()
-    dest_text = [word for word in words if word not in stopwords_list]
-    return ' '.join(dest_text)
-
-# with open('stopwords/cn.txt', 'r', encoding = "utf-8") as f:
-#     stopwords_list = set(f.read().splitlines())
-# text = delete_stopwords("seg/cn/2.txt", stopwords_list)
-# print(text)
-
-def delete_stopwords(src_dir, dest_dir, stopwords_list):
     os.makedirs(dest_dir, exist_ok = True)
 
-    files = os.listdir(src_dir)
-    index = 1
-    for file in files:
-        src_file = os.path.join(src_dir, file)
-        dest_file = os.path.join(dest_dir, f"{index}.txt")
-        deleted_text = delete(src_file, stopwords_list)
-        with open(dest_file, 'w') as f:
-            f.write(deleted_text)
-        index += 1
-
-# with open("stopwords/cn.txt", 'r', encoding = "utf-8") as f:
-#     stopwords_list_cn = set(f.read().splitlines())
-# delete_stopwords("seg/cn", "res/cn", stopwords_list_cn)
-
-# with open("stopwords/en.txt", 'r', encoding = "utf-8") as f:
-#     stopwords_list_en = set(f.read().splitlines())
-# delete_stopwords("seg/en", "res/en", stopwords_list_en)
-
-def porter_stemming(src_dir, dest_dir):
-    os.makedirs(dest_dir, exist_ok = True)
+    with open("stopwords/cn.txt", 'r', encoding = "utf-8") as f:
+        stopwords_list_cn = set(f.read().splitlines())
 
     files = os.listdir(src_dir)
     index = 1
-    
     for file in files:
         src_file = os.path.join(src_dir, file)
         dest_file = os.path.join(dest_dir, f"{index}.txt")
         
-        with open(src_file, 'r') as f:
+        with open(src_file, 'r', encoding = 'utf-8') as f:
             src_text = f.read()
-        
-        words = word_tokenize(src_text)
-        pos_tags = pos_tag(words)
 
-        dest_text = []
-        for word, pos in pos_tags:
-            item = lemmatizer.lemmatize(word, pos = pos[0].lower()) if pos[0].lower() in ['a', 'n', 'v'] else lemmatizer.lemmatize(word)
-            dest_text.append(item)
-        
-        with open(dest_file, 'w') as f:
-            f.write(' '.join(dest_text))
+        extracted_chinese_text = re.sub(r"[^\u4e00-\u9fa5]+", '', src_text)
+
+        # convert zh-tw/zh-hk/zh-hant to zh-cn
+        simplified_chinese_text = zhconv.convert(extracted_chinese_text, "zh-cn")
+
+        # segment Chinese text
+        segments = pynlpir.segment(simplified_chinese_text, pos_tagging = False)
+        segmented_text = ' '.join(segments)
+
+        # remove stopwords
+        words = segmented_text.split()
+        filtered_words = [word for word in words if word not in stopwords_list_cn] 
+        filtered_text= ' '.join(filtered_words)
+
+        with open(dest_file, 'w', encoding = "utf-8") as f:
+            f.write(filtered_text)
 
         index += 1
 
-porter_stemming('res/en', 'final/en')
+
+def process_en(src_dir, dest_dir):
+
+    os.makedirs(dest_dir, exist_ok = True)
+
+    with open("stopwords/en.txt", 'r', encoding = "utf-8") as f:
+        stopwords_list_en = set(f.read().splitlines())
+
+    files = os.listdir(src_dir)
+    index = 1
+    for file in files:
+        src_file = os.path.join(src_dir, file)
+        dest_file = os.path.join(dest_dir, f"{index}.txt")
+
+        with open(src_file, 'r', encoding = "utf-8") as f:
+            src_text = f.read()
+
+        extracted_english_text = re.sub(r"[^A-Za-z]+", ' ', src_text)
+        # lower all the letters
+        lowered_text = extracted_english_text.lower()
+        
+        # remove stopwords
+        words = lowered_text.split()
+        filtered_words = [word for word in words if word not in stopwords_list_en]
+        filtered_text = ' '.join(filtered_words)
+
+        # porter stemming
+        words = word_tokenize(filtered_text)
+        stemmed_text = ' '.join(poter_stemmer.stem(word) for word in words)
+
+        with open(dest_file, 'w', encoding = "utf-8") as f:
+            f.write(stemmed_text)
+
+        index += 1
+
+
+def main():
+   thread_cn = threading.Thread(target = process_cn, args = ("downloaded/cn", "res/cn"))
+   thread_en = threading.Thread(target = process_en, args = ("downloaded/en", "res/en"))
+
+   thread_cn.start()
+   thread_en.start()
+
+   thread_cn.join()
+   thread_en.join()
+
+if __name__ == "__main__":
+    main()
