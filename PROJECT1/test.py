@@ -107,12 +107,41 @@
 # print(res.text)
 
 
-import os
-from hanlp_restful import HanLPClient
+# import os
+# from hanlp_restful import HanLPClient
 
-with open("res/cn/1.txt", 'r', encoding = "utf-8") as f:
+# with open("res/cn/1.txt", 'r', encoding = "utf-8") as f:
+#     text = f.read()
+
+# HanLP = HanLPClient('https://www.hanlp.com/hanlp/v21/redirect', auth = '660ebfd6eaf668ab781bd519', language = 'zh')
+# text = HanLP(text, tasks = 'tok/coarse').pretty_print()
+# print(text)
+
+
+# poter stemming
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import WordNetLemmatizer
+
+# 初始化词形还原器
+lemmatizer = WordNetLemmatizer()
+
+# 文本
+with open("res/en/2.txt", 'r', encoding = "utf-8") as f:
     text = f.read()
-
-HanLP = HanLPClient('https://www.hanlp.com/hanlp/v21/redirect', auth = '660ebfd6eaf668ab781bd519', language = 'zh')
-text = HanLP(text, tasks = 'tok/coarse').pretty_print()
+print("\033[91m[PREVIOUS]\033[0m")
 print(text)
+print("========================================")
+# 分词和词性标注
+words = word_tokenize(text)
+pos_tags = pos_tag(words)
+
+lemmas = []
+for word, pos in pos_tags:
+    lemma = lemmatizer.lemmatize(word, pos=pos[0].lower()) if pos[0].lower() in ['a', 'n', 'v'] else lemmatizer.lemmatize(word)
+    lemmas.append(lemma)
+
+# 以空格分隔输出
+print("\033[92m[PROCESSED]\033[0m")
+print(*lemmas, sep=' ')
