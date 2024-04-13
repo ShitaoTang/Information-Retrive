@@ -1,1 +1,0 @@
- network working group j melvin request for comments nic nic april typographical error in rfc catagories c rfcs obsoleted none rfcs updated on page of rfc the rts should be an str this rfc was put into machine readable form for entry into the online rfc archives by bbn corp under the direction of alex mckenzie page 
