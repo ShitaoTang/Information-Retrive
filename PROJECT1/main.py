@@ -14,9 +14,22 @@ poter_stemmer = SnowballStemmer(language='english')
 
 
 def process_cn(src_dir, dest_dir):
+    '''
+    A function to process Chinese webpages:
+    - Extract Chinese characters.
+    - Convert traditional Chinese characters to simplified Chinese characters.
+    - Segment Chinese text.
+    - Remove stopwords.
+    - Name and save the processed files according to its index.
+    
+    Args:
+    - src_dir: Path to the folder containing the downloaded Chinese webpages.
+    - dest_dir: Path to the folder where the processed files will be saved.
+    '''
     
     os.makedirs(dest_dir, exist_ok = True)
 
+    # read stopwords from file
     with open("stopwords/cn.txt", 'r', encoding = "utf-8") as f:
         stopwords_list_cn = set(f.read().splitlines())
 
@@ -50,6 +63,18 @@ def process_cn(src_dir, dest_dir):
 
 
 def process_en(src_dir, dest_dir):
+    '''
+    A function to process English webpages:
+    - Extract English words.
+    - Lowercase all the letters.
+    - Remove stopwords.
+    - Stem English words.
+    - Name and save the processed files according to its index.
+
+    Args:
+    - src_dir: Path to the folder containing the downloaded English webpages.
+    - dest_dir: Path to the folder where the processed files will be saved.
+    '''
 
     os.makedirs(dest_dir, exist_ok = True)
 
