@@ -38,6 +38,7 @@ Information Retrive
     │   └── en.txt
     └── test.py         # Script for testing functionalities
 ```
+
 ## Usage
 
 ### 1. Clone the Repository and Rename
@@ -70,7 +71,7 @@ If you have difficuty downloading a newest liscence， you can download it manua
 ```
 python -c "import site; print(site.getsitepackages()[0])"
 ```
-You'll see a $path is printed, and put `NLPIR.user` under $path. You need to replace $path with the actual path printed in the terminal in the previous step.:
+You'll see a $path is printed, and put `NLPIR.user` under $path. You need to replace $path with the actual path printed in the terminal in the previous step.
 ```
 mv NLPIR.user $path 
 ```
@@ -85,11 +86,11 @@ To initiate web crawling, first ensure that you have make installed on your comp
 ```
 make crawl
 ```
-Whether you can download all the web-pages depends on your network status (please ensure you can access Wikipedia at least). If failed, you can modify `Clawer_cn.start_url` in `main.py` to any other Chinese word's Wikipedia URL. Generally speaking, web-pages from ietf.org are generally accessible without network connection errors.At least I haven't had a 404 Not found.
+Whether you can download all the web-pages depends on your network status (please ensure you can access Wikipedia at least). If failed, you can modify `Clawer_cn.start_url` in `main.py` to any other Chinese word's Wikipedia URL. Generally speaking, web-pages from ietf.org are generally accessible without network connection errors. At least I haven't had a 404 Not found.
 
 This process may take between 3 to 10 minutes. **During this time, you might consider taking a short break and enjoying the scenery. Perhaps there's a gentle breeze, a beautiful sunset, or an evening glow waiting for you.**
 
-After the crawling process is complete, you can see a folder `downloaded/` is generated. Then running this to process the downloaded documents and web-pages:
+After the crawling process is complete, you can see a new folder `downloaded/` is generated. Then running this to process the downloaded documents and web-pages:
 ```
 make run
 ```
