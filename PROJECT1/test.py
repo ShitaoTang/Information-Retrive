@@ -75,15 +75,15 @@
 # from email.header import Header
 
 
-# sender = '744317484@qq.com'  # 发送邮箱
-# receivers = ['tst17@my.swjtu.edu.cn']  # 接收邮箱
-# # auth_code = uslovcpsshmjbfbc"  # 授权码
+# sender = 'xxxxxxxxxxxx@xx.com'  
+# receivers = ['tst17@my.swjtu.edu.cn']  
+# # auth_code = "xxxxxxxx"
 
-# message = MIMEText('Python发送邮件', 'plain', 'utf-8')
-# message['From'] = Header("Sender<%s>" % sender)  # 发送者
-# message['To'] = Header("Receiver<%s>" % receivers[0])  # 接收者
+# message = MIMEText('Python send email', 'plain', 'utf-8')
+# message['From'] = Header("Sender<%s>" % sender) 
+# message['To'] = Header("Receiver<%s>" % receivers[0]) 
 
-# subject = 'Python SMTP 邮件测试'
+# subject = 'Python SMTP test'
 # message['Subject'] = Header(subject, 'utf-8')
 
 
@@ -91,10 +91,10 @@
 #     server = smtplib.SMTP_SSL('smtp.qq.com', 465)
 #     server.login(sender, auth_code)
 #     server.sendmail(sender, receivers, message.as_string())
-#     print("邮件发送成功")
+#     print("[SUCCESS]")
 #     server.close()
 # except smtplib.SMTPException:
-#     print("Error: 无法发送邮件")
+#     print("[FAILED]")
 
 # import requests
 
@@ -124,16 +124,15 @@ from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
 from nltk.stem import WordNetLemmatizer
 
-# 初始化词形还原器
+# lemmatizer
 lemmatizer = WordNetLemmatizer()
 
-# 文本
 with open("res/en/2.txt", 'r', encoding = "utf-8") as f:
     text = f.read()
 print("\033[91m[PREVIOUS]\033[0m")
 print(text)
 print("========================================")
-# 分词和词性标注
+# tokenize and pos tagging
 words = word_tokenize(text)
 pos_tags = pos_tag(words)
 
@@ -142,6 +141,6 @@ for word, pos in pos_tags:
     lemma = lemmatizer.lemmatize(word, pos=pos[0].lower()) if pos[0].lower() in ['a', 'n', 'v'] else lemmatizer.lemmatize(word)
     lemmas.append(lemma)
 
-# 以空格分隔输出
+# print lemmatized text
 print("\033[92m[PROCESSED]\033[0m")
 print(*lemmas, sep=' ')
