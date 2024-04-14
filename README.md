@@ -67,7 +67,7 @@ After you install `pynlpir`, you may need to get a liscence by running this acco
 ```
 pynlpir update
 ```
-If you have difficuty downloading a newest liscence， you can download it manually [here](https://github.com/NLPIR-team/NLPIR/blob/master/License/license%20for%20a%20month/NLPIR-ICTCLAS分词系统授权/NLPIR.user). Run this:
+If you have difficulty downloading a newest liscence， you can download it manually [here](https://github.com/NLPIR-team/NLPIR/blob/master/License/license%20for%20a%20month/NLPIR-ICTCLAS分词系统授权/NLPIR.user). Run this:
 ```
 python -c "import site; print(site.getsitepackages()[0])"
 ```
