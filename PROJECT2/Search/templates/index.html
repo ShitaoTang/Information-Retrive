@@ -1,9 +1,9 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<form method="POST" action="{{ url_for('handle_search') }}">
+<form method="POST" action="{{ url_for('search') }}">
     <div class="mb-3">
-        <input type="text" class="form-control" name="query" id="query" placeholder="Enter your search query"
+        <input type="text" class="form-control" name="query" id="query" placeholder="Enter a keyword to search..."
             value="{{ query }}" autofocus>
     </div>
 </form>
@@ -47,11 +47,9 @@
         {{ from_ + loop.index }}. <b><a href="{{ url_for('get_document', id=result._id) }}">{{ result._source.name
                 }}</a></b>
         <br>
-        {{ result._source.summary }}
+        {{ result._source.content}}
         <br>
         <small>
-            Category: {{ result._source.category }}.
-            Last updated: {{ result._source.updated_at | default(result._source.created_on) }}.
             {% if result._score %}<i>(Score: {{ result._score }})</i>{% endif %}
         </small>
     </p>

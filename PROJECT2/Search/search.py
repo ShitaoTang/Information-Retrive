@@ -4,7 +4,9 @@ import os
 import time
 
 from elasticsearch import Elasticsearch
+from dotenv import load_dotenv
 
+# load_dotenv()
 
 class Search:
     def __init__(self):
@@ -46,3 +48,10 @@ class Search:
                 documents.append(document)
 
         return self.insert_documents(documents)
+
+
+    def search(self, **query_args):
+        return self.es.search(index = "documents", **query_args)
+
+    def retrieve_document(self, id):
+        return self.es.get(index = "documents", id = id)

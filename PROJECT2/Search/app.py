@@ -11,14 +11,28 @@ def index():
 @app.post('/')
 def search():
     query = request.form.get('query', '')
-    return render_template("index.html", query=query, results = [], from_ = 0, total = 0)
+    results = es.search(
+        query={
+            'multi_match': {
+                'query': query,
+                'fields': ['title', 'content'],
+            }
+        }
+    )
+    return render_template('index.html', results=results['hits']['hits'],
+                           query=query, from_=0,
+                           total=results['hits']['total']['value'])
 
-@app.get('/document/<id>')
-def get_documemnt(id):
-    return 'Document not found'
 
 @app.cli.command()
 def reindex():
     '''Reindex all documents to Elasticsearch'''
     response = es.reindex()
     print(f'Index with {len(response["items"])} documents created in {response["took"]} ms.')
+
+@app.get('/document/<id>')
+def get_document(id):
+    document = es.retrieve_document(id)
+    title = document['_source']['title']
+    paragraphs = document['_source']['content'].split('\n')
+    return render_template('document.html', title=title, paragraphs=paragraphs)
