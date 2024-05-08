@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<form method="POST" action="{{ url_for('search') }}">
-    <div class="mb-3">
-        <input type="text" class="form-control" name="query" id="query" placeholder="Enter a keyword to search..."
-            value="{{ query }}" autofocus>
-    </div>
-</form>
+<div class="input-group mb-3">
+    <input type="text" class="form-control" name="query" id="query" placeholder="Enter a keyword to search..."
+        value="{{ query }}" autofocus>
+    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
+</div>
+
 {% if results %}
 <div class="row mb-3">
     <div class="col-2 mt-2">
@@ -43,20 +43,57 @@
         <div class="col"></div>
     </div>
     {% for result in results %}
-    <p>
-        {{ from_ + loop.index }}. <b><a href="{{ url_for('get_document', id=result._id) }}">{{ result._source.name
-                }}</a></b>
-        <br>
-        {{ result._source.content}}
-        <br>
-        <small>
-            {% if result._score %}<i>(Score: {{ result._score }})</i>{% endif %}
-        </small>
-    </p>
+    <div class="card mb-3">
+        <div class="card-body">
+            <h5 class="card-title"><a href="{{ url_for('get_document', id=result._id) }}">{{ result._source.title
+                    }}</a></h5>
+            <p class="card-text">
+            <div class = "content" style="
+                    display: -webkit-box;
+                    -webkit-line-clamp: 4;
+                    -webkit-box-orient: vertical;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                ">
+                {{ result._source.content }}
+            </div>
+            </p>
+            <p class="card-text"><small class="text-muted">{% if result._score %}(Score: {{ result._score }}){% endif
+                    %}</small></p>
+        </div>
+    </div>
     {% endfor %}
 </div>
 </div>
 {% elif request.method == 'POST' %}
 <p>No results found.</p>
 {% endif %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var keyword = "{{ query }}";  // 获取搜索关键词
+        $(".card-text").each(function () {
+            var text = $(this).html();
+            var regEx = new RegExp(keyword, "ig");  // 创建正则表达式
+            var highlightedText = text.replace(regEx, "<span style='color:red'>" + keyword + "</span>");  // 替换关键词
+            $(this).html(highlightedText);  // 更新文本
+        });
+    });
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var keyword = "{{ query }}";  // 获取搜索关键词
+        $(".content").each(function () {
+            var text = $(this).text();
+            var regEx = new RegExp(keyword, "ig");  // 创建正则表达式
+            var highlightedText = text.replace(regEx, "<span style='color:red'>" + keyword + "</span>");  // 替换关键词
+            $(this).html(highlightedText);  // 更新文本
+        });
+    });
+</script>
+
+
 {% endblock %}

@@ -33,7 +33,7 @@ class Search:
         for filename in os.listdir(path_cn):
             with open(f"{path_cn}/{filename}", 'r') as file:
                 document = {
-                    'title': filename,
+                    'title': 'cn_' + filename,
                     'content': file.read()
                 }
                 documents.append(document)
@@ -42,7 +42,7 @@ class Search:
         for filename in os.listdir(path_en):
             with open(f"{path_en}/{filename}", 'r') as file:
                 document = {
-                    'title': filename,
+                    'title': 'en_' + filename,
                     'content': file.read()
                 }
                 documents.append(document)
