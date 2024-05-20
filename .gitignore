@@ -4,4 +4,4 @@ PROJECT1/.DS_Store
 PROJECT1/.vscode
 PROJECT2/docs
 PROJECT2/Search/__pycache__
-PROJECT2/Search/.venv
+**/.venv
