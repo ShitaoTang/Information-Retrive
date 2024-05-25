@@ -101,3 +101,58 @@ This step should complete quickly, typically within 30 seconds, depending on you
 ## Contributing
 
 Contributions to this repository are welcome. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
+
+
+---
+
+
+## Project2
+
+Project2 focuses on implementing text search functionality, document similarity comparison, and document clustering.
+
+### Tasks
+
+1. **Establish and Implement Text Search Functionality**:
+   - Utilize open-source search engines such as [Lucene](http://lucene.apache.org/), [ElasticSearch](https://www.elastic.co/cn/elasticsearch/), or [Lemur](http://www.lemurproject.org/). Review relevant documentation and install the necessary software.
+   - Develop a search functionality for 500 preprocessed English and Chinese documents/web pages.
+   - Index the documents using the chosen software. Then, using either a front-end interface or an existing interface, input keywords and display search results.
+   - The front-end can display results in the form of a web page, application, or by using available interface tools.
+   - Implement search capabilities for both English and Chinese documents.
+
+2. **Document Similarity Comparison**:
+   - Calculate the similarity between any two documents using Cosine Distance. List the original text of the documents and provide the similarity value.
+   - Attempt to implement a program for detecting duplicate documents.
+
+3. **Clustering of Downloaded Documents using K-Means**:
+   - Use the K-Means clustering algorithm to cluster the 500 English/Chinese documents into 20 categories. Display the three largest clusters and the five most representative documents in each cluster (i.e., the documents closest to the cluster center).
+   - Cluster the documents into different numbers of clusters, such as 5, 10, 25, and 50, and compare the differences and changes in the clustering results.
+   - The distance for clustering can be calculated using either Cosine Distance or Euclidean Distance.
+
+### File Structure
+
+```
+Information Retrive
+├── PROJECT1
+└── PROJECT2
+    ├── Cluster
+    │   └── kmeans.py          # Script implementing the K-Means clustering algorithm
+    ├── Search
+    │   ├── app.py             # Main script for flask application
+    │   ├── requirements.txt   # Dependencies required for app.py and search.py
+    │   ├── search.py          # Script for handling search functionality and indexing
+    │   ├── static             
+    │   └── templates          # Directory for HTML templates
+    ├── Similarity
+    │   ├── calculate.py       # Script for calculating document cosine distance
+    │   ├── distances          # Directory for storing distance data
+    │   │   ├── cn.txt        
+    │   │   └── en.txt         
+    │   ├── tfidfs             # Directory for storing TF-IDF data
+    │   │   ├── cn
+    │   │   └── en
+    │   └── tfidfs_normalized  # Directory for storing normalized TF-IDF data
+    │       ├── cn
+    │       └── en
+    └── docs                   # Directory for pre-processed documents
+        ├── cn                 # Directory for English documentation
+```
