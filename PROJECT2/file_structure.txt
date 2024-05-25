@@ -1,0 +1,28 @@
+PROJECT2
+├── Cluster
+│   └── kmeans.py
+├── Search
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── search.py
+│   ├── static
+│   └── templates
+│       ├── base.html
+│       ├── document.html
+│       └── index.html
+├── Similarity
+│   ├── calculate.py
+│   ├── distances
+│   │   ├── cn.txt
+│   │   └── en.txt
+│   ├── tfidfs
+│   │   ├── cn
+│   │   └── en
+│   └── tfidfs_normalized
+│       ├── cn
+│       └── en
+└── docs
+    ├── cn
+    └── en
+
+17 directories, 1183 files
