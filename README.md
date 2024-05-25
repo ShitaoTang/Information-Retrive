@@ -154,5 +154,6 @@ Information Retrive
     │       ├── cn
     │       └── en
     └── docs                   # Directory for pre-processed documents
-        ├── cn                 # Directory for English documentation
+        ├── cn                 
+        └── en 
 ```
