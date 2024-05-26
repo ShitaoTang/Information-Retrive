@@ -1,11 +1,13 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div class="input-group mb-3">
-    <input type="text" class="form-control" name="query" id="query" placeholder="Enter a keyword to search..."
-        value="{{ query }}" autofocus>
-    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
-</div>
+<form method="POST" action="{{ url_for('search') }}">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" name="query" id="query" placeholder="Enter a keyword to search..."
+            value="{{ query }}" autofocus>
+        <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Search</button>
+    </div>
+</form>
 
 {% if results %}
 <div class="row mb-3">
