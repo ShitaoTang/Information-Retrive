@@ -59,19 +59,19 @@ def get_tfidfs(folder_path):
     return tfidfs
 
 
-for filename, tfidf in get_tfidfs("../docs/cn").items():
-    if not os.path.exists("tfidfs/cn"):
-        os.makedirs("tfidfs/cn")
-    with open(f"tfidfs/cn/{filename}", 'w') as f:
-        for term, value in tfidf.items():
-            f.write(f"{term} {value}\n")
+# for filename, tfidf in get_tfidfs("../docs/cn").items():
+#     if not os.path.exists("tfidfs/cn"):
+#         os.makedirs("tfidfs/cn")
+#     with open(f"tfidfs/cn/{filename}", 'w') as f:
+#         for term, value in tfidf.items():
+#             f.write(f"{term} {value}\n")
 
-for filename, tfidf in get_tfidfs("../docs/en").items():
-    if not os.path.exists("tfidfs/en"):
-        os.makedirs("tfidfs/en")
-    with open(f"tfidfs/en/{filename}", 'w') as f:
-        for term, value in tfidf.items():
-            f.write(f"{term} {value}\n")
+# for filename, tfidf in get_tfidfs("../docs/en").items():
+#     if not os.path.exists("tfidfs/en"):
+#         os.makedirs("tfidfs/en")
+#     with open(f"tfidfs/en/{filename}", 'w') as f:
+#         for term, value in tfidf.items():
+#             f.write(f"{term} {value}\n")
 
 # 归一化
 def normalize(folder_path):
@@ -125,5 +125,29 @@ def cosine_distance(folder_path):
 
     return distances
 
-cosine_distance("../docs/cn")
-cosine_distance("../docs/en")
+print("cn or en: ")
+type = input()
+print("filename1: ")
+filename1 = input()
+print("filename2: ")
+filename2 = input()
+
+with open(f"distances/{type}.txt", 'r') as f:
+    for line in f:
+        file1, file2, distance = line.split()
+        if (file1 == filename1 and file2 == filename2) or (file1 == filename2 and file2 == filename1):
+            print(f"cosine distance: {distance}")
+            # write these two files to a new file file1_file2.log
+            with open(f"{filename1}_{filename2}.log", 'w') as log:
+                log.write(f"cosine distance: {distance}\n")
+                with open(f"../docs/{type}/{filename1}", 'r') as f1:
+                    log.write(f"{filename1}:\n")
+                    log.write(f1.read())
+                with open(f"../docs/{type}/{filename2}", 'r') as f2:
+                    log.write(f"\n{filename2}:\n")
+                    log.write(f2.read())
+            break
+
+# if __name__ == "__main__":
+#     cosine_distance("../docs/cn")
+#     cosine_distance("../docs/en")
