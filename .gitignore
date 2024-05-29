@@ -5,3 +5,4 @@ PROJECT1/.vscode
 PROJECT2/docs
 PROJECT2/Search/__pycache__
 **/.venv
+**/*.log
