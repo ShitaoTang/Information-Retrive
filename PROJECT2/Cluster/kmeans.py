@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.metrics import pairwise_distances
 import pandas as pd
@@ -47,7 +48,7 @@ def read_distance_file(file_path):
 def main():
     '''
     Main function to read distance data, perform K-means clustering,
-    and print the resulting clusters.
+    and plot the resulting clusters.
     
     Prompts the user to input the number of clusters.
     '''
@@ -76,7 +77,25 @@ def main():
     # Identify the largest three clusters
     largest_clusters = sorted(clusters.items(), key=lambda x: len(x[1]), reverse=True)[:3]
 
-    # Output the clustered documents
+    # Create a color map for the clusters
+    colors = plt.cm.get_cmap('tab10', k)
+
+    # Create a 2D scatter plot
+    plt.figure(figsize=(10, 7))
+
+    for label, cluster_docs in clusters.items():
+        # Get the indices of the documents in the cluster
+        cluster_indices = [documents.index(doc) for doc in cluster_docs]
+        
+        # Plot the documents in the cluster
+        plt.scatter(distance_matrix[cluster_indices, 0], distance_matrix[cluster_indices, 1], 
+                    label=f'Cluster {label}', c=colors(label), alpha=0.6)
+
+    # Plot the cluster centers
+    for label, center in enumerate(cluster_centers):
+        plt.scatter(center[0], center[1], c='black', marker='x', s=100, label=f'Center {label}')
+
+        # Output the clustered documents
     for label, cluster_docs in clusters.items():
         print(f"\033[1;31m[Cluster {label}]\033[0m: {', '.join(cluster_docs)}")
 
@@ -95,6 +114,14 @@ def main():
         closest_docs = [cluster_docs[i] for i in closest_docs_indices]
         
         print(f"5 Closest Documents to Cluster Center {label}: {', '.join(closest_docs)}")
+    
+    plt.legend()
+    plt.xlabel('Feature 1')
+    plt.ylabel('Feature 2')
+    plt.title(f'K-means Clustering with k={k}')
+    plt.show()
+
+
 
 if __name__ == "__main__":
     main()
