@@ -2,17 +2,24 @@ import os
 import math
 import re
 import zhconv
-# import pynlpir
+import pynlpir
 from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer
 
 # initialize the NLPIR segmenter
-# pynlpir.open()
+pynlpir.open()
 
 # initialize the poter_stemmer 
 poter_stemmer = SnowballStemmer(language='english')
 
 def get_tf(document):
+    '''
+    Compute term frequency (TF) for a document.
+    Args:
+        document (str): The content of the document.
+    Returns:
+        dict: A dictionary of terms with their corresponding TF values.
+    '''
     tfs = {}
     terms = document.split()
 
@@ -26,6 +33,13 @@ def get_tf(document):
 
 # 对文档的tf进行归一化，每个词的tf值除以文档中所有词的tf值的平方和
 def normalize_tf(tf):
+    '''
+    Normalize TF values by dividing each TF value by the square root of the sum of squared TF values.
+    Args:
+        tf (dict): A dictionary of terms with their corresponding TF values.
+    Returns:
+        dict: A dictionary of terms with their corresponding normalized TF values.
+    '''
     norm = 0
     for term, tf_value in tf.items():
         norm += tf_value ** 2
@@ -36,7 +50,14 @@ def normalize_tf(tf):
 
 
 def get_similarity(tf, folder_path):
-
+    '''
+    Compute the similarity between a document's TF and TF-IDF values of documents in a folder.
+    Args:
+        tf (dict): A dictionary of terms with their corresponding normalized TF values.
+        folder_path (str): The path to the folder containing TF-IDF files.
+    Returns:
+        tuple: The filename of the most similar document and the similarity score.
+    '''
     max_similarity = 0
     max_filename = ""
     for filename in os.listdir(folder_path):
@@ -56,13 +77,30 @@ def get_similarity(tf, folder_path):
             max_filename = filename
     return max_filename, max_similarity
 
+
 def duplicate_check(document, folder_path):
+    '''
+    Check for duplicate documents by comparing TF similarity.
+    Args:
+        document (str): The content of the document.
+        folder_path (str): The path to the folder containing TF-IDF files.
+    Returns:
+        tuple: The filename of the most similar document and the similarity score.
+    '''
     tf = get_tf(document)
     tf = normalize_tf(tf)
     return get_similarity(tf, folder_path)
 
 
 def preprocess_cn(document):
+    '''
+    Preprocess Chinese document by removing non-Chinese characters, simplifying characters, 
+    segmenting text, and removing stopwords.
+    Args:
+        document (str): The content of the document.
+    Returns:
+        str: The preprocessed document.
+    '''
     # read stopwords from file
     with open("../../PROJECT1/stopwords/cn.txt", 'r', encoding = "utf-8") as f:
         stopwords_list_cn = set(f.read().splitlines())
@@ -84,6 +122,13 @@ def preprocess_cn(document):
 
 
 def preprocess_en(document):
+    '''
+    Preprocess English document by removing non-English characters, converting to lowercase, removing stopwords, and stemming.
+    Args:
+        document (str): The content of the document.
+    Returns:
+        str: The preprocessed document.
+    '''
     with open("../../PROJECT1/stopwords/en.txt", 'r', encoding = "utf-8") as f:
         stopwords_list_en = set(f.read().splitlines())
 
@@ -103,11 +148,11 @@ def preprocess_en(document):
     return stemmed_text
 
 
-# 从文件中读取文档内容
+# read content from the sample.txt
 with open('sample.txt', 'r', encoding='utf-8') as file:
     document = file.read()
 
-    # 判断文档是中文还是英文
+    # check if the document is in Chinese or English
     if re.search(r'[\u4e00-\u9fa5]', document):
         document = preprocess_cn(document)
         max_filename, max_similarity = duplicate_check(document, "tfidfs_normalized/cn")
@@ -116,13 +161,3 @@ with open('sample.txt', 'r', encoding='utf-8') as file:
         document = preprocess_en(document)
         max_filename, max_similarity = duplicate_check(document, "tfidfs_normalized/en")
         print(f"Duplicate of document in English: {max_filename} with similarity {max_similarity}")
-
-# # 进行重复检查
-# max_filename1, max_similarity1 = duplicate_check(document, "tfidfs_normalized/cn")
-# max_filename2, max_similarity2 = duplicate_check(document, "tfidfs_normalized/en")
-
-# # 比较相似度并输出结果
-# if max_similarity1 > max_similarity2:
-#     print(f"Duplicate of document in Chinese: {max_filename1} with similarity {max_similarity1}")
-# else:
-#     print(f"Duplicate of document in English: {max_filename2} with similarity {max_similarity2}")

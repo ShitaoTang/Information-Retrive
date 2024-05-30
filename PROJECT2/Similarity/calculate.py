@@ -2,6 +2,13 @@ import os
 import math
 
 def get_tf(document):
+    '''
+    Compute term frequency (TF) for a document.
+    Args:
+        document (str): The content of the document.
+    Returns:
+        dict: A dictionary of terms with their corresponding TF values.
+    '''
     tfs = {}
     terms = document.split()
 
@@ -14,16 +21,24 @@ def get_tf(document):
 
 
 def get_df(folder_path):
+    '''
+    Compute document frequency (DF) for terms in a collection of documents.
+    Args:
+        folder_path (str): The path to the folder containing documents.
+    Returns:
+        tuple: A dictionary of terms with their corresponding DF values, and the total number of documents.
+    '''
     dfs = {}
     terms = set()
     num_docs = 0
     
-    # 先获取所有的词
+    # First, collect all unique terms
     for filename in os.listdir(folder_path):
         with open(f"{folder_path}/{filename}", 'r') as f:
             terms.update(f.read().split())
             num_docs += 1
 
+    # Compute DF for each term
     for filename in os.listdir(folder_path):
         with open(f"{folder_path}/{filename}", 'r') as f:
             content = set(f.read().split())
@@ -35,6 +50,14 @@ def get_df(folder_path):
 
 
 def get_idf(dfs, num_docs):
+    '''
+    Compute inverse document frequency (IDF) for terms.
+    Args:
+        dfs (dict): A dictionary of terms with their corresponding DF values.
+        num_docs (int): The total number of documents.
+    Returns:
+        dict: A dictionary of terms with their corresponding IDF values.
+    '''
     idfs = {}
 
     for term, df in dfs.items():
@@ -43,7 +66,15 @@ def get_idf(dfs, num_docs):
     return idfs
 
 
+
 def get_tfidfs(folder_path):
+    '''
+    Compute TF-IDF values for all documents in a folder.
+    Args:
+        folder_path (str): The path to the folder containing documents.
+    Returns:
+        dict: A dictionary with filenames as keys and TF-IDF dictionaries as values.
+    '''
     dfs, num_docs = get_df(folder_path)
     idfs = get_idf(dfs, num_docs)
     tfidfs = {}
@@ -59,25 +90,34 @@ def get_tfidfs(folder_path):
     return tfidfs
 
 
-# for filename, tfidf in get_tfidfs("../docs/cn").items():
-#     if not os.path.exists("tfidfs/cn"):
-#         os.makedirs("tfidfs/cn")
-#     with open(f"tfidfs/cn/{filename}", 'w') as f:
-#         for term, value in tfidf.items():
-#             f.write(f"{term} {value}\n")
+# Calculate and save TF-IDF values for Chinese documents
+for filename, tfidf in get_tfidfs("../docs/cn").items():
+    if not os.path.exists("tfidfs/cn"):
+        os.makedirs("tfidfs/cn")
+    with open(f"tfidfs/cn/{filename}", 'w') as f:
+        for term, value in tfidf.items():
+            f.write(f"{term} {value}\n")
 
-# for filename, tfidf in get_tfidfs("../docs/en").items():
-#     if not os.path.exists("tfidfs/en"):
-#         os.makedirs("tfidfs/en")
-#     with open(f"tfidfs/en/{filename}", 'w') as f:
-#         for term, value in tfidf.items():
-#             f.write(f"{term} {value}\n")
+# Calculate and save TF-IDF values for English documents
+for filename, tfidf in get_tfidfs("../docs/en").items():
+    if not os.path.exists("tfidfs/en"):
+        os.makedirs("tfidfs/en")
+    with open(f"tfidfs/en/{filename}", 'w') as f:
+        for term, value in tfidf.items():
+            f.write(f"{term} {value}\n")
 
-# 归一化
+
 def normalize(folder_path):
+    '''
+    Normalize TF-IDF values for all documents in a folder.
+    Args:
+        folder_path (str): The path to the folder containing documents.
+    Returns:
+        dict: A dictionary with filenames as keys and normalized TF-IDF dictionaries as values.
+    '''
     tf_idfs = get_tfidfs(folder_path)
     
-    # 对tf_idfs的每一项的tfidf的value进行归一化：value除以所有value的平方和的开方
+    # Normalize TF-IDF values
     for filename, tfidf in tf_idfs.items():
         sum_square = 0
         for value in tfidf.values():
@@ -86,7 +126,7 @@ def normalize(folder_path):
         for term in tfidf:
             tfidf[term] /= sum_square
 
-    # 保存归一化后的tf_idfs到文件tfidfs_normalized
+    # Save normalized TF-IDF values to file
     if not os.path.exists(f"tfidfs_normalized/{folder_path.split('/')[-1]}"):
         os.makedirs(f"tfidfs_normalized/{folder_path.split('/')[-1]}")
     for filename, tfidf in tf_idfs.items():
@@ -96,15 +136,20 @@ def normalize(folder_path):
 
     return tf_idfs
 
-# 对任意两个文件计算cosine distance，步骤：分别用两个dict存储两个文件的term和对应的tfidf，如果term相同则计算两个tfidf的乘积，最后求和，如果term不同则乘积为0
 
-# 对folder_path下的所有文件计算cosine distance，步骤：先获取所有文件的路径，然后两两计算cosine distance，类似冒泡排序的思路，计算所有文件的相似度，最后保存在一个文件里，文件格式为：文件1 文件2 相似度，每一个占一行
- 
 def cosine_distance(folder_path):
+    '''
+    Compute cosine distance between all pairs of documents in a folder.
+    Args:
+        folder_path (str): The path to the folder containing documents.
+    Returns:
+        dict: A dictionary with document pairs as keys and their cosine distance as values.
+    '''
     tf_idfs = normalize(folder_path)
     files = list(tf_idfs.keys())
     distances = {}
 
+    # Compute cosine distance for each pair of documents
     for i in range(len(files)):
         for j in range(i + 1, len(files)):
             file1 = files[i]
@@ -117,6 +162,7 @@ def cosine_distance(folder_path):
                     distance += tfidf1[term] * tfidf2[term]
             distances[(file1, file2)] = distance
 
+    # Save distances to file
     if not os.path.exists("distances"):
         os.makedirs("distances")
     with open(f"distances/{folder_path.split('/')[-1]}.txt", 'w') as f:
@@ -125,29 +171,36 @@ def cosine_distance(folder_path):
 
     return distances
 
-print("cn or en: ")
-type = input()
-print("filename1: ")
-filename1 = input()
-print("filename2: ")
-filename2 = input()
 
-with open(f"distances/{type}.txt", 'r') as f:
-    for line in f:
-        file1, file2, distance = line.split()
-        if (file1 == filename1 and file2 == filename2) or (file1 == filename2 and file2 == filename1):
-            print(f"cosine distance: {distance}")
-            # write these two files to a new file file1_file2.log
-            with open(f"{filename1}_{filename2}.log", 'w') as log:
-                log.write(f"cosine distance: {distance}\n")
-                with open(f"../docs/{type}/{filename1}", 'r') as f1:
-                    log.write(f"{filename1}:\n")
-                    log.write(f1.read())
-                with open(f"../docs/{type}/{filename2}", 'r') as f2:
-                    log.write(f"\n{filename2}:\n")
-                    log.write(f2.read())
-            break
+def main():
+    '''
+    Main function to compute and display cosine distances between documents.
+    '''
+    cosine_distance("../docs/cn")
+    cosine_distance("../docs/en")
 
-# if __name__ == "__main__":
-#     cosine_distance("../docs/cn")
-#     cosine_distance("../docs/en")
+    print("cn or en: ")
+    type = input()
+    print("filename1: ")
+    filename1 = input()
+    print("filename2: ")
+    filename2 = input()
+
+    with open(f"distances/{type}.txt", 'r') as f:
+        for line in f:
+            file1, file2, distance = line.split()
+            if (file1 == filename1 and file2 == filename2) or (file1 == filename2 and file2 == filename1):
+                print(f"cosine distance: {distance}")
+                # Write these two files to a new log file
+                with open(f"{filename1}_{filename2}.log", 'w') as log:
+                    log.write(f"cosine distance: {distance}\n")
+                    with open(f"../docs/{type}/{filename1}", 'r') as f1:
+                        log.write(f"{filename1}:\n")
+                        log.write(f1.read())
+                    with open(f"../docs/{type}/{filename2}", 'r') as f2:
+                        log.write(f"\n{filename2}:\n")
+                        log.write(f2.read())
+                break
+
+if __name__ == "__main__":
+    main()
