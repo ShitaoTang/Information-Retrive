@@ -3,7 +3,6 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import pairwise_distances
 import pandas as pd
 
-# Function to read the distance data from a file
 def read_distance_file(file_path):
     '''
     Reads a file containing pairwise document distances and returns a sorted list of documents
@@ -45,7 +44,6 @@ def read_distance_file(file_path):
 
     return documents, distance_matrix
 
-# Main function to execute the clustering process
 def main():
     '''
     Main function to read distance data, perform K-means clustering,
@@ -65,6 +63,7 @@ def main():
     # Fit the KMeans algorithm using the distance matrix
     kmeans.fit(distance_matrix)
     labels = kmeans.labels_
+    cluster_centers = kmeans.cluster_centers_
 
     # Organize documents into clusters based on their labels
     clusters = {}
@@ -74,9 +73,28 @@ def main():
             clusters[label] = []
         clusters[label].append(doc)
 
+    # Identify the largest three clusters
+    largest_clusters = sorted(clusters.items(), key=lambda x: len(x[1]), reverse=True)[:3]
+
     # Output the clustered documents
     for label, cluster_docs in clusters.items():
         print(f"\033[1;31m[Cluster {label}]\033[0m: {', '.join(cluster_docs)}")
+
+    # For the largest three clusters, find the five documents closest to the cluster center
+    for label, cluster_docs in largest_clusters:
+        print(f"\n\033[1;34mLargest Cluster {label} ({len(cluster_docs)} documents)\033[0m")
+        
+        # Get the indices of the documents in the cluster
+        cluster_indices = [documents.index(doc) for doc in cluster_docs]
+        
+        # Calculate the distances of each document to the cluster center
+        distances_to_center = pairwise_distances(distance_matrix[cluster_indices], cluster_centers[label].reshape(1, -1))
+        
+        # Find the five closest documents
+        closest_docs_indices = np.argsort(distances_to_center, axis=0)[:5].flatten()
+        closest_docs = [cluster_docs[i] for i in closest_docs_indices]
+        
+        print(f"5 Closest Documents to Cluster Center {label}: {', '.join(closest_docs)}")
 
 if __name__ == "__main__":
     main()
