@@ -96,12 +96,6 @@ make run
 ```
 This step should complete quickly, typically within 30 seconds, depending on your computer's performance. Once the process is finished, you will notice a new res folder `res/` in the current directory. This folder contains the processed document files.
 
-***
-
-## Contributing
-
-Contributions to this repository are welcome. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
-
 
 ---
 
@@ -157,3 +151,111 @@ Information Retrive
         ├── cn                 
         └── en 
 ```
+
+## Usage
+
+### 1. Clone the Repository and Rename
+
+If you have done this while setting up Project1, you can skip this step.
+
+### 2. Install Dependencies
+
+In addition to the dependencies mentioned [above](#3-install-dependencies), make sure you also install the following libraries by running:
+
+```bash
+pip install numpy sklearn flask elasticsearch
+```
+
+### 3. Deploy an Elasticsearch Docker Image
+
+```bash
+docker run -p 9200:9200 -d --name elasticsearch \
+   -e "discovery.type=single-node" \
+   -e "xpack.security.enabled=false" \
+   -e "xpack.security.http.ssl.enabled=false" \
+   -e "xpack.license.self_generated.type=trial" \
+   docker.elastic.co/elasticsearch/elasticsearch:8.13.0
+```
+
+Then, start the Elasticsearch service:
+
+```bash
+docker start elasticsearch
+```
+
+### 4. Search Functionality
+
+To run the search functionality, you can start the Flask application by running:
+
+```bash
+cd PROJECT2/Search
+
+# for bash shell
+source .venv/bin/activate
+
+# for fish shell
+source .venv/bin/activate.fish
+
+# create index
+flask reindex
+
+# run the Flask application
+flask run
+```
+
+Open your browser and navigate to [http://localhost:5050](http://localhost:5000) or [http://127.0.0.1:5050](http://127.0.0.1:5050) to access the search interface.
+
+#### 5. Similarity Comparison
+
+To calculate the similarity between documents, you can run the following script:
+
+```bash
+cd PROJECT2/Similarity
+
+python calculate.py
+```
+
+Then input the language (en or cn) and the document numbers you want to compare. Only documents in the same language can be compared. For example, to compare documents 1.txt and 17.txt in English, you would input:
+
+```bash
+# $ python calculate.py
+# cn or en:
+en
+# filename1:
+1.txt
+# filename2:
+17.txt
+# cosine distance: 0.022267778033195563
+```
+
+#### 6. Duplicate Detection
+
+To detect duplicate documents, you can run the following script:
+
+```bash
+cd PROJECT2/Similarity
+```
+
+You need to copy your documents into the `sample.txt` file. Then run the following command:
+
+```bash
+python duplicate_check.py
+```
+
+#### 7. Clustering
+
+To cluster the documents using the K-Means algorithm, you can run the following script:
+
+```bash
+cd PROJECT2/Cluster
+
+python kmeans.py
+```
+
+When it appears "Please enter the number of clusters k: ", you can input the number of clusters you want to generate. Then it will output the largest three clusters and the five most representative documents in each cluster.
+
+***
+
+## Contributing
+
+Contributions to this repository are welcome. If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
